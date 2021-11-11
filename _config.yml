@@ -1,1 +1,10 @@
-title: "Jekyll Actions Demo"
+title: "L'Atelier des Médias"
+description: "Le 1er espace de coworking Lyonnais associatif"
+base_url: "adm"
+
+exclude:
+  - Makefile
+
+collections:
+  coworkers:
+    output: true
