@@ -5,11 +5,15 @@ meta_robots: noindex
 lang: fr
 locale: fr_FR
 
+show_social_icons: true
 twitter:
   username: coworkinglyon
 
 facebook:
   page: Coworkinglyon
+
+instagram:
+  username: "atelierdesmedias_lyon"
 
 exclude:
   - Makefile

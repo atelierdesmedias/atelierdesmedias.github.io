@@ -1,7 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: 'en' }}">
   {% include head.html %}
-  <body>
-    {{ content }}
+  <body class="site">
+    <div class="site-wrap">
+      {% include header.html %}
+
+      <div class="post p2 p-responsive wrap" role="main">
+        <div class="measure">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
   </body>
 </html>
