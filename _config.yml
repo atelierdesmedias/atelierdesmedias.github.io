@@ -13,6 +13,7 @@ facebook:
 
 exclude:
   - Makefile
+  - sync.rb
 
 plugins:
   - jekyll-seo-tag
