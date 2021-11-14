@@ -5,6 +5,9 @@ base_url: "adm"
 exclude:
   - Makefile
 
+plugins:
+  - jekyll-seo-tag
+
 collections:
   coworkers:
     output: true
