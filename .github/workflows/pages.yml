@@ -17,8 +17,6 @@ jobs:
         with:
           ruby-version: '2.7'
           bundler-cache: true
-      - name: Install gems
-        run: bundle install
       - name: Generate the coworkers pages
         env:
           COWORKERS_URL: "https://intra.atelier-medias.org/xwiki/bin/get/XWiki/CoworkersService"
