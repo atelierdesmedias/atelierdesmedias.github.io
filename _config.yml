@@ -5,7 +5,12 @@ meta_robots: noindex
 lang: fr
 locale: fr_FR
 
+liquid:
+  error_mode: strict
+  strict_filters: true
+
 show_social_icons: true
+
 twitter:
   username: coworkinglyon
 
