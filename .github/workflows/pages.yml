@@ -23,6 +23,8 @@ jobs:
           COWORKERS_CODE: ${{ secrets.COWORKERS_CODE }}
         run: bundle exec ruby sync.rb
       - run: bundle exec rake test
-      - uses: helaili/jekyll-action@v2
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
