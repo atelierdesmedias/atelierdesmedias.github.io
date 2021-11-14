@@ -1,5 +1,6 @@
 ---
 title: Les coworkers
+layout: default
 permalink: coworkers
 ---
 

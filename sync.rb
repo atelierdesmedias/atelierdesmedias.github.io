@@ -37,6 +37,7 @@ if res.is_a?(Net::HTTPSuccess)
         f.write("---\n")
         f.write("name: #{name}\n")
         f.write("slug: #{slug}\n")
+        f.write("layout: default\n")
         f.write("---\n\n")
         f.write("# #{name}\n")
         quiesttu = coworker['public_quiesttu']
