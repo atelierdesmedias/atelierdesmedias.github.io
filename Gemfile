@@ -5,4 +5,5 @@ gem 'stringex', '~> 2.8.5'
 
 group :jekyll_plugins do
   gem 'jekyll-seo-tag', '~> 2.7.1'
+  gem 'jekyll-sitemap', '~> 1.4.0'
 end
