@@ -1,4 +1,7 @@
 @media screen and (min-width: $viewport-small) {
+  div.social-icons {
+    display: inline;
+  }
   html {
     font-size: 16px;
   }
