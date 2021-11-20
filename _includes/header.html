@@ -1,16 +1,11 @@
-<header class="site-header">
-  <div class="wrap">
-    <div class="measure">
-      <a href="{{ "/" | relative_url }}" class="site-title">
-        <img src="{{ "/assets/logo.svg" | relative_url }}" alt="{{ site.title }}"/>
-      </a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-        {% if site.show_social_icons %}
-          {% include social_links.html %}
-        {% endif %}
-      </nav>
-      <div class="clearfix"></div>
-    </div>
-  </div>
+<header>
+  <a href="{{ " /" | relative_url }}">
+    <img src="{{ "/assets/logo.svg" | relative_url }}" alt="{{ site.title }}" />
+  </a>
+  <nav>
+    {% include navigation.html %}
+    {% if site.show_social_icons %}
+      {% include social_links.html %}
+    {% endif %}
+  </nav>
 </header>

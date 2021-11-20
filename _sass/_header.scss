@@ -1,6 +1,9 @@
-.site-header {
-  padding-top: $space-1;
-  padding-bottom: $space-2;
+header {
+  margin: 0 auto;
+  max-width: 42rem;
+  padding-top: .5rem;
+  padding-bottom: 1rem;
+  text-align: center;
 
   img {
     width: 82px;
@@ -8,49 +11,24 @@
   }
 
   a {
-    color: $header-color;
-    font-size: $h3;
-    font-weight: $header-font-weight;
-    background-image: none;
+    color: #84CBD5;
+    font-weight: 300;
+  }
+
+  nav {
+    text-transform: uppercase;
+    ul {
+      margin: 0;
+      padding: 0;
+      list-style-type: none;
+    }
+
+    a:hover,
+    a:focus,
+    a:active {
+      color: #444;
+      border-bottom: 2px solid #444;
+    }
   }
 }
 
-.site-header .site-title {
-  font-size: $h2;
-}
-
-.site-nav {
-  padding-top: $nav-padding;
-  text-transform: uppercase;
-}
-
-.site-header nav a {
-  color: $nav-color;
-}
-
-.site-header nav a:hover,
-.site-header nav a:focus,
-.site-header nav a:active,
-.site-header nav a.nav-active:hover,
-.site-header nav a.nav-active:focus,
-.site-header nav a.nav-active:active {
-  color: $nav-link-color;
-  opacity: 1;
-  border-bottom: $nav-link-border-bottom;
-}
-
-.site-header nav a.nav-active {
-  border-bottom: $nav-active-border-bottom;
-}
-
-.site-nav a + a {
-  margin-left: $nav-link-padding-x;
-}
-
-.site-header {
-  text-align: center;
-}
-
-.site-header .site-nav {
-  text-align: center;
-}
