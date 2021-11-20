@@ -1,26 +1,41 @@
 header {
-  margin: 0 auto;
-  max-width: 42rem;
-  padding-top: .5rem;
-  padding-bottom: 1rem;
+  background-color: white;
   text-align: center;
+  position: fixed;
+  top:0;
+  width: 100%;
+  z-index: 99;
 
-  img {
+  .logo img {
     width: 82px;
     height: 80px;
   }
 
   a {
-    color: #84CBD5;
+    color: #84cbd5;
+    font-size: 1.3rem;
     font-weight: 300;
   }
 
   nav {
+    display: none;
+    background-color: white;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 50% 0;
+
     text-transform: uppercase;
     ul {
-      margin: 0;
-      padding: 0;
       list-style-type: none;
+      li {
+        margin-bottom: 1em;
+        margin-left: 1em;
+      }
     }
 
     a:hover,
@@ -30,5 +45,100 @@ header {
       border-bottom: 2px solid #444;
     }
   }
-}
 
+  .nav-toggle {
+    display: none;
+  }
+
+  .nav-toggle:checked ~ nav {
+    display: block;
+  }
+
+  .nav-toggle:checked ~ .nav-toggle-label span {
+    background-color: transparent;
+  }
+
+  .nav-toggle:checked ~ .nav-toggle-label span::before {
+    bottom: 0px;
+    transform: rotate(43deg);
+  }
+
+  .nav-toggle:checked ~ .nav-toggle-label span::after {
+    top: 0px;
+    transform: rotate(-43deg);
+  }
+
+  .nav-toggle-label {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 1em;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+
+    span,
+    span::before,
+    span::after {
+      display: block;
+      background-color: blue;
+      height: 2px;
+      width: 2em;
+      border-radius: 2px;
+      position: relative;
+      transition: all ease-in-out 500ms;
+    }
+    span::before,
+    span::after {
+      content: "";
+      position: absolute;
+    }
+    span::before {
+      bottom: 7px;
+    }
+    span::after {
+      top: 7px;
+    }
+  }
+
+  .social-icons {
+    font-size: 1.25rem;
+
+    a {
+      cursor: pointer;
+      padding: 0.4em;
+    }
+  }
+
+  @media screen and (min-width: 800px) {
+    display: grid;
+    grid-template-columns: 1fr auto minmax(600px, 1fr) 1fr;
+
+    .logo {
+      grid-column: 2 / 3;
+    }
+
+    nav {
+      all: unset;
+      grid-column: 3/4;
+      display: flex;
+      justify-content: flex-end;
+      align-items: center;
+
+      ul {
+        display: flex;
+        justify-content: flex-end;
+
+        li {
+          margin-right: 1em;
+          margin-bottom: 0;
+        }
+      }
+    }
+
+    .nav-toggle-label {
+      display: none;
+    }
+  }
+}

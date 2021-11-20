@@ -1,11 +1,17 @@
 <header>
-  <a href="{{ " /" | relative_url }}">
-    <img src="{{ "/assets/logo.svg" | relative_url }}" alt="{{ site.title }}" />
-  </a>
+  <div class="logo">
+    <a href="{{ "/" | relative_url }}">
+      <img src="{{ "/assets/logo.svg" | relative_url }}" alt="{{ site.title }}" />
+    </a>
+  </div>
+  <input type="checkbox" id="nav-toggle" class="nav-toggle"/>
   <nav>
     {% include navigation.html %}
     {% if site.show_social_icons %}
       {% include social_links.html %}
     {% endif %}
   </nav>
+  <label for="nav-toggle" class="nav-toggle-label">
+    <span></span>
+  </label>
 </header>
