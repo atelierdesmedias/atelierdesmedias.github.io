@@ -1,21 +1,16 @@
 @charset "UTF-8";
 
-html, body {
-  height: auto;
-  min-height: 100%;
+* {
+  margin: 0;
+  padding: 0;
 }
 
-img {
-  max-width: 100%;
-}
-
-em img {
-  max-width: 100%;
-  margin-left: 0;
-}
-
-body {
+*, *::before, *::after {
           box-sizing: border-box;
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
+}
+
+.main {
+  margin-top: 100px;
 }

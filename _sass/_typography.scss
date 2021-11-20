@@ -1,21 +1,13 @@
 html {
-  font-family: $font-family;
-  font-size: $base-font-size;
-}
-
-abbr {
-  border-bottom: $abbr-border-bottom;
-  cursor: help;
+  font-family: lato-bold, sans-serif;
+  font-size: 14px;
+  font-weight: 400;
 }
 
 p {
   color: #333;
   line-height: 1.5;
-}
-
-small,
-.small {
-  font-size: 0.707rem;
+  padding-top: 1em;
 }
 
 sup {

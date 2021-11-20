@@ -1,16 +1,17 @@
-<header class="site-header px2 px-responsive">
-  <div class="mt2 wrap">
-    <div class="measure">
-      <a href="{{ "/" | relative_url }}" class="site-title">
-        <img src="{{ "/images/logo.svg" | relative_url }}" alt="{{ site.title }}"/>
-      </a>
-      <nav class="site-nav">
-        {% include navigation.html %}
-        {% if site.show_social_icons %}
-          {% include social_links.html %}
-        {% endif %}
-      </nav>
-      <div class="clearfix"></div>
-    </div>
+<header>
+  <div class="logo">
+    <a href="{{ "/" | relative_url }}">
+      <img src="{{ "/assets/logo.svg" | relative_url }}" alt="{{ site.title }}" />
+    </a>
   </div>
+  <input type="checkbox" id="nav-toggle" class="nav-toggle"/>
+  <nav>
+    {% include navigation.html %}
+    {% if site.show_social_icons %}
+      {% include social_links.html %}
+    {% endif %}
+  </nav>
+  <label for="nav-toggle" class="nav-toggle-label">
+    <span></span>
+  </label>
 </header>
