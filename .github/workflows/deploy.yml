@@ -1,11 +1,14 @@
 name: Build and deploy Jekyll site to GitHub Pages
 
-on: push
-#  schedule:
-#    - cron: "0 0 * * *"
+on:
+  push:
+    branch:
+      - main
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
-  pages:
+  deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -18,10 +21,9 @@ jobs:
           COWORKERS_URL: "https://intra.atelier-medias.org/xwiki/bin/get/XWiki/CoworkersService"
           COWORKERS_CODE: ${{ secrets.COWORKERS_CODE }}
         run: bundle exec ruby sync.rb
-      - run: bundle exec rake test
+      - run: bundle exec jekyll build --baseurl "/adm"
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site
