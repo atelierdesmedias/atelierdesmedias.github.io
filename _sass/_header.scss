@@ -7,10 +7,11 @@ header {
   width: 4em;
   height: 4em;
   z-index: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 
   .logo {
-    display: none;
-
     img {
       width: 82px;
       height: 80px;
@@ -25,6 +26,9 @@ header {
 
   nav {
     display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
     z-index: 2;
     background-color: white;
     position: fixed;
@@ -57,9 +61,6 @@ header {
 
   .nav-toggle:checked ~ nav {
     display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
   }
 
   .nav-toggle:checked ~ .nav-toggle-label span {
@@ -79,9 +80,6 @@ header {
   .nav-toggle-label {
     position: absolute;
     z-index: 3;
-    transform: translate(-50%, -50%);
-    top: 50%;
-    left: 50%;
     display: flex;
     align-items: center;
     cursor: pointer;
@@ -122,29 +120,15 @@ header {
   @media screen and (min-width: 800px) {
     width: 100%;
     height: auto;
-    display: grid;
-    grid-template-columns: 1fr auto minmax(600px, 1fr) 1fr;
-
-    .logo {
-      display: block;
-      grid-column: 2 / 3;
-    }
+    flex-direction: row;
 
     nav {
-      all: unset;
-      grid-column: 3/4;
+      max-width: 800px;
       display: flex;
-      justify-content: flex-end;
-      align-items: center;
-
-      ul {
-        display: flex;
-        justify-content: flex-end;
-
-        li {
-          margin-right: 1em;
-          margin-bottom: 0;
-        }
+      flex-direction: row;
+      position: static;
+      a {
+        margin: 1em;
       }
     }
 
