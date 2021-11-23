@@ -2,6 +2,8 @@
 layout: default
 ---
 
+{% include video.html %}
+
 # Travailler à l'Atelier des Médias
 
 
