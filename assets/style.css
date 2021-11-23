@@ -2,7 +2,7 @@
 *, *::before, *::after { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
 html, body { height: 100%; }
 body { display: flex; flex-direction: column; }
-.content { margin-top: 100px; flex: 1 0 auto; }
+.content { flex: 1 0 auto; }
 footer { flex-shrink: 0; }
 a { text-decoration: none; }
 a:hover, a:focus, a:active { border: 0; text-decoration: none; }
@@ -11,8 +11,7 @@ button, .button { text-shadow: none; background-image: none; }
 html { font-family: lato-bold, sans-serif; font-size: 14px; font-weight: 400; }
 p { color: #333; line-height: 1.5; padding-top: 1em; }
 sup { position: relative; vertical-align: middle; top: -0.9ex; }
-header { background-color: white; text-align: center; position: fixed; top: 0; right: 0; width: 4em; height: 4em; z-index: 1; display: flex; align-items: center; justify-content: center; }
-header .logo img { width: 82px; height: 80px; }
+header .logo img { width: 62px; height: 60px; }
 header a { color: #84cbd5; font-size: 1.3rem; font-weight: 300; }
 header nav { display: none; align-items: center; justify-content: center; flex-direction: column; z-index: 2; background-color: white; position: fixed; text-align: center; top: 0; bottom: 0; left: 0; right: 0; }
 header nav ul { list-style-type: none; }
@@ -23,18 +22,17 @@ header .nav-toggle:checked ~ nav { display: flex; }
 header .nav-toggle:checked ~ .nav-toggle-label span { background-color: transparent; }
 header .nav-toggle:checked ~ .nav-toggle-label span::before { bottom: 0px; transform: rotate(43deg); }
 header .nav-toggle:checked ~ .nav-toggle-label span::after { top: 0px; transform: rotate(-43deg); }
-header .nav-toggle-label { position: absolute; z-index: 3; display: flex; align-items: center; cursor: pointer; }
+header .nav-toggle-label { background-color: white; width: 4em; height: 4em; position: fixed; right: 0; top: 0; z-index: 3; display: flex; align-items: center; justify-content: center; cursor: pointer; }
 header .nav-toggle-label span, header .nav-toggle-label span::before, header .nav-toggle-label span::after { display: block; background-color: black; height: 2px; width: 2em; border-radius: 2px; position: relative; transition: all ease-in-out 100ms; }
 header .nav-toggle-label span::before, header .nav-toggle-label span::after { content: ""; position: absolute; }
 header .nav-toggle-label span::before { bottom: 7px; }
 header .nav-toggle-label span::after { top: 7px; }
 header .social-icons { font-size: 1.25rem; }
 header .social-icons a { cursor: pointer; padding: 0.4em; }
-@media screen and (min-width: 800px) { header { width: 100%; height: auto; flex-direction: row; } header nav { max-width: 800px; display: flex; flex-direction: row; position: static; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
-.container { width: 100%; height: 100vh; }
-.container .big-video { position: absolute; top: 0; bottom: 0; left: 0; right: 0; overflow: hidden; }
-.container .big-video video { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; }
-.container .big-video img { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; }
-@media screen and (min-width: 800px) { .container .big-video { top: 80px; } }
+@media screen and (min-width: 800px) { header { height: 80px; } header nav { background-color: white; position: fixed; height: 80px; width: 100%; top: 0; z-index: 1; display: flex; align-items: center; justify-content: center; display: flex; flex-direction: row; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
+.big-video { height: 100vh; width: 100%; overflow: hidden; position: relative; }
+.big-video video { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; min-width: 100%; min-height: 100vh; }
+.big-video img { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; }
+@media screen and (min-width: 800px) { .big-video { top: 80px; height: calc(100vh - 80px); margin-bottom: 80px; } }
 footer { position: relative; bottom: 0; left: 0; right: 0; display: flex; align-items: center; justify-content: center; gap: 9px; background-color: #fafafa; border-top: thin solid #f3f3f3; color: #7a7a7a; font-size: .75rem; font-weight: 300; padding: 2rem; }
 /*# sourceMappingURL=style.css.map */
