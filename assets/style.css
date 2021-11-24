@@ -8,15 +8,15 @@ a { text-decoration: none; }
 a:hover, a:focus, a:active { border: 0; text-decoration: none; }
 button, .button { text-shadow: none; background-image: none; }
 .button:hover, .button:focus, .button:active { color: white; text-shadow: none; background-image: none; }
-html { font-family: Lato, sans-serif; font-size: 14px; font-weight: 400; }
-h2 { font-family: Sofia,sans-serif; font-size: 2.5em; font-weight: 400; }
+html { font-family: lato-bold, sans-serif; font-size: 14px; font-weight: 400; }
 p { color: #333; line-height: 1.5; padding-top: 1em; }
 sup { position: relative; vertical-align: middle; top: -0.9ex; }
 header .logo img { width: 62px; height: 60px; }
 header a { color: #84cbd5; font-size: 1.3rem; font-weight: 300; }
 header nav { display: none; align-items: center; justify-content: center; flex-direction: column; z-index: 2; background-color: white; position: fixed; text-align: center; top: 0; bottom: 0; left: 0; right: 0; }
-header nav a { text-transform: uppercase; margin: 0.5em; }
-header nav a:hover, header nav a:focus, header nav a:active { color: #444; }
+header nav ul { list-style-type: none; }
+header nav ul li { text-transform: uppercase; margin-bottom: 1em; margin-left: 1em; }
+header nav a:hover, header nav a:focus, header nav a:active { color: #444; border-bottom: 2px solid #444; }
 header .nav-toggle { display: none; }
 header .nav-toggle:checked ~ nav { display: flex; }
 header .nav-toggle:checked ~ .nav-toggle-label span { background-color: transparent; }
@@ -28,7 +28,7 @@ header .nav-toggle-label span::before, header .nav-toggle-label span::after { co
 header .nav-toggle-label span::before { bottom: 7px; }
 header .nav-toggle-label span::after { top: 7px; }
 header .social-icons { font-size: 1.25rem; }
-header .social-icons a { cursor: pointer; }
+header .social-icons a { cursor: pointer; padding: 0.4em; }
 @media screen and (min-width: 800px) { header { height: 80px; } header nav { background-color: white; position: fixed; height: 80px; width: 100%; top: 0; z-index: 1; display: flex; align-items: center; justify-content: center; display: flex; flex-direction: row; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
 .big-video { height: 100vh; width: 100%; overflow: hidden; position: relative; }
 .big-video video { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; min-width: 100%; min-height: 100vh; }
