@@ -17,11 +17,9 @@
   <link rel="stylesheet" href="{{ "/assets/style.css" | relative_url }}?{{ site.time | date: "%Y%m%d%H%M" }}" type="text/css">
 
   <!-- Fonts -->
-  {% if site.extended_fonts %}
-    <link href='//fonts.googleapis.com/css?family=Lato:900,300&amp;subset=latin-ext,latin' rel='stylesheet' type='text/css'>
-  {% else %}
-    <link href='//fonts.googleapis.com/css?family=Lato:900,300' rel='stylesheet' type='text/css'>
-  {% endif %}
+  <link rel="preconnect" href="//fonts.googleapis.com">
+  <link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
+  <link href="//fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Sofia&display=swap" rel="stylesheet">
 
   {% if site.show_social_icons or site.show_sharing_icons %}
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">

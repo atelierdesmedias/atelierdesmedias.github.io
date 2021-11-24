@@ -4,8 +4,9 @@ layout: default
 
 {% include video.html %}
 
-# Travailler à l'Atelier des Médias
+## Travailler à l'atelier
 
+Créé en 2008, l’Atelier des Médias est le 1er espace de coworking lyonnais. C’est une association qui regroupe des professionnels des médias (journalisme, web, graphisme, traduction, vidéo/photo, etc.), un vivier de compétences qui collabore et invente de nouveaux modes de travail dans ce lieu de 212 m2 en centre ville.
 
 Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d'attente. L'avantage de le mettre en latin est que l'opérateur sait au premier coup d'oeil que la page contenant ces lignes n'est pas valide, et surtout l'attention du client n'est pas dérangée par le contenu, il demeure concentré seulement sur l'aspect graphique.
 
