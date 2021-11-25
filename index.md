@@ -6,11 +6,14 @@ layout: default
 
 ## Travailler à l'atelier
 
-Créé en 2008, l’Atelier des Médias est le 1er espace de coworking lyonnais. C’est une association qui regroupe des professionnels des médias (journalisme, web, graphisme, traduction, vidéo/photo, etc.), un vivier de compétences qui collabore et invente de nouveaux modes de travail dans ce lieu de 212 m2 en centre ville.
+Créé en 2008, l’Atelier des Médias est le 1er espace de coworking lyonnais.
 
-Généralement, on utilise un texte en faux latin (le texte ne veut rien dire, il a été modifié), le Lorem ipsum ou Lipsum, qui permet donc de faire office de texte d'attente. L'avantage de le mettre en latin est que l'opérateur sait au premier coup d'oeil que la page contenant ces lignes n'est pas valide, et surtout l'attention du client n'est pas dérangée par le contenu, il demeure concentré seulement sur l'aspect graphique.
+C’est une association qui regroupe des professionnels des médias (journalisme, web, graphisme, traduction, vidéo/photo, etc.), un vivier de compétences qui collabore et invente de nouveaux modes de travail dans ce lieu de 212m² en centre ville.
 
+Échanges, esprit d'ouverture et d'innovation, évènements, ambitions partagées, mise en commun d'outils et de compétences, nouvelles solidarités professionnelles se développent à l'Atelier des Médias.
 
-Ce texte a pour autre avantage d'utiliser des mots de longueur variable, essayant de simuler une occupation normale. La méthode simpliste consistant à copier-coller un court texte plusieurs fois (« ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ceci est un faux-texte ») a l'inconvénient de ne pas permettre une juste appréciation typographique du résultat final.
+Plus de 30 postes de travail sont disponibles dans cet espace partagé.
 
-Il circule des centaines de versions différentes du Lorem ipsum, mais ce texte aurait originellement été tiré de l'ouvrage de Cicéron, De Finibus Bonorum et Malorum (Liber Primus, 32), texte populaire à cette époque, dont l'une des premières phrases est : « Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit... » (« Il n'existe personne qui aime la souffrance pour elle-même, ni qui la recherche ni qui la veuille pour ce qu'elle est... »).
+Assidus ou volages, les coworkeurs fréquentent les lieux en toute libertés et dans le respect des autres.
+
+Chacun donne un peu de son temps pour la gestion du lieu et s'investit dans un groupe (trésorerie, communication, évènements, informatique, recrutement, coopération, vie associative, vie quotidienne). Et ça fonctionne très bien !
