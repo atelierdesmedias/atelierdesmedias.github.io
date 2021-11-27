@@ -1,8 +1,8 @@
 * { margin: 0; padding: 0; }
 *, *::before, *::after { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
 html, body { height: 100%; }
-body { display: flex; flex-direction: column; align-items: center; }
-.content { flex: 1 0 auto; max-width: 960px; }
+body { display: flex; flex-direction: column; }
+.content { width: 100%; flex: 1 0 auto; display: flex; flex-direction: column; align-items: center; }
 footer { width: 100%; flex-shrink: 0; }
 a { text-decoration: none; }
 a:hover, a:focus, a:active { border: 0; text-decoration: none; }
@@ -30,13 +30,13 @@ header .nav-toggle-label span::before { bottom: 7px; }
 header .nav-toggle-label span::after { top: 7px; }
 header .social-icons { font-size: 1.25rem; }
 header .social-icons a { cursor: pointer; }
-@media screen and (min-width: 800px) { header { height: 80px; } header nav { background-color: white; position: fixed; height: 80px; width: 100%; top: 0; z-index: 1; display: flex; align-items: center; justify-content: center; display: flex; flex-direction: row; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
-.big-video { height: 100vh; width: 100%; overflow: hidden; position: relative; }
-.big-video video { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; min-width: 100%; min-height: 100vh; }
-.big-video img { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; }
-@media screen and (min-width: 800px) { .big-video { top: 80px; height: calc(100vh - 80px); margin-bottom: 80px; } }
-section { margin: 2em 0; }
-section.normal { padding: 2em; }
+@media screen and (min-width: 800px) { header { flex: 0 0 80px; } header nav { position: fixed; height: 80px; width: 100%; top: 0; z-index: 1; display: flex; align-items: center; justify-content: center; display: flex; flex-direction: row; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
+section { margin: 2em 0; width: 100%; }
+section.big-video { height: 100vh; margin: 0; overflow: hidden; position: relative; }
+section.big-video video { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; min-width: 100%; min-height: 100vh; }
+section.big-video img { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; }
+@media screen and (min-width: 800px) { section.big-video { height: calc(100vh - 80px); } }
+section.normal { padding: 2em; max-width: 960px; }
 @media screen and (min-width: 800px) { section.normal { display: flex; } section.normal h2 { padding: 1em; padding-top: 2em; } }
 section.formules { width: 100%; }
 section.formules .formule { padding: 2em 2em; width: 100%; }
