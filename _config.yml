@@ -32,5 +32,7 @@ plugins:
   - jekyll-tidy
 
 collections:
+  formulas:
+    output: true
   coworkers:
     output: true
