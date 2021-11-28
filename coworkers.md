@@ -5,5 +5,5 @@ permalink: coworkers
 ---
 
 {% for coworker in site.coworkers %}
-  - [{{ coworker.name }}]({% link _coworkers/{{ coworker.slug }}.md %})
+  - [{{ coworker.name }}]({% link {{ coworker.path }} %})
 {% endfor %}
