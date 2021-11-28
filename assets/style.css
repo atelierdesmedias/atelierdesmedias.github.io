@@ -4,7 +4,7 @@ html, body { height: 100%; }
 body { display: flex; flex-direction: column; }
 .content { width: 100%; flex: 1 0 auto; display: flex; flex-direction: column; align-items: center; }
 footer { width: 100%; flex-shrink: 0; }
-a { text-decoration: none; }
+a { color: #84cbd5; font-weight: 300; text-decoration: none; }
 a:hover, a:focus, a:active { border: 0; text-decoration: none; }
 button, .button { text-shadow: none; background-image: none; }
 .button:hover, .button:focus, .button:active { color: white; text-shadow: none; background-image: none; }
@@ -14,7 +14,7 @@ h3 { line-height: 2rem; }
 p { color: #333; padding-top: 1em; }
 sup { position: relative; vertical-align: middle; top: -0.9ex; }
 header .logo img { width: 62px; height: 60px; }
-header a { color: #84cbd5; font-size: 1.3rem; font-weight: 300; }
+header a { font-size: 1.3rem; }
 header nav { display: none; align-items: center; justify-content: center; flex-direction: column; z-index: 2; background-color: white; position: fixed; text-align: center; top: 0; bottom: 0; left: 0; right: 0; }
 header nav a { text-transform: uppercase; margin: 0.5em; }
 header nav a:hover, header nav a:focus, header nav a:active { color: #444; }
@@ -38,6 +38,9 @@ section.big-video img { position: absolute; transform: translate(-50%, -50%); to
 @media screen and (min-width: 800px) { section.big-video { height: calc(100vh - 80px); } }
 section.normal { padding: 2em; max-width: 960px; }
 @media screen and (min-width: 800px) { section.normal { display: flex; } section.normal h2 { padding: 1em; padding-top: 2em; } }
+section.interest { display: flex; flex-direction: column; align-items: center; }
+section.interest p { text-align: center; max-width: 70ch; }
+section.interest a { font-size: 1.7rem; border: solid 1px #84cbd5; padding: 2rem; margin: 2rem; }
 section.formulas { width: 100%; }
 section.formulas .formula { padding: 2em 2em; width: 100%; }
 section.formulas .formula h3, section.formulas .formula p, section.formulas .formula .tarif, section.formulas .formula small { color: white; }
