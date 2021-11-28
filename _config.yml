@@ -23,6 +23,7 @@ exclude:
   - Makefile
   - Rakefile
   - sync.rb
+  - events.rb
   - .github
 
 plugins:
@@ -35,4 +36,6 @@ collections:
   formulas:
     output: true
   coworkers:
+    output: true
+  events:
     output: true

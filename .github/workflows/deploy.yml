@@ -21,6 +21,12 @@ jobs:
           COWORKERS_URL: "https://intra.atelier-medias.org/xwiki/bin/get/XWiki/CoworkersService"
           COWORKERS_CODE: ${{ secrets.COWORKERS_CODE }}
         run: bundle exec ruby sync.rb
+      - name: Generate the coworkers pages
+        env:
+          FACEBOOK_GRAPH_URL: "https://graph.facebook.com/"
+          FACEBOOK_PAGE_ID: "106737945179435"
+          FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
+        run: bundle exec ruby events.rb
       - run: bundle exec jekyll build --baseurl "/adm"
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
