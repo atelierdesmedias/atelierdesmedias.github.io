@@ -7,9 +7,7 @@ header {
   }
 
   a {
-    color: #84cbd5;
     font-size: 1.3rem;
-    font-weight: 300;
   }
 
   nav {
@@ -107,10 +105,8 @@ header {
   }
 
   @media screen and (min-width: 800px) {
-    height: 80px;
-
+    flex: 0 0 80px;
     nav {
-      background-color: white;
       position: fixed;
       height: 80px;
       width: 100%;

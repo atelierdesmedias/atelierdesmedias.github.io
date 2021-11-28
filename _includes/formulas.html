@@ -1,0 +1,13 @@
+<section class="formulas">
+  {% for formula in site.formulas %}
+    <div class="formula {{ formula.slug }}">
+      <h3>{{ formula.verb }} <div>{{ formula.name }}</div>
+      </h3>
+      {{ formula.content }}
+      <div class="tarif"><span>{{ formula.price }} €</span>TTC/{{ formula.period }}</div>
+      {% if formula.slug != "adherent" %}
+        <small>Sous condition de s'être acquitté de l'adhésion annuelle de 15 €</small>
+      {% endif %}
+    </div>
+  {% endfor %}
+</section>

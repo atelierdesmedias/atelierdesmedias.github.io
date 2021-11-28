@@ -32,10 +32,10 @@ if res.is_a?(Net::HTTPSuccess)
   coworkers.each do |coworker|
     name = "#{coworker['first_name']} #{coworker['last_name']}"
     slug = name.to_url
-    formule = coworker['formule']
-    next unless coworker['public_enable'] && %w[nomade fixe].include?(formule)
+    formula = coworker['formule']
+    next unless coworker['public_enable'] && %w[nomade fixe].include?(formula)
 
-    puts name, slug, formule
+    puts name, slug, formula
     File.open("_coworkers/#{slug}.md", 'w') do |f|
       f.write("---\n")
       f.write("name: #{name}\n")
