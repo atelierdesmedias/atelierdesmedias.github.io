@@ -55,8 +55,8 @@ section.formulas .adherent { background-color: #4d4d4d; }
 section.formulas .adherent li { color: white; }
 section.formulas .fixe { background-color: #cbd301; }
 section.formulas .nomade { background-color: #84cbd5; }
-@media screen and (min-width: 400px) { section.formulas { display: grid; justify-items: center; gap: 0.5rem; } section.formulas .formula { width: 400px; } section.formulas .formula h3 div { display: inline; } }
-@media screen and (min-width: 400px) and (min-width: 800px) { section.formulas { background: url("/adm/assets/background.jpg") repeat no-repeat center; } section.formulas .adherent { grid-column: span 2; } section.formulas .fixe { justify-self: flex-end; } section.formulas .nomade { justify-self: flex-start; } }
+@media screen and (min-width: 400px) { section.formulas { display: grid; justify-items: center; gap: 0.5rem; } section.formulas .formula { width: 400px; } }
+@media screen and (min-width: 400px) and (min-width: 800px) { section.formulas .adherent { grid-column: span 2; } section.formulas .fixe { justify-self: flex-end; } section.formulas .nomade { justify-self: flex-start; } }
 section.icons { display: grid; justify-items: center; gap: 2em; }
 section.icons figure { display: flex; flex-direction: column; align-items: center; gap: 1em; }
 section.icons figure img { width: 75px; height: 50px; }
