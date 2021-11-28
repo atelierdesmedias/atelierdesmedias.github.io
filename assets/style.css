@@ -67,6 +67,8 @@ section.icons figure figcaption span { display: block; font-weight: 400; }
 footer { font-size: 0.75rem; }
 footer div { width: 100%; padding: 2rem; }
 footer .contact { background-color: #84cbd5; color: white; text-align: center; }
+footer .contact ul { list-style: none; }
 footer .contact a { color: white; font-weight: 400; }
-footer .collectif { display: flex; align-items: center; justify-content: center; gap: 9px; }
+footer .collectif { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 9px; }
+@media screen and (min-width: 600px) { footer .contact ul li { display: inline; } footer .contact ul li:after { content: " -"; } footer .contact ul li:last-child:after { content: ""; } footer .collectif { flex-direction: row; } }
 /*# sourceMappingURL=style.css.map */
