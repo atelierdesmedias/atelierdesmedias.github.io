@@ -40,3 +40,19 @@ section.normal {
     }
   }
 }
+
+section.interest {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  p {
+    text-align: center;
+    max-width: 70ch;
+  }
+  a {
+    font-size: 1.7rem;
+    border: solid 1px #84cbd5;
+    padding: 2rem;
+    margin: 2rem;
+  }
+}
