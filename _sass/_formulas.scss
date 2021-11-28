@@ -72,14 +72,19 @@ section.formulas {
     display: grid;
     justify-items: center;
     gap: 0.5rem;
+
     .formula {
       width: 400px;
+
+      h3 div {
+        display: inline;
+      }
     }
 
     @media screen and (min-width: 800px) {
+      background: url("#{$baseurl}/assets/background.jpg") repeat no-repeat center;
       .adherent {
         grid-column: span 2;
-        // margin: 0
       }
       .fixe {
         justify-self: flex-end;
