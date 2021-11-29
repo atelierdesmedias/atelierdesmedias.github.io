@@ -64,6 +64,9 @@ section.icons figure figcaption { text-transform: uppercase; text-align: center;
 section.icons figure figcaption span { display: block; font-weight: 400; }
 @media screen and (min-width: 400px) { section.icons { max-width: 400px; grid-template-columns: repeat(2, 1fr); } }
 @media screen and (min-width: 800px) { section.icons { max-width: 800px; grid-template-columns: repeat(4, 1fr); } }
+section.event img { max-width: 100%; }
+section.event .details a h3 { text-transform: uppercase; }
+section.event .details a .place { font-size: .8em; }
 footer { font-size: 0.75rem; }
 footer div { width: 100%; padding: 2rem; }
 footer .contact { background-color: #84cbd5; color: white; text-align: center; }
