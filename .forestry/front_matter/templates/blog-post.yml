@@ -25,5 +25,11 @@ fields:
     schema:
       format: markdown
   label: Contenu
+- name: layout
+  type: text
+  config:
+    required: true
+  label: layout
+  default: default
 pages:
 - _posts/2021-11-29-suite-a-la-distribution-de-bonbecs.md
