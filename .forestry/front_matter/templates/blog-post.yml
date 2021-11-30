@@ -16,5 +16,14 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Contenu
 pages:
 - _posts/suite-a-la-distribution-de-bonbecs.md
