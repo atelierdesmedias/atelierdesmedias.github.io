@@ -39,7 +39,6 @@ if res.is_a?(Net::HTTPSuccess)
     File.open("_coworkers/#{slug}.md", 'w') do |f|
       f.write("---\n")
       f.write("name: #{name}\n")
-      f.write("slug: #{slug}\n")
       f.write("layout: default\n")
       f.write("---\n\n")
       f.write("# #{name}\n")
