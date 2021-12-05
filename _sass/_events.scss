@@ -47,9 +47,86 @@ section.event {
 section.organize {
   padding: 2em;
   background: url("#{$baseurl}/assets/background.jpg") repeat repeat center;
-  * {
+  h2,
+  p {
     text-align: center;
     max-width: 600px;
     margin: 0 auto;
+  }
+}
+
+section.contact {
+  padding: 1em;
+  background-color: #ededed;
+  border-top: solid 1px #8d8d8d;
+  form {
+    display: grid;
+    gap: 1em;
+
+    h4 {
+      text-transform: uppercase;
+      font-weight: 400;
+    }
+    small {
+      display: block;
+      font-size: 0.7rem;
+    }
+
+    textarea {
+      min-height: 8em;
+      resize: none;
+    }
+
+    textarea,
+    input {
+      border: none;
+      padding: 1em;
+      margin: 0.5em 0;
+    }
+    button {
+      padding: 1em;
+      background-color: #ef8a4a;
+      color: white;
+      font-size: 1.4rem;
+      font-weight: 300;
+      text-transform: uppercase;
+    }
+
+    @media screen and (min-width: 600px) {
+      grid-template-columns: 1fr 1fr;
+      grid-template-areas:
+        "description-label contact-label"
+        "description-textarea name-input"
+        "description-textarea email-input"
+        "description-textarea phone-input"
+        "description-textarea site-input"
+        "date-label date-label"
+        "date-textarea already-checkbox"
+        "date-textarea already-checkbox"
+        "date-textarea already-checkbox"
+        "empty button";
+
+      #description-label {
+        grid-area: description-label;
+      }
+      #description-textarea {
+        grid-area: description-textarea;
+      }
+      #date-label {
+        grid-area: date-label;
+      }
+      #date-textarea {
+        grid-area: date-textarea;
+      }
+      #contact-label {
+        grid-area: contact-label;
+      }
+      #name-input {
+        grid-area: name-input;
+      }
+      button {
+        grid-area: button;
+      }
+    }
   }
 }
