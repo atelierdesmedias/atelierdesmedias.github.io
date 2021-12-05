@@ -13,3 +13,8 @@ bundle install
 ```
 bundle exec jekyll serve
 ```
+
+## Facebook event
+
+- Setup page id in `.github/workflows/deploy.yml`
+- Setup application: <https://stackoverflow.com/questions/17197970/facebook-permanent-page-access-token>

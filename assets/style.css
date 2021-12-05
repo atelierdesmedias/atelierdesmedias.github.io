@@ -9,7 +9,7 @@ a:hover, a:focus, a:active { border: 0; text-decoration: none; }
 button, .button { text-shadow: none; background-image: none; }
 .button:hover, .button:focus, .button:active { color: white; text-shadow: none; background-image: none; }
 html { font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; color: #4D4D4D; line-height: 1.5rem; }
-h2 { font-family: Sofia,sans-serif; font-size: 2.5em; font-weight: 400; line-height: 2.5rem; }
+h2 { font-family: Sofia,sans-serif; font-size: 2.5rem; font-weight: 400; line-height: 3.5rem; }
 h3 { line-height: 2rem; }
 p { color: #333; padding-top: 1em; }
 sup { position: relative; vertical-align: middle; top: -0.9ex; }
@@ -64,6 +64,14 @@ section.icons figure figcaption { text-transform: uppercase; text-align: center;
 section.icons figure figcaption span { display: block; font-weight: 400; }
 @media screen and (min-width: 400px) { section.icons { max-width: 400px; grid-template-columns: repeat(2, 1fr); } }
 @media screen and (min-width: 800px) { section.icons { max-width: 800px; grid-template-columns: repeat(4, 1fr); } }
+section.event { margin: 0; display: flex; flex-direction: column; border: solid 1px #979797; }
+section.event .picture { overflow: hidden; max-height: 20em; }
+section.event .picture img { object-fit: cover; width: 100%; height: 100%; }
+section.event .details { padding: 2em; }
+section.event .details .time { font-weight: 300; font-size: 0.8rem; }
+section.event .details a h3 { text-transform: uppercase; }
+section.event .details a .place { font-size: 0.8em; }
+@media screen and (min-width: 600px) { section.event { flex-direction: row; } section.event .picture { flex: 1 1 40%; } section.event .details { flex: 1 1 60%; } }
 footer { font-size: 0.75rem; }
 footer div { width: 100%; padding: 2rem; }
 footer .contact { background-color: #84cbd5; color: white; text-align: center; }
