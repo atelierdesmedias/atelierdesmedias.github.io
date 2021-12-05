@@ -31,18 +31,17 @@ header .nav-toggle-label span::after { top: 7px; }
 header .social-icons { font-size: 1.25rem; }
 header .social-icons a { cursor: pointer; }
 @media screen and (min-width: 800px) { header { flex: 0 0 80px; } header nav { position: fixed; height: 80px; width: 100%; top: 0; z-index: 1; display: flex; align-items: center; justify-content: center; display: flex; flex-direction: row; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
-section { margin: 2em 0; width: 100%; }
-section.big-video { height: 100vh; margin: 0; overflow: hidden; position: relative; }
-section.big-video video { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; min-width: 100%; min-height: 100vh; }
+section { width: 100%; }
+section.big-video { height: 100vh; overflow: hidden; position: relative; }
+section.big-video video { object-fit: cover; width: 100%; height: 100%; }
 section.big-video img { position: absolute; transform: translate(-50%, -50%); top: 50%; left: 50%; }
 @media screen and (min-width: 800px) { section.big-video { height: calc(100vh - 80px); } }
 section.normal { padding: 2em; max-width: 960px; }
-@media screen and (min-width: 800px) { section.normal { display: flex; } section.normal h2 { padding: 1em; padding-top: 2em; } }
+@media screen and (min-width: 800px) { section.normal { padding: 4em; display: flex; } section.normal h2 { padding: 1em; padding-top: 2em; } }
 section.interest { display: flex; flex-direction: column; align-items: center; }
 section.interest p { text-align: center; max-width: 70ch; }
 section.interest a { font-size: 1.7rem; border: solid 1px #84cbd5; padding: 2rem; margin: 2rem; }
-section.formulas { width: 100%; }
-section.formulas .formula { padding: 2em 2em; width: 100%; }
+section.formulas .formula { padding: 2em; width: 100%; }
 section.formulas .formula h3, section.formulas .formula p, section.formulas .formula .tarif, section.formulas .formula small { color: white; }
 section.formulas .formula h3 { font-family: lato, sans-serif; font-size: 1.5rem; font-weight: 100; margin-bottom: 1em; }
 section.formulas .formula h3 div { font-size: 2.5rem; font-family: Sofia, cursive; margin-left: 10px; }
@@ -57,7 +56,7 @@ section.formulas .fixe { background-color: #cbd301; }
 section.formulas .nomade { background-color: #84cbd5; }
 @media screen and (min-width: 400px) { section.formulas { display: grid; justify-items: center; gap: 0.5rem; } section.formulas .formula { width: 400px; } section.formulas .formula h3 div { display: inline; } }
 @media screen and (min-width: 400px) and (min-width: 800px) { section.formulas { background: url("/adm/assets/background.jpg") repeat no-repeat center; } section.formulas .adherent { grid-column: span 2; } section.formulas .fixe { justify-self: flex-end; } section.formulas .nomade { justify-self: flex-start; } }
-section.icons { display: grid; justify-items: center; gap: 2em; }
+section.icons { padding: 2em; display: grid; justify-items: center; gap: 2em; }
 section.icons figure { display: flex; flex-direction: column; align-items: center; gap: 1em; }
 section.icons figure img { width: 75px; height: 50px; }
 section.icons figure figcaption { text-transform: uppercase; text-align: center; font-weight: 100; }
