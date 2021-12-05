@@ -64,7 +64,7 @@ section.icons figure figcaption { text-transform: uppercase; text-align: center;
 section.icons figure figcaption span { display: block; font-weight: 400; }
 @media screen and (min-width: 400px) { section.icons { max-width: 400px; grid-template-columns: repeat(2, 1fr); } }
 @media screen and (min-width: 800px) { section.icons { max-width: 800px; grid-template-columns: repeat(4, 1fr); } }
-section.event { margin: 0; display: flex; flex-direction: column; border: solid 1px #979797; }
+section.event { margin: 0; display: flex; flex-direction: column; border-top: solid 1px #979797; }
 section.event .picture { overflow: hidden; max-height: 20em; }
 section.event .picture img { object-fit: cover; width: 100%; height: 100%; }
 section.event .details { padding: 2em; }
