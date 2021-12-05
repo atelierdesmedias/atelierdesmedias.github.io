@@ -1,4 +1,4 @@
-<section class="icons">
+<section class="icons {{ include.display }}">
   {% for icon in include.icons %}
     <figure>
       <img src="{{ icon.icon | prepend: '/assets/icons/' | append: '.svg' | relative_url }}" alt="{{ icon.line1 }} {{icon.line2}}" />
