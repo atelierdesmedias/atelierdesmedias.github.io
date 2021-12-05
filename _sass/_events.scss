@@ -60,6 +60,8 @@ section.contact {
   background-color: #ededed;
   border-top: solid 1px #8d8d8d;
   form {
+    max-width: 960px;
+    margin: 0 auto;
     display: grid;
     gap: 1em;
 
@@ -93,7 +95,6 @@ section.contact {
     }
 
     @media screen and (min-width: 600px) {
-      grid-template-columns: 1fr 1fr;
       grid-template-areas:
         "description-label contact-label"
         "description-textarea name-input"
