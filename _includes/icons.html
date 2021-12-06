@@ -1,5 +1,5 @@
-<section class="icons">
-  {% for icon in site.data.icons %}
+<section class="icons {{ include.display }}">
+  {% for icon in include.icons %}
     <figure>
       <img src="{{ icon.icon | prepend: '/assets/icons/' | append: '.svg' | relative_url }}" alt="{{ icon.line1 }} {{icon.line2}}" />
       <figcaption>{{ icon.line1 }} <span>{{ icon.line2 }}</span> </figcaption>
