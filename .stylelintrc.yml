@@ -5,3 +5,214 @@ ignoreFiles:
   - assets/**/*
   - node_modules/**/*
   - vendor/**/*
+plugins:
+  - stylelint-scss
+  - stylelint-order
+rules:
+  number-leading-zero: never
+  declaration-empty-line-before: null
+  # Follow best practices
+  font-family-name-quotes: always-where-recommended
+  # http://stackoverflow.com/questions/2168855/is-quoting-the-value-of-url-really-necessary
+  function-url-quotes: never
+  # https://www.w3.org/TR/selectors/#attribute-selectors
+  # http://stackoverflow.com/q/3851091
+  selector-attribute-quotes: always
+  # Double-quotes are our convention throughout our codebase within (S)CSS. They also reflect how
+  # attribute strings are normally quoted within the DOM.
+  string-quotes: double
+  # https://github.com/sasstools/sass-lint/blob/develop/lib/config/property-sort-orders/smacss.yml
+  order/properties-order:
+    - groupName: position
+      emptyLineBefore: always
+      properties:
+        - display
+        - position
+        - top
+        - right
+        - bottom
+        - left
+
+    - groupName: flex
+      emptyLineBefore: always
+      properties:
+        - flex
+        - flex-basis
+        - flex-direction
+        - flex-flow
+        - flex-grow
+        - flex-shrink
+        - flex-wrap
+        - align-content
+        - align-items
+        - align-self
+        - justify-content
+        - order
+
+    - groupName: box
+      emptyLineBefore: always
+      properties:
+        - width
+        - min-width
+        - max-width
+        - height
+        - min-height
+        - max-height
+        - margin
+        - margin-top
+        - margin-right
+        - margin-bottom
+        - margin-left
+        - padding
+        - padding-top
+        - padding-right
+        - padding-bottom
+        - padding-left
+
+    - groupName: layout
+      emptyLineBefore: always
+      properties:
+        - float
+        - clear
+
+    - groupName: layout
+      emptyLineBefore: always
+      properties:
+        - columns
+        - column-gap
+        - column-fill
+        - column-rule
+        - column-span
+        - column-count
+        - column-width
+
+    - groupName: transform
+      emptyLineBefore: always
+      properties:
+        - transform
+        - transform-box
+        - transform-origin
+        - transform-style
+
+    - groupName: transition
+      emptyLineBefore: always
+      properties:
+        - transition
+        - transition-delay
+        - transition-duration
+        - transition-property
+        - transition-timing-function
+
+    - groupName: border
+      emptyLineBefore: always
+      properties:
+        - border
+        - border-top
+        - border-right
+        - border-bottom
+        - border-left
+        - border-width
+        - border-top-width
+        - border-right-width
+        - border-bottom-width
+        - border-left-width
+        - border-style
+        - border-top-style
+        - border-right-style
+        - border-bottom-style
+        - border-left-style
+        - border-radius
+        - border-top-left-radius
+        - border-top-right-radius
+        - border-bottom-left-radius
+        - border-bottom-right-radius
+        - border-color
+        - border-top-color
+        - border-right-color
+        - border-bottom-color
+        - border-left-color
+        - outline
+        - outline-color
+        - outline-offset
+        - outline-style
+        - outline-width
+
+    - groupName: background
+      emptyLineBefore: always
+      properties:
+        - background
+        - background-attachment
+        - background-clip
+        - background-color
+        - background-image
+        - background-repeat
+        - background-position
+        - background-size
+
+    - groupName: text
+      emptyLineBefore: always
+      properties:
+        - color
+        - font
+        - font-family
+        - font-size
+        - font-smoothing
+        - font-style
+        - font-variant
+        - font-weight
+        - letter-spacing
+        - line-height
+        - list-style
+        - text-align
+        - text-decoration
+        - text-indent
+        - text-overflow
+        - text-rendering
+        - text-shadow
+        - text-transform
+        - text-wrap
+        - white-space
+        - word-spacing
+
+    - groupName: other
+      emptyLineBefore: always
+      properties:
+        - border-collapse
+        - border-spacing
+        - box-shadow
+        - caption-side
+        - content
+        - cursor
+        - empty-cells
+        - opacity
+        - overflow
+        - quotes
+        - speak
+        - table-layout
+        - vertical-align
+        - visibility
+        - z-index
+  # The following prefix rules are enabled since we use autoprefixer
+  at-rule-no-vendor-prefix: true
+  media-feature-name-no-vendor-prefix: true
+  selector-no-vendor-prefix: true
+  value-no-vendor-prefix: true
+  # Usually if you're nesting past 3 levels deep there's a problem
+  max-nesting-depth:
+    - 4
+    - ignore: "blockless-at-rules"
+  # Qualifying types are not needed when using a naming system like BEM
+  selector-no-qualifying-type: true
+  # Styles for components should never need the universal selector.
+  selector-max-universal: 1
+
+  # http://www.paulirish.com/2010/the-protocol-relative-url/
+  function-url-no-scheme-relative: true
+
+  # Prevents unneeded nesting selectors
+  scss/selector-no-redundant-nesting-selector: true
+  # Since leading underscores are not needed, they can be omitted
+  scss/at-import-no-partial-leading-underscore: true
+  # Since mixins are explicit (`@include`) and parens are unnecessary for argumentless mixins, they
+  # can be omitted.
+  scss/at-mixin-argumentless-call-parentheses : never
