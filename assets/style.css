@@ -1,5 +1,5 @@
 * { margin: 0; padding: 0; }
-*, *::before, *::after { box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; }
+*, *::before, *::after { box-sizing: border-box; }
 html, body { height: 100%; }
 body { display: flex; flex-direction: column; }
 .content { width: 100%; flex: 1 0 auto; display: flex; flex-direction: column; align-items: center; }
@@ -8,8 +8,8 @@ a { color: #84cbd5; font-weight: 300; text-decoration: none; }
 a:hover, a:focus, a:active { border: 0; text-decoration: none; }
 button, .button { text-shadow: none; background-image: none; }
 .button:hover, .button:focus, .button:active { color: white; text-shadow: none; background-image: none; }
-html { font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; color: #4D4D4D; line-height: 1.5rem; }
-h2 { font-family: Sofia,sans-serif; font-size: 2.5rem; font-weight: 400; line-height: 3.5rem; }
+html { font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; color: #4d4d4d; line-height: 1.5rem; }
+h2 { font-family: Sofia, sans-serif; font-size: 2.5rem; font-weight: 400; line-height: 3.5rem; }
 h3 { line-height: 2rem; }
 p { color: #333; padding-top: 1em; }
 sup { position: relative; vertical-align: middle; top: -0.9ex; }
@@ -20,17 +20,16 @@ header nav a { text-transform: uppercase; margin: 0.5em; }
 header nav a:hover, header nav a:focus, header nav a:active { color: #444; }
 header .nav-toggle { display: none; }
 header .nav-toggle:checked ~ nav { display: flex; }
-header .nav-toggle:checked ~ .nav-toggle-label span { background-color: transparent; }
-header .nav-toggle:checked ~ .nav-toggle-label span::before { bottom: 0px; transform: rotate(43deg); }
-header .nav-toggle:checked ~ .nav-toggle-label span::after { top: 0px; transform: rotate(-43deg); }
 header .nav-toggle-label { background-color: white; width: 4em; height: 4em; position: fixed; right: 0; top: 0; z-index: 3; display: flex; align-items: center; justify-content: center; cursor: pointer; }
 header .nav-toggle-label span, header .nav-toggle-label span::before, header .nav-toggle-label span::after { display: block; background-color: black; height: 2px; width: 2em; border-radius: 2px; position: relative; transition: all ease-in-out 100ms; }
 header .nav-toggle-label span::before, header .nav-toggle-label span::after { content: ""; position: absolute; }
 header .nav-toggle-label span::before { bottom: 7px; }
 header .nav-toggle-label span::after { top: 7px; }
+header .nav-toggle:checked ~ .nav-toggle-label span { background-color: transparent; }
+header .nav-toggle:checked ~ .nav-toggle-label span::before { bottom: 0; transform: rotate(43deg); }
+header .nav-toggle:checked ~ .nav-toggle-label span::after { top: 0; transform: rotate(-43deg); }
 header .social-icons { font-size: 1.25rem; }
-header .social-icons a { cursor: pointer; }
-@media screen and (min-width: 800px) { header { flex: 0 0 80px; } header nav { position: fixed; height: 80px; width: 100%; top: 0; z-index: 1; display: flex; align-items: center; justify-content: center; display: flex; flex-direction: row; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
+@media screen and (min-width: 800px) { header { flex: 0 0 80px; } header nav { position: fixed; height: 80px; width: 100%; top: 0; z-index: 1; display: flex; align-items: center; justify-content: center; flex-direction: row; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
 section { width: 100%; }
 section.big-video { height: 100vh; overflow: hidden; position: relative; }
 section.big-video video { object-fit: cover; width: 100%; height: 100%; }
@@ -77,5 +76,5 @@ footer .contact { background-color: #84cbd5; color: white; text-align: center; }
 footer .contact ul { list-style: none; }
 footer .contact a { color: white; font-weight: 400; }
 footer .collectif { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 9px; }
-@media screen and (min-width: 600px) { footer .contact ul li { display: inline; } footer .contact ul li:after { content: " -"; } footer .contact ul li:last-child:after { content: ""; } footer .collectif { flex-direction: row; } }
+@media screen and (min-width: 600px) { footer .contact ul li { display: inline; } footer .contact ul li::after { content: " -"; } footer .contact ul li:last-child::after { content: ""; } footer .collectif { flex-direction: row; } }
 /*# sourceMappingURL=style.css.map */
