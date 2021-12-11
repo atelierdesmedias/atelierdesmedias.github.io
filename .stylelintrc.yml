@@ -47,6 +47,7 @@ rules:
         - align-items
         - align-self
         - justify-content
+        - justify-self
         - order
 
     - groupName: box

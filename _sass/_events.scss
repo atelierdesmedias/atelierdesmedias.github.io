@@ -8,8 +8,6 @@
   .picture {
     max-height: 20em;
 
-    overflow: hidden;
-
     img {
       object-fit: cover;
 
@@ -103,7 +101,11 @@
     }
 
     button {
+      justify-self: right;
+
       padding: 1em;
+
+      border: solid 1px #979797;
 
       background-color: #ef8a4a;
 
