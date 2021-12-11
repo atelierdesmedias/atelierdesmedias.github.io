@@ -75,13 +75,13 @@ header .social-icons { font-size: 1.25rem; }
 .organize { padding: 2em; background: url("/adm/assets/background.jpg") repeat repeat center; }
 .organize h2, .organize p { max-width: 600px; margin: 0 auto; text-align: center; }
 .contact { padding: 1em; border-top: solid 1px #8d8d8d; background-color: #ededed; }
-.contact form { display: grid; gap: 1em; }
+.contact form { display: grid; max-width: 960px; margin: 0 auto; gap: 1em; }
 .contact form h4 { font-weight: 400; text-transform: uppercase; }
 .contact form small { display: block; font-size: .7rem; }
 .contact form textarea { min-height: 8em; resize: none; }
 .contact form textarea, .contact form input { margin: .5em 0; padding: 1em; border: none; }
 .contact form button { padding: 1em; background-color: #ef8a4a; color: white; font-size: 1.4rem; font-weight: 300; text-transform: uppercase; }
-@media screen and (min-width: 600px) { .contact form { grid-template-columns: 1fr 1fr; grid-template-areas: "description-label contact-label" "description-textarea name-input" "description-textarea email-input" "description-textarea phone-input" "description-textarea site-input" "date-label date-label" "date-textarea already-checkbox" "date-textarea already-checkbox" "date-textarea already-checkbox" "empty button"; } .contact form #description-label { grid-area: description-label; } .contact form #description-textarea { grid-area: description-textarea; } .contact form #date-label { grid-area: date-label; } .contact form #date-textarea { grid-area: date-textarea; } .contact form #contact-label { grid-area: contact-label; } .contact form #name-input { grid-area: name-input; } .contact form button { grid-area: button; } }
+@media screen and (min-width: 600px) { .contact form { grid-template-areas: "description-label contact-label" "description-textarea name-input" "description-textarea email-input" "description-textarea phone-input" "description-textarea site-input" "date-label date-label" "date-textarea already-checkbox" "date-textarea already-checkbox" "date-textarea already-checkbox" "empty button"; } .contact form #description-label { grid-area: description-label; } .contact form #description-textarea { grid-area: description-textarea; } .contact form #date-label { grid-area: date-label; } .contact form #date-textarea { grid-area: date-textarea; } .contact form #contact-label { grid-area: contact-label; } .contact form #name-input { grid-area: name-input; } .contact form button { grid-area: button; } }
 footer { font-size: .75rem; }
 footer div { width: 100%; padding: 2rem; }
 footer .contact { background-color: #84cbd5; color: white; text-align: center; }
