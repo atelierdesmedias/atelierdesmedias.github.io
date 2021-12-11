@@ -1,9 +1,10 @@
-section.icons {
+.icons {
   padding: 2em;
   gap: 2em;
 
   figure {
     display: flex;
+
     flex-direction: column;
     align-items: center;
     gap: 1em;
@@ -14,20 +15,22 @@ section.icons {
     }
 
     figcaption {
-      text-transform: uppercase;
-      text-align: center;
+      font-size: .8rem;
       font-weight: 100;
-      font-size: 0.8rem;
+      text-align: center;
+      text-transform: uppercase;
+
       span {
         display: block;
-        font-weight: 400;
+
         font-size: 1.2rem;
+        font-weight: 400;
       }
     }
   }
 }
 
-section.icons.grid {
+.icons.grid {
   display: grid;
   justify-items: center;
 
@@ -35,18 +38,22 @@ section.icons.grid {
     max-width: 400px;
     grid-template-columns: repeat(2, 1fr);
   }
+
   @media screen and (min-width: 800px) {
     max-width: 800px;
     grid-template-columns: repeat(4, 1fr);
   }
 }
 
-section.icons.flex {
+.icons.flex {
   display: flex;
+
   flex-direction: column;
   justify-content: center;
+
   @media screen and (min-width: 500px) {
     flex-flow: row wrap;
+
     max-width: 500px;
   }
 }

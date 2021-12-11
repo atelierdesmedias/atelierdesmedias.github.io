@@ -1,5 +1,6 @@
 footer {
-  font-size: 0.75rem;
+  font-size: .75rem;
+
   div {
     width: 100%;
     padding: 2rem;
@@ -7,6 +8,7 @@ footer {
 
   .contact {
     background-color: #84cbd5;
+
     color: white;
     text-align: center;
 
@@ -19,23 +21,28 @@ footer {
       font-weight: 400;
     }
   }
+
   .collectif {
     display: flex;
+
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 9px;
   }
+
   @media screen and (min-width: 600px) {
     .contact {
       ul {
         li {
           display: inline;
         }
-        li:after {
+
+        li::after {
           content: " -";
         }
-        li:last-child:after {
+
+        li:last-child::after {
           content: "";
         }
       }

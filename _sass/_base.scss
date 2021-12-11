@@ -9,8 +9,6 @@
 *::before,
 *::after {
   box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
 }
 
 html,
@@ -20,17 +18,27 @@ body {
 
 body {
   display: flex;
+
   flex-direction: column;
 }
 
 .content {
-  width: 100%;
-  flex: 1 0 auto;
   display: flex;
+
+  flex: 1 0 auto;
   flex-direction: column;
+
   align-items: center;
-}
-footer {
+
   width: 100%;
+}
+
+section {
+  width: 100%;
+}
+
+footer {
   flex-shrink: 0;
+
+  width: 100%;
 }
