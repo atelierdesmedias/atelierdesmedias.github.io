@@ -13,8 +13,13 @@ jobs:
         with:
           ruby-version: '2.7'
           bundler-cache: true
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - run: npm install
       - uses: wearerequired/lint-action@v1
         with:
           github_token: ${{ secrets.github_token }}
           rubocop: true
           rubocop_command_prefix: bundle exec
+          stylelint: true
