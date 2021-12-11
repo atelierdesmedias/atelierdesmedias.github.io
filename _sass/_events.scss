@@ -1,15 +1,18 @@
-section.event {
+.event {
   display: flex;
+
   flex-direction: column;
 
   border-top: solid 1px #979797;
 
   .picture {
-    overflow: hidden;
     max-height: 20em;
+
+    overflow: hidden;
 
     img {
       object-fit: cover;
+
       width: 100%;
       height: 100%;
     }
@@ -19,57 +22,71 @@ section.event {
     padding: 2em;
 
     .time {
+      font-size: .8rem;
       font-weight: 300;
-      font-size: 0.8rem;
     }
 
     a {
       h3 {
         text-transform: uppercase;
       }
+
       .place {
-        font-size: 0.8em;
+        font-size: .8em;
       }
     }
   }
 
   @media screen and (min-width: 600px) {
     flex-direction: row;
+
     .picture {
       flex: 1 1 40%;
     }
+
     .details {
       flex: 1 1 60%;
     }
   }
 }
 
-section.organize {
+.organize {
   padding: 2em;
+
   background: url("#{$baseurl}/assets/background.jpg") repeat repeat center;
+
   h2,
   p {
-    text-align: center;
     max-width: 600px;
     margin: 0 auto;
+
+    text-align: center;
   }
 }
 
-section.contact {
+.contact {
   padding: 1em;
-  background-color: #ededed;
+
   border-top: solid 1px #8d8d8d;
+
+  background-color: #ededed;
+
   form {
     display: grid;
+
+    max-width: 960px;
+    margin: 0 auto;
     gap: 1em;
 
     h4 {
-      text-transform: uppercase;
       font-weight: 400;
+      text-transform: uppercase;
     }
+
     small {
       display: block;
-      font-size: 0.7rem;
+
+      font-size: .7rem;
     }
 
     textarea {
@@ -79,13 +96,17 @@ section.contact {
 
     textarea,
     input {
-      border: none;
+      margin: .5em 0;
       padding: 1em;
-      margin: 0.5em 0;
+
+      border: none;
     }
+
     button {
       padding: 1em;
+
       background-color: #ef8a4a;
+
       color: white;
       font-size: 1.4rem;
       font-weight: 300;
@@ -93,7 +114,6 @@ section.contact {
     }
 
     @media screen and (min-width: 600px) {
-      grid-template-columns: 1fr 1fr;
       grid-template-areas:
         "description-label contact-label"
         "description-textarea name-input"
@@ -109,21 +129,27 @@ section.contact {
       #description-label {
         grid-area: description-label;
       }
+
       #description-textarea {
         grid-area: description-textarea;
       }
+
       #date-label {
         grid-area: date-label;
       }
+
       #date-textarea {
         grid-area: date-textarea;
       }
+
       #contact-label {
         grid-area: contact-label;
       }
+
       #name-input {
         grid-area: name-input;
       }
+
       button {
         grid-area: button;
       }

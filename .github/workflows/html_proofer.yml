@@ -1,4 +1,4 @@
-name: Test
+name: HTML Proofer
 
 on: push
 
@@ -11,4 +11,4 @@ jobs:
         with:
           ruby-version: '2.7'
           bundler-cache: true
-      - run: bundle exec rake test
+      - run: bundle exec rake html_proofer

@@ -12,21 +12,27 @@ header {
 
   nav {
     display: none;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
-    z-index: 2;
-    background-color: white;
+
     position: fixed;
-    text-align: center;
     top: 0;
+    right: 0;
     bottom: 0;
     left: 0;
-    right: 0;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    background-color: white;
+
+    text-align: center;
+
+    z-index: 2;
 
     a {
+      margin: .5em;
+
       text-transform: uppercase;
-      margin: 0.5em;
     }
 
     a:hover,
@@ -44,80 +50,94 @@ header {
     display: flex;
   }
 
-  .nav-toggle:checked ~ .nav-toggle-label span {
-    background-color: transparent;
-  }
-
-  .nav-toggle:checked ~ .nav-toggle-label span::before {
-    bottom: 0px;
-    transform: rotate(43deg);
-  }
-
-  .nav-toggle:checked ~ .nav-toggle-label span::after {
-    top: 0px;
-    transform: rotate(-43deg);
-  }
-
   .nav-toggle-label {
-    background-color: white;
-    width: 4em;
-    height: 4em;
-    position: fixed;
-    right: 0;
-    top: 0;
-
-    z-index: 3;
     display: flex;
+
+    position: fixed;
+    top: 0;
+    right: 0;
+
     align-items: center;
     justify-content: center;
+
+    width: 4em;
+    height: 4em;
+
+    background-color: white;
+
     cursor: pointer;
+    z-index: 3;
 
     span,
     span::before,
     span::after {
       display: block;
-      background-color: black;
-      height: 2px;
-      width: 2em;
-      border-radius: 2px;
+
       position: relative;
+
+      width: 2em;
+      height: 2px;
+
       transition: all ease-in-out 100ms;
+
+      border-radius: 2px;
+
+      background-color: black;
     }
+
     span::before,
     span::after {
-      content: "";
       position: absolute;
+
+      content: "";
     }
+
     span::before {
       bottom: 7px;
     }
+
     span::after {
       top: 7px;
     }
   }
 
+  .nav-toggle:checked ~ .nav-toggle-label span {
+    background-color: transparent;
+  }
+
+  .nav-toggle:checked ~ .nav-toggle-label span::before {
+    bottom: 0;
+
+    transform: rotate(43deg);
+  }
+
+  .nav-toggle:checked ~ .nav-toggle-label span::after {
+    top: 0;
+
+    transform: rotate(-43deg);
+  }
+
   .social-icons {
     font-size: 1.25rem;
-
-    a {
-      cursor: pointer;
-    }
   }
 
   @media screen and (min-width: 800px) {
     flex: 0 0 80px;
+
     nav {
-      position: fixed;
-      height: 80px;
-      width: 100%;
-      top: 0;
-      z-index: 1;
       display: flex;
+
+      position: fixed;
+      top: 0;
+
+      flex-direction: row;
       align-items: center;
       justify-content: center;
 
-      display: flex;
-      flex-direction: row;
+      width: 100%;
+      height: 80px;
+
+      z-index: 1;
 
       a {
         margin: 1em;
