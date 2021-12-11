@@ -26,7 +26,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="alternate" type="application/rss+xml" title="Feed RSS pour L'Atelier des Médias" href="/adm/feed.xml" />
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/adm/assets/style.css?202112111651" type="text/css">
+    <link rel="stylesheet" href="/adm/assets/style.css?202112111658" type="text/css">
     <!-- Fonts -->
     <link rel="preconnect" href="//fonts.googleapis.com">
     <link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
@@ -116,20 +116,90 @@
           <a href="https://www.facebook.com/events/978233946104840" target="_blank">S'inscrire / En savoir +</a>
         </div>
       </section>
+      <section class="organize">
+        <h2>Vous souhaitez organiser un évènement à l'Atelier ?</h2>
+        <p>Vous êtes les bienvenus !</p>
+        <p>Votre évènement doit être gratuit et ouvert à tous et à visée non commerciale.</p>
+        <p>On met à disposition pour les évènement:</p>
+      </section>
+      <section class="icons flex">
+        <figure>
+          <img src="/adm/assets/icons/open-space.svg" alt=" Wifi" />
+          <figcaption> <span>Wifi</span> </figcaption>
+        </figure>
+        <figure>
+          <img src="/adm/assets/icons/dimensions.svg" alt=" Projecteur" />
+          <figcaption> <span>Projecteur</span> </figcaption>
+        </figure>
+        <figure>
+          <img src="/adm/assets/icons/salle-reunion.svg" alt=" Sono" />
+          <figcaption> <span>Sono</span> </figcaption>
+        </figure>
+        <figure>
+          <img src="/adm/assets/icons/flechettes.svg" alt="Du lundi au vendredi à partir de 19h" />
+          <figcaption>Du lundi au vendredi <span>à partir de 19h</span> </figcaption>
+        </figure>
+        <figure>
+          <img src="/adm/assets/icons/event.svg" alt="Salle pour 40 personnes" />
+          <figcaption>Salle pour <span>40 personnes</span> </figcaption>
+        </figure>
+      </section>
+      <section class="contact">
+        <form action="https://formspree.io/f/mrgjznyn" method="POST">
+          <label id="decription-label" for="description-textarea">
+            <h4>Décriver votre évènement</h4>
+            <small>(en 500 signes), ce paragraphe sera utilisé pour promouvoir votre évènement</small>
+          </label>
+          <textarea name="Description" id="description-textarea"></textarea>
+          <label id="date-label" for="date-textarea">
+            <h4>Date souhaitée</h4>
+            <small>(sous réserve de validation par l'Atelier)</small>
+          </label>
+          <textarea name="Date souhaitée" id="date-textarea"></textarea>
+          <label id="contact-label" for="name-input">
+            <h4>Contact</h4>
+          </label>
+          <input id="name-input" placeholder="Prénom Nom" name="Prénom Nom">
+          <input id="email-input" type="Email" placeholder="Email" name="_replyto">
+          <input id="phone-input" placeholder="Téléphone" name="Téléphone">
+          <input id="site-input" placeholder="Site / Réseaux sociaux (Facebook, Instagram, Twitter...)" name="Site ou réseaux sociaux">
+          <div>
+            <input id="already-checkbox" type="checkbox" name="A déjà organisé un évènement">
+            <label for=already-checkbox>Vous avez déjà organisé un évènement à l'Atelier ? 
+              <small>(Cochez si c'est le cas)</small>
+            </label>
+          </div>
+          <div>
+            <input id="charte-checkbox" type="checkbox" name="Charte acceptée">
+            <label for=charte-checkbox>En tant qu'organisateur, je m'engage à <a href="/adm/charte-des-evenements">respecter la charte</a>
+              <small>(Cochez si c'est le cas)</small>
+            </label>
+          </div>
+          <div>
+            <input id="summary-checkbox" type="checkbox" name="Ok pour envoi photos et résumé après l'évènement">
+            <label for=summary-checkbox>Après l'évènement, je m'engage à envoyer quelques photos et un résumé pour la communication de l'Atelier des Médias
+              <small>(Cochez si c'est le cas)</small>
+            </label>
+          </div>
+        </label>
+        <input type="hidden" name="_language" value="fr" />
+        <button type="submit">Faire une demande</button>
+      </form>
+    </section>
+  </div>
+  <footer>
+    <div class="contact">
+      <ul>
+        <li>9 quai André Lassagne</li>
+        <li>69001 Lyon</li>
+        <li>tél: 09 81 65 99 53</li>
+        <li><a href="mailto:contact@atelier-medias.org" target="_blank">contact@atelier-medias.org</a></li>
+      </ul>
     </div>
-    <footer>
-      <div class="contact">
-        <ul>
-          <li>9 quai André Lassagne</li>
-          <li>69001 Lyon</li>
-          <li>tél: 09 81 65 99 53</li>
-          <li><a href="mailto:contact@atelier-medias.org" target="_blank">contact@atelier-medias.org</a></li>
-        </ul>
-      </div>
-      <div class="collectif">
-        L’Atelier des Médias fait partie du collectif
-        <img src="/adm/assets/coworking-grand-lyon.svg" alt="Coworking Grand Lyon" />
-      </div>
-    </footer>
-  </body>
+    <div class="collectif">
+      L’Atelier des Médias fait partie du collectif
+      <img src="/adm/assets/coworking-grand-lyon.svg" alt="Coworking Grand Lyon" />
+    </div>
+  </footer>
+</body>
 </html>
