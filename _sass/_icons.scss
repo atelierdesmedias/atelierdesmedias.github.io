@@ -1,12 +1,13 @@
 .icons {
-  padding: 2em;
   gap: 2em;
+  padding: 2em;
 
   figure {
     display: flex;
 
     flex-direction: column;
     align-items: center;
+
     gap: 1em;
 
     img {
@@ -22,7 +23,6 @@
 
       span {
         display: block;
-
         font-size: 1.2rem;
         font-weight: 400;
       }
@@ -47,13 +47,11 @@
 
 .icons.flex {
   display: flex;
-
   flex-direction: column;
   justify-content: center;
 
   @media screen and (min-width: 500px) {
     flex-flow: row wrap;
-
     max-width: 500px;
   }
 }

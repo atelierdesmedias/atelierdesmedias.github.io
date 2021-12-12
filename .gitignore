@@ -4,4 +4,5 @@ _site/
 .jekyll-metadata
 node_modules/
 Makefile
+_data/coworker_tags.yml
 
