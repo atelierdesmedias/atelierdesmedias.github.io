@@ -1,0 +1,46 @@
+---
+layout: default
+---
+
+<section class="coworker-page">
+  <div class="coworker-picture">
+    <img alt="{{ page.name}}"
+         {%if page.picture_extension%}
+           src="{{ page.url | append: page.picture_extension | relative_url }}"
+         {%endif %}></img>
+  </div>
+  <div class="coworker-page_infos">
+    <h3 class="coworker-page_infos_name">{{ page.name }}</h3>
+    {% if page.metier %} <div class="coworker-page_infos_metier"> {{ page.metier }}</div> {%endif %}
+    <div class="coworker-page_infos_social">
+      {% if page.facebook %}
+        <a class="coworker-page_infos_social_link fa fa-facebook" href="{{ page.facebook }}"></a>
+      {% endif %}
+      {% if page.twitter %}
+        <a class="coworker-page_infos_social_link fa fa-twitter" href="{{ page.twitter }}"></a>
+      {% endif %}
+      {% if page.linkedin %}
+        <a class="coworker-page_infos_social_link fa fa-linkedin" href="{{ page.linkedin }}"></a>
+      {% endif %}
+      {% if page.viadeo %}
+        <a class="coworker-page_infos_social_link fa fa-viadeo" href="{{ page.viadeo }}"></a>
+      {% endif %}
+      {% if page.pinterest %}
+        <a class="coworker-page_infos_social_link fa fa-pinterest" href="{{ page.pinterest }}"></a>
+      {% endif %}
+      {% if page.emailpro %}
+        <a class="coworker-page_infos_social_link fa fa-envelope" href="{{ page.emailpro }}"></a>
+      {% endif %}
+    </div>
+  </div>
+  {% if page.tags %}
+    <div class="coworker-tags">
+      {% for tag in page.tags %}
+        <div class="coworker-tag">{{ tag }}</div>
+      {% endfor %}
+    </div>
+  {% endif %}
+  <div class="coworker-page_questions">
+    {{ content }}
+  </div>
+</section>

@@ -1,0 +1,148 @@
+.coworker-picture {
+  display: flex;
+  width: 100%;
+  aspect-ratio: 1;
+
+  img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+  }
+}
+
+.coworker-tags {
+  display: flex;
+
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: .5rem;
+
+  padding: .5rem;
+
+  .coworker-tag {
+    padding: .3rem;
+
+    border: solid 1px black;
+
+    font-size: .8rem;
+    line-height: .8rem;
+  }
+}
+
+.coworkers {
+  &_list {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    .coworker-card {
+      display: block;
+      position: relative;
+      background-color: black;
+
+      &_infos {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+
+        transform: translate(-50%, -50%);
+
+        color: white;
+        text-align: center;
+
+        &_metier {
+          font-weight: 400;
+          text-transform: uppercase;
+        }
+      }
+    }
+
+    @media screen and (min-width: 600px) {
+      grid-template-columns: repeat(4, 1fr);
+    }
+
+    @media screen and (min-width: 900px) {
+      grid-template-columns: repeat(6, 1fr);
+    }
+  }
+}
+
+.coworker-page {
+  display: grid;
+  max-width: 960px;
+
+  &_infos {
+    display: flex;
+
+    flex-direction: column;
+    gap: .5rem;
+
+    width: 100%;
+    padding: 1rem;
+
+    background-color: #84cbd5;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    &_name,
+    &_metier,
+    &_social_link {
+      color: white;
+    }
+
+    &_social {
+      display: flex;
+
+      flex-wrap: wrap;
+
+      justify-content: center;
+      gap: 1rem;
+
+      font-size: 2rem;
+    }
+  }
+
+  &_questions {
+    padding: 1em;
+  }
+
+  @media screen and (min-width: 600px) {
+    gap: 1em;
+    padding: 1em;
+    grid-template-areas:
+      "picture questions"
+      "infos questions"
+      "tags questions"
+      "empty questions";
+
+    .coworker-picture,
+    &_infos,
+    .coworker-tags {
+      justify-self: end;
+      max-width: 300px;
+    }
+
+    .coworker-picture {
+      max-width: 300px;
+      grid-area: picture;
+    }
+
+    &_infos {
+      text-align: right;
+      grid-area: infos;
+
+      &_social {
+        justify-content: end;
+      }
+    }
+
+    .coworker-tags {
+      justify-content: end;
+      grid-area: tags;
+    }
+
+    &_questions {
+      grid-area: questions;
+    }
+  }
+}
