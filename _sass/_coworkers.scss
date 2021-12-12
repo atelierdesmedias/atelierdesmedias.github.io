@@ -13,19 +13,40 @@
 .coworker-tags {
   display: flex;
 
-  flex-wrap: wrap;
+  align-items: center;
   justify-content: center;
-  gap: .5rem;
 
   padding: .5rem;
 
+  overflow: scroll;
+
   .coworker-tag {
-    padding: .3rem;
+    position: relative;
 
-    border: solid 1px black;
+    padding: 1rem;
 
+    color: #4d4d4d;
     font-size: .8rem;
-    line-height: .8rem;
+    text-align: center;
+  }
+
+  .coworker-tag::after {
+    position: absolute;
+    top: 50%;
+    right: 0;
+
+    width: 1px;
+    height: 50px;
+
+    transform: translateY(-50%);
+
+    background-color: #4d4d4d;
+
+    content: "";
+  }
+
+  .coworker-tag:last-child::after {
+    display: none;
   }
 }
 
