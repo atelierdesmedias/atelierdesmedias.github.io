@@ -31,7 +31,6 @@ header {
 
     a {
       margin: .5em;
-
       text-transform: uppercase;
     }
 
@@ -88,7 +87,6 @@ header {
     span::before,
     span::after {
       position: absolute;
-
       content: "";
     }
 
@@ -107,13 +105,11 @@ header {
 
   .nav-toggle:checked ~ .nav-toggle-label span::before {
     bottom: 0;
-
     transform: rotate(43deg);
   }
 
   .nav-toggle:checked ~ .nav-toggle-label span::after {
     top: 0;
-
     transform: rotate(-43deg);
   }
 

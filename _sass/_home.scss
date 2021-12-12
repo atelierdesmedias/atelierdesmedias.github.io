@@ -1,15 +1,12 @@
 .big-video {
   position: relative;
-
   height: 100vh;
-
   overflow: hidden;
 
   video {
-    object-fit: cover;
-
     width: 100%;
     height: 100%;
+    object-fit: cover;
   }
 
   img {
@@ -31,7 +28,6 @@
 
   @media screen and (min-width: 800px) {
     display: flex;
-
     padding: 4em;
 
     h2 {
@@ -43,13 +39,11 @@
 
 .interest {
   display: flex;
-
   flex-direction: column;
   align-items: center;
 
   p {
     max-width: 70ch;
-
     text-align: center;
   }
 

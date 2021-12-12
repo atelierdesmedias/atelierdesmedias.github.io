@@ -8,7 +8,6 @@ a:hover,
 a:focus,
 a:active {
   border: 0;
-
   text-decoration: none;
 }
 
@@ -16,9 +15,7 @@ a:active {
 button,
 .button {
   background-image: none;
-
   text-shadow: none;
-
   cursor: pointer;
 }
 
@@ -26,7 +23,6 @@ button,
 .button:focus,
 .button:active {
   background-image: none;
-
   color: white;
   text-shadow: none;
 }
