@@ -29,7 +29,7 @@ jobs:
           FACEBOOK_PAGE_ID: "106737945179435"
           FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
         run: bundle exec ruby events.rb
-      - run: bundle exec jekyll build --baseurl "/adm"
+      - run: bundle exec jekyll build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
