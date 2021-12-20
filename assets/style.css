@@ -5,7 +5,7 @@ body { display: flex; flex-direction: column; }
 .content { display: flex; flex: 1 0 auto; flex-direction: column; align-items: center; width: 100%; }
 section { width: 100%; }
 footer { flex-shrink: 0; width: 100%; }
-.rice-crispies { background: url("/assets/rice-crispies.jpg") repeat repeat center; }
+.rice-crispies { background: url("/adm/assets/rice-crispies.jpg") repeat repeat center; }
 a { color: #84cbd5; font-weight: 300; text-decoration: none; }
 a:hover, a:focus, a:active { border: 0; text-decoration: none; }
 button, .button { background-image: none; text-shadow: none; cursor: pointer; }
@@ -53,7 +53,7 @@ header .social-icons { font-size: 1.25rem; }
 .formulas .fixe { background-color: #cbd301; }
 .formulas .nomade { background-color: #84cbd5; }
 @media screen and (min-width: 400px) { .formulas { display: grid; gap: .5rem; justify-items: center; } .formulas .formula { width: 400px; } .formulas .formula h3 div { display: inline; } }
-@media screen and (min-width: 400px) and (min-width: 800px) { .formulas { background: url("/assets/rice-crispies.jpg") repeat no-repeat center; } .formulas .adherent { grid-column: span 2; } .formulas .fixe { justify-self: flex-end; } .formulas .nomade { justify-self: flex-start; } }
+@media screen and (min-width: 400px) and (min-width: 800px) { .formulas { background: url("/adm/assets/rice-crispies.jpg") repeat no-repeat center; } .formulas .adherent { grid-column: span 2; } .formulas .fixe { justify-self: flex-end; } .formulas .nomade { justify-self: flex-start; } }
 .icons { gap: 2em; padding: 2em; }
 .icons figure { display: flex; flex-direction: column; align-items: center; gap: 1em; }
 .icons figure img { width: 75px; height: 50px; }
