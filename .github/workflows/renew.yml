@@ -9,7 +9,7 @@ on: [pull_request]
 #    - cron: "0 0 * * *"
 
 permissions:
-  contents: read
+  actions: read
 
 jobs:
   renew:
