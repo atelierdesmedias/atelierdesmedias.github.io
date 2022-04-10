@@ -7,21 +7,11 @@ require 'open-uri'
 require 'stringex'
 require 'uri'
 
-url = ENV['FACEBOOK_GRAPH_URL']
-if url.nil?
-  puts 'Please set FACEBOOK_GRAPH_URL'
-  exit(-1)
-end
-page_id = ENV['FACEBOOK_PAGE_ID']
-if page_id.nil?
-  puts 'Please set FACEBOOK_PAGE_ID'
-  exit(-1)
-end
-token = ENV['FACEBOOK_TOKEN']
-if token.nil?
-  puts 'Please set FACEBOOK_TOKEN'
-  exit(-1)
-end
+require './env_utils'
+
+url = get_env_or_exit('FACEBOOK_GRAPH_URL')
+page_id = get_env_or_exit('FACEBOOK_PAGE_ID')
+token = get_env_or_exit('FACEBOOK_TOKEN')
 
 uri = URI(url + page_id)
 uri.query = URI.encode_www_form({
