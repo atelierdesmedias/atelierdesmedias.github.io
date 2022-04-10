@@ -1,4 +1,4 @@
-name: Build and deploy Jekyll site to GitHub Pages
+name: Renew facebook token
 
 on: [pull_request]
 #on:
@@ -19,6 +19,7 @@ jobs:
           bundler-cache: true
       - name: Update the facebook token
         env:
+          GITHUB_TOKEN: ${{ secrets.github_token }}
           BOBO: ${{ secrets.BOBO }}
           FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
         run: bundle exec ruby renew.rb
