@@ -1,0 +1,25 @@
+name: Renew facebook token
+
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+
+permissions:
+  actions: read
+
+jobs:
+  renew:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1.86.0
+        with:
+          ruby-version: '2.7'
+          bundler-cache: true
+      - name: Update the facebook token
+        env:
+          FACEBOOK_APP_ID: ${{ secrets.FACEBOOK_APP_ID }}
+          FACEBOOK_CLIENT_SECRET: ${{ secrets.FACEBOOK_CLIENT_SECRET }}
+          FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
+        run: bundle exec ruby renew.rb
