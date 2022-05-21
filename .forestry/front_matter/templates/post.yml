@@ -2,6 +2,13 @@
 label: Post
 hide_body: false
 fields:
+- name: layout
+  type: text
+  config:
+    required: false
+  hidden: true
+  label: Layout
+  default: post
 - name: name
   type: text
   config:
@@ -27,4 +34,5 @@ fields:
     maxSize: 64
   label: Image
 pages:
+- _posts/2021-11-29-suite-a-la-distribution-de-bonbecs.md
 - test.md
