@@ -6,26 +6,12 @@ require 'json'
 require 'yaml'
 require 'stringex'
 
-url = ENV['COWORKERS_URL']
-if url.nil?
-  puts 'Please set COWORKERS_URL'
-  exit(-1)
-end
-code = ENV['COWORKERS_CODE']
-if code.nil?
-  puts 'Please set COWORKERS_CODE'
-  exit(-1)
-end
-user = ENV['COWORKERS_USER']
-if user.nil?
-  puts 'Please set COWORKERS_USER'
-  exit(-1)
-end
-password = ENV['COWORKERS_PASSWORD']
-if password.nil?
-  puts 'Please set COWORKERS_PASSWORD'
-  exit(-1)
-end
+require './env_utils'
+
+url = get_env_or_exit('COWORKERS_URL')
+code = get_env_or_exit('COWORKERS_CODE')
+user = get_env_or_exit('COWORKERS_USER')
+password = get_env_or_exit('COWORKERS_PASSWORD')
 
 all_tags = []
 parser = URI::Parser.new
