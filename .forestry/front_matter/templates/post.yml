@@ -1,4 +1,28 @@
 ---
 label: Post
 hide_body: false
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Titre
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: excerpt
+  type: text
+  config:
+    required: false
+  label: Extrait
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
