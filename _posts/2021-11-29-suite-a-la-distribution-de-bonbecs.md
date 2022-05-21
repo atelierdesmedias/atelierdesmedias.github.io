@@ -10,4 +10,4 @@ image: "/uploads/2022/05/cd3eaef9fff7908b62dea87.JPG"
 ---
 Patati patata
 
-![](/uploads/2022/05/cd3eaef9fff7908b62dea87.JPG)
+![alt image](/uploads/2022/05/cd3eaef9fff7908b62dea87.JPG "titre image")
