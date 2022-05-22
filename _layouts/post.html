@@ -15,8 +15,8 @@
             <span class="published">Publié le <time datetime="{{ page.date }}">{{ page.date | date: "%d/%m/%Y" }}</time></span>
             <span class="author">par {{ page.author }}</span>
         </p>
-        {% if page.image %}
-        <img src="{{ page.image }}" alt="{{ page.title }}" class="featured">
+        {% if page.show_image and page.image %}
+            <img src="{{ page.image }}" alt="{{ page.title }}" class="featured">
         {% endif %}
         <div class="post-content">
             {{ content }}
