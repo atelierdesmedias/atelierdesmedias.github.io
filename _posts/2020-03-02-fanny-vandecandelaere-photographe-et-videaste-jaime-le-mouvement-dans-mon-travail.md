@@ -18,7 +18,7 @@ tags:
     - Vidéaste
 ---
 
-<figure class="wp-block-image">![](/uploads/2020/01/19_INSTA_Fanny_A.jpg)</figure>***Fanny est photographe et vidéaste indépendante.***   
+<figure class="wp-block-image"><img src="/uploads/2020/01/19_INSTA_Fanny_A.jpg" alt="Illustration"></figure>***Fanny est photographe et vidéaste indépendante.***   
 ***Un métier qui l’amène à voyager régulièrement, en France et à l’étranger, pour des tournages ou des prises de vue.***   
 [site](https://fannyvandecandelaere.com/) I [instagram](https://www.instagram.com/fannyvandecandelaere)
 

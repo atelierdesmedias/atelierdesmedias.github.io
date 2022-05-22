@@ -35,12 +35,12 @@ Alors sans plus attendre, j’ai la joie de vous présenter notre nouvelle salle
 
 Et voici **quelques photos** de la toute belle salle :
 
-<div class="wp-caption aligncenter" id="attachment_1611" style="width: 510px"><img src="/uploads/2016/07/20160704_160520-1024x576.jpg" alt="Illustration">Nos **coworkers** préférés
+<div class="wp-caption aligncenter" id="attachment_1611" style="width: 510px"><img src="/uploads/2016/07/20160704_160520-1024x576.jpg" alt="Nos coworkers préférés">Nos **coworkers** préférés
 
-</div><div class="wp-caption aligncenter" id="attachment_1610" style="width: 510px"><img src="/uploads/2016/07/20160704_160433-1024x576.jpg" alt="Illustration">Une **vitrophanie** graphique et moderne pour un peu plus de discretion
+</div><div class="wp-caption aligncenter" id="attachment_1610" style="width: 510px"><img src="/uploads/2016/07/20160704_160433-1024x576.jpg" alt="Une vitrophanie graphique et moderne pour un peu plus de discretion">Une **vitrophanie** graphique et moderne pour un peu plus de discretion
 
-</div><div class="wp-caption aligncenter" id="attachment_1609" style="width: 510px"><img src="/uploads/2016/07/20160704_160322-1024x576.jpg" alt="Illustration">Une nouvelle **table**, modulable pour s’adapter à nos besoins divers
+</div><div class="wp-caption aligncenter" id="attachment_1609" style="width: 510px"><img src="/uploads/2016/07/20160704_160322-1024x576.jpg" alt="Une nouvelle table, modulable pour s'adapter à nos besoins divers">Une nouvelle **table**, modulable pour s’adapter à nos besoins divers
 
-</div><div class="wp-caption aligncenter" id="attachment_1612" style="width: 510px"><img src="/uploads/2016/07/20160704_160542-1024x576.jpg" alt="Illustration">Le tout vivifié par des touches élégantes de **couleurs**
+</div><div class="wp-caption aligncenter" id="attachment_1612" style="width: 510px"><img src="/uploads/2016/07/20160704_160542-1024x576.jpg" alt="Le tout vivifié par des touches de couleurs">Le tout vivifié par des touches élégantes de **couleurs**
 
 </div>

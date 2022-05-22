@@ -26,4 +26,4 @@ L »Atelier des Médias – AdM, notre association d »espace de Coworking basé
 
 PS : Notre page Facebook : [https://www.facebook.com/<wbr></wbr>groups/762514370450175/](https://www.facebook.com/groups/762514370450175/)
 
-<div><div>![](https://ci3.googleusercontent.com/proxy/8CBWEZYl_gju-O0mEKjDNw0Eh_qIbYUu1oZBKfZqOypmLO1gU9NfBBUnKK5HrwoN-VKG8iQn_PvQpZDlbxq0IwVL9dQOy_HcGJ0=s0-d-e1-ft#https://mail.google.com/mail/u/0/images/cleardot.gif)</div></div>
+<div><div><img src="https://ci3.googleusercontent.com/proxy/8CBWEZYl_gju-O0mEKjDNw0Eh_qIbYUu1oZBKfZqOypmLO1gU9NfBBUnKK5HrwoN-VKG8iQn_PvQpZDlbxq0IwVL9dQOy_HcGJ0=s0-d-e1-ft#https://mail.google.com/mail/u/0/images/cleardot.gif" alt="Illustration"></div></div>

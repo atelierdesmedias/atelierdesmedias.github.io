@@ -18,7 +18,7 @@ tags:
     - WeReport
 ---
 
-<figure class="wp-block-image">![](/uploads/2019/12/14_INSTA_Mathieu_A.jpg)</figure>***Au sein du collectif de journalistes indépendants We Report, il mène des enquêtes au long cours, flirte avec les prix journalistiques (mais ça il ne nous le dira pas !) et lorsqu’il tient un sujet, il ne lâche rien !***  
+<figure class="wp-block-image"><img src="/uploads/2019/12/14_INSTA_Mathieu_A.jpg" alt="Illustration"></figure>***Au sein du collectif de journalistes indépendants We Report, il mène des enquêtes au long cours, flirte avec les prix journalistiques (mais ça il ne nous le dira pas !) et lorsqu’il tient un sujet, il ne lâche rien !***  
 [www.wereport.fr](http://www.wereport.fr/)
 
 **Dans quoi travailles-tu ?**  

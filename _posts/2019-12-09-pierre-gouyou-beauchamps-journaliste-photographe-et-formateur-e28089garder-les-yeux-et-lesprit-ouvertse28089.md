@@ -18,7 +18,7 @@ tags:
     - Vélo
 ---
 
-<figure class="wp-block-image">![](/uploads/2019/12/11_INSTA_Pierre_A.jpg)</figure>
+<figure class="wp-block-image"><img src="/uploads/2019/12/11_INSTA_Pierre_A.jpg" alt="Illustration"></figure>
 ***Sujets de société, grands reportages, éducation aux médias, Pierre a trouvé l’équilibre et c’est tant mieux pour quelqu’un qui se déplace partout sur deux roues !***  
 [*w*ww.200-lemagazine.com](http://www.200-lemagazine.com/)  
 [www.wereport.fr](http://www.wereport.fr/)

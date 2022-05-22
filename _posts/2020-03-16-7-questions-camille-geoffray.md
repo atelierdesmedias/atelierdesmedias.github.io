@@ -17,7 +17,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image">![](/uploads/2020/01/36_INSTA_Camille_A.jpg)</figure>*<span style="color: #009ac9;">****Nous avons le plaisir de faire la connaissance et vous présenter [Camille Geoffray, ](https://camillegeoffray.com)secrétaire de l’Atelier des médias, il nous raconte sa rentrée et sa nouvelle passion du coworking. Originaire de Clermont-Ferrand, Camille à 34 ans et il est monteur audiovisuel, mais pas seulement, évidemment !****</span>*
+<figure class="wp-block-image"><img src="/uploads/2020/01/36_INSTA_Camille_A.jpg" alt="Illustration"></figure>*<span style="color: #009ac9;">****Nous avons le plaisir de faire la connaissance et vous présenter [Camille Geoffray, ](https://camillegeoffray.com)secrétaire de l’Atelier des médias, il nous raconte sa rentrée et sa nouvelle passion du coworking. Originaire de Clermont-Ferrand, Camille à 34 ans et il est monteur audiovisuel, mais pas seulement, évidemment !****</span>*
 
 <u>**Questions :**</u>
 

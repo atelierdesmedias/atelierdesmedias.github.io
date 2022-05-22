@@ -17,7 +17,7 @@ tags:
     - mediadrinks
 ---
 
-<div><div><div><div><div><div><div><img src="/uploads/2015/01/mediadrinks4-300x225.jpg" alt="Illustration"></div><div></div><div></div>Voici un petit résumé de la soirée Mediadrinks du 19 janvier 2015 !
+<div><div><div><div><div><div><div><img src="/uploads/2015/01/mediadrinks4-300x225.jpg" alt="mediadrinks4"></div><div></div><div></div>Voici un petit résumé de la soirée Mediadrinks du 19 janvier 2015 !
 
 Sujet : le **datajournalisme** vu par Jean Abbiateci, <span class="fsl">spécialiste de datajournalisme pour le quotidien Le Temps</span>, Agnès Thouvenot, <span class="fsl">ex-journaliste indépendante, aujourd »hui adjointe à la mairie de Villeurbanne</span> et Clément Renaud, <span class="fsl">développeur, chercheur, ex-journaliste, touche-à-tout, éternel voyageur entre Lyon et Shangaï. </span>
 

@@ -18,8 +18,8 @@ Pour ceux qui n’étaient pas là, Corentin a fait une présentation sur Python
 
 L’Atelier des Médias remercie Meetup Python et espère vous recevoir prochainement à nouveau!
 
-<div class="wp-caption alignleft" id="attachment_2910" style="width: 310px">![Meetup "Python en data Science" du 2604/19](/uploads/2019/05/20190424_194352-300x225.jpg)Meetup « Python en data Science » du 2604/19
+<div class="wp-caption alignleft" id="attachment_2910" style="width: 310px"><img src="/uploads/2019/05/20190424_194352-300x225.jpg" alt="Meetup "Python en data Science" du 2604/19">Meetup « Python en data Science » du 2604/19
 
-</div><div class="wp-caption alignleft" id="attachment_2911" style="width: 310px">![Meetup "Python en data Science" du 2604/19](/uploads/2019/05/20190424_194413-300x225.jpg)Meetup « Python en data Science » du 2604/19
+</div><div class="wp-caption alignleft" id="attachment_2911" style="width: 310px"><img src="/uploads/2019/05/20190424_194413-300x225.jpg" alt="Meetup "Python en data Science" du 2604/19">Meetup « Python en data Science » du 2604/19
 
 </div>

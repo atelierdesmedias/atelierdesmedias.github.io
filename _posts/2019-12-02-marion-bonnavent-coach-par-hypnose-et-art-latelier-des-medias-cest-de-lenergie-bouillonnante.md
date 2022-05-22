@@ -19,7 +19,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image">![](/uploads/2019/11/10_INSTA_Marion_A.jpg)</figure>***Marion Bonnavent, 29 ans, fait du coaching par l’hypnose et l’art. Le coworking l’aide à rester concentrée sur ses projets.***  
+<figure class="wp-block-image"><img src="/uploads/2019/11/10_INSTA_Marion_A.jpg" alt="Illustration"></figure>***Marion Bonnavent, 29 ans, fait du coaching par l’hypnose et l’art. Le coworking l’aide à rester concentrée sur ses projets.***  
 [www.marion-bonnavent.com](http://www.marion-bonnavent.com/)  
 [instagram](http://www.instagram.com/marionbonnavent/?hl=fr) I [facebook](http://www.facebook.com/marion.b) I [linkedin](http://www.linkedin.com/in/marion-bonnavent-85916064/?originalSubdomain=fr)
 
