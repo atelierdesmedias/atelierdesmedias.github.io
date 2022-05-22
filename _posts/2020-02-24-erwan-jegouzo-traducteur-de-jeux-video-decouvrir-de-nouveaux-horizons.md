@@ -18,7 +18,9 @@ tags:
     - 'Traduction jeux vidéo'
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2020/01/18_INSTA_Erwan_A.jpg" alt="Illustration"></figure>***A 46 ans, Erwan Jegouzo est traducteur de jeux vidéo. Celui qui est aussi le président de l’Atelier des médias nous explique son métier, qui ne consiste pas (seulement) à jouer à la PlayStation en picorant des cacahuètes.***  *Il vient de Nantes en Bretagne (c’est lui qui le dit), et on peut voir en savoir plus sur lui* [*ici*](https://www.linkedin.com/in/erwanjegouzo/)*.*
+<figure class="wp-block-image"><img src="/uploads/2020/01/18_INSTA_Erwan_A.jpg" alt="Illustration"></figure>
+
+***A 46 ans, Erwan Jegouzo est traducteur de jeux vidéo. Celui qui est aussi le président de l’Atelier des médias nous explique son métier, qui ne consiste pas (seulement) à jouer à la PlayStation en picorant des cacahuètes.***  *Il vient de Nantes en Bretagne (c’est lui qui le dit), et on peut voir en savoir plus sur lui* [*ici*](https://www.linkedin.com/in/erwanjegouzo/)*.*
 
 **Dans quoi travailles-tu ?**   
 Pour aller vite, je suis traducteur freelance de jeux vidéos de l’anglais vers le français.

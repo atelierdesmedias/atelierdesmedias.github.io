@@ -34,13 +34,17 @@ A l’Atelier des médias, des journalistes, doubleurs, vidéastes ou photograph
 
 Cette mini-série est un spin-off de la série *[En Bref](https://www.netflix.com/fr/title/80216752).* Ce sont des documentaires de 25mn sur des sujets différents. Les épisodes en VF sur lesquels elle travaille seront bientôt mis en ligne.
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/IMG_8321-1024x586.jpg" alt="Illustration"><figcaption>Doublage en cours pour une série sur le coronavirus. Crédit: VM.</figcaption></figure>**Enquêtes**
+<figure class="wp-block-image"><img src="/uploads/2020/05/IMG_8321-1024x586.jpg" alt="Illustration"><figcaption>Doublage en cours pour une série sur le coronavirus. Crédit: VM.</figcaption></figure>
+
+**Enquêtes**
 
 - Dans la presse, Morgane Remy a enquêté pour *Mediapart* sur le [« Covid-19: quand les assureurs se défaussent ».](https://www.mediapart.fr/journal/economie/120520/covid-19-quand-les-assureurs-se-defaussent)
 
 Depuis le début de la pandémie, les assureurs refusent d’indemniser des milliers d’indépendants et commerçants pour leurs pertes d’exploitation. Certains « bancassureurs » ont décidé cependant de briser la règle, à la grande fureur du secteur. Des commerçants étudient des actions collectives pour faire valoir leurs droits.
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/article-morgane.png" alt="Illustration"><figcaption>Article sur Mediapart par notre coworkeuse Morgane Remy.</figcaption></figure>Retrouvez également ses sujets sur la crise sanitaire et économique pour *Usine Nouvelle*, en texte et en son :
+<figure class="wp-block-image"><img src="/uploads/2020/05/article-morgane.png" alt="Illustration"><figcaption>Article sur Mediapart par notre coworkeuse Morgane Remy.</figcaption></figure>
+
+Retrouvez également ses sujets sur la crise sanitaire et économique pour *Usine Nouvelle*, en texte et en son :
 
 Covid-19, épisode 1 : [Comment Tereos s’est lancé dans la production de gel hydroalcoolique](https://www.usinenouvelle.com/article/podcast-covid-19-episode-1-comment-tereos-s-est-lance-dans-la-production-de-gel-hydroalcoolique.N946101).  
  Covid-19, épisode 2 : [Comment Lippi a pris (collectivement) la décision de fermer son usine](<http:// https://www.usinenouvelle.com/article/podcast-covid-19-episode-2-comment-lippi-a-pris-collectivement-la-decision-de-fermer-son-usine.N948181>).  

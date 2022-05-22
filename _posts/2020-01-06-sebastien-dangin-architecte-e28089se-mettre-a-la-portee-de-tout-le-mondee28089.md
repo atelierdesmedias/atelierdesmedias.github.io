@@ -17,7 +17,9 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/12/13_INSTA_Sébastien_A.jpg" alt="Illustration"></figure>**Né il y a 38 ans (bientôt 39 !) à Giens, dans le Cher au milieu des vaches, des champs de maïs et de blé, il aime travailler sur ses projets d’architecture, entouré par la diversité d’autres métiers.**
+<figure class="wp-block-image"><img src="/uploads/2019/12/13_INSTA_Sébastien_A.jpg" alt="Illustration"></figure>
+
+**Né il y a 38 ans (bientôt 39 !) à Giens, dans le Cher au milieu des vaches, des champs de maïs et de blé, il aime travailler sur ses projets d’architecture, entouré par la diversité d’autres métiers.**
 
 …..  
 *« J’aimerais bien laisser quelque chose d’exceptionnel »*   

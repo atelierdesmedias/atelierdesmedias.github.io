@@ -21,7 +21,9 @@ tags:
 
 **Comment un espace de coworking vit-il pendant cette épidémie de Covid-19 ? Un an après le premier confinement, trois coworkers de l’Atelier des Médias reviennent sur cette année difficile**.
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-2-1024x683.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau.</figcaption></figure>**De manière globale, quel a été votre ressenti de cette année passée avec le Covid ?**
+<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-2-1024x683.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau.</figcaption></figure>
+
+**De manière globale, quel a été votre ressenti de cette année passée avec le Covid ?**
 
 **Erwan Jegouzo, ex-président de l’Atelier des Médias (jusqu’à décembre 2020) :** On a essayé de s’adapter très vite à la situation. Au conseil d’administration, on était tous fédérés pour faire fonctionner l’Atelier des Médias le mieux possible. À un niveau plus personnel, je n’ai pas été impacté et j’ai continué à travailler. J’ai eu cette chance-là, contrairement à d’autres.
 
@@ -39,7 +41,9 @@ tags:
 
 > ***« On s’est quand même rendus compte de la force de notre modèle associatif, avec une gestion financière plus souple. »***
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-5-1024x683.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>**Des mesures spécifiques ont-t-elles été mises en place à l’Atelier des Médias par rapport à d’autres coworkings ?**
+<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-5-1024x683.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
+
+**Des mesures spécifiques ont-t-elles été mises en place à l’Atelier des Médias par rapport à d’autres coworkings ?**
 
 **Jessica :** C’est difficile d’y répondre car je ne sais pas précisément ce qui se passe ailleurs. Les coworkings en général doivent suivre les mesures détaillées dans le protocole sanitaire en entreprise publié par le gouvernement (distanciation, port du masque, etc). Chacun des coworkings du réseau Coworking Grand Lyon a adapté au mieux cette année ces mesures à sa propre situation. À l’Atelier des Médias, nous avons mis en place une jauge maximale de présence et nous interdisons les déjeuners en groupe. Il n’y a pas de solution idéale, on compose tous entre les restrictions sanitaires et la nécessité de préserver une certaine convivialité, qui font l’essence même de nos lieux. Notre groupe communication fait d’ailleurs un super travail pour rendre tous ces messages contraignants les plus acceptables possible.
 
@@ -65,7 +69,9 @@ tags:
 
 > ***« C’est le message que l’on veut défendre à tout prix : les coworkings, ce ne sont pas seulement des bureaux et du café. Ce sont des lieux de vie. »***
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-3-1024x683.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>**Qu’est-ce que cette crise dit du coworking de manière générale ?**
+<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-3-1024x683.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
+
+**Qu’est-ce que cette crise dit du coworking de manière générale ?**
 
 **Philippe :** Dans une situation comme celle-là, le coworking a montré toute sa force. On a organisé des petites soirées virtuelles et une petite jauge permettait de revenir à l’Atelier des Médias plutôt que de rester chez soi.
 
@@ -79,7 +85,9 @@ tags:
 
 **Erwan :** Moi, je suis un indécrottable optimiste ! Il y a beaucoup de gens qui se lancent en indépendants. On verra bien, mais je pense que notre modèle peut être attractif.
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-10-1024x683.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>**Est-ce qu’on peut quand même tirer des choses positives de cette période difficile ?**
+<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-10-1024x683.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
+
+**Est-ce qu’on peut quand même tirer des choses positives de cette période difficile ?**
 
 **Jessica :** Ça a mis en lumière la force du collectif. Côté Coworking Grand Lyon, le réseau a été très soudé et d’un grand soutien. Côté Atelier des Médias, on a vu beaucoup d’engagement et de solidarité financière. On ne peut pas fonctionner seul, que ça soit en tant qu’indépendants (certains parlent d’interdépendants !) ou en tant que coworkings. Des réseaux comme le Coworking Grand Lyon, les discussions avec la Métropole, des associations comme France Tiers-Lieux ou Independant.co sont toutes nécessaires !
 

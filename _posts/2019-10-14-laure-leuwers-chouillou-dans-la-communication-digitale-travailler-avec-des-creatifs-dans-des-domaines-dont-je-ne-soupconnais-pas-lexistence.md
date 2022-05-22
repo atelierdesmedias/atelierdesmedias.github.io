@@ -17,7 +17,9 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/03_INSTA_Laure_A.jpg" alt="Illustration"></figure>***A 35 ans, Laure Leuwers-Chouillou travaille dans la communication digitale, dans des domaines aussi variés que le lifestyle, l’écologie ou la science.***
+<figure class="wp-block-image"><img src="/uploads/2019/10/03_INSTA_Laure_A.jpg" alt="Illustration"></figure>
+
+***A 35 ans, Laure Leuwers-Chouillou travaille dans la communication digitale, dans des domaines aussi variés que le lifestyle, l’écologie ou la science.***
 
 **D’où viens-tu ?**
 

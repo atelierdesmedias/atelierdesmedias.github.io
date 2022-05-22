@@ -26,7 +26,9 @@ C’est un principe de fonctionnement immuable de l’Atelier des médias, depui
 
 > **« D’autres viennent lui prêter main forte »**
 
-<figure class="wp-block-image"><img src="/uploads/2021/11/DSC03552_websize.jpg" alt="Illustration"><figcaption> Atelier des Médias, 2021 © Anne Gentilleau </figcaption></figure>Chaque groupe a sa méthode. À la trésorerie, groupe précieux par définition, une permanence tournante de deux heures a lieu tous les mardi après-midi. « *Le roulement prévoit un·e Trésor par semaine mais, bien souvent, d’autres viennent lui prêter main forte* », explique Anne Balaguier, la responsable du groupe tréso.
+<figure class="wp-block-image"><img src="/uploads/2021/11/DSC03552_websize.jpg" alt="Illustration"><figcaption> Atelier des Médias, 2021 © Anne Gentilleau </figcaption></figure>
+
+Chaque groupe a sa méthode. À la trésorerie, groupe précieux par définition, une permanence tournante de deux heures a lieu tous les mardi après-midi. « *Le roulement prévoit un·e Trésor par semaine mais, bien souvent, d’autres viennent lui prêter main forte* », explique Anne Balaguier, la responsable du groupe tréso.
 
 Au groupe informatique, *« il n’y a pas de rythme de réunion précis, par contre les membres discutent régulièrement via le canal de chat interne de l’Atelier. Ce sont d’ailleurs les seuls à l’utiliser mais il faut un début à tout »,* précise Martin Delille, le responsable d’un groupe technique dont les tâches vont de la bonne marche de la connexion internet au serveur hébergeant l’intranet et le site public, jusqu’aux *mailings lists*assurant la communication entre les adhérents. Le groupe est aussi (très) souvent à la disposition des autres coworkers lorsqu’ils rencontrent des problèmes techniques.
 
@@ -38,6 +40,8 @@ Quant au groupe « communication », il répartit ses différentes tâches. Pour
 
 > **« Nous sommes ravis de servir de modèle »**
 
-<figure class="wp-block-image"><img src="/uploads/2021/11/adm-janv21-3_websize.jpg" alt="Illustration"><figcaption> Atelier des Médias, 2021 © Anne Gentilleau </figcaption></figure>Ce mode de fonctionnement, où chacun donne quelques heures bénévoles par mois, permet de faire tourner au quotidien un coworking associatif. « *Ça permet aussi aux nouveaux venus de rapidement participer à la vie de notre espace. Ce qui n’empêche pas des initiatives « hors groupes » ou des participations de coworkers pour prêter main forte à un groupe quand c’est nécessaire. Je trouve que c’est idéal pour un espace autogéré* », estime Anne-Catherine. *« Ça contribue à en faire un espace dynamique et vivant, qui sait faire face à des situations parfois complexes comme le Covid »*, ajoute Anne.
+<figure class="wp-block-image"><img src="/uploads/2021/11/adm-janv21-3_websize.jpg" alt="Illustration"><figcaption> Atelier des Médias, 2021 © Anne Gentilleau </figcaption></figure>
+
+Ce mode de fonctionnement, où chacun donne quelques heures bénévoles par mois, permet de faire tourner au quotidien un coworking associatif. « *Ça permet aussi aux nouveaux venus de rapidement participer à la vie de notre espace. Ce qui n’empêche pas des initiatives « hors groupes » ou des participations de coworkers pour prêter main forte à un groupe quand c’est nécessaire. Je trouve que c’est idéal pour un espace autogéré* », estime Anne-Catherine. *« Ça contribue à en faire un espace dynamique et vivant, qui sait faire face à des situations parfois complexes comme le Covid »*, ajoute Anne.
 
 Un fonctionnement à part, qui fait des émules. Anne-Catherine se souvient encore de cette réunion du réseau « Coworking Grand Lyon », qui fédère plusieurs espaces de travail partagé sous l’égide de la métropole. *« J’avais rencontré les responsables d’un coworking qui nous a « avoué » qu’ils ont copié notre fonctionnement de groupe pour leur espace, l’ayant découvert en venant pour un événement chez nous »*, raconte Anne-Catherine. *« Nous sommes ravis de servir de modèle. »*

@@ -19,7 +19,9 @@ tags:
     - 'Web serie'
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/07_INSTA_Arnaud_A.jpg" alt="Illustration"></figure>***Arno est réalisateur. Ce parisien d’origine a fait un bon bout de chemin vers l’Ouest (Bretagne, puis UK, puis US) pour s’installer aujourd’hui à Lyon. Foisonnant d’idées, il se sert de sa caméra pour raconter des histoires.***   
+<figure class="wp-block-image"><img src="/uploads/2019/10/07_INSTA_Arnaud_A.jpg" alt="Illustration"></figure>
+
+***Arno est réalisateur. Ce parisien d’origine a fait un bon bout de chemin vers l’Ouest (Bretagne, puis UK, puis US) pour s’installer aujourd’hui à Lyon. Foisonnant d’idées, il se sert de sa caméra pour raconter des histoires.***   
 [www.algdcreative.com](http://www.algdcreative.com/)
 
 **Dans quoi travailles-tu ?**  
