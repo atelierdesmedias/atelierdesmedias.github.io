@@ -18,7 +18,7 @@ tags:
 
 <span style="font-weight: 400;">Grâce au talent d’organisation et de modération de [Charlotte Bohl](/coworkers/charlotte-bohl/) et à l’enthousiasme des nombreux coworkers présents, nous avons avancé à **vitesse grand V** sur trois axes, chacun aux mains d’un groupe de travail spécifique.</span>
 
-- <span style="font-weight: 400;">[![projet salle de réunion](/uploads/2016/01/IMG_5935-e1453219962130-768x1024.jpg)](/uploads/2016/01/IMG_5935-e1453219962130.jpg)Organisation d’un jeu pour la cohésion entre coworkers, mieux faire connaître l’ADM à ses propres membres et pour le fun.</span>
+- <span style="font-weight: 400;"><img src="/uploads/2016/01/IMG_5935-e1453219962130-768x1024.jpg" alt="Illustration">Organisation d’un jeu pour la cohésion entre coworkers, mieux faire connaître l’ADM à ses propres membres et pour le fun.</span>
 - <span style="font-weight: 400;">Chantier de réaménagement de la salle de réunion pour le confort, le professionnalisme et pour le fun.</span>
 - <span style="font-weight: 400;">Organisation d’un weekend pour faire vivre l’ADM en tant que communauté, mieux intégrer les nouveaux venus et souder les liens entre coworkers et pour le fun.</span>
 

@@ -54,5 +54,5 @@ Joey Startup. Parce que depuis que je suis à l »Atelier des Médias, j »ai qu
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-268 gallery-columns-3 gallery-size-thumbnail" id="gallery-6"><dl class="gallery-item"> <dt class="gallery-icon landscape"> [![](/uploads/2014/09/10428337_788403754524396_3920591273918869379_o-150x150.jpg)](/10428337_788403754524396_3920591273918869379_o/) </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> [![](/uploads/2014/09/10560418_788403711191067_4750063957649665115_o-150x150.jpg)](/10560418_788403711191067_4750063957649665115_o/) </dt></dl>   
+<div class="gallery galleryid-268 gallery-columns-3 gallery-size-thumbnail" id="gallery-6"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10428337_788403754524396_3920591273918869379_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10560418_788403711191067_4750063957649665115_o-150x150.jpg" alt="Illustration"> </dt></dl>   
  </div>
