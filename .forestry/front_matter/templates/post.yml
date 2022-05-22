@@ -9,29 +9,55 @@ fields:
   hidden: true
   label: Layout
   default: post
-- name: name
+- name: permalink
   type: text
   config:
     required: false
-  label: Titre
-- name: date
-  type: datetime
-  label: Date
-  description: ''
+  label: Permalien
+- name: title
+  type: text
   config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
+    required: true
+    min: 20
+    max: 100
+  label: Titre
 - name: excerpt
   type: text
   config:
     required: false
   label: Extrait
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: DD/MM/YYYY
+    time_format: h:mm
+    display_utc: false
+  default: now
+- name: author
+  type: text
+  config:
+    required: true
+  label: Auteur
+  default: La rédaction
 - name: image
   type: file
   config:
-    maxSize: 64
+    maxSize: 2
   label: Image
+- name: show_image
+  type: boolean
+  label: Afficher l'image
+  default: true
+- name: categories
+  type: tag_list
+  default: []
+  label: Catégories
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
 pages:
 - _posts/2021-11-29-suite-a-la-distribution-de-bonbecs.md
