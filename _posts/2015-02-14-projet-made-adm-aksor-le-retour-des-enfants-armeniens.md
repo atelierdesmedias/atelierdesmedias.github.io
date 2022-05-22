@@ -37,6 +37,6 @@ Les reportages ont pour vocation d’être publiés dans la presse française et
 
 **Merci de les soutenir !**
 
-<div class="wp-caption alignnone" style="width: 550px">![Edouard, Hélène, Edgar et Arthur](https://d3v4jsc54141g1.cloudfront.net/uploads/project_image/image/161575/Portrait_4_ouverture-1423728996.jpg)Aksor, le retour des enfants arméniens
+<div class="wp-caption alignnone" style="width: 550px"><img src="https://d3v4jsc54141g1.cloudfront.net/uploads/project_image/image/161575/Portrait_4_ouverture-1423728996.jpg" alt="Edouard, Hélène, Edgar et Arthur">Aksor, le retour des enfants arméniens
 
 </div>

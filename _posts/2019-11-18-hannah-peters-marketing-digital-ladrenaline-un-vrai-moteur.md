@@ -19,7 +19,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image">![](/uploads/2019/10/08_INSTA_Hannah_A.jpg)</figure>***À 30 ans, Hannah, Bretonne (de Brest, la VRAIE Bretagne !) vient de créer une école en ligne pour apprendre à trouver des clients sur internet.***  
+<figure class="wp-block-image"><img src="/uploads/2019/10/08_INSTA_Hannah_A.jpg" alt="Illustration"></figure>***À 30 ans, Hannah, Bretonne (de Brest, la VRAIE Bretagne !) vient de créer une école en ligne pour apprendre à trouver des clients sur internet.***  
 [www.digi-atlas.com](http://www.digi-atlas.com/)  
 [www.linkedin.com/in/formation-marketing-digital](http://www.linkedin.com/in/formation-marketing-digital)
 

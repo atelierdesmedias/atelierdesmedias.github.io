@@ -17,7 +17,7 @@ tags:
 
 *Dorian vient de poser ses valises à Lyon, et son ordinateur à l’Atelier des médias (ADM). Jeune architecte, il travaille en distanciel pour une agence nîmoise. Dans notre tiers-lieu associatif, son accent chantant égaille les pauses-café, et son regard de pro ouvre déjà des perspectives pour optimiser les espaces.*
 
-<figure class="wp-block-image">![](/uploads/2021/03/gravier.png)</figure>#### Tu viens de quitter Nîmes pour t’installer à Lyon. Qu’est ce qui t’amène chez nous ? 
+<figure class="wp-block-image"><img src="/uploads/2021/03/gravier.png" alt="Illustration"></figure>#### Tu viens de quitter Nîmes pour t’installer à Lyon. Qu’est ce qui t’amène chez nous ? 
 
 J’ai découvert Lyon lorsque j’ai rendu visite à mon cousin et j’ai tout de suite adoré la ville. J’aime son échelle : ni trop petite, ni trop grande. Mais aussi sa diversité architecturale. Les quartiers sont très différents les uns des autres à Lyon. J’ai aussi aimé la dynamique culturelle de la ville, ses soirées, ses supers bars… Je me suis dit que dès que je le pourrai, je m’y installerai. C’est chose faite ! Avec ma compagne, nous avons emménagé il y a quelques mois.
 

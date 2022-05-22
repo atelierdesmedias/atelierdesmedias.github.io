@@ -42,7 +42,7 @@ tags:
 > 
 > Malgré les discours affichés, les **entreprises** hésitent encore à sauter le pas du **télétravail**. Comment les sensibiliser à ces nouveaux modes de travail ? Comment les convaincre de se lancer dans le coworking pour leurs salariés ?
 > 
-> </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="page" title="Page 7"></div>**![Capture d'écran 2017-08-24 10.36.55](/uploads/2017/08/Capture-décran-2017-08-24-10.36.55-150x150.png)![Capture d'écran 2017-08-24 10.37.09](/uploads/2017/08/Capture-décran-2017-08-24-10.37.09-150x150.png) ![Capture d'écran 2017-08-24 10.37.02](/uploads/2017/08/Capture-décran-2017-08-24-10.37.02-150x150.png)**
+> </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="page" title="Page 7"></div>**<img src="/uploads/2017/08/Capture-décran-2017-08-24-10.36.55-150x150.png" alt="Capture d'écran 2017-08-24 10.36.55"><img src="/uploads/2017/08/Capture-décran-2017-08-24-10.37.09-150x150.png" alt="Capture d'écran 2017-08-24 10.37.09"> <img src="/uploads/2017/08/Capture-décran-2017-08-24-10.37.02-150x150.png" alt="Capture d'écran 2017-08-24 10.37.02">**
 > 
 > </div></div></div></div></div></div></div>
 

@@ -41,4 +41,4 @@ Pour en savoir plus, vous pouvez visiter notre site [<a href="http://monnaielibr
 Un grand merci à l'ADM de nous avoir accueillis pour cette soirée !
 ```
 
-<figure class="wp-block-image">![](/uploads/2020/02/aperomonnaielibre.jpg)<figcaption>Et au premier plan, les piécettes pour tester plusieurs systèmes d’échange : le troc, les monnaies métalliques, les monnaies-crédit (comme l’Euro©) et enfin la monnaie libre.</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/02/aperomonnaielibre.jpg" alt="Illustration"><figcaption>Et au premier plan, les piécettes pour tester plusieurs systèmes d’échange : le troc, les monnaies métalliques, les monnaies-crédit (comme l’Euro©) et enfin la monnaie libre.</figcaption></figure>

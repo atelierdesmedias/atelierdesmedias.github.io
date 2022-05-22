@@ -18,7 +18,7 @@ tags:
     - rédactrice
 ---
 
-<figure class="wp-block-image">![](/uploads/2019/10/09_INSTA_Claire_A.jpg)</figure>***Claire est créatrice éditoriale. À 36 ans, elle déborde d’énergie, de curiosité et aime comprendre les sujets les plus compliqués… pour mieux les expliquer !***  
+<figure class="wp-block-image"><img src="/uploads/2019/10/09_INSTA_Claire_A.jpg" alt="Illustration"></figure>***Claire est créatrice éditoriale. À 36 ans, elle déborde d’énergie, de curiosité et aime comprendre les sujets les plus compliqués… pour mieux les expliquer !***  
 www.morelclaire.com/
 
 **Dans quoi travailles-tu ?**  

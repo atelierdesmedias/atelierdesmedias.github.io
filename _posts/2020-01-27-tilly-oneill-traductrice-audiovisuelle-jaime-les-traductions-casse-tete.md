@@ -14,7 +14,7 @@ tags:
     - 'traductrice audiovisuelle'
 ---
 
-<figure class="wp-block-image">![](/uploads/2020/01/15_INSTA_Tilly_A.jpg)<figcaption>  
+<figure class="wp-block-image"><img src="/uploads/2020/01/15_INSTA_Tilly_A.jpg" alt="Illustration"><figcaption>  
 </figcaption></figure>***Cette Anglaise de 32 ans est une joueuse. Elle jongle avec les sous-titres et les doublages, et elle aime se cacher ! Au coworking elle s’est trouvée !***  
 [*Son profil Linkedin*](http://linkedin.com/in/tillyoneillsubtitling)
 
