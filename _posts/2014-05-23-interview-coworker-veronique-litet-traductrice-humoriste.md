@@ -10,12 +10,12 @@ categories:
     - 'Focus métier'
 ---
 
-En ce vendredi, découvrez ou redécouvrez Véronique Litet, dont le bureau fixe se trouve au fond de l »Atelier des Médias, au lieu dit « la Grotte ».
+En ce vendredi, découvrez ou redécouvrez Véronique Litet, dont le bureau fixe se trouve au fond de l'Atelier des Médias, au lieu dit « la Grotte ».
 
 [![10330313_759725317392240_4197228065600458332_n](/uploads/2014/09/10330313_759725317392240_4197228065600458332_n-225x300.jpg)](/uploads/2014/09/10330313_759725317392240_4197228065600458332_n.jpg)
 
-Elle se dévoile – un peu – toujours avec l »humour qui la caractérise !  
-Sur fond de photo d »un autre coworker, ©Franck Ribard
+Elle se dévoile – un peu – toujours avec l'humour qui la caractérise !  
+Sur fond de photo d'un autre coworker, ©Franck Ribard
 
 ## Véronique, qui es-tu ?
 
@@ -26,9 +26,9 @@ Finalement, c’est dans ma bonne vieille ville de Lyon, et plus exactement à l
 
 Mon rire… que l’on entend du fond de la Grotte
 
-## Que fais-tu pour qu »autant de clients t’adulent ?
+## Que fais-tu pour qu'autant de clients t’adulent ?
 
-Adulée, moi ? Tu plaisantes ! Je suis celle que tu maudis quand tu ne comprends pas le manuel d’utilisation [casino online](http://www.svenskkasinon.com/) de ton nouvel aspirateur, celle que tu détestes quand tu trouves que l’acteur « n’a pas dit ça du tout, mais alors pas du tout » en lisant les sous-titres de ta série préférée, celle que tu regardes bizarre dans son « bocal » et qui parle toute seule dans un casque…  
+Adulée, moi ? Tu plaisantes ! Je suis celle que tu maudis quand tu ne comprends pas le manuel d’utilisation de ton nouvel aspirateur, celle que tu détestes quand tu trouves que l’acteur « n’a pas dit ça du tout, mais alors pas du tout » en lisant les sous-titres de ta série préférée, celle que tu regardes bizarre dans son « bocal » et qui parle toute seule dans un casque…  
 Ben oui, je suis traductrice et interprète ! Heureusement que mes clients aiment ma plume, ma réactivité et mon sens de l’humour, eux !
 
 ## Mais pourquoi diable es-tu venue à l’ADM ?

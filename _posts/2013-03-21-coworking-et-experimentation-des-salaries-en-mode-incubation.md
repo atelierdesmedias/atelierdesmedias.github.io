@@ -46,7 +46,7 @@ Dès son origine, l’ADM avait imaginé créer **une formule dédiée aux salar
 
 **Les risques pour l’entreprise ?**
 
-Alors, nous voyons déjà certains employeurs [casino](http://www.svenskkasinon.com/) se crisper sur leur fauteuil à la lecture de ce billet.
+Alors, nous voyons déjà certains employeurs se crisper sur leur fauteuil à la lecture de ce billet.
 
 “*Et qu’est-ce que je fais si mon employé trouve le travail plus sympa dans votre espace que dans ma boite ?”*  
 *“Et s’il passe son temps à papoter et bacle son travail ?” “ Et si face à autant de liberté, il avait soudain envie de monter sa boite ?*”

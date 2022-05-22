@@ -10,7 +10,7 @@ categories:
     - 'Focus métier'
 ---
 
-Interview d »une coworkeuse (historique) : Aurélie Khalidi. Notre graphiste de renommée internationale nous fait le plaisir de partager sa bonne humeur.
+Interview d'une coworkeuse (historique) : Aurélie Khalidi. Notre graphiste de renommée internationale nous fait le plaisir de partager sa bonne humeur.
 
 [![10468134_782094485155323_8813176493120189723_o](/uploads/2014/09/10468134_782094485155323_8813176493120189723_o-300x225.jpg)](/uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg)
 
@@ -21,7 +21,7 @@ Je suis trentenaire, graphiste / illustratrice depuis 10 ans et freelance depuis
 ## Que fais-tu ?
 
 C’est ma fascination pour le dessin qui m’a conduite à faire mes études aux Beaux-Arts et à finalement m’orienter vers le graphisme tout en conservant une casquette d’illustratrice.  
-Les projets sur lesquels je travaille depuis que je suis freelance sont souvent plus variés et créatifs qu’en agence. Je crée des logos, des illustrations pour des animations, des mises en page de magazines, des maquettes de sites web, je conçois [online slots](http://www.nbso.ca/) des campagnes, des affiches… l’habillage d’un web documentaire récemment (en collaboration avec un coworker justement).  
+Les projets sur lesquels je travaille depuis que je suis freelance sont souvent plus variés et créatifs qu’en agence. Je crée des logos, des illustrations pour des animations, des mises en page de magazines, des maquettes de sites web, je conçois des campagnes, des affiches… l’habillage d’un web documentaire récemment (en collaboration avec un coworker justement).  
 Être freelance me donne aussi l’occasion de choisir les personnes avec qui je veux collaborer quand il s’agit de projets d’envergure. Après 7 ans de freelance, je suis devenue pour mes clients d’avantage une collaboratrice qu’une prestataire. Je me fais fort d’être réactive, pro-active, active !
 
 ## Pourquoi le coworking ?
