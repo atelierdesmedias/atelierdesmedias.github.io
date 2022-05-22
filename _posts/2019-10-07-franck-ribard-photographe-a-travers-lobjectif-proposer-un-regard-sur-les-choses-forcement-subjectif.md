@@ -17,7 +17,7 @@ tags:
     - Portrait
 ---
 
-- <figure><img src="/uploads/2019/10/02_INSTA_Franck_A-copie-1.jpg" alt="Illustration"></figure>
+<figure><img src="/uploads/2019/10/02_INSTA_Franck_A-copie-1.jpg" alt="Illustration"></figure>
 
 ***À 42 ans, il mène son travail photographique aussi bien du côté l’architecture, que de l’industrie et de la communication. Illustrations, portraits, événementiel… Ce qu’il préfère c’est, à travers l’objectif, proposer un regard sur les choses… Forcément subjectif !*** [www.regard-objectif.fr ](http://www.regard-objectif.fr/)
 

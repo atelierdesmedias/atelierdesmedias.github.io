@@ -9,8 +9,7 @@ categories:
     - Evènements
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/11/1-1024x768.jpg" alt="Illustration"><figcaption>Le super duo designer &amp; développeur [Romain Balcerak](https://www.linkedin.com/in/ACoAAAhk6UUBu76WNF0dIBjEr1tJp6PDLQ-I3z0/)  
- et [Romain Jusserand](https://www.linkedin.com/in/ACoAAA6ZdiQBj0YClHVej45b2AKDLrKwMlDbAZE/).</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2019/11/1-1024x768.jpg" alt="Illustration"><figcaption>Le super duo designer &amp; développeur <a href="https://www.linkedin.com/in/ACoAAAhk6UUBu76WNF0dIBjEr1tJp6PDLQ-I3z0/">Romain Balcerak</a> et <a href="https://www.linkedin.com/in/ACoAAA6ZdiQBj0YClHVej45b2AKDLrKwMlDbAZE/">Romain Jusserand</a>.</figcaption></figure>
 
 Salle comble le 7 Novembre 2019 à l’Atelier Des Médias, qui a accueilli des habitués, l’association [IxDALyon](https://www.linkedin.com/company/ixdalyon/) (Interaction Design Association chapitre Lyonnais).
 
