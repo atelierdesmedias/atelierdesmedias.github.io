@@ -16,11 +16,14 @@ fields:
     min: 10
     max: 
   label: Titre
+  description: Le titre de l'article.
 - name: excerpt
   type: text
   config:
     required: false
   label: Extrait
+  description: Facultatif. Introduction de l'article, affichée sous le titre et dans
+    la liste des articles.
 - name: set_permalink
   type: boolean
   label: Personnaliser l'URL
@@ -50,22 +53,28 @@ fields:
     required: true
   label: Auteur
   default: La rédaction
+  description: L'auteur de l'article.
 - name: image
   type: file
   config:
     maxSize: 2
   label: Image
+  description: Image affichée dans la liste des articles et pour le partage sur les
+    réseaux sociaux.
 - name: show_image
   type: boolean
   label: Afficher l'image
   default: true
+  description: Afficher l'image dans l'article (au dessus du contenu).
 - name: categories
   type: tag_list
   default: []
   label: Catégories
+  description: Facultatif.
 - name: tags
   type: tag_list
   default: []
   label: Tags
+  description: Facultatif.
 pages:
 - _posts/ceci-est-le-titre-de-plus-de-20-caracteres.md
