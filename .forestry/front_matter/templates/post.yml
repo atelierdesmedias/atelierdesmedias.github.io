@@ -59,5 +59,3 @@ fields:
   type: tag_list
   default: []
   label: Tags
-pages:
-- _posts/2021-11-29-suite-a-la-distribution-de-bonbecs.md
