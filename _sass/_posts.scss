@@ -1,0 +1,31 @@
+.post {
+    max-width: 900px;
+    margin: 2rem auto;
+}
+
+img.featured {
+    margin: 1rem 0;
+    object-fit: cover;
+    width: 100%;
+    max-height: 600px;
+}
+
+.post-content img {
+    display: block;
+    max-width: 100%;
+    margin: 1rem auto;
+}
+
+ul.post-categories {
+    display: flex;
+    gap: 0.5rem;
+    margin-top: 0.5rem;
+}
+
+ul.post-categories li {
+    list-style: none;
+    display: inline-block;
+    background: #88BA30;
+    color: #fff;
+    padding: 0.25rem 0.5rem;
+}
