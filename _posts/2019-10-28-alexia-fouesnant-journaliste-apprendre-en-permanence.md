@@ -17,7 +17,9 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/06_INSTA_Alexia_A.jpg" alt="Illustration"></figure>***Journaliste lyonnaise de 31 ans, elle avoue ne pas avoir encore de site pro. Un jour peut-être…***
+<figure class="wp-block-image"><img src="/uploads/2019/10/06_INSTA_Alexia_A.jpg" alt="Illustration"></figure>
+
+***Journaliste lyonnaise de 31 ans, elle avoue ne pas avoir encore de site pro. Un jour peut-être…***
 
 **Dans quoi travailles-tu ?**  
 Je suis journaliste et je reprends des études pour être psychologue. Un jour peut-être j’aurai un site professionnel. Quand je serai grande !

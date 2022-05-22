@@ -17,7 +17,9 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/04_INSTA_Alex_A.jpg" alt="Illustration"></figure>***A 34 ans, originaire du Nord-Est de la France, Alexandre Freard est développeur, à la fois pour du web, de l’applicatif, mais aussi pour des jeux vidéos indépendants. Et fourmille de talents cachés…***  
+<figure class="wp-block-image"><img src="/uploads/2019/10/04_INSTA_Alex_A.jpg" alt="Illustration"></figure>
+
+***A 34 ans, originaire du Nord-Est de la France, Alexandre Freard est développeur, à la fois pour du web, de l’applicatif, mais aussi pour des jeux vidéos indépendants. Et fourmille de talents cachés…***  
 Son site web : <http://www.alexandre-freard.com/>
 
 **Qu’est-ce que tu préfères dans ton travail ?**  

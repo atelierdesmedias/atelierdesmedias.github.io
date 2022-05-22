@@ -19,7 +19,9 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2020/01/17_INSTA_Charlotte_A.jpg" alt="Illustration"></figure>*<span style="color: #99cc00;">**Originaire de Breizh-Rennes, Charlotte Cornudet est graphiste et illustratrice, notamment dans le domaine de la santé. Elle nous raconte sa passion pour son métier, qui l’amène jusqu’à colorier des souris en vert.** Son site : </span>[<span style="color: #99cc00;">www.hirondelleprocess.com</span>](http://www.hirondelleproocess.com)*
+<figure class="wp-block-image"><img src="/uploads/2020/01/17_INSTA_Charlotte_A.jpg" alt="Illustration"></figure>
+
+*<span style="color: #99cc00;">**Originaire de Breizh-Rennes, Charlotte Cornudet est graphiste et illustratrice, notamment dans le domaine de la santé. Elle nous raconte sa passion pour son métier, qui l’amène jusqu’à colorier des souris en vert.** Son site : </span>[<span style="color: #99cc00;">www.hirondelleprocess.com</span>](http://www.hirondelleproocess.com)*
 
 **Dans quoi travailles-tu ?**
 

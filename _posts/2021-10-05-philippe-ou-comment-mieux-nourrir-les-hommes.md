@@ -14,7 +14,9 @@ categories:
 
 **« Atiab » : c’est le nom qu’a choisi Philippe Rahbé pour son nouveau projet de lutte contre le gaspillage alimentaire. « Cela signifie ‘de meilleur goût’, en libanais », explique-t-il. Un clin d’œil à son pays d’origine, où Philippe a fait vivre pendant un an une épicerie bio.**
 
-<figure class="wp-block-image"><img src="/uploads/2021/10/Philippe.jpg" alt="Illustration"></figure>Sa vocation est toute récente mais bien ancrée : « Je veux permettre au plus grand nombre de mieux se nourrir, avec de bons produits, sans épuiser les ressources de la planète », raconte Philippe Rahbé, 43 ans, entrepreneur. « Il y a quelques années, je suis tombé sur un article qui expliquait qu’en 2050, les ressources de la planète ne seraient pas suffisantes pour nourrir les 10 milliards d’humains qui l’habitent. Cela m’a marqué. »
+<figure class="wp-block-image"><img src="/uploads/2021/10/Philippe.jpg" alt="Illustration"></figure>
+
+Sa vocation est toute récente mais bien ancrée : « Je veux permettre au plus grand nombre de mieux se nourrir, avec de bons produits, sans épuiser les ressources de la planète », raconte Philippe Rahbé, 43 ans, entrepreneur. « Il y a quelques années, je suis tombé sur un article qui expliquait qu’en 2050, les ressources de la planète ne seraient pas suffisantes pour nourrir les 10 milliards d’humains qui l’habitent. Cela m’a marqué. »
 
 Pour lutter contre le gaspillage alimentaire, Philippe s’apprête à lancer Atiab, son tout dernier projet. Le principe : acheter à bas prix, auprès de producteurs locaux, les légumes invendus en raison de leurs « défauts » ou d’une surproduction, les transformer et en faire des produits en conserve (soupe, jus, gaspacho…), pour les vendre ensuite en bouteilles consignées, dans les réseaux de circuit court. De plus, il souhaite, à terme, former et employer des personnes réfugiées. Le nom du projet est un clin d’œil à son pays d’origine, le Liban : « En Libanais, on utilise le mot ‘atiab’ pour désigner un plat qui a meilleur goût, dans les buffets par exemple. »
 

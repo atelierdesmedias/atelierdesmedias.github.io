@@ -18,7 +18,9 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/05_INSTA_Aurelie_A.jpg" alt="Illustration"></figure>***Graphiste et illustratrice, originaire du Loir-et-Cher, Aurélie Khalidi est passée par Salamanque et Nice avant de poser ses valises à Lyon et à l’Atelier des médias. Pour mieux repartir.***  
+<figure class="wp-block-image"><img src="/uploads/2019/10/05_INSTA_Aurelie_A.jpg" alt="Illustration"></figure>
+
+***Graphiste et illustratrice, originaire du Loir-et-Cher, Aurélie Khalidi est passée par Salamanque et Nice avant de poser ses valises à Lyon et à l’Atelier des médias. Pour mieux repartir.***  
 [www.orangevif.com](http://www.orangevif.com/)
 
 **Dans quoi travailles-tu ?**
