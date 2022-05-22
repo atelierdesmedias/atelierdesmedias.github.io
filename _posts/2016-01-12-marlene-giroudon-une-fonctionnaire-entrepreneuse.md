@@ -10,7 +10,7 @@ categories:
     - 'Focus métier'
 ---
 
-**<u>[![Marlène](/uploads/2016/01/Marlène-680x1024.jpg)](/uploads/2016/01/Marlène.jpg)En une ligne, comment définis-tu ton travail </u><u>?</u>**
+**<u><img src="/uploads/2016/01/Marlène-680x1024.jpg" alt="Illustration">En une ligne, comment définis-tu ton travail </u><u>?</u>**
 
 Je propose du conseil en communication avec une forte composante éditoriale.
 
