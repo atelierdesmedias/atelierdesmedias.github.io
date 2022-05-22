@@ -9,11 +9,6 @@ fields:
   hidden: true
   label: Layout
   default: post
-- name: permalink
-  type: text
-  config:
-    required: false
-  label: Permalien
 - name: title
   type: text
   config:
@@ -26,6 +21,19 @@ fields:
   config:
     required: false
   label: Extrait
+- name: set_permalink
+  type: boolean
+  label: Personnaliser l'URL
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: Permalien
+  description: Personnalisation de l'URL. Remplacer les espaces par des tirets et
+    ne pas mettre d'accents.
+  showOnly:
+    field: set_permalink
+    value: true
 - name: date
   type: datetime
   label: Date
