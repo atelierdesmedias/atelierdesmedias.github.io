@@ -5,4 +5,4 @@ _site/
 node_modules/
 Makefile
 _data/coworker_tags.yml
-
+.DS_Store
