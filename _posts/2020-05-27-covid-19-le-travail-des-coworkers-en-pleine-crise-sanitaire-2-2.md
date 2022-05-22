@@ -30,6 +30,8 @@ Marion Hummer a réalisé les vues 3D, le dossier de présentation, ainsi que le
 
 Les replays sont en libre accès sur sa chaîne [Youtube](<http:// https://www.youtube.com/watch?v=ne-Zbf3vKGA&list=PLfU-r5qJakZYHIEofRCFV_-uOTYqsQt66>).
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/marion-bonnavent.jpg" alt="Illustration"><figcaption>Crédit: Marion Bonnavent. Change en corps. 2020</figcaption></figure>- Enfin, Cyril Augier, spécialisé en théâtre d’entreprise, a réalisé une prestation liée à la crise sanitaire sur « A Nous de Jouer! ». Il s’agit d’ une [vidéo-forum](https://www.theatre-d-entreprise.fr/de-la-crise-a-la-reprise-une-video-forum-pour-un-retour-dexperience-salarie-e-s/), pour développer les échanges et les retours d’expériences des salariés. L’objectif est de tirer les premiers enseignements de la crise, de lui donner du sens et de la transformer en opportunité.
+<figure class="wp-block-image"><img src="/uploads/2020/05/marion-bonnavent.jpg" alt="Illustration"><figcaption>Crédit: Marion Bonnavent. Change en corps. 2020</figcaption></figure>
+
+- Enfin, Cyril Augier, spécialisé en théâtre d’entreprise, a réalisé une prestation liée à la crise sanitaire sur « A Nous de Jouer! ». Il s’agit d’ une [vidéo-forum](https://www.theatre-d-entreprise.fr/de-la-crise-a-la-reprise-une-video-forum-pour-un-retour-dexperience-salarie-e-s/), pour développer les échanges et les retours d’expériences des salariés. L’objectif est de tirer les premiers enseignements de la crise, de lui donner du sens et de la transformer en opportunité.
 
 <figure class="wp-block-image"><img src="/uploads/2020/05/Triple_perso-1264x550-1024x446.jpg" alt="Illustration"><figcaption>Crédit: A nous de jouer. Cyril Augier. 26 mai 2020</figcaption></figure>
