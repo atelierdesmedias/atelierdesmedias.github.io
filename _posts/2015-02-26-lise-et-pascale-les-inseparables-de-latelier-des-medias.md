@@ -16,18 +16,20 @@ tags:
     - lyon
 ---
 
-<div id="PagePostsPagelet_155020411196070"><div class="_5ay5"><div id="PagePostsSectionPagelet-155020411196070-0"><div class="_1k4h _5ay5"><div class="_5sem"><div class="_4-u2 mbm _5jmm _5pat _5v3q" id="u_ps_jsonp_3_0_0"><div><div class="mtm"><div class="_5cq3"><div class="_46-h _4-ep" id="u_ps_jsonp_3_0_a"><img src="/uploads/2015/02/pascale-et-lise-editorial-interactif-2-1024x768.jpg" alt="OLYMPUS DIGITAL CAMERA"></div></div></div></div>## **Bonjour à toutes les deux ! Un petit mot pour vous présenter ?**
+<img src="/uploads/2015/02/pascale-et-lise-editorial-interactif-2-1024x768.jpg" alt="OLYMPUS DIGITAL CAMERA">
 
-<div class="text_exposed_root text_exposed"></div><div class="text_exposed_root text_exposed"><div></div>« Lise Mussot &amp; Pascale Lagahe, l’un des “duos” les plus réputés de l’ADM !Une blonde, une brune. Deux cerveaux bouillonnants d’idées et de projets. Directrices associées chez [Editorial Interactif ](http://www.editorial-interactif.com/)(agence de communication web spécialisée dans l’éditorial), nous sommes toutes les deux Lyonnaises d’adoption, web addicts et acheteuses compulsives… de noms de domaines ! Freelances dans l’âme, notre “union” professionnelle s’est construite doucement mais sûrement dans l’antre de l’ADM 🙂 Nous avons suivi à la lettre le slogan de l’espace de coworking parisien Mutinerie, « Libres, ensemble ». Sinon, à la nuit tombée, (ou à l’heure du déjeuner), on nous compare parfois à Catherine et Liliane, les deux inséparables du Petit Journal. Une comparaison un peu osée, mais assumée ! »
+## **Bonjour à toutes les deux ! Un petit mot pour vous présenter ?**
 
-</div><div class="text_exposed_root text_exposed"></div>## **Vous exercez vos talents avec toutes sortes de clients ?**
+« Lise Mussot &amp; Pascale Lagahe, l’un des “duos” les plus réputés de l’ADM !Une blonde, une brune. Deux cerveaux bouillonnants d’idées et de projets. Directrices associées chez [Editorial Interactif ](http://www.editorial-interactif.com/)(agence de communication web spécialisée dans l’éditorial), nous sommes toutes les deux Lyonnaises d’adoption, web addicts et acheteuses compulsives… de noms de domaines ! Freelances dans l’âme, notre “union” professionnelle s’est construite doucement mais sûrement dans l’antre de l’ADM 🙂 Nous avons suivi à la lettre le slogan de l’espace de coworking parisien Mutinerie, « Libres, ensemble ». Sinon, à la nuit tombée, (ou à l’heure du déjeuner), on nous compare parfois à Catherine et Liliane, les deux inséparables du Petit Journal. Une comparaison un peu osée, mais assumée ! »
 
-<div class="text_exposed_root text_exposed">  
-« Seulement les plus sympas ! 🙂 Non, plus sérieusement, nous travaillons aussi bien pour des PME que pour des agences web et des grands comptes. Nos clients exercent dans des secteurs d’activité très différents. Autant vous dire que nous ne connaissons pas la routine ! Et c’est grâce à cette diversité que nous sommes devenues des « plumes caméléons ». **Nous avons toutefois une expertise un peu plus forte sur les secteurs de l’immobilier et des Startups**. Pascale a été l’une des premières à importer les startup week-end à Lyon, a participé à la création de l’incubateur BoostinLyon, et au développement du Nightswapping. »</div><div class="text_exposed_root text_exposed"></div><div class="text_exposed_root text_exposed"></div>## **Quel type de prestation réalisez-vous ?**
+## **Vous exercez vos talents avec toutes sortes de clients ?**
+
+  
+« Seulement les plus sympas ! 🙂 Non, plus sérieusement, nous travaillons aussi bien pour des PME que pour des agences web et des grands comptes. Nos clients exercent dans des secteurs d’activité très différents. Autant vous dire que nous ne connaissons pas la routine ! Et c’est grâce à cette diversité que nous sommes devenues des « plumes caméléons ». **Nous avons toutefois une expertise un peu plus forte sur les secteurs de l’immobilier et des Startups**. Pascale a été l’une des premières à importer les startup week-end à Lyon, a participé à la création de l’incubateur BoostinLyon, et au développement du Nightswapping. »## **Quel type de prestation réalisez-vous ?**
 
 [![editorial-interactif-homepage](/uploads/2015/02/editorial-interactif-homepage-1024x509.jpg)](/uploads/2015/02/editorial-interactif-homepage.jpg)
 
-<div class="text_exposed_root text_exposed">« **Nous proposons deux types de prestations. Les premières sont tournées vers le conseil, les secondes vers l’opérationnel**. Nous réalisons des audits éditoriaux, permettant de déceler les forces et les faiblesses de chaque site. Pour cela, nous nous intéressons à l’efficacité du contenu, au référencement, mais également à l’ergonomie éditoriale, l’adaptation aux supports mobiles etc. Un audit prend du temps, nous balayons de nombreux critères de performance, en utilisant différents outils comme les web analytics.
+« **Nous proposons deux types de prestations. Les premières sont tournées vers le conseil, les secondes vers l’opérationnel**. Nous réalisons des audits éditoriaux, permettant de déceler les forces et les faiblesses de chaque site. Pour cela, nous nous intéressons à l’efficacité du contenu, au référencement, mais également à l’ergonomie éditoriale, l’adaptation aux supports mobiles etc. Un audit prend du temps, nous balayons de nombreux critères de performance, en utilisant différents outils comme les web analytics.
 
 A la suite de cette étude, nous proposons des recommandations pour **bâtir une stratégie de contenu solide, pérenne, et capable de générer du lead**. Nous créons des chartes ou des lignes éditoriales pour fixer les grands caps de rédaction, nous élaborons la stratégie éditoriale de blogs de marque, que nous animons.
 
@@ -51,5 +53,5 @@ Cela nous offre pas mal de perspectives d’innovation dans notre métier ! »
 
 Ce projet s’adresse également aux clients, qui ne savent pas toujours comment travailler avec des rédacteurs. Un site pour tordre le cou aux idées reçues et valoriser un métier parfois déprécié. N’hésitez pas à en parler autour de vous ! »
 
-</div><div class="text_exposed_root text_exposed"></div><div class="text_exposed_root text_exposed">———  
-Crédit photo : Pierre Gouyou Beauchamps</div></div></div></div></div></div></div><form action="/ajax/ufi/modify.php" class="fbPhotosSnowliftFeedbackForm rhcBody commentable_item autoexpand_mode" id="u_ps_0_0_l" method="post"></form>
+———  
+Crédit photo : Pierre Gouyou Beauchamps

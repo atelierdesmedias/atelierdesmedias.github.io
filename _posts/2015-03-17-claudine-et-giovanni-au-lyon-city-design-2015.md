@@ -18,9 +18,9 @@ tags:
 
 [![Lyoncitydesign_Walknroll_Supernova_vue-general](/uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general-300x165.jpg)](/uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general.jpg)
 
-Nos coworkers Claudine et Giovanni s »exposent au Lyon City Design 2015 !
+Nos coworkers Claudine et Giovanni s'exposent au Lyon City Design 2015 !
 
-Avec leur projet “WALK’N’ROLL », en partenariat avec l’entreprise KEOLIS et leur fabricant METALU, trois éléments de signalétique piétonne seront installés au sein de la manifestation, qui aura [casino online](http://www.svenskkasinon.com/) lieu du 19 Mars au 2 Avril 2015 au coeur du quartier la Part Dieu à Lyon.
+Avec leur projet “WALK’N’ROLL », en partenariat avec l’entreprise KEOLIS et leur fabricant METALU, trois éléments de signalétique piétonne seront installés au sein de la manifestation, qui aura lieu du 19 Mars au 2 Avril 2015 au coeur du quartier la Part Dieu à Lyon.
 
 Inauguration demain soir mercredi et ça commence jeudi !
 

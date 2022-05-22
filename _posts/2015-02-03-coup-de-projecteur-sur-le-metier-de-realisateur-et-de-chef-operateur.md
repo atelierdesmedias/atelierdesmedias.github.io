@@ -20,7 +20,7 @@ tags:
 
 **![189906_10150109020881336_1279230_n](/uploads/2015/02/189906_10150109020881336_1279230_n.jpg)**
 
-**Aymeric Dumoulin** travaille à l »**Atelier des Médias** depuis plus d »un an. Il nous parle de son métier de réalisateur et de chef opérateur indépendant.
+**Aymeric Dumoulin** travaille à l »**Atelier des Médias** depuis plus d'un an. Il nous parle de son métier de réalisateur et de chef opérateur indépendant.
 
 **Quand as-tu débuté dans le métier ?**
 
@@ -28,11 +28,11 @@ AD : Il y a 9 ans. Après un BTS audiovisuel à Reims, à vocation télévisuell
 
 **Quelle est la partie de ton travail que tu aimes le plus ?**
 
-AD : Ce qui touche à l »artistique et met en avant la créativité. Je fais par exemple partie d’un collectif composé de vidéastes ([shoot it](http://shoot-it.fr/)) dont le but est de promouvoir de nouveaux artistes à travers des lieux insolites. C’est l’émulation collective qui me plaît. Ensemble, on a réalisé des clips pour des groupes locaux comme Golden Zip, Erotic Market, Péthrol, entre autres. Ça me laisse une grande liberté de création.
+AD : Ce qui touche à l'artistique et met en avant la créativité. Je fais par exemple partie d’un collectif composé de vidéastes ([shoot it](http://shoot-it.fr/)) dont le but est de promouvoir de nouveaux artistes à travers des lieux insolites. C’est l’émulation collective qui me plaît. Ensemble, on a réalisé des clips pour des groupes locaux comme Golden Zip, Erotic Market, Péthrol, entre autres. Ça me laisse une grande liberté de création.
 
 **Comment élabore-t-on le scénario d’un clip musical ?**
 
-AD : Ça dépend vraiment de chaque groupe avec qui on travaille. Parfois, on nous donne carte blanche, auquel cas on s’amuse de notre côté en créant un univers lié aux paroles, au « mood » général de la chanson, au rythme… Chaque projet est unique, bien évidemment. Dans d’autres cas, le [online casino dgfev](https://www.dgfev.de/) groupe a une idée bien précise du rendu final, alors on s’adapte en proposant tout de même un regard artistique.
+AD : Ça dépend vraiment de chaque groupe avec qui on travaille. Parfois, on nous donne carte blanche, auquel cas on s’amuse de notre côté en créant un univers lié aux paroles, au « mood » général de la chanson, au rythme… Chaque projet est unique, bien évidemment. Dans d’autres cas, le groupe a une idée bien précise du rendu final, alors on s’adapte en proposant tout de même un regard artistique.
 
 **Tu es parfois réalisateur, parfois chef opérateur et même les deux. C’est quoi, la différence ?**
 
@@ -44,7 +44,7 @@ AD : Oui. Pour améliorer le quotidien, je travaille sur des films institutionne
 
 **Comment trouves-tu tes clients ?**
 
-AD : Je passe toujours par une boîte de communication spécialisée, qui a comme clients des entreprises de tous types. J’ai tourné des films promotionnels pour des marques de lunettes, des boîtes spécialisées dans le revêtement de sol, etc… C’est pas ce qui me passionne le plus, mais c’est très formateur, il faut savoir s »adapter, improviser et avoir un sens du relationnel. Certains ne font que de l’institutionnel parce que ça paye bien, j’ai décidé de n’en faire qu’à petite dose pour pouvoir nourrir ma fibre artistique. C’est un choix.
+AD : Je passe toujours par une boîte de communication spécialisée, qui a comme clients des entreprises de tous types. J’ai tourné des films promotionnels pour des marques de lunettes, des boîtes spécialisées dans le revêtement de sol, etc… C’est pas ce qui me passionne le plus, mais c’est très formateur, il faut savoir s'adapter, improviser et avoir un sens du relationnel. Certains ne font que de l’institutionnel parce que ça paye bien, j’ai décidé de n’en faire qu’à petite dose pour pouvoir nourrir ma fibre artistique. C’est un choix.
 
 **Comment évolue ton métier, au fil des années ?**
 
@@ -52,11 +52,11 @@ AD : Globalement, les entreprises tirent les prix vers le bas, comme partout. Ma
 
 **As-tu déjà travaillé avec un membre de l’AdM ?**
 
-AD : Oui, ça sert à ça, l »Atelier des Médias ! J »ai travaillé sur un projet avec [Jonathan Ramelli de Creature Studio, qui est perspectiviste 3D](http://www.creature-studio.com/">www.creature-studio.com "Perspective 3D à Lyon"). On n’a travaillé ensemble qu’une journée, mais ça m’a permis de trouver rapidement quelqu’un de confiance avec qui bosser.
+AD : Oui, ça sert à ça, l'Atelier des Médias ! J'ai travaillé sur un projet avec [Jonathan Ramelli de Creature Studio, qui est perspectiviste 3D](http://www.creature-studio.com/">www.creature-studio.com "Perspective 3D à Lyon"). On n’a travaillé ensemble qu’une journée, mais ça m’a permis de trouver rapidement quelqu’un de confiance avec qui bosser.
 
 - - - - - -
 
-**Site d »Aymeric** : http://www.aymericdumoulin.com/
+**Site d'Aymeric** : http://www.aymericdumoulin.com/
 
 **Shoot it** : <http://shoot-it.fr/>
 

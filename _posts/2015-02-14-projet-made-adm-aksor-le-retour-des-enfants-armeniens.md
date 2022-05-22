@@ -17,7 +17,7 @@ tags:
     - photoreportage
 ---
 
-Pendant deux semaines, **du 12 au 26 avril 2015**, le collectif de journalistes indépendants **We Report, dont trois sont membres de l »Atelier des Médias,** suivra le parcours de neuf Français de la diaspora arménienne dans le sud-est de la Turquie, près de la frontière syrienne. D’**Adana**, la grande ville du sud, **aux villages de l’Anatolie profonde**, en passant par **Diyarbakir**, la « capitale » du Kurdistan turc, jusqu »à **Istanbul**, à l’occasion du centenaire de la commémoration du génocide arménien, toujours officiellement nié par les autorités turques.
+Pendant deux semaines, **du 12 au 26 avril 2015**, le collectif de journalistes indépendants **We Report, dont trois sont membres de l'Atelier des Médias,** suivra le parcours de neuf Français de la diaspora arménienne dans le sud-est de la Turquie, près de la frontière syrienne. D’**Adana**, la grande ville du sud, **aux villages de l’Anatolie profonde**, en passant par **Diyarbakir**, la « capitale » du Kurdistan turc, jusqu »à **Istanbul**, à l’occasion du centenaire de la commémoration du génocide arménien, toujours officiellement nié par les autorités turques.
 
 Nous avons lancé un crowdfunding sur le site KissKissBankBank :
 
@@ -27,7 +27,7 @@ Nous avons lancé un crowdfunding sur le site KissKissBankBank :
 
 Dans la nuit du 24 au 25 avril 1915, entre 235 et 270 intellectuels sont arrêtés à Constantinople. Des médecins, des journalistes, des avocats, des hommes politiques. **Parce qu’ils sont Arméniens**, ils sont enfermés, déportés puis, pour la plupart, assassinés. Cet épisode sanglant marque le début de **l’un des génocides les plus tragiques du XXe siècle**, qui coûtera la vie à près d’1,5 million Arméniens.
 
-**Cent ans plus tard**, ils sont 9 à oser le voyage du retour. Des déracinés, attachés à une terre ancestrale qui leur « *colle à la peau* ». Arpig, Edouard, Annie… Tous sont des petits-fils et arrières-petites-filles de rescapés du génocide. De Décines, « la petite Arménie » de la banlieue lyonnaise, jusqu’au sud-est de la Turquie, en plein cœur de l’ « Arménie historique », ils partent en quête d’identité et de mémoire. Pour certains, c’est le quarantième voyage. Pour d’autres, [dgfev online casino](http://www.dgfev.com) c’est la première fois…. Cent ans après, ils suivent les traces du génocide de leurs ancêtres.
+**Cent ans plus tard**, ils sont 9 à oser le voyage du retour. Des déracinés, attachés à une terre ancestrale qui leur « *colle à la peau* ». Arpig, Edouard, Annie… Tous sont des petits-fils et arrières-petites-filles de rescapés du génocide. De Décines, « la petite Arménie » de la banlieue lyonnaise, jusqu’au sud-est de la Turquie, en plein cœur de l’ « Arménie historique », ils partent en quête d’identité et de mémoire. Pour certains, c’est le quarantième voyage. Pour d’autres, c’est la première fois…. Cent ans après, ils suivent les traces du génocide de leurs ancêtres.
 
 **<span style="text-decoration: underline">UN REPORTAGE MULTIMEDIA</span>**
 
