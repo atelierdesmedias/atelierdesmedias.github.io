@@ -7,7 +7,11 @@ img.featured {
     margin: 1rem 0;
     object-fit: cover;
     width: 100%;
-    max-height: 600px;
+    max-height: 514px;
+}
+
+.post-content {
+    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .post-content img {
@@ -28,4 +32,12 @@ ul.post-categories li {
     background: #88BA30;
     color: #fff;
     padding: 0.25rem 0.5rem;
+}
+
+.post-content ul {
+    margin: 1rem 2rem 0;
+}
+
+.post-content li {
+    list-style-type: circle;
 }
