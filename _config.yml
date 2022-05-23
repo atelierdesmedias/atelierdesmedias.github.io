@@ -3,6 +3,7 @@ description: "Le 1er espace de coworking Lyonnais associatif"
 meta_robots: noindex
 lang: fr
 locale: fr_FR
+baseurl: '/'
 
 liquid:
   error_mode: strict
@@ -31,6 +32,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-tidy
+  - jekyll-paginate-v2
 
 collections:
   formulas:
@@ -39,3 +41,18 @@ collections:
     output: true
   events:
     output: true
+  posts:
+    output: true
+    permalink: /:title/
+
+pagination:
+  enabled: true
+  per_page: 8
+  permalink: '/:num/'
+  title: ':title'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  trail: 
+    before: 2
+    after: 2

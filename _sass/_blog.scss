@@ -4,22 +4,31 @@
     max-width: 900px;
 
     li {
-        margin: 1rem 0;
+        margin: 1rem;
         border: 1px solid #ddd;
 
         a {
             display: flex;
+            flex-direction: column;
+            @media screen and (min-width: 560px) {
+                flex-direction: row;
+            }
 
             div:first-child {
-                width: 220px;
                 flex: none;
+                @media screen and (min-width: 560px) {
+                    width: 220px;
+                }
 
                 img {
                     display: block;
                     width: 100%;
-                    height: 160px;
                     object-fit: cover;
                     object-position: center 25%;
+                    max-height: 320px;
+                    @media screen and (min-width: 560px) {
+                        height: 160px;
+                    }
                 }
             }
 
@@ -56,6 +65,29 @@
                         color: #88BA30;
                     }
                 }
+            }
+        }
+    }
+}
+
+ul.pager {
+    margin: 1rem 1rem 2rem;
+    display: block;
+    text-align: center;
+    list-style: none;
+
+    li {
+        display: inline;
+        border: 1px solid #ddd;
+        padding: 10px;
+        margin: 5px;
+        font-weight: bold;
+    
+        &.selected {
+            background: #84cbd5;
+
+            a {
+                color: #fff;
             }
         }
     }
