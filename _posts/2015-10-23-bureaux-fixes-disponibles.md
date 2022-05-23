@@ -4,6 +4,7 @@ title: 'Votre bureau vous attend à l’ADM!'
 date: '2015-10-23T16:04:55+02:00'
 author: 'La rédaction'
 layout: post
+image: /uploads/2015/10/writing-with-kids.gif
 permalink: /bureaux-fixes-disponibles/
 categories:
     - 'L''association'

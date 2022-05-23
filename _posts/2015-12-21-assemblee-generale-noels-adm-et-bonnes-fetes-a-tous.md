@@ -4,6 +4,7 @@ title: 'Assemblée Générale, Noëls ADM et bonnes fêtes à tous !'
 date: '2015-12-21T20:50:22+02:00'
 author: 'La rédaction'
 layout: post
+image: https://img.youtube.com/vi/oxkoA8qDQD4/0.jpg
 permalink: /assemblee-generale-noels-adm-et-bonnes-fetes-a-tous/
 categories:
     - 'L''association'
