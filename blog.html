@@ -1,11 +1,15 @@
 ---
 title: Blog
-layout: default
+layout: blog
 permalink: blog
+pagination:
+  enabled: true
 ---
 
+<h2>Le blog</h2>
+
 <ul class="blogroll">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li>
         <a href="{{ post.url }}">
           <div>
@@ -29,3 +33,44 @@ permalink: blog
       </li>
     {% endfor %}
 </ul>
+
+{% if paginator.total_pages > 1 %}
+{% assign current_url = page.url | replace: 'index.html', '' %}
+<ul class="pager">
+
+  {% if paginator.previous_page %}
+  <li class="previous">
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;</a>
+  </li>
+  {% endif %}
+
+  {% if paginator.first_page %}
+  <li class="previous{% if current_url == paginator.first_page_path %} selected{% endif %}">
+      <a href="{{ paginator.first_page_path | prepend: site.baseurl | replace: '//', '/' }}">1</a>
+  </li>
+  {% endif %}
+
+  {% if paginator.page_trail %}
+    {% for trail in paginator.page_trail %}
+      {% if trail.num != paginator.first_page and trail.num != paginator.last_page %}
+        <li{% if page.url == trail.path %} class="selected"{% endif %}>
+            <a href="{{ trail.path | prepend: site.baseurl | replace: 'index.html', '' }}" title="{{trail.title}}">{{ trail.num }}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if paginator.last_page %}
+  <li class="previous{% if current_url == paginator.last_page_path %} selected{% endif %}">
+      <a href="{{ paginator.last_page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ paginator.last_page }}</a>
+  </li>
+  {% endif %}
+
+  {% if paginator.next_page %}
+  <li class="next">
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rarr;</a>
+  </li>
+  {% endif %}
+
+</ul>
+{% endif %}
