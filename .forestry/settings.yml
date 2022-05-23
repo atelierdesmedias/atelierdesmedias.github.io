@@ -21,7 +21,7 @@ sections:
   label: Pages
   create: all
 upload_dir: blog
-public_path: https://res.cloudinary.com/{{ CLOUD_NAME }}/image/upload
+public_path: https://res.cloudinary.com/atelier-medias/image/upload
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"
