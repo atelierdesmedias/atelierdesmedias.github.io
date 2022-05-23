@@ -20,6 +20,6 @@ Ceci est le contenu.
 
 ### Ceci est un sous-titre
 
-![](https://res.cloudinary.com/atelier-medias/image/upload/v1653272635/blog/atelier-des-medias-512x512_yrmvxc.png)
+![test](https://res.cloudinary.com/atelier-medias/image/upload/v1653272635/blog/atelier-des-medias-512x512_yrmvxc.png)
 
 Ceci est la fin.
