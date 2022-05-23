@@ -4,6 +4,7 @@ title: 'Soirée Design System Appliqué: retour d’expérience des succès, éc
 date: '2019-11-20T12:15:41+02:00'
 author: 'La rédaction'
 layout: post
+image: /uploads/2019/11/1-1024x768.jpg
 permalink: /ixdalyon-soiree-mise-en-place-dun-design-system-et-collaboration-designdev/
 categories:
     - Evènements
