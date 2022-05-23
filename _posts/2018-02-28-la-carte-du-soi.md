@@ -9,7 +9,6 @@ image: /uploads/2018/02/20180219_150953.jpg
 categories:
     - After-work
     - 'Projets pro'
-    - Uncategorized
 ---
 
 <div dir="ltr"><div class="gmail_default"><div dir="ltr"><div class="gmail_default">L’Atelier des médias a testé une nouvelle form’action, le 19 février dernier. Intitulée la Carte du Soi, la journée a pour but de permettre aux indépendants et aux entrepreneurs de se poser les bonnes questions et détecter ce qui rend leur offre de services unique.

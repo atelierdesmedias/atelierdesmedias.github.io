@@ -8,7 +8,6 @@ permalink: /quas-tu-lu-de-beau-2/
 image: /uploads/2021/03/qu-as-tu-lu-de-beau-ok.jpg
 categories:
     - Evènements
-    - Uncategorized
 tags:
     - bookclub
     - 'coups de coeur'

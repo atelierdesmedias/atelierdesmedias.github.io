@@ -7,14 +7,7 @@ layout: post
 permalink: /corona-virus-ladm-en-pause/
 image: /uploads/2020/03/bye-bye.jpg
 categories:
-    - After-work
-    - Evènements
-    - 'Focus métier'
     - 'L''association'
-    - 'L''espace'
-    - Portraits
-    - 'Projets pro'
-    - Prospective
 tags:
     - coronavirus
 ---
