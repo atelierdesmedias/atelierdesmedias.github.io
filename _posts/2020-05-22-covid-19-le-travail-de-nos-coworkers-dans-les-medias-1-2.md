@@ -10,7 +10,6 @@ categories:
     - 'Focus métier'
     - 'L''association'
     - 'Projets pro'
-    - Uncategorized
 tags:
     - coronavirus
     - covid19

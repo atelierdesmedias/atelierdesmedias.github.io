@@ -8,7 +8,6 @@ permalink: /quas-tu-lu-de-beau-1/
 image: /uploads/2021/02/IMG_7718-ok.jpg
 categories:
     - Evènements
-    - Uncategorized
 tags:
     - book
     - bookclub

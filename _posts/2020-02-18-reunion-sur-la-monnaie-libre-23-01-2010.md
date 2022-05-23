@@ -8,7 +8,6 @@ permalink: /reunion-sur-la-monnaie-libre-23-01-2010/
 image: /uploads/2020/02/apero-monnaie-libre.jpg
 categories:
     - Evènements
-    - Uncategorized
 tags:
     - 'atelier des medias'
     - 'lyon monnaie libre'

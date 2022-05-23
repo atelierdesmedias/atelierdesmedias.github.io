@@ -5,7 +5,7 @@ date: '2015-11-05T16:38:33+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /reinventons-nous/
-image: !!binary L3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDE1LzExL0FETS1Xb3JkQ2FmZQEtZ3JvdXBlLmpwZw==
+image: /uploads/2015/11/ADM-WordCafe-groupe.jpg
 categories:
     - After-work
     - 'L''association'

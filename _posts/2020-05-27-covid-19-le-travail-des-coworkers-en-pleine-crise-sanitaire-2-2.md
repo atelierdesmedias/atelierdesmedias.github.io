@@ -10,7 +10,6 @@ categories:
     - 'L''association'
     - Portraits
     - 'Projets pro'
-    - Uncategorized
 ---
 
 Alors que la France est en état d’urgence sanitaire depuis le 23 mars 2020 à cause de la pandémie de Covid-19, nos coworkers ont été sollicités pour des missions liées à la gestion de la crise sanitaire dans l’événementiel, la santé, les services ou encore l’humanitaire.
