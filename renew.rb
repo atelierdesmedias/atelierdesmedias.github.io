@@ -23,10 +23,16 @@ end
 repo = client.repo 'atelierdesmedias/atelierdesmedias.github.io'
 
 secret = { name: 'BOBO', value: 'bonbon' }
-box = create_box(client.get_public_key(repo.id))
+public_key = client.get_public_key(repo.id)
+puts 'public key:', public_key, public_key[:key], public_key[:key_id]
+box = create_box(public_key)
+puts 'box:', box[:key_id], box[:box]
+puts 'after'
 encrypted = box[:box].encrypt(secret[:value])
+encrypted_value = Base64.strict_encode64(encrypted)
+puts 'encrypted_value:', encrypted_value
 puts client.create_or_update_secret(
   repo.id, secret[:name],
-  key_id: box[:key_id], encrypted_value: Base64.strict_encode64(encrypted)
+  key_id: box[:key_id], encrypted_value: encrypted_value
 )
 puts client.last_response.status
