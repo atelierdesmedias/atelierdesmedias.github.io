@@ -9,7 +9,7 @@ permalink: agenda
 {% for event in site.events %}
   <section class=event>
     <div class="picture">
-      <img src="{{ event.id | append: '.jpg' | relative_url }}" alt="{{ event.name }}" />
+      <img src="/events/{{ event.cover }}" alt="{{ event.name }}" />
     </div>
     <div class="details">
       <span class="date">{{ event.event_time | date: "%d/%m/%Y"}}</span>
