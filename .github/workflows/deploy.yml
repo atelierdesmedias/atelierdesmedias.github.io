@@ -18,7 +18,7 @@ jobs:
           bundler-cache: true
       - name: Generate the coworkers pages
         env:
-          COWORKERS_URL: "https://intra.atelier-medias.org/xwiki/bin/get/XWiki/CoworkersService"
+          COWORKERS_URL: ${{ secrets.COWORKERS_URL }}
           COWORKERS_CODE: ${{ secrets.COWORKERS_CODE }}
           COWORKERS_USER: ${{ secrets.COWORKERS_USER }}
           COWORKERS_PASSWORD: ${{ secrets.COWORKERS_PASSWORD }}
@@ -26,7 +26,7 @@ jobs:
       - name: Generate the events pages
         env:
           FACEBOOK_GRAPH_URL: "https://graph.facebook.com/"
-          FACEBOOK_PAGE_ID: "106737945179435"
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
           FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
         run: bundle exec ruby events.rb
       - run: bundle exec jekyll build
