@@ -1,10 +1,11 @@
 # frozen_string_literal: true
 
-require 'uri'
-require 'net/http'
 require 'json'
-require 'yaml'
+require 'mini_magick'
+require 'net/http'
+require 'uri'
 require 'stringex'
+require 'yaml'
 
 require './env_utils'
 
@@ -12,6 +13,18 @@ url = get_env_or_exit('COWORKERS_URL')
 code = get_env_or_exit('COWORKERS_CODE')
 user = get_env_or_exit('COWORKERS_USER')
 password = get_env_or_exit('COWORKERS_PASSWORD')
+
+def fetch_image(image_url, user, password, path)
+  uri = URI(image_url)
+  request = Net::HTTP::Get.new(uri)
+  request.basic_auth(user, password)
+  response = Net::HTTP.start(uri.hostname, uri.port, use_ssl: uri.scheme == 'https') { |http| http.request(request) }
+  return unless response.is_a?(Net::HTTPSuccess)
+
+  image = MiniMagick::Image.read(response.body)
+  image.resize("300x300\>")
+  image.write(path)
+end
 
 all_tags = []
 parser = URI::Parser.new
@@ -48,14 +61,8 @@ if response.is_a?(Net::HTTPSuccess)
       end
     end
 
-    # Fetch the image
-    uri = URI(parser.escape(json['_profile_picture']))
-    request = Net::HTTP::Get.new(uri)
-    request.basic_auth(user, password)
-    response = Net::HTTP.start(uri.hostname, uri.port, use_ssl: uri.scheme == 'https') { |http| http.request(request) }
-    next unless response.is_a?(Net::HTTPSuccess)
-
-    File.open("_coworkers/#{slug}#{coworker['picture_extension']}", 'wb') { |file| file.write(response.body) }
+    fetch_image(parser.escape(json['_profile_picture']), user, password,
+                "_coworkers/#{slug}#{coworker['picture_extension']}")
   end
 else
   puts "Bad response: #{response}"
