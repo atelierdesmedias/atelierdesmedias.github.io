@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 require 'koala'
-require 'open-uri'
+require 'mini_magick'
 require 'stringex'
 require 'time'
 
@@ -32,9 +32,7 @@ events.each do |event|
   end
 
   # Fetch event cover
-  URI.parse(event['cover']['source']).open do |image|
-    File.open("_events/#{slug}.jpg", 'wb') do |file|
-      file.write(image.read)
-    end
-  end
+  image = MiniMagick::Image.open(event['cover']['source'])
+  image.resize("x300\>")
+  image.write("_events/#{slug}.jpg")
 end
