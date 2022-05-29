@@ -21,7 +21,7 @@ fb_events.each do |fb_event|
   event_time = Time.parse(fb_event['start_time'])
   slug = "#{event_time.strftime('%F')}-#{fb_event['name'].to_url}"
   event = { 'name' => fb_event['name'],
-            'event_time' => event_time,
+            'date' => event_time,
             'event_id' => fb_event['id'],
             'cover' => "#{slug}.jpg" }
   event['place'] = (fb_event['place']['name']).to_s if fb_event['place']
