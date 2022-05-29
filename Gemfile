@@ -4,6 +4,7 @@ source 'https://rubygems.org'
 
 gem 'jekyll', '~> 4.2'
 gem 'koala', '~> 3.1.0'
+gem 'mini_magick', '~> 4.11'
 gem 'octokit', '~> 4.0'
 gem 'rake', '~> 13.0.1'
 gem 'rbnacl', '~> 7.1.1'
