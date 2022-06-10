@@ -10,7 +10,7 @@ categories:
     - Portraits
 ---
 
-**[![benjamin-richy-carre-600x600](/uploads/2016/07/benjamin-richy-carre-600x600.jpg)](/uploads/2016/07/benjamin-richy-carre.jpg)Depuis janvier, Benjamin Richy a posé son clavier à l’Atelier des médias. Cet UX designer, enjoué et dynamique, raconte son expérience de coworking à Lyon.**
+**[![benjamin-richy-carre-600x600](/uploads/2016/07/benjamin-richy-carre.jpg)](/uploads/2016/07/benjamin-richy-carre.jpg)Depuis janvier, Benjamin Richy a posé son clavier à l’Atelier des médias. Cet UX designer, enjoué et dynamique, raconte son expérience de coworking à Lyon.**
 
 **Benjamin, j’ai repéré sur [ton site](http://usermood.net/ben/) des mots qui reviennent souvent : User eXperience Design ou expérience utilisateur. Ça semble être le cœur de ton métier. Tu peux m’expliquer très simplement de quoi il s’agit ?**
 
