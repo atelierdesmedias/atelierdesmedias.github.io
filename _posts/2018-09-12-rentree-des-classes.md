@@ -5,7 +5,7 @@ date: '2018-09-12T14:34:21+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /rentree-des-classes/
-image: /uploads/2018/09/Capture-décran-2018-09-12-14.31.03-1.png
+image: /uploads/2018/09/Capture-decran-2018-09-12-14.31.03-1.png
 categories:
     - 'L''association'
 tags:
@@ -14,7 +14,7 @@ tags:
     - rentree
 ---
 
-![Capture d'écran 2018-09-12 14.31.03](/uploads/2018/09/Capture-décran-2018-09-12-14.31.03-1.png)
+![Capture d'écran 2018-09-12 14.31.03](/uploads/2018/09/Capture-decran-2018-09-12-14.31.03-1.png)
 
 **VOUS**
 
