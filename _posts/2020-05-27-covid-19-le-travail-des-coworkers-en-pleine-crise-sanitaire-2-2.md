@@ -27,10 +27,10 @@ Marion Hummer a réalisé les vues 3D, le dossier de présentation, ainsi que le
 - Spécialisée dans l’hypnose, Marion Bonnavent a ouvert des plages de permanence de séances d’hypnose offertes pour le personnel soignant, avec la chaine solidaire des hypnothérapeutes de France. L’idée était de proposer des séances *flash* de ressourcement, de relaxation ou de gestion des émotions auprès du personnel soignant, soumis à un gros stress durant le pic de pandémie.
 - Elle a également proposé trois lives Facebook pour aider à la gestion émotionnelle et physique du confinement chez soi. Il s’agissait de trois ateliers psycho-corporels (la méthode Change en Corps**®**).
 
-Les replays sont en libre accès sur sa chaîne [Youtube](<http:// https://www.youtube.com/watch?v=ne-Zbf3vKGA&list=PLfU-r5qJakZYHIEofRCFV_-uOTYqsQt66>).
+Les replays sont en libre accès sur sa chaîne [Youtube](https://www.youtube.com/watch?v=ne-Zbf3vKGA&list=PLfU-r5qJakZYHIEofRCFV_-uOTYqsQt66).
 
 <figure class="wp-block-image"><img src="/uploads/2020/05/marion-bonnavent.jpg" alt="Illustration"><figcaption>Crédit: Marion Bonnavent. Change en corps. 2020</figcaption></figure>
 
 - Enfin, Cyril Augier, spécialisé en théâtre d’entreprise, a réalisé une prestation liée à la crise sanitaire sur « A Nous de Jouer! ». Il s’agit d’ une [vidéo-forum](https://www.theatre-d-entreprise.fr/de-la-crise-a-la-reprise-une-video-forum-pour-un-retour-dexperience-salarie-e-s/), pour développer les échanges et les retours d’expériences des salariés. L’objectif est de tirer les premiers enseignements de la crise, de lui donner du sens et de la transformer en opportunité.
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/Triple_perso-1264x550.jpg" alt="Illustration"><figcaption>Crédit: A nous de jouer. Cyril Augier. 26 mai 2020</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/05/Triple_perso.jpg" alt="Illustration"><figcaption>Crédit: A nous de jouer. Cyril Augier. 26 mai 2020</figcaption></figure>

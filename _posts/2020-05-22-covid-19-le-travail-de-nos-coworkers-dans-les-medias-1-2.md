@@ -48,7 +48,7 @@ Depuis le début de la pandémie, les assureurs refusent d’indemniser des mill
 Retrouvez également ses sujets sur la crise sanitaire et économique pour *Usine Nouvelle*, en texte et en son :
 
 Covid-19, épisode 1 : [Comment Tereos s’est lancé dans la production de gel hydroalcoolique](https://www.usinenouvelle.com/article/podcast-covid-19-episode-1-comment-tereos-s-est-lance-dans-la-production-de-gel-hydroalcoolique.N946101).  
- Covid-19, épisode 2 : [Comment Lippi a pris (collectivement) la décision de fermer son usine](<http:// https://www.usinenouvelle.com/article/podcast-covid-19-episode-2-comment-lippi-a-pris-collectivement-la-decision-de-fermer-son-usine.N948181>).  
+ Covid-19, épisode 2 : [Comment Lippi a pris (collectivement) la décision de fermer son usine](https://www.usinenouvelle.com/article/podcast-covid-19-episode-2-comment-lippi-a-pris-collectivement-la-decision-de-fermer-son-usine.N948181).
  Covid-19, épisode 3 :[ Comment PSA soutient Air Liquide dans la production de respirateurs](https://www.usinenouvelle.com/article/podcast-covid-19-episode-3-comment-psa-soutient-air-liquide-dans-la-production-de-respirateurs.N951651).
 
 <figure class="wp-block-image"><img src="/uploads/2020/05/article-mathieu.png" alt="Illustration"><figcaption>Article sur le deal en plein confinement, à Lyon. Par Mathieu Martiniere.</figcaption></figure>

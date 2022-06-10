@@ -12,7 +12,7 @@ categories:
 
 Interview d’une coworkeuse globe-trotteuse : Mylène Campalto !
 
-![](/uploads/2014/09/mylene_campalto08.jpg)
+![Mylène Campalto](/uploads/2014/09/mylene_campalto08.jpg)
 
 ## Qui es-tu ?
 
