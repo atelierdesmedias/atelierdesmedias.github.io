@@ -27,7 +27,7 @@ Dans la bibliothèque de Pierre, journaliste en coworking à l’Atelier des mé
 
 Une oeuvre à lire au calme, de préférence dans un endroit entouré de nature.
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/IMG_7717-ok-1024x682.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="/uploads/2021/03/IMG_7717-ok.jpg" alt="Illustration"></figure>
 
 **Les coups de coeur de février de l’ADM :**
 

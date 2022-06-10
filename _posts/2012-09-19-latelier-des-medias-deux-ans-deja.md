@@ -10,7 +10,7 @@ categories:
     - 'L''association'
 ---
 
-[![adm1](/uploads/2014/12/adm1-300x287.png)](/uploads/2014/12/adm1.png)
+[![adm1](/uploads/2014/12/adm1.png)](/uploads/2014/12/adm1.png)
 
 Cet automne, notre valeureuse association fêtera ses 2 ans (ainsi que sa première année passée au 9 quai Lassagne). Désormais débarassés de nos soucis de peinture et de montage de meubles ikéa, nous nous sommes mis en tête d’organiser une journée spéciale dédiée au coworking. Voilà pourquoi, cette année, **l’Atelier ouvrira ses portes non-stop, le jeudi 11 octobre, dès 10h du matin, pour ne les refermer qu’à la nuit tombée.**
 

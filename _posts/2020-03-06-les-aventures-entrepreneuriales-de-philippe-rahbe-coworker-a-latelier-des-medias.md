@@ -39,6 +39,6 @@ Ce projet humain et de partage a même tout récemment été récompensé par le
 
 On parle de lui: plusieurs articles de presse sont parus dans des médias libanais francophones, en voici un exemple:
 
-<figure class="wp-block-image"><img src="/uploads/2020/03/IMG-20200220-WA0000-686x1024.jpg" alt="Illustration"><figcaption>La Disco Soupe de Philippe Rahbé</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/03/IMG-20200220-WA0000.jpg" alt="Illustration"><figcaption>La Disco Soupe de Philippe Rahbé</figcaption></figure>
 
 L’Atelier des Médias tire son chapeau à Philippe, un homme au grand cœur: que tes voyages et tes belles initiatives continuent! *(et que les pâtisseries libanaises continuent à remplir nos estomacs gourmands 😉 !)*

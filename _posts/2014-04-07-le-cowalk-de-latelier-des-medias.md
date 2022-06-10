@@ -10,7 +10,7 @@ categories:
     - After-work
 ---
 
-[![oxfam-atelierdesmedias](/uploads/2014/12/oxfam-atelierdesmedias-300x224.jpg)](/uploads/2014/12/oxfam-atelierdesmedias.jpg)
+[![oxfam-atelierdesmedias](/uploads/2014/12/oxfam-atelierdesmedias.jpg)](/uploads/2014/12/oxfam-atelierdesmedias.jpg)
 
 Les 17 et 18 mai prochains, l'Atelier des Médias se lance dans une grande aventure humaine et solidaire :
 

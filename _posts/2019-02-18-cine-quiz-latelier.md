@@ -16,7 +16,7 @@ tags:
     - quiz
 ---
 
-![IMG_2652 (1)](/uploads/2019/02/IMG_2652-1-150x150.jpg)En duo, notre actuel patron Erwan Jegouzo et l’ancienne présidente Anne-Catherine de Fombelle ont préparé un Ciné-quiz mi-février pour les membres de l’Atelier des médias.
+![IMG_2652 (1)](/uploads/2019/02/IMG_2652-1.jpg)En duo, notre actuel patron Erwan Jegouzo et l’ancienne présidente Anne-Catherine de Fombelle ont préparé un Ciné-quiz mi-février pour les membres de l’Atelier des médias.
 
 Au total, 4 équipes, 30 questions et un « Qui suis-je ? » sur les acteurs cachés au fin fond du Musée des Miniatures dans le Vieux Lyon.
 

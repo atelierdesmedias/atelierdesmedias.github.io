@@ -23,11 +23,11 @@ tags:
 
 Après une rapide présentation de ce qu’est un vision board…
 
-<figure class="wp-block-image"><img src="/uploads/2020/03/Vision-Board-1-1024x512.png" alt="Illustration"><figcaption>Réaliser son *vision board*</figcaption></figure>… le groupe a commencé les travaux pratiques : définition des objectifs, priorisation, recherche d’images, découpage et collage, pour finir par le dessin et la customisation.
+<figure class="wp-block-image"><img src="/uploads/2020/03/Vision-Board-1.png" alt="Illustration"><figcaption>Réaliser son *vision board*</figcaption></figure>… le groupe a commencé les travaux pratiques : définition des objectifs, priorisation, recherche d’images, découpage et collage, pour finir par le dessin et la customisation.
 
  « Tous les participants ont terminé leur vision board et sont repartis ravis, inspirés pour atteindre leurs envies en 2020 ! »
 
-<figure class="wp-block-image"><img src="/uploads/2020/03/Image-d’iOS-5-1024x711.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/03/Image-d’iOS-5.jpg" alt="Illustration"></figure>
 
 Merci à Alice Bertran – Consultante en Marketing Digital Freelance
 

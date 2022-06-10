@@ -24,7 +24,7 @@ Arrivé devant l’immeuble, le groupe redouble de précautions. Il ne s’agit 
 
 Armé d’une épingle à cheveux, Pierre s’escrime maintenant avec la serrure, tandis que les autres scrutent la rue et éloignent discrètement le quidam. Un clic discret. Le groupe se ressert, les corps se tendent. Cédant à la poussée d’adrénaline, Céline enfonce la porte d’un coup de ballerine en hurlant « Go ! Go ! Go ! »…
 
-| [![](/uploads/2014/04/Flec2CrochetageSeul1.jpg "Flec2CrochetageSeul")](/uploads/2014/04/Flec2CrochetageSeul1.jpg) | [![](http://wordpress.atelier-medias.org/uploads/2014/04/Flec2Photographe1-300x199.jpg "Flec2Photographe")](/uploads/2014/04/Flec2Photographe1.jpg)[![](/uploads/2014/04/LiberezEncordesReprisJustice1.jpg "LiberezEncordesReprisJustice")](/uploads/2014/04/LiberezEncordesReprisJustice1.jpg) |
+| [![](/uploads/2014/04/Flec2CrochetageSeul1.jpg "Flec2CrochetageSeul")](/uploads/2014/04/Flec2CrochetageSeul1.jpg) | [![](http://wordpress.atelier-medias.org/uploads/2014/04/Flec2Photographe1.jpg "Flec2Photographe")](/uploads/2014/04/Flec2Photographe1.jpg)[![](/uploads/2014/04/LiberezEncordesReprisJustice1.jpg "LiberezEncordesReprisJustice")](/uploads/2014/04/LiberezEncordesReprisJustice1.jpg) |
 |---|---|
 
 [&lt; Lire le début de l’histoire ](/2014/04/le-bruit-court-la-police-se-tait/ "Le bruit court, la police se tait") [Lire la suite de l’histoire &gt;](/2014/04/ex-otages-ca-a-ete-lescalade/ "Ex-otages : « ça a été l’escalade »")

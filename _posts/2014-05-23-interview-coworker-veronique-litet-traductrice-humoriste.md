@@ -12,7 +12,7 @@ categories:
 
 En ce vendredi, découvrez ou redécouvrez Véronique Litet, dont le bureau fixe se trouve au fond de l'Atelier des Médias, au lieu dit « la Grotte ».
 
-[![10330313_759725317392240_4197228065600458332_n](/uploads/2014/09/10330313_759725317392240_4197228065600458332_n-225x300.jpg)](/uploads/2014/09/10330313_759725317392240_4197228065600458332_n.jpg)
+[![10330313_759725317392240_4197228065600458332_n](/uploads/2014/09/10330313_759725317392240_4197228065600458332_n.jpg)](/uploads/2014/09/10330313_759725317392240_4197228065600458332_n.jpg)
 
 Elle se dévoile – un peu – toujours avec l'humour qui la caractérise !  
 Sur fond de photo d'un autre coworker, ©Franck Ribard

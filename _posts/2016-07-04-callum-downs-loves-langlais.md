@@ -14,7 +14,7 @@ tags:
     - traducteur
 ---
 
-![](/uploads/2016/07/Headshot-round-300x300.png)**Callum Downs est un traducteur, que l’on retrouve derrière le site [www.callumdowns.com](http://www.callumdowns.com/) Entre deux matches de l’Euro, il nous parle de sa vie professionnelle à l’Atelier des médias.**
+![](/uploads/2016/07/Headshot-round.png)**Callum Downs est un traducteur, que l’on retrouve derrière le site [www.callumdowns.com](http://www.callumdowns.com/) Entre deux matches de l’Euro, il nous parle de sa vie professionnelle à l’Atelier des médias.**
 
 **Très succinctement, que fais-tu derrière ton ordinateur à l’ADM?**
 

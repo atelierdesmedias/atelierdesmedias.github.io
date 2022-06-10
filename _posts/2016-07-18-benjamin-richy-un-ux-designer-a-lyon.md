@@ -5,12 +5,12 @@ date: '2016-07-18T15:55:02+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /benjamin-richy-un-ux-designer-a-lyon/
-image: /uploads/2016/07/benjamin-richy-carre-600x600.jpg
+image: /uploads/2016/07/benjamin-richy-carre.jpg
 categories:
     - Portraits
 ---
 
-**[![benjamin-richy-carre-600x600](/uploads/2016/07/benjamin-richy-carre-600x600-282x300.jpg)](/uploads/2016/07/benjamin-richy-carre-600x600.jpg)Depuis janvier, Benjamin Richy a posé son clavier à l’Atelier des médias. Cet UX designer, enjoué et dynamique, raconte son expérience de coworking à Lyon.**
+**[![benjamin-richy-carre-600x600](/uploads/2016/07/benjamin-richy-carre-600x600.jpg)](/uploads/2016/07/benjamin-richy-carre.jpg)Depuis janvier, Benjamin Richy a posé son clavier à l’Atelier des médias. Cet UX designer, enjoué et dynamique, raconte son expérience de coworking à Lyon.**
 
 **Benjamin, j’ai repéré sur [ton site](http://usermood.net/ben/) des mots qui reviennent souvent : User eXperience Design ou expérience utilisateur. Ça semble être le cœur de ton métier. Tu peux m’expliquer très simplement de quoi il s’agit ?**
 
@@ -20,7 +20,7 @@ En fait, mon travail consiste à créer des solutions qui vont enchanter les uti
 
 Mon boulot, c’est vraiment de concevoir comment l’utilisateur va s’approprier une solution, de type support numérique. Mais aussi comment se passe son expérience lorsqu’il va sur un point de vente retirer ce qu’il a commandé sur Internet et qu’ensuite, il retourne sur Internet dire qu’il est très content de l’accueil qu’il a reçu. Réconcilier, si tu veux, la partie expérience sur le web et expérience avec de vrais humains.
 
-[![madame](/uploads/2016/07/madame-1024x765.jpg)](/uploads/2016/07/madame.jpg)
+[![madame](/uploads/2016/07/madame.jpg)](/uploads/2016/07/madame.jpg)
 
 **Est-ce que tu travailles directement avec des utilisateurs ?**
 

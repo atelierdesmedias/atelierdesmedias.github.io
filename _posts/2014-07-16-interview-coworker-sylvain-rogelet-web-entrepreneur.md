@@ -12,7 +12,7 @@ categories:
 
 Connaissez-vous Consomac.fr ? C'est le site référence des passionnés de la marque à la pomme ! Mais connaissez-vous Sylvain Rogelet, son administrateur ? Découvrez-le grâce à cet interview !
 
-[![10560418_788403711191067_4750063957649665115_o](/uploads/2014/09/10560418_788403711191067_4750063957649665115_o-300x225.jpg)](/uploads/2014/09/10560418_788403711191067_4750063957649665115_o.jpg)
+[![10560418_788403711191067_4750063957649665115_o](/uploads/2014/09/10560418_788403711191067_4750063957649665115_o.jpg)](/uploads/2014/09/10560418_788403711191067_4750063957649665115_o.jpg)
 
 ## Qui es-tu ?
 
@@ -54,5 +54,5 @@ Joey Startup. Parce que depuis que je suis à l'Atelier des Médias, j'ai quitt�
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-268 gallery-columns-3 gallery-size-thumbnail" id="gallery-6"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10428337_788403754524396_3920591273918869379_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10560418_788403711191067_4750063957649665115_o-150x150.jpg" alt="Illustration"> </dt></dl>   
+<div class="gallery galleryid-268 gallery-columns-3 gallery-size-thumbnail" id="gallery-6"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10428337_788403754524396_3920591273918869379_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10560418_788403711191067_4750063957649665115_o.jpg" alt="Illustration"> </dt></dl>   
  </div>

@@ -12,7 +12,7 @@ categories:
 
 Coup de projecteur sur un co-workeur ! Aujourd’hui Philippe Rahbé nous présente son activité et sa personnalité avec ses mots.
 
-[![10269084_739034112794694_2507468622685590794_o](/uploads/2014/09/10269084_739034112794694_2507468622685590794_o-225x300.jpg)](/uploads/2014/09/10269084_739034112794694_2507468622685590794_o.jpg)
+[![10269084_739034112794694_2507468622685590794_o](/uploads/2014/09/10269084_739034112794694_2507468622685590794_o.jpg)](/uploads/2014/09/10269084_739034112794694_2507468622685590794_o.jpg)
 
 ## Qui es-tu ?
 
@@ -55,5 +55,5 @@ Bob l’Eponge. Comme lui, j’absorbe puis diffuse l’information, toujours av
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-232 gallery-columns-4 gallery-size-thumbnail" id="gallery-3"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10007378_739034189461353_1033226750643740298_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10001115_739034206128018_3699541528687702994_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/1522810_739034156128023_2448129213656764028_o-150x150.jpg" alt="Illustration"> </dt></dl>   
+<div class="gallery galleryid-232 gallery-columns-4 gallery-size-thumbnail" id="gallery-3"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10007378_739034189461353_1033226750643740298_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10001115_739034206128018_3699541528687702994_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/1522810_739034156128023_2448129213656764028_o.jpg" alt="Illustration"> </dt></dl>   
  </div>Restez connecté à l’atelier ! Nous vous proposerons régulièrement d’autres coups de projecteurs !

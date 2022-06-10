@@ -53,7 +53,7 @@ Rire.
 
 En école de graphisme, il fallait réaliser la photo d’un animal. J’avais une petite souris blanche et je l’ai recouverte de pastel sec pour en faire une souris verte. C’était sympa pour ma photo… Mais le pastel n’est jamais parti, et Mauricette est restée verte toute sa vie de souris… Je vous mets la photo, en mémoire de Mauricette chérie.
 
-![graphisme-9](/uploads/2019/04/graphisme-9-300x300.jpg)
+![graphisme-9](/uploads/2019/04/graphisme-9.jpg)
 
 **Parmi les coworkers, qui aimerais-tu découvrir davantage ?**
 

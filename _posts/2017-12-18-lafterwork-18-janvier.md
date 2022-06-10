@@ -17,7 +17,7 @@ tags:
     - talents
 ---
 
-![affiche event 18 jan](/uploads/2017/12/affiche-event-18-jan-300x113.jpg)
+![affiche event 18 jan](/uploads/2017/12/affiche-event-18-jan.jpg)
 
 Pour découvrir tous nos talents, l’Atelier des médias vous invite à son premier Afterwork. Au programme: exposition des photographes, speednetworking, buffet de petits producteurs et autres surprises! Vous rencontrerez nos coworkers, qui représentent tous les métiers des médias (graphistes, illustrateurs, photographes, journalistes, etc…), de la com’ et du développement numérique.
 

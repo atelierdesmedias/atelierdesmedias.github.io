@@ -17,7 +17,7 @@ tags:
     - mediadrinks
 ---
 
-<img src="/uploads/2015/01/mediadrinks4-300x225.jpg" alt="mediadrinks4">
+<img src="/uploads/2015/01/mediadrinks4.jpg" alt="mediadrinks4">
 
 Voici un petit résumé de la soirée Mediadrinks du 19 janvier 2015 !
 

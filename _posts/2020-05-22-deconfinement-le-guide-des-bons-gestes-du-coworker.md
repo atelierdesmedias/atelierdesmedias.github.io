@@ -27,4 +27,4 @@ Lisez-le et préparez votre pack pour la reprise (gourde, serviette individuelle
 
 On a hâte de vous retrouver!
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/règles-COVID-ADM-343x1024.jpg" alt="Illustration"><figcaption>« Le petit guide des bons gestes du coworker », réalisé par les graphistes de l’Atelier des médias. Crédit: Atelier des médias. Mai 2020</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/05/règles-COVID-ADM.jpg" alt="Illustration"><figcaption>« Le petit guide des bons gestes du coworker », réalisé par les graphistes de l’Atelier des médias. Crédit: Atelier des médias. Mai 2020</figcaption></figure>

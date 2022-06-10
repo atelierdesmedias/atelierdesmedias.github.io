@@ -29,13 +29,13 @@ A l’Atelier des médias, des journalistes, doubleurs, vidéastes ou photograph
 
 - Contactée par une boîte de production danoise, la réalisatrice Fanny Vandecandelaere a contribué à un documentaire sur la pandémie de Covid-19 en Europe. Elle a filmé une jeune femme, agent de service hospitalier (ASH), confinée dans un Ehpad au sud de Lyon (69). Fanny l’a suivie au moment de sa sortie, après 48 jours passés en confinement sur son lieu de travail. Le documentaire sera diffusé dans quelques mois.
 
-<figure class="wp-block-image"><img src="/uploads/2020/06/Capture-décran-2020-05-29-15.28.11-1024x634.jpg" alt="Illustration"><figcaption>Capture d’écran des rushes de Fanny Vandecandelaere dans un Ephad au sud de Lyon, durant la pandémie de Covid-19.</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/06/Capture-décran-2020-05-29-15.28.11.jpg" alt="Illustration"><figcaption>Capture d’écran des rushes de Fanny Vandecandelaere dans un Ephad au sud de Lyon, durant la pandémie de Covid-19.</figcaption></figure>
 
 - De chez elle, Valentine Marchal participe au doublage de la mini-série [*Le Coronavirus, en bref* ](https://www.netflix.com/fr/title/81273378)pour Netflix. Elle fait du *voice over*, c’est-à-dire du doublage de voix off.
 
 Cette mini-série est un spin-off de la série *[En Bref](https://www.netflix.com/fr/title/80216752).* Ce sont des documentaires de 25mn sur des sujets différents. Les épisodes en VF sur lesquels elle travaille seront bientôt mis en ligne.
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/IMG_8321-1024x586.jpg" alt="Illustration"><figcaption>Doublage en cours pour une série sur le coronavirus. Crédit: VM.</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/05/IMG_8321.jpg" alt="Illustration"><figcaption>Doublage en cours pour une série sur le coronavirus. Crédit: VM.</figcaption></figure>
 
 **Enquêtes**
 
@@ -51,13 +51,13 @@ Covid-19, épisode 1 : [Comment Tereos s’est lancé dans la production de gel 
  Covid-19, épisode 2 : [Comment Lippi a pris (collectivement) la décision de fermer son usine](<http:// https://www.usinenouvelle.com/article/podcast-covid-19-episode-2-comment-lippi-a-pris-collectivement-la-decision-de-fermer-son-usine.N948181>).  
  Covid-19, épisode 3 :[ Comment PSA soutient Air Liquide dans la production de respirateurs](https://www.usinenouvelle.com/article/podcast-covid-19-episode-3-comment-psa-soutient-air-liquide-dans-la-production-de-respirateurs.N951651).
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/article-mathieu-1024x557.png" alt="Illustration"><figcaption>Article sur le deal en plein confinement, à Lyon. Par Mathieu Martiniere.</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/05/article-mathieu.png" alt="Illustration"><figcaption>Article sur le deal en plein confinement, à Lyon. Par Mathieu Martiniere.</figcaption></figure>
 
 - De son côté, le journaliste de We report Mathieu Martinière a enquêté pour Médiacités Lyon sur la situation des dealers à Lyon : [« Drogue : les dealers lyonnais ajustent leur business au confinement »](http://www.mediacites.fr/enquete/lyon/2020/04/01/drogue-les-dealers-lyonnais-ajustent-leur-business-au-confinement/).
 
 Livraisons à domicile, vendeurs masqués et gantés… Les trafiquants de cannabis et autres stupéfiants s’adaptent à la crise du coronavirus. Mais la fermeture des frontières réduit leurs stocks et commence à entamer leurs affaires.
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/capture-vincent-1024x480.png" alt="Illustration"><figcaption>Les articles de Vincent Grimault, coworker à l’ADM</figcaption></figure>- Côté économie, le journaliste Vincent Grimault a publié plusieurs articles pour *Alternatives économiques*. A lire ici:
+<figure class="wp-block-image"><img src="/uploads/2020/05/capture-vincent.png" alt="Illustration"><figcaption>Les articles de Vincent Grimault, coworker à l’ADM</figcaption></figure>- Côté économie, le journaliste Vincent Grimault a publié plusieurs articles pour *Alternatives économiques*. A lire ici:
 
 – [Télétravail, la France prise de vitesse par le coronavirus.](https://www.alternatives-economiques.fr/teletravail-france-prise-de-vitesse-virus/00092240?fbclid=IwAR0U8s13kgRnpuaBfKzeQX2YLwqlFNkgc1iXRTerl1mJmL0a0pk02AuiW3g)   
 – Tous égaux face à la pandémie ? [La France du Covid-19 en dix cartes.](https://www.alternatives-economiques.fr/egaux-face-a-pandemie-france-covid-19-10-cartes/00092384?fbclid=IwAR0R5QFsSjX7jIoOfdy70pPDrSSgfvJcn6-fsc_3qUmDEk6l26vJwsPdLbE)  
@@ -74,4 +74,4 @@ Livraisons à domicile, vendeurs masqués et gantés… Les trafiquants de canna
 
 Ce long format interroge le maintien de l’ordre à la française depuis sa création au 17e siècle jusqu’à la crise sanitaire de 2020. Ses évolutions et ses dérives.
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/podcast-daphne-1024x547.png" alt="Illustration"><figcaption>Podcast « Au nom du maintien de l’ordre » sur RFI, par Daphné Gastaldi.</figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/05/podcast-daphne.png" alt="Illustration"><figcaption>Podcast « Au nom du maintien de l’ordre » sur RFI, par Daphné Gastaldi.</figcaption></figure>

@@ -12,7 +12,7 @@ categories:
 
 Interview d'une coworkeuse : Aurélie Duclos. Notre bretonne bouclée se prête au jeu des questions !
 
-[![10365333_774598342571604_8669054641184647192_o](/uploads/2014/09/10365333_774598342571604_8669054641184647192_o-300x225.jpg)](/uploads/2014/09/10365333_774598342571604_8669054641184647192_o.jpg)
+[![10365333_774598342571604_8669054641184647192_o](/uploads/2014/09/10365333_774598342571604_8669054641184647192_o.jpg)](/uploads/2014/09/10365333_774598342571604_8669054641184647192_o.jpg)
 
 ## Qui es-tu ?
 
@@ -49,5 +49,5 @@ Calamity Manager, indéniablement !
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-260 gallery-columns-3 gallery-size-thumbnail" id="gallery-4"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10365333_774598342571604_8669054641184647192_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10285788_774598372571601_2479283780470617473_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2014/09/10460593_774598399238265_4368729329259145788_o-150x150.jpg" alt="Illustration"> </dt></dl>  
+<div class="gallery galleryid-260 gallery-columns-3 gallery-size-thumbnail" id="gallery-4"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10365333_774598342571604_8669054641184647192_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10285788_774598372571601_2479283780470617473_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2014/09/10460593_774598399238265_4368729329259145788_o.jpg" alt="Illustration"> </dt></dl>  
  </div>

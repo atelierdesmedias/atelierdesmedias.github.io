@@ -59,5 +59,5 @@ Retrouvez-moi sur [Linkedin](https://www.linkedin.com/in/myl%C3%A8ne-campalto-82
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-271 gallery-columns-3 gallery-size-thumbnail" id="gallery-7"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10499385_817478864950218_6054824712993519846_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/20181109_190245-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2019/12/12_INSTA_Mylène_A-1-150x150.jpg" alt="Illustration"> </dt></dl>  
+<div class="gallery galleryid-271 gallery-columns-3 gallery-size-thumbnail" id="gallery-7"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10499385_817478864950218_6054824712993519846_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/20181109_190245.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2019/12/12_INSTA_Mylène_A-1.jpg" alt="Illustration"> </dt></dl>  
  </div>

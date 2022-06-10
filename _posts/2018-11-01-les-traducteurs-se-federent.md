@@ -21,4 +21,4 @@ Et parce qu’on va plus loin ensemble, deux coworkeuses Audrey Anzil et Deirdre
 
 À l’image de l’Atelier des médias, Syllabes est une structure autogerée. Elle permet la mise en commun des compétences de ses membres pour une offre plus large tout en travaillant mieux, ensemble, aujourd’hui et demain.
 
-Bon vent à Syllabes !![Syllabes groupe](/uploads/2018/11/Syllabes-groupe-1024x355.jpg)
+Bon vent à Syllabes !![Syllabes groupe](/uploads/2018/11/Syllabes-groupe.jpg)

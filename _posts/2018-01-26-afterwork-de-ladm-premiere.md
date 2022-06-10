@@ -22,4 +22,4 @@ Autour d’un buffet de producteurs de La ruche qui dit Oui !, visiteurs et cowo
 
 Merci à tous pour votre participation!
 
-![IMG_6377](/uploads/2018/01/IMG_6377-1024x684.jpg) ![afterwork visuel](/uploads/2018/01/afterwork-visuel-300x200.jpg)
+![IMG_6377](/uploads/2018/01/IMG_6377.jpg) ![afterwork visuel](/uploads/2018/01/afterwork-visuel.jpg)

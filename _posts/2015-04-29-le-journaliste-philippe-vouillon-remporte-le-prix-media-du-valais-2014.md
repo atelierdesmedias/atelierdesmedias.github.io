@@ -12,7 +12,7 @@ tags:
     - journalisme
 ---
 
-[![sion](/uploads/2015/04/sion-300x192.jpg)](/uploads/2015/04/sion.jpg)
+[![sion](/uploads/2015/04/sion.jpg)](/uploads/2015/04/sion.jpg)
 
 Philippe Vouillon vient de remporter le Prix Média du Valais 2014 (catégorie print/online en français, pour son reportage “Sion, la ville-paysage” paru dans Alpes Magazine. Une belle reconnaissance de ses amis valaisans, qui plus est bien dotée en francs suisses…
 

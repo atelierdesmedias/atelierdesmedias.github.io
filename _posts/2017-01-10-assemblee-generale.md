@@ -22,19 +22,19 @@ tags:
 
 Grande nouveauté cette année : le **Marché de Noël à l’ADM** !!!!! Le 13 décembre : les illustratrices, les auteurs, les graphistes, les photographes ont proposé, montré et vendu leurs créations. C’était un régal de découvrir le travail des uns et des autres et de d’offrir à ses proches du MADE IN ADM. Le marché était ouvert au public le temps de la soirée. Si vous l’avez manqué, l’an prochain on réitère l’évènement !
 
-![adm_ag_noel_201638](/uploads/2017/01/adm_AG_noel_201638-300x200.jpg)
+![adm_ag_noel_201638](/uploads/2017/01/adm_AG_noel_201638.jpg)
 
 <span class="s1">L’**Assemblée Générale d’hiver** de l’association s’est déroulée le 14 décembre, suivie d’une **soirée de Noël** ! Des petits fours, du fromage de chèvre de la *Ruche qui dit Oui*, des sablés de Valentine, des petites bulles dans nos verres, de la chaleur dans nos coeurs, des pieds agités sur la piste de danse : tout y était !!!</span>
 
-![adm_ag_noel_201641](/uploads/2017/01/adm_AG_noel_201641-300x200.jpg)![adm_ag_noel_201632](/uploads/2017/01/adm_AG_noel_201632-300x205.jpg)
+![adm_ag_noel_201641](/uploads/2017/01/adm_AG_noel_201641.jpg)![adm_ag_noel_201632](/uploads/2017/01/adm_AG_noel_201632.jpg)
 
 <span class="s1">Le 14 après-midi il y a eu également un **super goûter de Noël** pour les enfants des coworkers. Les tantines du maquillage étaient là pour dessiner des frimousses animalières aux couleurs de l’hiver bien sûr ! Bambi et ses amis ont investi les lieux !</span>
 
-![adm_ag_noel_201635](/uploads/2017/01/adm_AG_noel_201635-300x200.jpg)
+![adm_ag_noel_201635](/uploads/2017/01/adm_AG_noel_201635.jpg)
 
-![adm_ag_noel_201637](/uploads/2017/01/adm_AG_noel_201637-300x200.jpg)![adm_ag_noel_201634](/uploads/2017/01/adm_AG_noel_201634-300x200.jpg)
+![adm_ag_noel_201637](/uploads/2017/01/adm_AG_noel_201637.jpg)![adm_ag_noel_201634](/uploads/2017/01/adm_AG_noel_201634.jpg)
 
-![adm_ag_noel_201636](/uploads/2017/01/adm_AG_noel_201636-300x200.jpg)
+![adm_ag_noel_201636](/uploads/2017/01/adm_AG_noel_201636.jpg)
 
 <span class="s1">L’AG a été l’occasion d’élire la moitié du **Conseil d’Administration**, dont un **nouveau bureau :**</span>
 
@@ -52,7 +52,7 @@ Le lendemain de l’AG, **élection des responsables de groupe :**
 - [Fanny Vandecandelaere](/coworkers/fanny-vandecandelaere/), responsable du groupe Communication
 - [Thibault Clauzier](/coworkers/thibault-clauzier/), responsable du groupe Informatique
 
-![adm_ag_noel_201631](/uploads/2017/01/adm_AG_noel_201631-300x195.jpg)
+![adm_ag_noel_201631](/uploads/2017/01/adm_AG_noel_201631.jpg)
 
 <span class="s1" style="color: #000000;">Merci à eux pour leur engagement !</span>
 

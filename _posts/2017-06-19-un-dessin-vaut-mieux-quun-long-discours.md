@@ -19,7 +19,7 @@ tags:
 
 **Pendant deux mois, Marie-Lys Errard expose ses oeuvres sur les murs de l’Atelier des médias, à Lyon. Rencontre avec notre coworkeuse, traductrice graphique.**
 
-*Peux-tu décrire t*![marie-lys-portrait](/uploads/2017/06/marie-lys-portrait-150x150.jpg)*on activité en quelques mots ?*
+*Peux-tu décrire t*![marie-lys-portrait](/uploads/2017/06/marie-lys-portrait.jpg)*on activité en quelques mots ?*
 
 Je suis traductrice graphique, ça veut dire que je traduis les textes en dessins pour les rendre plus compréhensibles. Parce qu’un petit dessin vaut parfois mieux qu’un long discours !
 

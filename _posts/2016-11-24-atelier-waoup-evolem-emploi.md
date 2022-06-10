@@ -35,7 +35,7 @@ Nous n’avons pas toutes les connaissances et toutes les solutions aux problèm
 
 Le réseau Lyon Ville de l’Entrepreneuriat est l’un des plus importants du territoire français ! Il existe toutes sortes de structures d’accueil, d’accompagnement et de financement des entrepreneurs de l’anté-création et jusqu’à 3 ans après la création de votre structure. Et certaines sont spécialisées en fonction de votre domaine d’activité et/ou vos valeurs.
 
-![img_7599](/uploads/2016/11/IMG_7599-300x225.jpg)
+![img_7599](/uploads/2016/11/IMG_7599.jpg)
 
 ## \#3(bonus) : Prenez du plaisir !
 

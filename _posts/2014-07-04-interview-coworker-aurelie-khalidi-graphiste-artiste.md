@@ -12,7 +12,7 @@ categories:
 
 Interview d'une coworkeuse (historique) : Aurélie Khalidi. Notre graphiste de renommée internationale nous fait le plaisir de partager sa bonne humeur.
 
-[![10468134_782094485155323_8813176493120189723_o](/uploads/2014/09/10468134_782094485155323_8813176493120189723_o-300x225.jpg)](/uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg)
+[![10468134_782094485155323_8813176493120189723_o](/uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg)](/uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg)
 
 ## Qui es-tu ?
 
@@ -58,5 +58,5 @@ De fait, par ma profession, je suis Andréa le directeur artistique, même si je
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-266 gallery-columns-3 gallery-size-thumbnail" id="gallery-5"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10506789_782094488488656_2455067585066981779_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10468134_782094485155323_8813176493120189723_o-150x150.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10455011_782094475155324_6916014195370138037_o-150x150.jpg" alt="Illustration"> </dt></dl>  
+<div class="gallery galleryid-266 gallery-columns-3 gallery-size-thumbnail" id="gallery-5"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10506789_782094488488656_2455067585066981779_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10455011_782094475155324_6916014195370138037_o.jpg" alt="Illustration"> </dt></dl>  
  </div>

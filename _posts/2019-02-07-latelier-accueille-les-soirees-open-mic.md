@@ -20,7 +20,7 @@ tags:
     - rap
 ---
 
-![IMG_0583](/uploads/2019/02/IMG_0583-e1549540858867-225x300.jpg)Dans un esprit de soutien aux associations lyonnaises, l’Atelier des médias peut accueillir des événements sur demande. Depuis quelques années, les soirées Open Mic de l’association Les chantiers musicaux se déroulent dans la grande salle. Ce partenariat permet à l’association de pratiquer l’enseignement, la pratique et la promotion de la musique.
+![IMG_0583](/uploads/2019/02/IMG_0583-e1549540858867.jpg)Dans un esprit de soutien aux associations lyonnaises, l’Atelier des médias peut accueillir des événements sur demande. Depuis quelques années, les soirées Open Mic de l’association Les chantiers musicaux se déroulent dans la grande salle. Ce partenariat permet à l’association de pratiquer l’enseignement, la pratique et la promotion de la musique.
 
 Les Open Mic offrent l’occasion aux adhérents de chanter/déclamer/jouer devant un public bienveillant et d’apprendre à dompter le trac.
 

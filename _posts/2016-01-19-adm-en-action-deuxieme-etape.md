@@ -18,7 +18,7 @@ tags:
 
 <span style="font-weight: 400;">Grâce au talent d’organisation et de modération de [Charlotte Bohl](/coworkers/charlotte-bohl/) et à l’enthousiasme des nombreux coworkers présents, nous avons avancé à **vitesse grand V** sur trois axes, chacun aux mains d’un groupe de travail spécifique.</span>
 
-- <span style="font-weight: 400;"><img src="/uploads/2016/01/IMG_5935-e1453219962130-768x1024.jpg" alt="projet salle de réunion">Organisation d’un jeu pour la cohésion entre coworkers, mieux faire connaître l’ADM à ses propres membres et pour le fun.</span>
+- <span style="font-weight: 400;"><img src="/uploads/2016/01/IMG_5935-e1453219962130.jpg" alt="projet salle de réunion">Organisation d’un jeu pour la cohésion entre coworkers, mieux faire connaître l’ADM à ses propres membres et pour le fun.</span>
 - <span style="font-weight: 400;">Chantier de réaménagement de la salle de réunion pour le confort, le professionnalisme et pour le fun.</span>
 - <span style="font-weight: 400;">Organisation d’un weekend pour faire vivre l’ADM en tant que communauté, mieux intégrer les nouveaux venus et souder les liens entre coworkers et pour le fun.</span>
 
@@ -26,4 +26,4 @@ tags:
 
 <span style="font-weight: 400;">Et comme vous aurez compris que nous faisons toujours les choses dans une sympathique combinaison de sérieux, enthousiasme et bonne ambiance : tout cela a été mené autour d’un apéro !</span>
 
-[![apéro co reflexion 2](/uploads/2016/01/IMG_5934-1024x768.jpg)](/uploads/2016/01/IMG_5934.jpg)
+[![apéro co reflexion 2](/uploads/2016/01/IMG_5934.jpg)](/uploads/2016/01/IMG_5934.jpg)
