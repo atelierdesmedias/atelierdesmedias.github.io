@@ -14,7 +14,7 @@ tags:
     - 'vie associative'
 ---
 
-<span style="font-weight: 400;">Après une [première expérience fructueuse de World Café](/2015/11/reinventons-nous/) pour redessiner le futur de l’Atelier des Médias et réunir nos idées diverses, un groupe de coworkers disponible et motivé s’est réuni à nouveau pour transformer ces nombreuses idées en **projets concrets**. </span>
+<span style="font-weight: 400;">Après une [première expérience fructueuse de World Café](/reinventons-nous/) pour redessiner le futur de l’Atelier des Médias et réunir nos idées diverses, un groupe de coworkers disponible et motivé s’est réuni à nouveau pour transformer ces nombreuses idées en **projets concrets**. </span>
 
 <span style="font-weight: 400;">Grâce au talent d’organisation et de modération de [Charlotte Bohl](/coworkers/charlotte-bohl/) et à l’enthousiasme des nombreux coworkers présents, nous avons avancé à **vitesse grand V** sur trois axes, chacun aux mains d’un groupe de travail spécifique.</span>
 

@@ -27,4 +27,4 @@ Armé d’une épingle à cheveux, Pierre s’escrime maintenant avec la serrure
 | [![Illustration](/uploads/2014/04/Flec2CrochetageSeul1.jpg "Flec2CrochetageSeul")](/uploads/2014/04/Flec2CrochetageSeul1.jpg) | [![Illustration](http://wordpress.atelier-medias.org/uploads/2014/04/Flec2Photographe1.jpg "Flec2Photographe")](/uploads/2014/04/Flec2Photographe1.jpg)[![Illustration](/uploads/2014/04/LiberezEncordesReprisJustice1.jpg "LiberezEncordesReprisJustice")](/uploads/2014/04/LiberezEncordesReprisJustice1.jpg) |
 |---|---|
 
-[&lt; Lire le début de l’histoire ](/2014/04/le-bruit-court-la-police-se-tait/ "Le bruit court, la police se tait") [Lire la suite de l’histoire &gt;](/2014/04/ex-otages-ca-a-ete-lescalade/ "Ex-otages : « ça a été l’escalade »")
+[&lt; Lire le début de l’histoire ](/le-bruit-court-la-police-se-tait/ "Le bruit court, la police se tait") [Lire la suite de l’histoire &gt;](/ex-otages-ca-a-ete-lescalade/ "Ex-otages : « ça a été l’escalade »")

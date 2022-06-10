@@ -54,4 +54,4 @@ Se parler, se comprendre, dépasser nos préjugés.
 
 > *&gt; Site internet de Nicolas Gauthy[ Fait et Cause ](http://fait-et-cause.fr)*
 
-## Propos recueillis par[ Marlène Giroudon](/2016/01/marlene-giroudon-une-fonctionnaire-entrepreneuse/)
+## Propos recueillis par[ Marlène Giroudon](/marlene-giroudon-une-fonctionnaire-entrepreneuse/)

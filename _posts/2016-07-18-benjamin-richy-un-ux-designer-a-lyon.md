@@ -46,4 +46,4 @@ Il y a trois raisons. Tout d’abord, il y a quinze ans, j’ai déjà travaill�
 
 Parce que c’est un espace de coworking associatif. Ça facilite les relations avec les gens par rapport à d’autres coworkings où chacun peut être dans sa bulle. Ici, il y a de vrais échanges entre les personnes et on apprend très vite auprès des autres parce qu’ils sont déjà passés par plein de phases euphoriques ou difficiles. Le retour d’expérience est donc précieux. L’ADM devrait d’ailleurs être aussi perçu comme une agence de communication, de média, voire une agence du web, tellement les profils sont riches, variés et complémentaires.
 
-Des propos recueillis par la coworkeuse [Laetitia Agostino](/2016/07/laetitia-agostino-a-cree-son-activite-en-coworking/).
+Des propos recueillis par la coworkeuse [Laetitia Agostino](/laetitia-agostino-a-cree-son-activite-en-coworking/).
