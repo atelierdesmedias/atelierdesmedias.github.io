@@ -15,7 +15,7 @@ tags:
 
 <span style="font-weight: 400;">Vous souvenez-vous de votre stage d’orientation de Troisième ? Pour rappel, l’idée est de vous faire **découvrir un métier en une semaine,** pendant votre dernière année de collège, pour vous aider à orienter vos choix scolaires et professionnels. Autant vous dire que de mon côté je n’avais absolument pas idée de ce que je voulais faire à cet âge-là… et j’aurais alors aimé faire un choix aussi futé que celui d’Ambre : **venir en stage d’orientation dans un espace de coworking**.</span>
 
-<span style="font-weight: 400;">Comme vous l’avez certainement lu dans [notre dernière publication](/2015/11/association-qui-donne/) (oui, parce qu’en tant que parfait fan de l’Atelier des Médias vous lisez avidement tout le contenu de ce blog, n’est-ce pas ?), Ambre est venue chercher l’inspiration professionnelle dans le bassin de métiers de notre cher Atelier. Son oeil neuf donne un regard franc et direct sur le **statut de freelance** :</span>
+<span style="font-weight: 400;">Comme vous l’avez certainement lu dans [notre dernière publication](/association-qui-donne/) (oui, parce qu’en tant que parfait fan de l’Atelier des Médias vous lisez avidement tout le contenu de ce blog, n’est-ce pas ?), Ambre est venue chercher l’inspiration professionnelle dans le bassin de métiers de notre cher Atelier. Son oeil neuf donne un regard franc et direct sur le **statut de freelance** :</span>
 
 1. > <span style="font-weight: 400;">Le travail en Freelance c’est d’abord une **passion**.</span>
 2. > <span style="font-weight: 400;">Il faut **être organisé** pour travailler en freelance.</span>

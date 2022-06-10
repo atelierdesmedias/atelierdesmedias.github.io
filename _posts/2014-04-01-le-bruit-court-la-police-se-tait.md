@@ -20,4 +20,4 @@ Contacté hier par un journaliste de l’ADM, le Ministère de l’Intérieur es
 
 [![flec1](/uploads/2014/12/flec1.jpg)](/uploads/2014/12/flec1.jpg)
 
-[Lire la suite de l’histoire &gt;](/2014/04/epingle-a-cheveux-contre-couteau-suisse/ "epingle a cheveux contre Couteau suisse")
+[Lire la suite de l’histoire &gt;](/epingle-a-cheveux-contre-couteau-suisse/ "epingle a cheveux contre Couteau suisse")

@@ -14,7 +14,7 @@ tags:
     - travaux
 ---
 
-Notre Assemblée générale de fin de semestre n’a pas seulement été l’occasion d’un récapitulatif joyeux de toutes nos activités, de voir notre président s’illustrer par son sens du style, de réélire la moitié de notre conseil d’administration ou de passer un soirée sympathique dans la joie, la paix et l’amour (et pas la guerre) mais aussi l’occasion de découvrir le **relooking de notre salle de réunion**. Vous vous souvenez peut-être que nous avons [transformé un de nos bureaux en salle de réunion](/2015/10/une-salle-de-reunion-pour-mieux-collaborer/).
+Notre Assemblée générale de fin de semestre n’a pas seulement été l’occasion d’un récapitulatif joyeux de toutes nos activités, de voir notre président s’illustrer par son sens du style, de réélire la moitié de notre conseil d’administration ou de passer un soirée sympathique dans la joie, la paix et l’amour (et pas la guerre) mais aussi l’occasion de découvrir le **relooking de notre salle de réunion**. Vous vous souvenez peut-être que nous avons [transformé un de nos bureaux en salle de réunion](/une-salle-de-reunion-pour-mieux-collaborer/).
 
 [![salle de réunion](/uploads/2015/10/P_20151020_141639.jpg)](/uploads/2015/10/P_20151020_141639.jpg)
 

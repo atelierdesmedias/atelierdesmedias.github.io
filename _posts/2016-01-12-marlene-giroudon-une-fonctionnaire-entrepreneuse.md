@@ -62,4 +62,4 @@ Je ne me vois pas vieillir dans le statut d’indépendant. C’est précaire, l
 
 Mais aujourd’hui, cela convient à 100% à mon mode de vie. Cela me permet de concilier au mieux vie personnelle et vie professionnelle.
 
-### *Propos recueillis pas [Nicolas Gauthy](/2016/01/nicolas-gauthy-conseil-en-communication-en-poste-nomade-a-latelier-des-medias/)*
+### *Propos recueillis pas [Nicolas Gauthy](/nicolas-gauthy-conseil-en-communication-en-poste-nomade-a-latelier-des-medias/)*

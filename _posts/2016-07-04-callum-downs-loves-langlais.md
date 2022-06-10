@@ -46,4 +46,4 @@ Quand je suis arrivé sur Lyon, j’ai voulu rencontrer du monde, me faire égal
 
 Oui complètement, 90% de mes clients découlent d’ailleurs du coworking. C’est primordial pour mon activité !
 
-Des propos recueillis par la coworkeuse [Donatelle Liens. ](/2016/07/rencontre-avec-donatelle-liens-graphiste-illustratrice-et-photographe/)
+Des propos recueillis par la coworkeuse [Donatelle Liens. ](/rencontre-avec-donatelle-liens-graphiste-illustratrice-et-photographe/)

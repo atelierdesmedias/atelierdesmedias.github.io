@@ -40,4 +40,4 @@ Après plusieurs dizaines de minutes, une petite troupe de coworkers de l'ADM so
 
 [![Flec3DemiberationTerroriste](/uploads/2014/12/Flec3DemiberationTerroriste.jpg)](/uploads/2014/12/Flec3DemiberationTerroriste.jpg)
 
-[&lt; Lire le début de l'histoire](/2014/04/epingle-a-cheveux-contre-couteau-suisse/ "Epingle à cheveux contre Couteau suisse") [Lire la suite de l'histoire &gt;](/2014/04/du-couteau-suisse-a-la-fourchette/ "Du Couteau suisse à la fourchette")
+[&lt; Lire le début de l'histoire](/epingle-a-cheveux-contre-couteau-suisse/ "Epingle à cheveux contre Couteau suisse") [Lire la suite de l'histoire &gt;](/du-couteau-suisse-a-la-fourchette/ "Du Couteau suisse à la fourchette")
