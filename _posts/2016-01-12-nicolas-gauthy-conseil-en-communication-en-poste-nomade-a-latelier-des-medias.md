@@ -10,7 +10,7 @@ categories:
     - 'Focus métier'
 ---
 
-**[![Nicolas 3](/uploads/2016/01/Nicolas-3-300x200.jpg)](/uploads/2016/01/Nicolas-3.jpg)**
+**[![Nicolas 3](/uploads/2016/01/Nicolas-3.jpg)](/uploads/2016/01/Nicolas-3.jpg)**
 
 **Salut Nicolas ! En une ligne, comment définis-tu ton travail ?**
 

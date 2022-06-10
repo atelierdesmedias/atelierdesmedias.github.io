@@ -14,7 +14,7 @@ tags:
     - 'restos du coeur'
 ---
 
-**![unnamed](/uploads/2017/07/unnamed-150x150.jpg)**
+**![unnamed](/uploads/2017/07/unnamed.jpg)**
 
 **Tous solidaires : Collecte ADM pour les Restos du Cœur**
 
@@ -28,4 +28,4 @@ L’Atelier des Médias remercie la générosité de ses membres, qui ont réuss
 
 Pour en savoir plus, contactez[ l’association des Restos du Cœur](https://www.restosducoeur.org/associations-departementales/) la plus proche de chez vous.
 
-![_20170704_134443](/uploads/2017/07/20170704_134443-150x150.jpg)
+![_20170704_134443](/uploads/2017/07/20170704_134443.jpg)

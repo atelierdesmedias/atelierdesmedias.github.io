@@ -17,7 +17,7 @@ tags:
 <div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="column">**RETOUR sur #acow17**  
  **1ères assises du COWORKING**
 
-</div>![acow1](/uploads/2017/08/Capture-décran-2017-08-24-10.33.35-150x150.png)
+</div>![acow1](/uploads/2017/08/Capture-décran-2017-08-24-10.33.35.png)
 
 </div></div></div><div class="page" title="Page 1"><div class="section"><div class="layoutArea"><div class="page" title="Page 1"><div class="section">> <div class="layoutArea">Synthèse du premier événement en France consacré au coworking, organisé à Lyon  
 > le 3 février 2017, par le Réseau Coworking Grand Lyon avec le soutien de la Métropole.
@@ -42,7 +42,7 @@ tags:
 > 
 > Malgré les discours affichés, les **entreprises** hésitent encore à sauter le pas du **télétravail**. Comment les sensibiliser à ces nouveaux modes de travail ? Comment les convaincre de se lancer dans le coworking pour leurs salariés ?
 > 
-> </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="page" title="Page 7"></div>**<img src="/uploads/2017/08/Capture-décran-2017-08-24-10.36.55-150x150.png" alt="Capture d'écran 2017-08-24 10.36.55"><img src="/uploads/2017/08/Capture-décran-2017-08-24-10.37.09-150x150.png" alt="Capture d'écran 2017-08-24 10.37.09"> <img src="/uploads/2017/08/Capture-décran-2017-08-24-10.37.02-150x150.png" alt="Capture d'écran 2017-08-24 10.37.02">**
+> </div></div></div></div></div></div></div></div></div></div></div></div></div></div></div><div class="page" title="Page 7"></div>**<img src="/uploads/2017/08/Capture-décran-2017-08-24-10.36.55.png" alt="Capture d'écran 2017-08-24 10.36.55"><img src="/uploads/2017/08/Capture-décran-2017-08-24-10.37.09.png" alt="Capture d'écran 2017-08-24 10.37.09"> <img src="/uploads/2017/08/Capture-décran-2017-08-24-10.37.02.png" alt="Capture d'écran 2017-08-24 10.37.02">**
 > 
 > </div></div></div></div></div></div></div>
 

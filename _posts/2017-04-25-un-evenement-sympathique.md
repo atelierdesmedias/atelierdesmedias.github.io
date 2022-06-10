@@ -16,6 +16,6 @@ samedi 29 avril à partir de 10h30
 
 pour les rencontres Café &amp; Spéculoos du samedi matin
 
-![claudine morel](/uploads/2017/04/image-300x231.png)
+![claudine morel](/uploads/2017/04/image.png)
 
 Courez la voir !!!!!

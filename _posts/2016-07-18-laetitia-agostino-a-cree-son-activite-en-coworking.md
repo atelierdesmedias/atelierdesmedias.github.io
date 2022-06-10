@@ -10,7 +10,7 @@ categories:
     - Portraits
 ---
 
-**[![DSC_0919 (2)](/uploads/2016/07/DSC_0919-2-293x300.jpg)](/uploads/2016/07/DSC_0919-2.jpg)Dès le lancement de son activité, Laetitia Agostino a opté pour le coworking. Cela fait près de huit mois qu’elle vit au rythme de l’Atelier des médias. Rencontre avec cette traductrice pleine d’énergie.**
+**[![DSC_0919 (2)](/uploads/2016/07/DSC_0919-2.jpg)](/uploads/2016/07/DSC_0919-2.jpg)Dès le lancement de son activité, Laetitia Agostino a opté pour le coworking. Cela fait près de huit mois qu’elle vit au rythme de l’Atelier des médias. Rencontre avec cette traductrice pleine d’énergie.**
 
 **Qu’est ce qui t’a poussée à créer ton activité ?**
 

@@ -11,7 +11,7 @@ categories:
     - 'L''espace'
 ---
 
-[![Jpeg](/uploads/2015/10/P_20151020_141639-300x168.jpg)](/uploads/2015/10/P_20151020_141639.jpg)
+[![Jpeg](/uploads/2015/10/P_20151020_141639.jpg)](/uploads/2015/10/P_20151020_141639.jpg)
 
 L’Atelier des médias s’est doté d’une salle de réunion, en plus de celle dédiée aux communications téléphoniques. L’objectif? Améliorer encore un peu plus les conditions de travail des membres de l’association.
 

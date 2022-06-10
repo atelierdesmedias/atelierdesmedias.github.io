@@ -33,7 +33,7 @@ Site internet : [Claudine Morel Illustrations](http://claudinemorel.ultra-book.c
 
 Non, pas exclusivement. J'ai par exemple travaillé pour un magazine d'information juridique et patrimoniale et pour des entreprises. Mais j’aime le monde des enfants, c'est dans ce domaine que s »épanouit mon travail, et que je me sens à l'aise et heureuse. De fait, c'est plutôt pour l'illustration jeunesse qu'on fait appel à moi aujourd'hui.
 
-[![unnamed](/uploads/2015/11/unnamed-300x204.png)](/uploads/2015/11/unnamed.png)
+[![unnamed](/uploads/2015/11/unnamed.png)](/uploads/2015/11/unnamed.png)
 
 **Quel a été ton plus beau projet jusqu’à présent ?**
 
@@ -47,7 +47,7 @@ Je sais que je fais parfois un peu figure d'OVNI à l'ADM, avec mes crayons et m
 
 Je me sers du numérique pour le traitement de l'image, la mise en page, d'autres esthétiques… C'est un outil fabuleux, qui permet de travailler vite, d'effacer et de recommencer à l'infini, ce qui est un vrai confort – mais parfois un piège!, et d'obtenir des effets que le « réel » ne permet pas. Chacun a ses avantages ! Donc non, dessiner au crayon n'est pas anachronique. C'est même, je crois, être bien de son temps que de savoir utiliser et faire cohabiter harmonieusement tous les outils. Tout est histoire de choix, selon son objectif et son aisance aussi. On choisit l'outil qui nous appelle, avec lequel on se sent bien et qui nous permet de nous exprimer au mieux.
 
-[![morel](/uploads/2015/11/morel-300x204.png)](/uploads/2015/11/morel.png)
+[![morel](/uploads/2015/11/morel.png)](/uploads/2015/11/morel.png)
 
 **Quelles sont les difficultés de ton métier ?**
 

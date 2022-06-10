@@ -19,7 +19,7 @@ Comme je suis un grand voyageur, dans l’âme et autant que possible dans l’a
 
 <div class="text_exposed_show">Le principe est simple : après avoir créé votre profil voyageur, le site vous dit qui, dans votre entourage, connait votre destination de voyage !
 
-![Home_Umaap](/uploads/2015/09/Home_Umaap-300x140.png)
+![Home_Umaap](/uploads/2015/09/Home_Umaap.png)
 
 On le sait tous : organiser un voyage pour qu’il sorte des sentiers battus est toujours plus facile quand on peut bénéficier de conseils d’amis qui y vivent, ou y ont séjourné, et qui pourront nous communiquer les bons plans, les bons contacts, les choses à ne pas manquer, etc. Et comme on n’a pas forcément conscience de son réseau à travers le monde, Umaap s’en charge !
 

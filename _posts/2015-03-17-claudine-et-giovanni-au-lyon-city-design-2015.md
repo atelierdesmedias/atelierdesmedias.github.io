@@ -16,7 +16,7 @@ tags:
     - urbanisme
 ---
 
-[![Lyoncitydesign_Walknroll_Supernova_vue-general](/uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general-300x165.jpg)](/uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general.jpg)
+[![Lyoncitydesign_Walknroll_Supernova_vue-general](/uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general.jpg)](/uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general.jpg)
 
 Nos coworkers Claudine et Giovanni s'exposent au Lyon City Design 2015 !
 

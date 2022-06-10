@@ -17,7 +17,7 @@ tags:
 
 Étienne *Duranton (38 ans) mène deux projets de front : construire un village de Hobbit, – du nom de la créature semi-humaine habitant la Comté du Seigneur des anneaux – et développer des solutions de réalité augmentée pour Escape Game et Serious Game.*
 
-<figure class="wp-block-image"><img src="/uploads/2020/12/IMG_04072016_184230-1-924x1024.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/12/IMG_04072016_184230-1.jpg" alt="Illustration"></figure>
 
 Avec son casque Occulus sur les yeux – et son masque en cette période de crise sanitaire – ou caché dans sa [maison de Hobbit ](https://www.facebook.com/MyHobbitHome/about/)tirée de l’imaginaire de J.R.R. Tolkien, [Étienne Duranton](https://www.linkedin.com/in/etienne-duranton-462627a/?originalSubdomain=fr) est en fait en train d’explorer. Quel que soit l’outil, la réalité virtuelle ou la construction d’habitat alternatif, il s’aventure à rendre la vie un peu plus magique. Alors comment en est-il arrivé là, ce nouveau [coworker](/categorie/portraits/) de l’Atelier des médias, qui nous a rejoint en septembre dernier ?
 
@@ -37,7 +37,7 @@ Il retourne en France et rejoint des amis de l’école. Ensemble, ils créent l
 
 En 2017, grand virage et retour à la passion du bricolage. Étienne se lance dans la construction d’un prototype de maison de Hobbit… dans le but semi-avoué de se lancer un jour dans la construction d’un village entier. « J’aimerais offrir un lieu de vacances déconnecté, en habitat collectif mais où chacun dispose de son espace, pour voyager sans aller à l’autre bout du monde », témoigne l’ingénieur qui apporte aujourd’hui la touche finale à [sa première maison de Hobbit](https://www.instagram.com/myhobbithome/). Il devrait pouvoir la louer dès cet été.
 
-<figure class="wp-block-image"><img src="/uploads/2020/12/111393268_623007158332944_4932297620349585556_o-1024x768.jpg" alt="Illustration"><figcaption>Étienne Duranton a construit ce prototype de maison de Hobbit dans le jardin de sa maison de campagne, à proximité de Cluny (Bourgogne-Franche-Comté). Elle sera bientôt à louer. </figcaption></figure>
+<figure class="wp-block-image"><img src="/uploads/2020/12/111393268_623007158332944_4932297620349585556_o.jpg" alt="Illustration"><figcaption>Étienne Duranton a construit ce prototype de maison de Hobbit dans le jardin de sa maison de campagne, à proximité de Cluny (Bourgogne-Franche-Comté). Elle sera bientôt à louer. </figcaption></figure>
 
 Enfin, en 2020, il se lance en parallèle en tant qu’indépendant dans la réalité augmentée pour les Escape Game. Le lien entre les deux projets ? « Pour moi que cela soit créer un village dépaysant ou proposer une immersion en réalité virtuelle, c’est simplement offrir la possibilité de s’évader », explique ce rêveur réaliste. En VR, il a ainsi déjà plusieurs clients à Lyon et Saint-Étienne et se développe dans la formation industrielle. « Un serious game permet de créer des simulations et de former certains techniciens et ingénieurs sans mettre les usines à l’arrêt : cela représente des gains substantiels pour mes clients. »
 

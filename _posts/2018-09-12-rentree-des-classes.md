@@ -14,7 +14,7 @@ tags:
     - rentree
 ---
 
-![Capture d'écran 2018-09-12 14.31.03](/uploads/2018/09/Capture-décran-2018-09-12-14.31.03-1-1024x640.png)
+![Capture d'écran 2018-09-12 14.31.03](/uploads/2018/09/Capture-décran-2018-09-12-14.31.03-1.png)
 
 **VOUS**
 

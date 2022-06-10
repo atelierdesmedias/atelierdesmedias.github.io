@@ -5,7 +5,7 @@ date: '2018-01-16T17:57:06+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /latelier-des-medias-presente/
-image: /uploads/2018/01/ADM_video2-1-840x594.jpg
+image: /uploads/2018/01/ADM_video2-1.jpg
 categories:
     - After-work
 tags:

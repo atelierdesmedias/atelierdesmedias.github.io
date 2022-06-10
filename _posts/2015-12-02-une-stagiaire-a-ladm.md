@@ -51,6 +51,6 @@ Plein de métiers qu’elle a découverts en passant du temps en particulier ave
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-1457 gallery-columns-3 gallery-size-medium" id="gallery-8"><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/quitus-218x300.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse1-218x300.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse-colo-218x300.jpg" alt="Illustration"> </dt></dl>  
-<dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse-218x300.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/MetierSigneCarre-289x300.jpg" alt="Illustration"> </dt></dl>   
+<div class="gallery galleryid-1457 gallery-columns-3 gallery-size-medium" id="gallery-8"><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/quitus.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse1.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse-colo.jpg" alt="Illustration"> </dt></dl>  
+<dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/MetierSigneCarre.jpg" alt="Illustration"> </dt></dl>   
  </div>
