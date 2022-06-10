@@ -68,5 +68,3 @@ Voici, par exemple, une liste de questions à balayer avant de sauter le pas :
 – Quid de la confidentialité ?
 
 **Si l’ADM compte quelques télétravailleurs à temps plein, nous n’avons jamais expérimenté cette solution, faute de place et de temps. Mais si votre espace l’a déjà fait, n’hésitez pas à témoigner sur ce blog ! On serait curieux de savoir comment cela s’est passé 😉**
-
-<div></div>
