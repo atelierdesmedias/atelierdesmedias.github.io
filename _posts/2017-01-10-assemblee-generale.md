@@ -38,19 +38,19 @@ Grande nouveauté cette année : le **Marché de Noël à l’ADM** !!!!! Le 13 
 
 <span class="s1">L’AG a été l’occasion d’élire la moitié du **Conseil d’Administration**, dont un **nouveau bureau :**</span>
 
-- <span class="s1">[Anne-Catherine de Fombelle](/coworkers/anne-catherine-de-fombelle/) est notre nouvelle présidente !</span>
-- <span class="s1">[Alexandre Edo](/coworkers/alexandre-edo/) notre secrétaire !</span>
-- <span class="s1">[Lélia Withnell](/coworkers/lelia-withnell/), fidèle au poste de trésorière 🙂</span>
+- <span class="s1">Anne-Catherine de Fombelle est notre nouvelle présidente !</span>
+- <span class="s1">Alexandre Edo notre secrétaire !</span>
+- <span class="s1">Lélia Withnell, fidèle au poste de trésorière 🙂</span>
 
 Le lendemain de l’AG, **élection des responsables de groupe :**
 
-- [Aurélie Duclos](/coworkers/aurelie-duclos/), responsable du groupe Recrutement
-- [Benjamin Richy](/coworkers/benjamin-richy/), responsable du groupe Relations publiques
-- [Coralie Müller](/coworkers/), responsable du groupe Vie associative
-- [Claudine Morel](/coworkers/claudine-morel/), responsable du groupe Vie quotidienne
-- [Deirdre Brophy](/coworkers/deirdre-brophy/), responsable du groupe Événements
-- [Fanny Vandecandelaere](/coworkers/fanny-vandecandelaere/), responsable du groupe Communication
-- [Thibault Clauzier](/coworkers/thibault-clauzier/), responsable du groupe Informatique
+- Aurélie Duclos, responsable du groupe Recrutement
+- Benjamin Richy, responsable du groupe Relations publiques
+- Coralie Müller, responsable du groupe Vie associative
+- Claudine Morel, responsable du groupe Vie quotidienne
+- Deirdre Brophy, responsable du groupe Événements
+- Fanny Vandecandelaere, responsable du groupe Communication
+- Thibault Clauzier, responsable du groupe Informatique
 
 ![adm_ag_noel_201631](/uploads/2017/01/adm_AG_noel_201631.jpg)
 

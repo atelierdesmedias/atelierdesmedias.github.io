@@ -48,7 +48,7 @@ Vous avez peut-être pu suivre notre AG sur Twitter en live sinon voici quelques
 > Enquête : En tout, les coworkers font 152 heures de bénévolat par mois pour [\#admlyon](https://twitter.com/hashtag/admlyon?src=hash) [\#coworking](https://twitter.com/hashtag/coworking?src=hash) — L’atelier des médias (@Coworking\_lyon) [December 17, 2015](https://twitter.com/Coworking_lyon/status/677566628507328513)
 
 <script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>  
-L’AG, et la réunion qui l’a suivie, a été l’occasion de **l’élection de la moitié du Conseil d’Administration, dont un nouveau bureau** : [Olivier Pignard](/coworkers/olivier-pignard/) est notre nouveau **président**, [Marlène Giroudon](/coworkers/marlene-giroudon/) notre **secrétaire** et [Thomas Mortagne](/coworkers/thomas-mortagne/) prend la relève d’Olivier au poste de **trésorier**. Merci à eux pour leur engagement et merci à tous pour votre lecture.
+L’AG, et la réunion qui l’a suivie, a été l’occasion de **l’élection de la moitié du Conseil d’Administration, dont un nouveau bureau** : Olivier Pignard est notre nouveau **président**, Marlène Giroudon notre **secrétaire** et Thomas Mortagne prend la relève d’Olivier au poste de **trésorier**. Merci à eux pour leur engagement et merci à tous pour votre lecture.
 
 Et à tous bien sûr **Joyeux Noël** !
 

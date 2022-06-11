@@ -28,4 +28,4 @@ Alors rendez-vous dès jeudi chez votre libraire préféré, ou dès maintenant 
 
 Pour toute question, n’hésitez pas à contacter Vincent: <https://twitter.com/grimaultv?lang=fr>
 
-<https://www.linkedin.com/in/vincent-grimault-20a95369/?originalSubdomain=fr>
+<https://www.linkedin.com/in/vincent-grimault-20a95369/>

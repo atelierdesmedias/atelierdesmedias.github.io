@@ -18,6 +18,6 @@ Quatre ans plus tard, l’Atelier des médias s’est fait un nom. Sans subventi
 
 ### Interview de Jean-Octave Dupont,
 
-par [Laurent Poillot](/coworkers/laurent-poillot/ "Laurent Poillot")
+par Laurent Poillot
 
 <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="281" src="https://www.youtube.com/embed/fzi-VyQh3_M?feature=oembed" title="La Macif Rhone-Alpes, mécène de l'Atelier des Médias" width="500"></iframe>

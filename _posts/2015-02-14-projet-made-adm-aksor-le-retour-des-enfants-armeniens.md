@@ -21,7 +21,7 @@ Pendant deux semaines, **du 12 au 26 avril 2015**, le collectif de journalistes 
 
 Nous avons lancé un crowdfunding sur le site KissKissBankBank :
 
-<http://www.kisskissbankbank.com/fr/projects/aksor-le-retour-des-enfants-armeniens>
+<http://www.kisskissbankbank.com/projects/aksor-le-retour-des-enfants-armeniens>
 
 **<span style="text-decoration: underline">L’HISTOIRE</span>**
 

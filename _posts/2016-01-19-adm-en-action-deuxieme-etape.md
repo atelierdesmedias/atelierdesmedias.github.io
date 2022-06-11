@@ -16,7 +16,7 @@ tags:
 
 <span style="font-weight: 400;">Après une [première expérience fructueuse de World Café](/reinventons-nous/) pour redessiner le futur de l’Atelier des Médias et réunir nos idées diverses, un groupe de coworkers disponible et motivé s’est réuni à nouveau pour transformer ces nombreuses idées en **projets concrets**. </span>
 
-<span style="font-weight: 400;">Grâce au talent d’organisation et de modération de [Charlotte Bohl](/coworkers/charlotte-bohl/) et à l’enthousiasme des nombreux coworkers présents, nous avons avancé à **vitesse grand V** sur trois axes, chacun aux mains d’un groupe de travail spécifique.</span>
+<span style="font-weight: 400;">Grâce au talent d’organisation et de modération de Charlotte Bohl et à l’enthousiasme des nombreux coworkers présents, nous avons avancé à **vitesse grand V** sur trois axes, chacun aux mains d’un groupe de travail spécifique.</span>
 
 - <span style="font-weight: 400;"><img src="/uploads/2016/01/IMG_5935-e1453219962130.jpg" alt="projet salle de réunion">Organisation d’un jeu pour la cohésion entre coworkers, mieux faire connaître l’ADM à ses propres membres et pour le fun.</span>
 - <span style="font-weight: 400;">Chantier de réaménagement de la salle de réunion pour le confort, le professionnalisme et pour le fun.</span>

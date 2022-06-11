@@ -16,4 +16,4 @@ Partis sur les traces du génocide des Arméniens dans le Sud de la Turquie, les
 
 Texte Mathieu Martiniere, photo de Pierre Gouyou Beauchamps.
 
-Un projet financé grâce à une levée de fonds sur la plateforme [KissKissBankBank](http://www.kisskissbankbank.com/aksor-le-retour-des-enfants-armeniens).
+Un projet financé grâce à une levée de fonds sur la plateforme [KissKissBankBank](http://www.kisskissbankbank.com/projects/aksor-le-retour-des-enfants-armeniens).

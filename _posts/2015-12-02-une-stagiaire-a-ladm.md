@@ -26,7 +26,7 @@ tags:
 
 Plein de métiers qu’elle a découverts en passant du temps en particulier avec certains de nos coworkers et l’expérience n’a pas été bénéfique que pour elle !
 
-> <span style="font-weight: 400;">“C’était sympa d’avoir une jeune fille hyper enthousiaste, intéressée, qui pose mille questions à la minute. Du coup, j’ai re-découvert pendant un instant mon travail avec bonheur et son enthousiasme a été communicatif.” [Aurélie](/coworkers/aurelie-khalidi/)</span>
+> <span style="font-weight: 400;">“C’était sympa d’avoir une jeune fille hyper enthousiaste, intéressée, qui pose mille questions à la minute. Du coup, j’ai re-découvert pendant un instant mon travail avec bonheur et son enthousiasme a été communicatif.” Aurélie</span>
 > 
 > <span style="font-weight: 400;">“Même si ça prend un peu de temps sur son travail, c’est toujours chouette de partager un peu son métier surtout quand c’est une passion. Et puis verbaliser, expliquer à quelqu’un, ça permet de mieux cerner sa propre pratique professionnelle, de mieux communiquer. Surtout j’aurais rêvé rencontrer des gens qui me parlent de leur boulot quand j’étais ado et angoissé de ne pas savoir quoi faire de mon futur” Louis-Marie</span>
 
