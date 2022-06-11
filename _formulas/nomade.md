@@ -1,6 +1,5 @@
 ---
-verb: Devenir
-name: nomade
+name: Formule nomade
 price: 102
 period: mois
 ---

@@ -1,8 +1,7 @@
 <section class="formulas">
   {% for formula in site.formulas %}
     <div class="formula {{ formula.slug }}">
-      <h3>{{ formula.verb }} <div>{{ formula.name }}</div>
-      </h3>
+      <h2>{{ formula.name }}</h2>
       {{ formula.content }}
       <div class="tarif"><span>{{ formula.price }} €</span>TTC/{{ formula.period }}</div>
       {% if formula.slug != "adherent" %}
