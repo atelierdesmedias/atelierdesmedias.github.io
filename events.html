@@ -11,7 +11,7 @@ permalink: agenda
 {% for event in reversed_events %}
   <section class=event>
     <div class="picture">
-      <img src="/events/{{ event.cover }}" alt="{{ event.name }}" />
+      <img src="/events/{{ event.cover }}" alt="{{ event.name | escape }}" />
     </div>
     <div class="details">
       <span class="date">{{ event.date | date: "%d/%m/%Y"}}</span>
