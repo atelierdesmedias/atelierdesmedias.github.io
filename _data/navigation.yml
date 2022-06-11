@@ -1,0 +1,8 @@
+menu:
+  - title: Le Coworking
+    url: /
+  - title: Le Blog
+    url: /blog
+  - title: Les Evènements
+    url: /les-evenements
+

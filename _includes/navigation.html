@@ -1,7 +1,7 @@
 <a class="logo" href="{{ "/" | relative_url }}">
   <img src="{{ "/assets/logo.svg" | relative_url }}" alt="{{ site.title }}" />
 </a>
-{% for item in site.pages %}  
+{% for item in site.data.navigation.menu %}  
   {% if item.title and item.autogen == nil and item.autopage == nil %}
     <a class="nav-{% if page.title == item.title %}active{% else %}link{% endif %}"
       href="{{ item.url | relative_url | replace: 'index.html', '' }}">{{ item.title | escape }}</a>
