@@ -2,29 +2,12 @@
   max-width: 900px;
   margin: 2rem auto;
 
-  img.featured {
+  .featured {
     width: 100%;
     max-height: 514px;
     margin: 1rem 0;
 
     object-fit: cover;
-  }
-
-  ul.post-categories {
-    display: flex;
-    gap: .5rem;
-    margin-top: .5rem;
-
-    li {
-      display: inline-block;
-
-      padding: .25rem .5rem;
-
-      background: #88ba30;
-
-      color: #fff;
-      list-style: none;
-    }
   }
 
   .post-content {

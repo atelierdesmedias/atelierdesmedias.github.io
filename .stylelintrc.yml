@@ -205,7 +205,7 @@ rules:
   value-no-vendor-prefix: true
   # Usually if you're nesting past 3 levels deep there's a problem
   max-nesting-depth:
-    - 4
+    - 5
     - ignore: "blockless-at-rules"
   # Qualifying types are not needed when using a naming system like BEM
   selector-no-qualifying-type: true
