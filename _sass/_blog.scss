@@ -1,94 +1,107 @@
 .blogroll {
-    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    list-style: none;
-    max-width: 900px;
+  max-width: 900px;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  list-style: none;
 
-    li {
-        margin: 1rem;
-        border: 1px solid #ddd;
+  li {
+    margin: 1rem;
+    border: 1px solid #ddd;
 
-        a {
-            display: flex;
-            flex-direction: column;
-            @media screen and (min-width: 560px) {
-                flex-direction: row;
-            }
+    a {
+      display: flex;
+      flex-direction: column;
 
-            div:first-child {
-                flex: none;
-                @media screen and (min-width: 560px) {
-                    width: 220px;
-                }
+      @media screen and (min-width: 560px) {
+        flex-direction: row;
+      }
 
-                img {
-                    display: block;
-                    width: 100%;
-                    object-fit: cover;
-                    object-position: center 25%;
-                    max-height: 320px;
-                    @media screen and (min-width: 560px) {
-                        height: 160px;
-                    }
-                }
-            }
+      div:first-child {
+        flex: none;
 
-            div:last-child {
-                flex: 1 1 0%;
-                padding: 0.5rem 1rem;
-
-                h2 {
-                    font-family: 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-                    font-size: 1.25rem;
-                    font-weight: bold;
-                }
-
-                ul.post-categories {
-                    display: flex;
-                    gap: 0.5rem;
-                    margin-top: 0.5rem;
-            
-                    li {
-                        font-size: 0.875rem;
-                        list-style: none;
-                        display: inline-block;
-                        background: #88BA30;
-                        color: #fff;
-                        padding: 0.25rem 0.5rem;
-                        margin: 0;
-                    }
-                }
-
-                p.post-meta {
-                    font-size: 0.875rem;
-
-                    span.author {
-                        color: #88BA30;
-                    }
-                }
-            }
+        @media screen and (min-width: 560px) {
+          width: 220px;
         }
+
+        img {
+          display: block;
+
+          width: 100%;
+          max-height: 320px;
+
+          object-fit: cover;
+          object-position: center 25%;
+
+          @media screen and (min-width: 560px) {
+            height: 160px;
+          }
+        }
+      }
+
+      div:last-child {
+        flex: 1 1 0%;
+        padding: .5rem 1rem;
+
+        h2 {
+          font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          font-size: 1.25rem;
+          font-weight: bold;
+        }
+
+        ul.post-categories {
+          display: flex;
+          gap: .5rem;
+          margin-top: .5rem;
+
+          li {
+            display: inline-block;
+
+            margin: 0;
+            padding: .25rem .5rem;
+
+            background: #88ba30;
+
+            color: #fff;
+            font-size: .875rem;
+            list-style: none;
+          }
+        }
+
+        p.post-meta {
+          font-size: .875rem;
+
+          span.author {
+            color: #88ba30;
+          }
+        }
+      }
     }
+  }
 }
 
 ul.pager {
-    margin: 1rem 1rem 2rem;
-    display: block;
-    text-align: center;
-    list-style: none;
+  display: block;
 
-    li {
-        display: inline;
-        border: 1px solid #ddd;
-        padding: 10px;
-        margin: 5px;
-        font-weight: bold;
-    
-        &.selected {
-            background: #84cbd5;
+  margin: 1rem 1rem 2rem;
 
-            a {
-                color: #fff;
-            }
-        }
+  list-style: none;
+  text-align: center;
+
+  li {
+    display: inline;
+
+    margin: 5px;
+    padding: 10px;
+
+    border: 1px solid #ddd;
+
+    font-weight: bold;
+
+    &.selected {
+      background: #84cbd5;
+
+      a {
+        color: #fff;
+      }
     }
+  }
 }
