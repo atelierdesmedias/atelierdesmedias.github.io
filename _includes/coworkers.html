@@ -1,9 +1,4 @@
 <section class="coworkers">
-  <div class="coworker-tags">
-    {% for tag in site.data.coworker_tags %}
-      <div class="coworker-tag">{{ tag.name }}</div>
-    {% endfor %}
-  </div>
   <div class="coworkers_list">
     {% for coworker in site.coworkers %}
       <a class="coworker-card" href="{{ coworker.url | relative_url }}">
