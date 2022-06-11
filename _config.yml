@@ -53,6 +53,6 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  trail: 
+  trail:
     before: 2
     after: 2
