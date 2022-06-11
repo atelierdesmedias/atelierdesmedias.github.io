@@ -1,6 +1,6 @@
 .big-video {
   position: relative;
-  height: 100vh;
+  height: 75vh;
   overflow: hidden;
 
   video {
@@ -9,16 +9,20 @@
     object-fit: cover;
   }
 
-  img {
+  a {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    right: 20%;
+    bottom: 20%;
 
-    transform: translate(-50%, -50%);
+    padding: 1em;
+
+    border: solid 1px white;
+
+    color: white;
   }
 
   @media screen and (min-width: 800px) {
-    height: calc(100vh - 80px);
+    height: calc(75vh - 80px);
   }
 }
 
