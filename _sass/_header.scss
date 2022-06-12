@@ -6,10 +6,6 @@ header {
     }
   }
 
-  a {
-    font-size: 1.3rem;
-  }
-
   nav {
     display: none;
 
@@ -31,7 +27,20 @@ header {
 
     a {
       margin: .5em;
+      color: #333;
       text-transform: uppercase;
+    }
+
+    .nav-active {
+      background-image: linear-gradient(to bottom, transparent 8px, #8dcdda 8px, #8dcdda 100%);
+    }
+
+    .social-icons {
+      font-size: 1.25rem;
+
+      a {
+        color: #84cbd5;
+      }
     }
 
     a:hover,
@@ -111,10 +120,6 @@ header {
   .nav-toggle:checked ~ .nav-toggle-label span::after {
     top: 0;
     transform: rotate(-43deg);
-  }
-
-  .social-icons {
-    font-size: 1.25rem;
   }
 
   @media screen and (min-width: 800px) {
