@@ -9,8 +9,6 @@ liquid:
   error_mode: strict
   strict_filters: true
 
-show_social_icons: true
-
 twitter:
   username: coworkinglyon
 
@@ -53,6 +51,6 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
-  trail: 
+  trail:
     before: 2
     after: 2

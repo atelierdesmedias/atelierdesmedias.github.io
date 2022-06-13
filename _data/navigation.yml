@@ -1,0 +1,14 @@
+menu:
+  - title: Le Coworking
+    url: /
+  - title: Qui Sommes-Nous
+    url: /qui-sommes-nous
+  - title: Le Blog
+    url: /blog
+  - title: Les Evènements
+    url: /les-evenements
+  - title: Nous Rejoindre
+    url: /nous-rejoindre
+  - title: Contact
+    url: /contact
+

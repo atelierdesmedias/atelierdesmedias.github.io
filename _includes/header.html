@@ -1,10 +1,18 @@
 <header>
   <input type="checkbox" id="nav-toggle" class="nav-toggle"/>
   <nav>
-    {% include navigation.html %}
-    {% if site.show_social_icons %}
-      {% include social_links.html %}
-    {% endif %}
+    <a class="logo" href="{{ "/" | relative_url }}">
+      <img src="{{ "/assets/logo.svg" | relative_url }}" alt="{{ site.title }}" />
+    </a>
+    {% for item in site.data.navigation.menu %}
+      <a class="nav-{% if page.title == item.title %}active{% else %}link{% endif %}"
+         href="{{ item.url | relative_url | replace: 'index.html', '' }}">{{ item.title | escape }}</a>
+    {% endfor %}
+    <div class="social-icons">
+      <a class="fa fa-facebook" href="https://www.facebook.com/{{ site.facebook.page }}"></a>
+      <a class="fa fa-twitter" href="https://twitter.com/{{ site.twitter.username }}"></a>
+      <a class="fa fa-instagram" href="https://www.instagram.com/{{ site.instagram.username }}"></a>
+    </div>
   </nav>
   <label for="nav-toggle" class="nav-toggle-label">
     <span></span>

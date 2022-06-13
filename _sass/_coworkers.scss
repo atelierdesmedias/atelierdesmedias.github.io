@@ -58,7 +58,10 @@
     .coworker-card {
       display: block;
       position: relative;
+
       background-color: black;
+
+      color: transparent;
 
       &_infos {
         position: absolute;
@@ -67,12 +70,19 @@
 
         transform: translate(-50%, -50%);
 
-        color: white;
         text-align: center;
 
         &_metier {
           font-weight: 400;
           text-transform: uppercase;
+        }
+      }
+
+      &:hover {
+        color: white;
+
+        .coworker-picture {
+          filter: brightness(30%);
         }
       }
     }
