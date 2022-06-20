@@ -21,6 +21,8 @@ header {
 
     background-color: white;
 
+    font-size: 14px;
+
     text-align: center;
 
     z-index: 2;
@@ -139,10 +141,6 @@ header {
       height: 80px;
 
       z-index: 1;
-
-      a {
-        margin: 1em;
-      }
     }
 
     .nav-toggle-label {
