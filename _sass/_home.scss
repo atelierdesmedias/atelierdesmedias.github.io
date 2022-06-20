@@ -26,25 +26,6 @@
   }
 }
 
-.normal {
-  max-width: 960px;
-  padding: 2em;
-
-  @media screen and (min-width: 800px) {
-    display: flex;
-    padding: 4em 0;
-
-    h2 {
-      align-self: center;
-
-      min-width: 10ch;
-      padding: 0 1em;
-
-      text-align: right;
-    }
-  }
-}
-
 .interest {
   display: flex;
   flex-direction: column;
