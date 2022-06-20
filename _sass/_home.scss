@@ -11,14 +11,17 @@
 
   a {
     position: absolute;
-    right: 20%;
-    bottom: 20%;
+    right: 30%;
+    bottom: 30%;
 
     padding: 1em;
 
     border: solid 1px white;
 
     color: white;
+    font-size: 14px;
+    font-weight: 400;
+    text-transform: uppercase;
   }
 
   @media screen and (min-width: 800px) {
