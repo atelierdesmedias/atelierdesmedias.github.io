@@ -15,7 +15,7 @@ html { color: #4d4d4d; font-family: Lato, sans-serif; font-size: 16px; font-weig
 h1, h2, h3, h4 { font-weight: 600; text-transform: uppercase; }
 p { padding-top: 1em; color: #333; }
 header .logo img { width: 62px; height: 60px; }
-header nav { display: none; font-size: 14px; position: fixed; top: 0; right: 0; bottom: 0; left: 0; flex-direction: column; align-items: center; justify-content: center; background-color: white; text-align: center; z-index: 2; }
+header nav { display: none; position: fixed; top: 0; right: 0; bottom: 0; left: 0; flex-direction: column; align-items: center; justify-content: center; background-color: white; font-size: 14px; text-align: center; z-index: 2; }
 header nav a { margin: .5em; color: #333; text-transform: uppercase; }
 header nav .nav-active { background-image: linear-gradient(to bottom, transparent 8px, #8dcdda 8px, #8dcdda 100%); }
 header nav .social-icons { font-size: 1.25rem; }
