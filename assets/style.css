@@ -3,7 +3,7 @@
 html, body { height: 100%; }
 body { display: flex; flex-direction: column; }
 .content { display: flex; flex: 1 0 auto; flex-direction: column; align-items: center; width: 100%; }
-.normal { max-width: 960px; margin: 2rem auto; }
+.max900 { max-width: 900px; margin: 2rem auto; }
 section { width: 100%; }
 footer { flex-shrink: 0; width: 100%; }
 .rice-crispies { background: url("//assets/rice-crispies.jpg") repeat repeat center; }
@@ -12,10 +12,10 @@ a:hover, a:focus, a:active { border: 0; text-decoration: none; }
 button, .button { background-image: none; text-shadow: none; cursor: pointer; }
 .button:hover, .button:focus, .button:active { background-image: none; color: white; text-shadow: none; }
 html { color: #4d4d4d; font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; letter-spacing: .03em; }
-h1, h2, h3, h4 { font-weight: 600; text-transform: uppercase; }
+h1, h2, h3, h4 { font-weight: 600; }
 p { padding-top: 1em; color: #333; }
 header .logo img { width: 62px; height: 60px; }
-header nav { display: none; position: fixed; top: 0; right: 0; bottom: 0; left: 0; flex-direction: column; align-items: center; justify-content: center; background-color: white; font-size: 14px; text-align: center; z-index: 2; }
+header nav { display: none; position: fixed; top: 0; right: 0; bottom: 0; left: 0; flex-direction: column; align-items: center; justify-content: center; background-color: white; text-align: center; z-index: 2; }
 header nav a { margin: .5em; color: #333; text-transform: uppercase; }
 header nav .nav-active { background-image: linear-gradient(to bottom, transparent 8px, #8dcdda 8px, #8dcdda 100%); }
 header nav .social-icons { font-size: 1.25rem; }
@@ -31,11 +31,13 @@ header .nav-toggle-label span::after { top: 7px; }
 header .nav-toggle:checked ~ .nav-toggle-label span { background-color: transparent; }
 header .nav-toggle:checked ~ .nav-toggle-label span::before { bottom: 0; transform: rotate(43deg); }
 header .nav-toggle:checked ~ .nav-toggle-label span::after { top: 0; transform: rotate(-43deg); }
-@media screen and (min-width: 800px) { header { flex: 0 0 80px; } header nav { display: flex; position: fixed; top: 0; flex-direction: row; align-items: center; justify-content: center; width: 100%; height: 80px; z-index: 1; } header .nav-toggle-label { display: none; } }
+@media screen and (min-width: 800px) { header { flex: 0 0 80px; } header nav { display: flex; position: fixed; top: 0; flex-direction: row; align-items: center; justify-content: center; width: 100%; height: 80px; z-index: 1; } header nav a { margin: 1em; } header .nav-toggle-label { display: none; } }
 .big-video { position: relative; height: 75vh; overflow: hidden; }
 .big-video video { width: 100%; height: 100%; object-fit: cover; }
-.big-video a { position: absolute; right: 30%; bottom: 30%; padding: 1em; border: solid 1px white; color: white; font-size: 14px; font-weight: 400; text-transform: uppercase; }
+.big-video a { position: absolute; right: 20%; bottom: 20%; padding: 1em; border: solid 1px white; color: white; }
 @media screen and (min-width: 800px) { .big-video { height: calc(75vh - 80px); } }
+.normal { max-width: 960px; padding: 2em; }
+@media screen and (min-width: 800px) { .normal { display: flex; padding: 4em 0; } .normal h2 { align-self: center; min-width: 10ch; padding: 0 1em; text-align: right; } }
 .interest { display: flex; flex-direction: column; align-items: center; }
 .interest p { max-width: 70ch; text-align: center; }
 .interest a { margin: 2rem; padding: 2rem; border: solid 1px #84cbd5; font-size: 1.7rem; }
@@ -50,17 +52,16 @@ header .nav-toggle:checked ~ .nav-toggle-label span::after { top: 0; transform: 
 .formulas .adherent { border-radius: 0 0 0 60px; background-color: #4d4d4d; }
 .formulas .fixe { border-radius: 0 0 60px; background-color: #cbd301; }
 .formulas .nomade { border-radius: 0 60px 0 0; background-color: #84cbd5; }
-@media screen and (min-width: 400px) { .formulas { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: .5rem; } .formulas .formula { width: 400px; } .formulas .formula h3 div { display: inline; } }
-@media screen and (min-width: 400px) and (min-width: 800px) { .formulas { flex-direction: row; } }
+@media screen and (min-width: 400px) { .formulas { display: grid; gap: .5rem; justify-items: center; } .formulas .formula { width: 400px; } .formulas .formula h3 div { display: inline; } }
+@media screen and (min-width: 400px) and (min-width: 800px) { .formulas { background: url("//assets/rice-crispies.jpg") repeat no-repeat center; } .formulas .adherent { grid-column: span 2; } .formulas .fixe { justify-self: flex-end; } .formulas .nomade { justify-self: flex-start; } }
 .icons { gap: 2em; padding: 2em; }
 .icons figure { display: flex; flex-direction: column; align-items: center; gap: 1em; }
 .icons figure img { width: 75px; height: 50px; }
-.icons figure figcaption { font-size: .8rem; text-align: center; text-transform: uppercase; }
+.icons figure figcaption { font-size: .8rem; font-weight: 100; text-align: center; text-transform: uppercase; }
 .icons figure figcaption span { display: block; font-size: 1.2rem; font-weight: 400; }
 .icons.grid { display: grid; justify-items: center; }
 @media screen and (min-width: 400px) { .icons.grid { max-width: 400px; grid-template-columns: repeat(2, 1fr); } }
 @media screen and (min-width: 800px) { .icons.grid { max-width: 800px; grid-template-columns: repeat(4, 1fr); } }
-@media screen and (min-width: 1200px) { .icons.grid { max-width: 1200px; grid-template-columns: repeat(8, 1fr); } }
 .icons.flex { display: flex; flex-direction: column; justify-content: center; }
 @media screen and (min-width: 500px) { .icons.flex { flex-flow: row wrap; max-width: 500px; } }
 .event { display: flex; flex-direction: column; border-top: solid 1px #979797; }
