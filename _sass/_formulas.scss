@@ -70,9 +70,12 @@
   }
 
   @media screen and (min-width: 400px) {
-    display: grid;
+    display: flex;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     gap: .5rem;
-    justify-items: center;
 
     .formula {
       width: 400px;
@@ -83,19 +86,7 @@
     }
 
     @media screen and (min-width: 800px) {
-      background: url("#{$baseurl}/assets/rice-crispies.jpg") repeat no-repeat center;
-
-      .adherent {
-        grid-column: span 2;
-      }
-
-      .fixe {
-        justify-self: flex-end;
-      }
-
-      .nomade {
-        justify-self: flex-start;
-      }
+      flex-direction: row;
     }
   }
 }
