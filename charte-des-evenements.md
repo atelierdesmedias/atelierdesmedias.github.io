@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: simple
 permalink: charte-des-evenements
 ---
 
