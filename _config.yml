@@ -1,6 +1,5 @@
 title: "L'Atelier des Médias"
 description: "Le 1er espace de coworking Lyonnais associatif"
-meta_robots: noindex
 lang: fr
 locale: fr_FR
 baseurl: '/'
@@ -14,6 +13,7 @@ twitter:
 
 facebook:
   page: Coworkinglyon
+  app_id: 106737945179435
 
 instagram:
   username: "atelierdesmedias_lyon"
