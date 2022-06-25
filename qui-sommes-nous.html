@@ -7,13 +7,30 @@ permalink: qui-sommes-nous
 <section class="normal">
   <h2>Qui sont les coworkers?</h2>
 
-  <div>
-    <p>Graphistes, développeurs, éditeurs, journalistes, conseils en communication, rédacteurs,
-    traducteurs, réalisateurs, photographes, et autres inventeurs des médias d’aujourd’hui,
-    ils sont indépendants ou télétravailleurs et offrent une expertise inégalée
-    dans le domaine des médias et de la communication.</p>
-    <p>Des professionnels qui travaillent en solo ou en équipe et s’appuient sur la force du réseau pour collaborer.</p>
-  </div>
+  <p>L'<em>Atelier des Médias</em> est un projet collectif et innovant de coworking à Lyon, un espace partagé de
+    travail, imaginé par et pour les professionnels indépendants des médias, du web et de l'image. Ce lieu porte une
+    volonté d'ouverture et d'innovation, des ambitions partagées, une dimension sociétale, un esprit collaboratif pour
+    que les indépendants développent ensemble de nouvelles solidarités professionnelles.</p>
 </section>
 
-{% include coworkers.html %}
+<section class="coworkers">
+  <div class="coworkers_list">
+    {% assign coworkers = site.coworkers | shuffle %}
+    {% for coworker in coworkers %}
+      <a class="coworker-card" href="{{ coworker.url | relative_url }}">
+        <div class="coworker-picture">
+          {%if coworker.picture_extension%}
+            <img alt="{{ coworker.name}}"
+                 src="{{ coworker.url | append: coworker.picture_extension | relative_url }}"/>
+          {%endif %}
+        </div>
+        <div class="coworker-card_infos">
+          <div class="coworker-card_infos_name">{{ coworker.name }}</div>
+          {% if coworker.metier %}
+            <div class="coworker-card_infos_metier">{{ coworker.metier }}</div>
+          {% endif %}
+        </div>
+      </a>
+    {% endfor %}
+  </div>
+</section>
