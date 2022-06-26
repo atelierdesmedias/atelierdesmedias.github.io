@@ -9,8 +9,8 @@ footer { flex-shrink: 0; width: 100%; }
 .rice-crispies { background: url("//assets/rice-crispies.jpg") repeat repeat center; }
 a { color: #84cbd5; text-decoration: none; }
 a:hover, a:focus, a:active { border: 0; text-decoration: none; }
-button, .button { margin: 2rem; padding: 2rem; border: 1px solid #363636; background-image: none; color: #363636; font-size: 1rem; text-shadow: none; text-transform: uppercase; cursor: pointer; }
-.button:hover, .button:focus, .button:active { background-image: none; text-shadow: none; }
+button, .button { background-image: none; text-shadow: none; cursor: pointer; }
+.button:hover, .button:focus, .button:active { background-image: none; color: white; text-shadow: none; }
 html { color: #4d4d4d; font-family: Lato, sans-serif; font-size: 16px; font-weight: 400; letter-spacing: .03em; }
 h1, h2, h3, h4 { font-weight: 600; text-transform: uppercase; }
 p { padding-top: 1em; color: #333; }
@@ -34,8 +34,11 @@ header .nav-toggle:checked ~ .nav-toggle-label span::after { top: 0; transform: 
 @media screen and (min-width: 800px) { header { flex: 0 0 80px; } header nav { display: flex; position: fixed; top: 0; flex-direction: row; align-items: center; justify-content: center; width: 100%; height: 80px; z-index: 1; } header .nav-toggle-label { display: none; } }
 .big-video { position: relative; height: 75vh; overflow: hidden; }
 .big-video video { width: 100%; height: 100%; object-fit: cover; }
-.big-video a { position: absolute; right: 30%; bottom: 30%; border-color: white; color: white; }
+.big-video a { position: absolute; right: 30%; bottom: 30%; padding: 1em; border: solid 1px white; color: white; font-size: 14px; font-weight: 400; text-transform: uppercase; }
 @media screen and (min-width: 800px) { .big-video { height: calc(75vh - 80px); } }
+.interest { display: flex; flex-direction: column; align-items: center; }
+.interest p { max-width: 70ch; text-align: center; }
+.interest a { margin: 2rem; padding: 2rem; border: solid 1px #84cbd5; font-size: 1.7rem; }
 .formulas .formula { width: 100%; padding: 2em; color: white; }
 .formulas .formula p { color: white; }
 .formulas .formula h3 { margin-bottom: 1em; }
