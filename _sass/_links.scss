@@ -13,8 +13,20 @@ a:active {
 // Correct issues with buttons
 button,
 .button {
+  margin: 2rem;
+  padding: 2rem;
+
+  border: 1px solid #363636;
+
   background-image: none;
+
+  color: #363636;
+
+  font-size: 1rem;
+
   text-shadow: none;
+  text-transform: uppercase;
+
   cursor: pointer;
 }
 
@@ -22,6 +34,5 @@ button,
 .button:focus,
 .button:active {
   background-image: none;
-  color: white;
   text-shadow: none;
 }

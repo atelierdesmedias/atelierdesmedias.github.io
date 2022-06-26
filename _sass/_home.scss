@@ -14,37 +14,12 @@
     right: 30%;
     bottom: 30%;
 
-    padding: 1em;
-
-    border: solid 1px white;
+    border-color: white;
 
     color: white;
-    font-size: 14px;
-    font-weight: 400;
-    text-transform: uppercase;
   }
 
   @media screen and (min-width: 800px) {
     height: calc(75vh - 80px);
-  }
-}
-
-.interest {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-
-  p {
-    max-width: 70ch;
-    text-align: center;
-  }
-
-  a {
-    margin: 2rem;
-    padding: 2rem;
-
-    border: solid 1px #84cbd5;
-
-    font-size: 1.7rem;
   }
 }
