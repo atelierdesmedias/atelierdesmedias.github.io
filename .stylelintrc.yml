@@ -1,8 +1,9 @@
 extends:
   - stylelint-config-standard
   - stylelint-config-recommended-scss
+processors:
+  - stylelint-processor-ignore-front-matter
 ignoreFiles:
-  - assets/**/*
   - node_modules/**/*
   - vendor/**/*
 plugins:
