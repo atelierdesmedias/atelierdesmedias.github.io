@@ -11,4 +11,11 @@ jobs:
         with:
           ruby-version: '2.7'
           bundler-cache: true
-      - run: bundle exec rake html_proofer
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+      - run: npm install
+      - name: HTML proofer
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec rake html_proofer
