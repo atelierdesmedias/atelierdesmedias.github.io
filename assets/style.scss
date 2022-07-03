@@ -5,16 +5,15 @@
 
 $baseurl: "{{ site.baseurl }}";
 
-@import 'base';
-
-@import 'links';
-@import 'typography';
-@import 'header';
-@import 'home';
-@import 'formulas';
-@import 'icons';
-@import 'events';
-@import 'footer';
-@import 'coworkers';
-@import 'blog';
-@import 'posts';
+@import "base";
+@import "links";
+@import "typography";
+@import "header";
+@import "home";
+@import "formulas";
+@import "icons";
+@import "events";
+@import "footer";
+@import "coworkers";
+@import "blog";
+@import "posts";

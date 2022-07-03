@@ -32,11 +32,6 @@ body {
   width: 100%;
 }
 
-.normal {
-  max-width: 960px;
-  margin: 2rem auto;
-}
-
 section {
   width: 100%;
 }
@@ -44,8 +39,4 @@ section {
 footer {
   flex-shrink: 0;
   width: 100%;
-}
-
-.rice-crispies {
-  background: url("#{$baseurl}/assets/rice-crispies.jpg") repeat repeat center;
 }
