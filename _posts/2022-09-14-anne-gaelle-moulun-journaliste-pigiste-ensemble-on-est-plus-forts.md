@@ -2,7 +2,7 @@
 layout: post
 date: 2022-09-14 10:15:19 +0200
 author: La rédaction
-show_image: true
+show_image: false
 categories: []
 tags:
 - journalisme
@@ -16,6 +16,8 @@ set_permalink: false
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1663143636/blog/Anne-Ga%C3%ABlle_Moulun_Cr%C3%A9dit_Franck_Ribard-Regard_objectif_pw5vg7.jpg
 
 ---
+_Crédit photo : Franck Ribard-Regard Objectif_
+
 **Journaliste pigiste spécialisée dans la santé, Anne-Gaëlle Moulun a cofondé l’an dernier un collectif de journalistes indépendants basé à Lyon, « Sources », qui prône l’entraide et la solidarité entre pigistes. Portrait.**
 
 « _Au départ, je voulais être médecin._ » Comme beaucoup de journalistes pigistes, Anne-Gaëlle Moulun, 38 ans, n’a pas un parcours banal. Le bac en poche, elle tente le concours de médecine, avant de partir sur des études de biologie et de décrocher un master de biologie cellulaire à Nancy. « _Les sciences m’intéressaient, mais je ne me voyais pas travailler dans un domaine spécifique_ », raconte Anne-Gaëlle.
