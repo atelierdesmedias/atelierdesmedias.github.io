@@ -11,13 +11,13 @@ tags:
 - médias
 - lyon
 title: 'Anne-Gaëlle Moulun, journaliste pigiste : « Ensemble, on est plus forts »'
-excerpt: 'Journaliste pigiste spécialisée dans la santé, Anne-Gaëlle Moulun a cofondé
-  l’an dernier un collectif de journalistes indépendants basé à Lyon, « Sources »,
-  qui prône l’entraide et la solidarité entre pigistes. Portrait. '
+excerpt: ''
 set_permalink: false
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1663143636/blog/Anne-Ga%C3%ABlle_Moulun_Cr%C3%A9dit_Franck_Ribard-Regard_objectif_pw5vg7.jpg
 
 ---
+**Journaliste pigiste spécialisée dans la santé, Anne-Gaëlle Moulun a cofondé l’an dernier un collectif de journalistes indépendants basé à Lyon, « Sources », qui prône l’entraide et la solidarité entre pigistes. Portrait.**
+
 « _Au départ, je voulais être médecin._ » Comme beaucoup de journalistes pigistes, Anne-Gaëlle Moulun, 38 ans, n’a pas un parcours banal. Le bac en poche, elle tente le concours de médecine, avant de partir sur des études de biologie et de décrocher un master de biologie cellulaire à Nancy. « _Les sciences m’intéressaient, mais je ne me voyais pas travailler dans un domaine spécifique_ », raconte Anne-Gaëlle.
 
 À l’université, elle découvre la radio. Elle réalise des reportages pour une radio étudiante hébergée dans les locaux de France Bleu. Elle devient aussi correspondante de presse pour le journal régional, _L’Est Républicain_. Un premier pas dans le monde des médias, qui va la mener à la prestigieuse École de journalisme de Lille (ESJ), section « journalisme scientifique ».
