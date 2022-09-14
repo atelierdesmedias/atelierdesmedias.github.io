@@ -76,3 +76,5 @@ fields:
   default: []
   label: Tags
   description: Facultatif.
+pages:
+- _posts/anne-gaelle-moulun-journaliste-pigiste-ensemble-on-est-plus-forts.md
