@@ -2,7 +2,7 @@
 layout: post
 date: 2022-09-14 10:15:19 +0200
 author: La rédaction
-show_image: false
+show_image: true
 categories: []
 tags:
 - journalisme
