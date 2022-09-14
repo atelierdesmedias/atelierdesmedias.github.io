@@ -76,5 +76,3 @@ fields:
   default: []
   label: Tags
   description: Facultatif.
-pages:
-- _posts/ceci-est-le-titre-de-plus-de-20-caracteres.md
