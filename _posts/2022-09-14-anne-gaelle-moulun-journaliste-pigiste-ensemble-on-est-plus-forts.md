@@ -41,5 +41,3 @@ Une fois par mois, ces journalistes venant d’horizons et de spécialités diff
 L’objectif de Sources est de monter des projets collectifs, de travailler sur des enquêtes difficiles à plusieurs, mais pas seulement. « _Il y a beaucoup de soutien psychologique entre nous. Quand on a des petits coups durs, quand des rédactions nous laissent tomber par exemple_ », confie Anne-Gaëlle. « _C’est hyper important. On se sent assez seuls quand on est pigistes. Depuis qu’on a créé le collectif, je sens que ça a une grande influence sur mon moral et sur ma motivation._ »
 
 En France et depuis quelques années, de plus en plus de collectifs de journalistes indépendants voient le jour, afin de lutter contre la précarité et de renforcer les liens entre pigistes. D’être plus solides face aux rédactions, aussi. « _Dans le collectif Sources, on cherche l’entraide et la solidarité alors que parfois, les pigistes se voient comme des concurrents_ », regrette Anne-Gaëlle. « _Mais ensemble, on est plus forts !_ ».
-
-_Crédit photo : Franck Ribard-Regard Objectif_
