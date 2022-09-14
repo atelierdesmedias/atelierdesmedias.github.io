@@ -24,13 +24,13 @@ image: https://res.cloudinary.com/atelier-medias/image/upload/v1663143636/blog/A
 
 **« Il faut que ma grand-mère comprenne »**
 
-Diplômée en 2009, elle travaille quelques mois pour _L’Est Républicain_, et écrit sur des sujets scientifiques. « _Mon rédacteur chef m’avait dit “il faut que ma grand-mère comprenne”_ », en sourit-elle aujourd’hui. L’année suivante, elle est engagée par le magazine _Impact pharmacien_, puis débauchée par le concurrent_, Le Quotidien du pharmacien_. Elle restera quatre ans à Paris.
+Diplômée en 2009, elle travaille quelques mois pour _L’Est Républicain_, et écrit sur des sujets scientifiques. « _Mon rédacteur chef m’avait dit “il faut que ma grand-mère comprenne”_ », en sourit-elle aujourd’hui. L’année suivante, elle est engagée par le magazine _Impact pharmacien_, puis débauchée par le concurrent, _Le Quotidien du pharmacien_. Elle restera quatre ans à Paris.
 
 Anne-Gaëlle débarque à Lyon en 2014, pour raisons personnelles. S’ouvre à elle une nouvelle vie, celle de pigiste. L’indépendance, la liberté, écrire sur les sujets qu’on aime pour les titres qu’on aime, avec toute la précarité qui va avec, aussi. Toujours spécialisée dans la santé, elle collabore alors principalement pour _Le Quotidien du Pharmacien_, _Le Quotidien du Médecin_, _L’Infirmière magazine_ ou encore le journal économique _La Tribune_ pour des articles sur les biotechs en Auvergne-Rhône-Alpes.
 
 En parallèle, elle s’engage dans l’association nationale [Profession pigiste](https://pigiste.org/), où elle deviendra co-présidente. « _Ça m’a permis de rencontrer plein de journalistes, d’organiser des événements comme les 48 heures de la pige. On a essayé de mettre en place pas mal d’outils pour qu’il y ait une meilleure communication_ _entre pigistes_ », explique Anne-Gaëlle.
 
-La journaliste rentre aussi rentre à l’Atelier des médias, où elle travaille depuis 2015. « _Je suis passée d’un travail en rédaction à travailler seule chez moi, c’était difficile de se faire à ce changement. À l’Atelier des médias, on se fait du réseau en discutant, ou ça nous donne des idées de sujets_ », explique-t-elle. Avec la coworkeuse Donatelle Liens à l’illustration, elle réalise ainsi une enquête fouillée en 2017, pour le site d’investigation Mediacités, sur le Vinatier, « [hôpital au bord de la crise de nerfs ](https://www.mediacites.fr/enquete/lyon/2017/06/26/le-vinatier-hopital-au-bord-de-la-crise-de-nerfs/)».
+La journaliste rentre aussi à l’Atelier des médias, où elle travaille depuis 2015. « _Je suis passée d’un travail en rédaction à travailler seule chez moi, c’était difficile de se faire à ce changement. À l’Atelier des médias, on se fait du réseau en discutant, ou ça nous donne des idées de sujets_ », explique-t-elle. Avec la coworkeuse Donatelle Liens à l’illustration, elle réalise ainsi une enquête fouillée en 2017, pour le site d’investigation Mediacités, sur le Vinatier, « [hôpital au bord de la crise de nerfs ](https://www.mediacites.fr/enquete/lyon/2017/06/26/le-vinatier-hopital-au-bord-de-la-crise-de-nerfs/)».
 
 **« L’entraide et la solidarité entre pigistes »**
 
