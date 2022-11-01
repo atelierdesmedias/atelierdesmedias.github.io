@@ -6,6 +6,28 @@ require 'base64'
 
 require './env_utils'
 
+access_token = get_env_or_exit('FACEBOOK_TOKEN')
+page_id = get_env_or_exit('FACEBOOK_PAGE_ID')
+app_id = get_env_or_exit('FACEBOOK_APP_ID')
+app_secret = get_env_or_exit('FACEBOOK_CLIENT_SECRET')
+
+uri = URI("https://graph.facebook.com/oauth/access_token")
+uri.query = URI.encode_www_form({
+                                  grant_type: 'fb_exchange_token',
+                                  client_id: app_id,
+                                  client_secret: app_secret,
+                                  fb_exchange_token: access_token,
+                                })
+pp uri
+res = Net::HTTP.get_response(uri)
+if res.is_a?(Net::HTTPSuccess)
+  new_token = JSON.parse(res.body)['access_token']
+  pp "now we need to update github secret with the new_token value"
+else
+  puts "Bad response: #{res}"
+  exit(-1)
+end
+
 puts get_env_or_exit('BOBO')
 github_token = get_env_or_exit('GITHUB_TOKEN')
 
@@ -34,10 +56,5 @@ puts 'encrypted_value:', encrypted_value
 puts client.create_or_update_secret(
   repo.id, secret[:name],
   key_id: box[:key_id], encrypted_value: encrypted_value
-#box = create_box(client.get_public_key(repo.id))
-#encrypted = box[:box].encrypt(secret[:value])
-#puts client.create_or_update_secret(
-#  repo.id, secret[:name],
-#  key_id: box[:key_id], encrypted_value: Base64.strict_encode64(encrypted)
 )
 puts client.last_response.status
