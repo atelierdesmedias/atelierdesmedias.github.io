@@ -42,7 +42,7 @@ end
 
 repo = client.repo 'atelierdesmedias/atelierdesmedias.github.io'
 
-secret = { name: 'BOBO', value: 'bonbon' }
+secret = { name: 'FACEBOOK_TOKEN', value: new_token }
 public_key = client.get_public_key(repo.id)
 puts 'public key:', public_key, public_key[:key], public_key[:key_id]
 box = create_box(public_key)
