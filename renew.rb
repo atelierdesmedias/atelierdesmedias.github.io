@@ -18,17 +18,15 @@ uri.query = URI.encode_www_form({
                                   client_secret: app_secret,
                                   fb_exchange_token: access_token,
                                 })
-pp uri
+
 res = Net::HTTP.get_response(uri)
 if res.is_a?(Net::HTTPSuccess)
   new_token = JSON.parse(res.body)['access_token']
-  pp "now we need to update github secret with the new_token value"
 else
   puts "Bad response: #{res}"
   exit(-1)
 end
 
-puts get_env_or_exit('BOBO')
 github_token = get_env_or_exit('GITHUB_TOKEN')
 
 # Provide authentication credentials
