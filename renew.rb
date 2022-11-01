@@ -7,7 +7,6 @@ require 'base64'
 require './env_utils'
 
 access_token = get_env_or_exit('FACEBOOK_TOKEN')
-page_id = get_env_or_exit('FACEBOOK_PAGE_ID')
 app_id = get_env_or_exit('FACEBOOK_APP_ID')
 app_secret = get_env_or_exit('FACEBOOK_CLIENT_SECRET')
 
