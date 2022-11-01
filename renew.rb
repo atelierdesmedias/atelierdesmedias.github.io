@@ -11,12 +11,12 @@ access_token = get_env_or_exit('FACEBOOK_TOKEN')
 app_id = get_env_or_exit('FACEBOOK_APP_ID')
 app_secret = get_env_or_exit('FACEBOOK_CLIENT_SECRET')
 
-uri = URI("https://graph.facebook.com/oauth/access_token")
+uri = URI('https://graph.facebook.com/oauth/access_token')
 uri.query = URI.encode_www_form({
                                   grant_type: 'fb_exchange_token',
                                   client_id: app_id,
                                   client_secret: app_secret,
-                                  fb_exchange_token: access_token,
+                                  fb_exchange_token: access_token
                                 })
 
 res = Net::HTTP.get_response(uri)
