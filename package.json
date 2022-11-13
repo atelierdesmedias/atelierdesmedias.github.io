@@ -23,7 +23,7 @@
     "postcss": "^8.4.14",
     "postcss-cli": "^9.1.0",
     "stylelint": "^14.1.0",
-    "stylelint-config-standard-scss": "^3.0.0",
+    "stylelint-config-standard-scss": "^5.0.0",
     "stylelint-order": "^5.0.0",
     "stylelint-processor-ignore-front-matter": "^1.0.3",
     "tailwindcss": "^3.1.4"
