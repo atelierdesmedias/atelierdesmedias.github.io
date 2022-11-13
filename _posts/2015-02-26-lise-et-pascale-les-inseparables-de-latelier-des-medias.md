@@ -20,11 +20,11 @@ tags:
 
 ## **Bonjour à toutes les deux ! Un petit mot pour vous présenter ?**
 
-« Lise Mussot &amp; Pascale Lagahe, l’un des “duos” les plus réputés de l’ADM !Une blonde, une brune. Deux cerveaux bouillonnants d’idées et de projets. Directrices associées chez [Editorial Interactif ](http://www.editorial-interactif.com/)(agence de communication web spécialisée dans l’éditorial), nous sommes toutes les deux Lyonnaises d’adoption, web addicts et acheteuses compulsives… de noms de domaines ! Freelances dans l’âme, notre “union” professionnelle s’est construite doucement mais sûrement dans l’antre de l’ADM 🙂 Nous avons suivi à la lettre le slogan de l’espace de coworking parisien Mutinerie, « Libres, ensemble ». Sinon, à la nuit tombée, (ou à l’heure du déjeuner), on nous compare parfois à Catherine et Liliane, les deux inséparables du Petit Journal. Une comparaison un peu osée, mais assumée ! »
+« Lise Mussot &amp; Pascale Lagahe, l’un des “duos” les plus réputés de l’ADM !Une blonde, une brune. Deux cerveaux bouillonnants d’idées et de projets. Directrices associées chez [Editorial Interactif ](https://www.editorial-interactif.com/)(agence de communication web spécialisée dans l’éditorial), nous sommes toutes les deux Lyonnaises d’adoption, web addicts et acheteuses compulsives… de noms de domaines ! Freelances dans l’âme, notre “union” professionnelle s’est construite doucement mais sûrement dans l’antre de l’ADM 🙂 Nous avons suivi à la lettre le slogan de l’espace de coworking parisien Mutinerie, « Libres, ensemble ». Sinon, à la nuit tombée, (ou à l’heure du déjeuner), on nous compare parfois à Catherine et Liliane, les deux inséparables du Petit Journal. Une comparaison un peu osée, mais assumée ! »
 
 ## **Vous exercez vos talents avec toutes sortes de clients ?**
 
-  
+
 « Seulement les plus sympas ! 🙂 Non, plus sérieusement, nous travaillons aussi bien pour des PME que pour des agences web et des grands comptes. Nos clients exercent dans des secteurs d’activité très différents. Autant vous dire que nous ne connaissons pas la routine ! Et c’est grâce à cette diversité que nous sommes devenues des « plumes caméléons ». **Nous avons toutefois une expertise un peu plus forte sur les secteurs de l’immobilier et des Startups**. Pascale a été l’une des premières à importer les startup week-end à Lyon, a participé à la création de l’incubateur BoostinLyon, et au développement du Nightswapping. »## **Quel type de prestation réalisez-vous ?**
 
 [![editorial-interactif-homepage](/uploads/2015/02/editorial-interactif-homepage.jpg)](/uploads/2015/02/editorial-interactif-homepage.jpg)
@@ -41,7 +41,7 @@ A la suite de cette étude, nous proposons des recommandations pour **bâtir une
 
 ## **Sur quel sujet planchez-vous en ce moment ?**
 
-« Nous nous intéressons de près aux nouveaux formats éditoriaux générés avec du html5 ou les effets parallaxe, comme dans cet article : <http://rue89.nouvelobs.com/2014/10/21/comment-facebook-mis-voie-djihad-255616> ou celui-ci <http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek.>
+« Nous nous intéressons de près aux nouveaux formats éditoriaux générés avec du html5 ou les effets parallaxe, comme dans cet article : <https://www.nouvelobs.com/rue89/20141021.RUE3709/comment-facebook-m-a-mis-sur-la-voie-du-djihad.html> ou celui-ci <https://www.nytimes.com/projects/2012/snow-fall/>
 
 Cela nous offre pas mal de perspectives d’innovation dans notre métier ! »
 
@@ -53,5 +53,5 @@ Cela nous offre pas mal de perspectives d’innovation dans notre métier ! »
 
 Ce projet s’adresse également aux clients, qui ne savent pas toujours comment travailler avec des rédacteurs. Un site pour tordre le cou aux idées reçues et valoriser un métier parfois déprécié. N’hésitez pas à en parler autour de vous ! »
 
-———  
+———
 Crédit photo : Pierre Gouyou Beauchamps

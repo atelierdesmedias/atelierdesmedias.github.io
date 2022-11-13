@@ -16,7 +16,7 @@ categories:
 
 Auparavant, j’étais enseignante de Français Langue Etrangère en Chine. A mon retour en France, il y a deux ans, je voulais poursuivre l’enseignement mais c’est compliqué d’enseigner le français aux étrangers ici, car c’est un peu « trusté » par les associations qui fonctionnent avec des bénévoles ou des retraités qui le font avec passion.
 
-Après réflexion, je me suis fiée à mon instinct et à ce que j’aimais faire : j’aime les mots, les langues, la littérature et tout ce qui va avec. C’est aussi et surtout des rencontres amicales de professionnels de la traduction qui m’ont poussée vers cette voie. Je me suis alors lancée et j’ai créé[ ma boîte de traduction, de correction-relecture](http://www.maison-voxfabula.com) et… d’enseignement du Français Langue Etrangère !
+Après réflexion, je me suis fiée à mon instinct et à ce que j’aimais faire : j’aime les mots, les langues, la littérature et tout ce qui va avec. C’est aussi et surtout des rencontres amicales de professionnels de la traduction qui m’ont poussée vers cette voie. Je me suis alors lancée et j’ai créé[ ma boîte de traduction, de correction-relecture](https://www.maison-voxfabula.com) et… d’enseignement du Français Langue Etrangère !
 
 **Qu’est-ce qui t’as mis sur la piste de l’Atelier des médias ?**
 

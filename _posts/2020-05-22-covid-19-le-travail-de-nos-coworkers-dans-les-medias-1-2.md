@@ -47,21 +47,21 @@ Depuis le début de la pandémie, les assureurs refusent d’indemniser des mill
 
 Retrouvez également ses sujets sur la crise sanitaire et économique pour *Usine Nouvelle*, en texte et en son :
 
-Covid-19, épisode 1 : [Comment Tereos s’est lancé dans la production de gel hydroalcoolique](https://www.usinenouvelle.com/article/podcast-covid-19-episode-1-comment-tereos-s-est-lance-dans-la-production-de-gel-hydroalcoolique.N946101).  
+Covid-19, épisode 1 : [Comment Tereos s’est lancé dans la production de gel hydroalcoolique](https://www.usinenouvelle.com/article/podcast-covid-19-episode-1-comment-tereos-s-est-lance-dans-la-production-de-gel-hydroalcoolique.N946101).
  Covid-19, épisode 2 : [Comment Lippi a pris (collectivement) la décision de fermer son usine](https://www.usinenouvelle.com/article/podcast-covid-19-episode-2-comment-lippi-a-pris-collectivement-la-decision-de-fermer-son-usine.N948181).
  Covid-19, épisode 3 :[ Comment PSA soutient Air Liquide dans la production de respirateurs](https://www.usinenouvelle.com/article/podcast-covid-19-episode-3-comment-psa-soutient-air-liquide-dans-la-production-de-respirateurs.N951651).
 
 <figure class="wp-block-image"><img src="/uploads/2020/05/article-mathieu.png" alt="Illustration"><figcaption>Article sur le deal en plein confinement, à Lyon. Par Mathieu Martiniere.</figcaption></figure>
 
-- De son côté, le journaliste de We report Mathieu Martinière a enquêté pour Médiacités Lyon sur la situation des dealers à Lyon : [« Drogue : les dealers lyonnais ajustent leur business au confinement »](http://www.mediacites.fr/enquete/lyon/2020/04/01/drogue-les-dealers-lyonnais-ajustent-leur-business-au-confinement/).
+- De son côté, le journaliste de We report Mathieu Martinière a enquêté pour Médiacités Lyon sur la situation des dealers à Lyon : [« Drogue : les dealers lyonnais ajustent leur business au confinement »](https://www.mediacites.fr/enquete/lyon/2020/04/01/drogue-les-dealers-lyonnais-ajustent-leur-business-au-confinement/).
 
 Livraisons à domicile, vendeurs masqués et gantés… Les trafiquants de cannabis et autres stupéfiants s’adaptent à la crise du coronavirus. Mais la fermeture des frontières réduit leurs stocks et commence à entamer leurs affaires.
 
 <figure class="wp-block-image"><img src="/uploads/2020/05/capture-vincent.png" alt="Illustration"><figcaption>Les articles de Vincent Grimault, coworker à l’ADM</figcaption></figure>- Côté économie, le journaliste Vincent Grimault a publié plusieurs articles pour *Alternatives économiques*. A lire ici:
 
-– [Télétravail, la France prise de vitesse par le coronavirus.](https://www.alternatives-economiques.fr/teletravail-france-prise-de-vitesse-virus/00092240?fbclid=IwAR0U8s13kgRnpuaBfKzeQX2YLwqlFNkgc1iXRTerl1mJmL0a0pk02AuiW3g)   
-– Tous égaux face à la pandémie ? [La France du Covid-19 en dix cartes.](https://www.alternatives-economiques.fr/egaux-face-a-pandemie-france-covid-19-10-cartes/00092384?fbclid=IwAR0R5QFsSjX7jIoOfdy70pPDrSSgfvJcn6-fsc_3qUmDEk6l26vJwsPdLbE)  
-– [Le foot va-t-il faire faillite ?](https://www.alternatives-economiques.fr/foot-va-t-faire-faillite/00092436?fbclid=IwAR3W9QxkSPoU0GhFlAnAetmcCx0GB1riCUDMMklhcwWxoNv503BnjOJDHa0)  
+– [Télétravail, la France prise de vitesse par le coronavirus.](https://www.alternatives-economiques.fr/teletravail-france-prise-de-vitesse-virus/00092240?fbclid=IwAR0U8s13kgRnpuaBfKzeQX2YLwqlFNkgc1iXRTerl1mJmL0a0pk02AuiW3g)
+– Tous égaux face à la pandémie ? [La France du Covid-19 en dix cartes.](https://www.alternatives-economiques.fr/egaux-face-a-pandemie-france-covid-19-10-cartes/00092384?fbclid=IwAR0R5QFsSjX7jIoOfdy70pPDrSSgfvJcn6-fsc_3qUmDEk6l26vJwsPdLbE)
+– [Le foot va-t-il faire faillite ?](https://www.alternatives-economiques.fr/foot-va-t-faire-faillite/00092436?fbclid=IwAR3W9QxkSPoU0GhFlAnAetmcCx0GB1riCUDMMklhcwWxoNv503BnjOJDHa0)
 – [Transports: en route pour la « Vélorution » ?](https://www.alternatives-economiques.fr/transports-route-velorution/00092794?fbclid=IwAR03KRAdEoWu8tesB_eXTmuw7OvwbjzM80pq5BPeS8zK0TVERgyJVZrKrA0)
 
 - La journaliste Sophie Esposito a écrit plusieurs dépêches en lien avec l’épidémie pour l’agence de presse spécialisée AEF Info, notamment:
@@ -70,7 +70,7 @@ Livraisons à domicile, vendeurs masqués et gantés… Les trafiquants de canna
 
 **Podcast**
 
-- En podcast, écoutez le documentaire entièrement réalisé à distance de Daphné Gastaldi, dans l’émission « La marche du monde » sur Radio France Internationale : [« Au nom du maintien de l’ordre ](http://www.rfi.fr/fr/podcasts/20200517-france-maintien-ordre-police-histoire)».
+- En podcast, écoutez le documentaire entièrement réalisé à distance de Daphné Gastaldi, dans l’émission « La marche du monde » sur Radio France Internationale : [« Au nom du maintien de l’ordre ](https://www.rfi.fr/fr/podcasts/20200517-france-maintien-ordre-police-histoire)».
 
 Ce long format interroge le maintien de l’ordre à la française depuis sa création au 17e siècle jusqu’à la crise sanitaire de 2020. Ses évolutions et ses dérives.
 

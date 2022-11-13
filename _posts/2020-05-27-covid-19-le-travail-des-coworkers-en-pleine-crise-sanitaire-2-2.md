@@ -16,7 +16,7 @@ Alors que la France est en état d’urgence sanitaire depuis le 23 mars 2020 à
 
 Le monde de l’événementiel étant touché de plein fouet, certaines sociétés ont dû se réinventer pour ne pas mettre la clé sous la porte.
 
-- Parmi ses clients, [Marion Hummer ](http://www.marionhummer.fr/)a pu réaliser une commande pour la société [Equinoxe Événement](https://www.equinoxe-evenement.fr/), spécialisée à la base dans le stand d’exposition. Cette société eu l’idée de lancer [ouvronsnosrestos.fr](http://ouvronsnosrestos.fr/), un concept de cloisons séparatrices pour les tables de restaurants en vue de leur réouvertures prochaines.
+- Parmi ses clients, [Marion Hummer](https://www.marionhummer.fr/) a pu réaliser une commande pour la société [Equinoxe Événement](https://www.equinoxe-evenement.fr/), spécialisée à la base dans le stand d’exposition. Cette société eu l’idée de lancer [ouvronsnosrestos.fr](https://ouvronsnosrestos.fr/), un concept de cloisons séparatrices pour les tables de restaurants en vue de leur réouvertures prochaines.
 
 Marion Hummer a réalisé les vues 3D, le dossier de présentation, ainsi que le logo.
 

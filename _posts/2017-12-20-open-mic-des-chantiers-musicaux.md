@@ -16,7 +16,7 @@ tags:
     - 'open mic'
 ---
 
-Le 19 décembre, l’ADM a prêté son installation sonore et sa grande salle pour l’Open Mic des [Chantiers musicaux](http://www.leschantiersmusicaux.com/).
+Le 19 décembre, l’ADM a prêté son installation sonore et sa grande salle pour l’Open Mic des [Chantiers musicaux](https://www.leschantiersmusicaux.com/).
 
 Les Open Mics, ce sont des scènes ouvertes organisées régulièrement dans des lieux de Lyon, ouverts à tous qu’ils soient dans le public ou au micro.
 

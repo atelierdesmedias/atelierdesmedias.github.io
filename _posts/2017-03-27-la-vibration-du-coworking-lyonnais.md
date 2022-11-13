@@ -20,21 +20,21 @@ tags:
 - <span style="font-size: large;">*« Super événement, tout à fait fidèle aux valeurs du coworking -échange libre et non faussé par le business »*</span>
 - <span style="font-size: large;">*« Merci pour ces rencontres enrichissantes et ces échanges sur* </span><span style="font-size: large;">***une tendance de fond quant au renouvellement du monde du travail***</span><span style="font-size: large;">*. Tout reste à faire, et j’ai le sentiment que nous avons une part à prendre dans ces mutations à venir. Construisons ensemble notre avenir ! »*</span>
 
-<span style="font-size: large;">Ce sont quelques uns des verbatims collectés à l’issue des </span>[<span style="font-size: large;"><u>Assises du coworking #1</u></span>](http://www.assisesducoworking.fr/)<span style="font-size: large;"> qui ont eu lieu à l’Embarcadère à Lyon le 3 février 2017.</span>
+<span style="font-size: large;">Ce sont quelques uns des verbatims collectés à l’issue des </span>[<span style="font-size: large;"><u>Assises du coworking #1</u></span>](https://www.assisesducoworking.fr/)<span style="font-size: large;"> qui ont eu lieu à l’Embarcadère à Lyon le 3 février 2017.</span>
 
 <span style="font-size: large;"><img src="/uploads/2017/03/Acow2_ADM©Benjamin_Richy.jpg" alt="Acow2"> </span>
 
-<span style="font-size: large;">Organisées par le collectif </span>[<span style="font-size: large;"><u>Coworking Grand Lyon</u></span>](http://coworking.grandlyon.com/)<span style="font-size: large;"> qui fédère à présent près de 10 lieux sur l’agglomération, elles s’inscrivent dans le prolongement de la dynamique du réseau et montrent le chemin accompli depuis 2013 ! Plus de 300 participants, des intervenants de tous secteurs, un panorama exhaustif du coworking en France et dans le monde, de nombreuses possibilités d’interactions, et beaucoup, beaucoup d’émotion avec une chaleur immédiate qui émane du rassemblement et qu’on trouve rarement sur ce type d’événement.</span>
+<span style="font-size: large;">Organisées par le collectif </span>[<span style="font-size: large;"><u>Coworking Grand Lyon</u></span>](https://coworking.grandlyon.com/)<span style="font-size: large;"> qui fédère à présent près de 10 lieux sur l’agglomération, elles s’inscrivent dans le prolongement de la dynamique du réseau et montrent le chemin accompli depuis 2013 ! Plus de 300 participants, des intervenants de tous secteurs, un panorama exhaustif du coworking en France et dans le monde, de nombreuses possibilités d’interactions, et beaucoup, beaucoup d’émotion avec une chaleur immédiate qui émane du rassemblement et qu’on trouve rarement sur ce type d’événement.</span>
 
 <span style="text-decoration: underline;">**<span style="font-size: large;">Nous y étions !</span>**</span>
 
-<span style="font-size: large;">Membre fondateur du collectif Coworking Grand Lyon, L’Atelier des médias était très bien représenté avec six bénévoles sur le site pour faciliter le déroulement de la journée : accueil, vestiaire, talk, allocution de clôture, etc. Nos amis du </span>[<span style="font-size: large;"><u>WebUp Space</u></span>](http://www.webup.space/)<span style="font-size: large;"> ont assisté la régie technique et mis en place un live wall pour permettre aux auditeurs des tables rondes d’interagir en direct.</span>
+<span style="font-size: large;">Membre fondateur du collectif Coworking Grand Lyon, L’Atelier des médias était très bien représenté avec six bénévoles sur le site pour faciliter le déroulement de la journée : accueil, vestiaire, talk, allocution de clôture, etc. Nos amis du </span>[<span style="font-size: large;"><u>WebUp Space</u></span>](https://www.webup.space/)<span style="font-size: large;"> ont assisté la régie technique et mis en place un live wall pour permettre aux auditeurs des tables rondes d’interagir en direct.</span>
 
 <span style="font-size: large;"><img src="/uploads/2017/03/Acow3_ADM©Benjamin_Richy.jpg" alt="Acow3_ADM©Benjamin_Richy"></span>
 
 <span style="text-decoration: underline;">**<span style="font-size: large;">Nouvelles organisations du travail pour une meilleure qualité de vie</span>**</span>
 
-<span style="font-size: large;">C’était la thématique de la première table ronde. J’y ai participé car elle fait écho à ma propre expérience : j’ai choisi le statut de travailleuse indépendante il y a six ans pour mieux concilier vie personnelle et vie professionnelle. La densité des connaissances et des idées énoncées était remarquable. Hugues de Vaux (</span>[<span style="font-size: large;"><u>Coop-Alternative</u></span>](http://coop-alternatives.fr/)<span style="font-size: large;">) a immédiatement commencé en posant </span><span style="font-size: large;">**la question fondamentale du freelance, celle de la liberté. Libre oui, mais libre de quoi ? L’absence de responsable hiérarchique rend-t-elle vraiment libre ?** </span><span style="font-size: large;">Les réflexions qu’il a présentées ce jour sont tirées de l</span><span style="font-size: large;">’ouvrage de Frédéric Laloux, </span><span style="font-size: large;">*Reinventing organisations*</span><span style="font-size: large;">.</span>
+<span style="font-size: large;">C’était la thématique de la première table ronde. J’y ai participé car elle fait écho à ma propre expérience : j’ai choisi le statut de travailleuse indépendante il y a six ans pour mieux concilier vie personnelle et vie professionnelle. La densité des connaissances et des idées énoncées était remarquable. Hugues de Vaux (</span>[<span style="font-size: large;"><u>Coop-Alternative</u></span>](https://coop-alternatives.fr/)<span style="font-size: large;">) a immédiatement commencé en posant </span><span style="font-size: large;">**la question fondamentale du freelance, celle de la liberté. Libre oui, mais libre de quoi ? L’absence de responsable hiérarchique rend-t-elle vraiment libre ?** </span><span style="font-size: large;">Les réflexions qu’il a présentées ce jour sont tirées de l</span><span style="font-size: large;">’ouvrage de Frédéric Laloux, </span><span style="font-size: large;">*Reinventing organisations*</span><span style="font-size: large;">.</span>
 
 <span style="font-size: large;"><img src="/uploads/2017/03/Acow1_ADM©Benjamin_Richy.jpg" alt="Acow1"></span>
 
@@ -52,7 +52,7 @@ tags:
 
 **<span style="font-size: large;">Marlène Giroudon</span>**
 
-<span style="font-size: large;">Gérante de </span><span style="color: #000080;"><span lang="zxx"><u>[<span style="font-size: large;">www.redactioniris.fr</span>](http://www.redactioniris.fr/)</u></span></span>
+<span style="font-size: large;">Gérante de </span><span style="color: #000080;"><span lang="zxx"><u>[<span style="font-size: large;">www.redactioniris.fr</span>](https://www.redactioniris.fr/)</u></span></span>
 
 <span style="font-size: large;">Coworkeuse depuis 2012 à l’Atelier des médias</span>
 

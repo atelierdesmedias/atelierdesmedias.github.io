@@ -19,7 +19,7 @@ tags:
 
 <span style="color: #008080;">L’atelier Supernova signe l’identité visuelle et la signalétique du coworking de l’ADM. </span>
 
-Supernova a développé la **charte graphique**, les **pictogrammes**, le lettrage et le naming des espaces en s’appuyant sur l’esprit existant du lieu.  
+Supernova a développé la **charte graphique**, les **pictogrammes**, le lettrage et le naming des espaces en s’appuyant sur l’esprit existant du lieu.
 Le système est **simple** et **efficace**, il redonne une **unité** aux différents espaces tout en respectant un budget très limité.
 
 <span style="color: #008080;">Le résultat en image : </span>
@@ -28,4 +28,4 @@ Le système est **simple** et **efficace**, il redonne une **unité** aux diffé
 
 Contact et liens :
 
-<super@ateliersupernova.com> | 04 26 01 93 98 | 22 rue Salomon Reinach, Lyon 7 | [www.ateliersupernova.com](http://www.ateliersupernova.com)
+<super@ateliersupernova.com> | 04 26 01 93 98 | 22 rue Salomon Reinach, Lyon 7 | [www.ateliersupernova.com](https://www.ateliersupernova.com)

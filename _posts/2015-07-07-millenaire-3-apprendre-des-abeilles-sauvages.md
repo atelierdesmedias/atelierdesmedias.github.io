@@ -17,4 +17,4 @@ tags:
 
 Une abeille peut-elle être sauvage, ne mesurer que trois millimètres et ne pas produire de miel ? Notre journaliste Adeline Charvet publie dans la magazine M3 un article sur le projet Urbanbees… ou comment notre comportement est influencé par ces petites bêtes…
 
-[Lien ici ! ](http://www.millenaire3.com/ressources/apprendre-des-abeilles-sauvages)
+[Lien ici ! ](https://www.millenaire3.com/ressources/apprendre-des-abeilles-sauvages)

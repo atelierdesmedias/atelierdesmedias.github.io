@@ -12,7 +12,7 @@ categories:
 
 **[![benjamin-richy-carre-600x600](/uploads/2016/07/benjamin-richy-carre.jpg)](/uploads/2016/07/benjamin-richy-carre.jpg)Depuis janvier, Benjamin Richy a posé son clavier à l’Atelier des médias. Cet UX designer, enjoué et dynamique, raconte son expérience de coworking à Lyon.**
 
-**Benjamin, j’ai repéré sur [ton site](http://usermood.net/ben/) des mots qui reviennent souvent : User eXperience Design ou expérience utilisateur. Ça semble être le cœur de ton métier. Tu peux m’expliquer très simplement de quoi il s’agit ?**
+**Benjamin, j’ai repéré sur [ton site](https://usermood.net/ben/) des mots qui reviennent souvent : User eXperience Design ou expérience utilisateur. Ça semble être le cœur de ton métier. Tu peux m’expliquer très simplement de quoi il s’agit ?**
 
 C’est vrai que si je dis aux gens que je suis UX Designer, ça parle pas forcément. *UX*, c’est au sens d’« expérience utilisateur » et *Designer* au sens de « conception ».
 

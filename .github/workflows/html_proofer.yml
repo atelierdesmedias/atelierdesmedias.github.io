@@ -6,15 +6,19 @@ jobs:
   test:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: ruby/setup-ruby@v1.86.0
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
         with:
-          ruby-version: '2.7'
-          bundler-cache: true
-      - uses: actions/setup-node@v2
-        with:
-          node-version: '14'
+          node-version-file: '.nvmrc'
+          cache: 'npm'
       - run: npm install
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Jekyll build
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build
       - name: HTML proofer
         env:
           JEKYLL_ENV: production

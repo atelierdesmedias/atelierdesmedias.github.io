@@ -1,6 +1,6 @@
 ---
 id: 748
-title: 'L&rsquo;Atelier des Médias, deux ans déjà !'
+title: "L'Atelier des Médias, deux ans déjà !"
 date: '2012-09-19T16:10:16+02:00'
 author: La rédaction
 layout: post
@@ -22,7 +22,7 @@ Les lêve-tôt auront l’opportunité de venir coworker gratuitement. De 10h à
 
 - **15h – 17h : un peu de sérieux plait-il !**
 
-Au-delà des rencontres, du réseautage et de la fête, nous nous sommes dit que l’occasion était parfaite pour faire un bilan de ces derniers mois de coworking dans la région. En effet, le nombre de coworkers rhonalpins n’a cessé de grimper ces derniers mois avec l’ouverture de plusieurs espaces, à Lyon mais aussi à Saint Etienne. Pour décrypter ce phénomène, [Grant Gudgel](http://fr.linkedin.com/in/grantgudgel) (qui était déjà venu nous parler de l’entreprise ouverte) nous donnera un aperçu du profil type du coworker. Les fondateurs de [La Cordée](http://www.la-cordee.net), du [Comptoir Numérique](http://www.comptoir-numerique.fr/) et de [Locaux Motiv’ ](http://www.locauxmotiv.fr/)viendront ensuite nous présenter un bilan de leurs activités. L’occasion pour vous de nous poser toutes les questions qui vous démangent sur le coworking, le fonctionnement de nos espaces, le quotidien des coworkers, nos projets, nos aspirations et nos valeurs !
+Au-delà des rencontres, du réseautage et de la fête, nous nous sommes dit que l’occasion était parfaite pour faire un bilan de ces derniers mois de coworking dans la région. En effet, le nombre de coworkers rhonalpins n’a cessé de grimper ces derniers mois avec l’ouverture de plusieurs espaces, à Lyon mais aussi à Saint Etienne. Pour décrypter ce phénomène, [Grant Gudgel](https://fr.linkedin.com/in/grantgudgel) (qui était déjà venu nous parler de l’entreprise ouverte) nous donnera un aperçu du profil type du coworker. Les fondateurs de [La Cordée](https://www.la-cordee.net), du [Comptoir Numérique](https://www.comptoir-numerique.fr/) et de [Locaux Motiv’ ](https://www.locauxmotiv.fr/)viendront ensuite nous présenter un bilan de leurs activités. L’occasion pour vous de nous poser toutes les questions qui vous démangent sur le coworking, le fonctionnement de nos espaces, le quotidien des coworkers, nos projets, nos aspirations et nos valeurs !
 
 - **17h – 00h : place à la fête !**
 

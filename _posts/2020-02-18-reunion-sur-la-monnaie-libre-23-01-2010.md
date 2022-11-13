@@ -20,7 +20,7 @@ La [Monnaie libre](<a href="https://monnaie-libre.fr" rel="noreferrer noopener" 
 
 Une quinzaine de personnes ont pris part à cette soirée. Nous avons animé un atelier permettant de tester plusieurs systèmes d'échange : le troc, les monnaies métalliques, les monnaies-crédit (comme l'Euro©) et enfin la monnaie libre. Nous avons expérimenté que :
 
-* les échanges en troc sont assez lents et bloquent parfois, 
+* les échanges en troc sont assez lents et bloquent parfois,
 * les monnaies métalliques favorisent les inégalités,
 * l'utilisation de monnaies-crédit revient à enrichir l'émetteur du crédit (les banques privées). Des crises de rareté monétaires surviennent.
 * en monnaie libre, les échanges sont fluidifiés par la création continue et répartie de monnaie.
@@ -35,7 +35,7 @@ La monnaie libre :
 * est neutre en termes de croissance économique (contrairement à l'Euro©)
 * réduit les inégalités monétaire.
 
-Pour en savoir plus, vous pouvez visiter notre site [<a href="http://monnaielibre-ara.fr" rel="noreferrer noopener" target="_blank">monnaielibre-ara.fr</a>](<a href="https://monnaielibre-ara.fr" rel="noreferrer noopener" target="_blank">https://monnaielibre-ara.fr</a>) et vous inscrire sur notre [liste de diffusion](<a href="https://framalistes.org/sympa/subscribe/monnaielibre-lyon" rel="noreferrer noopener" target="_blank">https://framalistes.org/sympa/subscribe/monnaielibre-lyon</a>).
+Pour en savoir plus, vous pouvez visiter notre site [<a href="https://monnaielibre-ara.fr" rel="noreferrer noopener" target="_blank">monnaielibre-ara.fr</a>](<a href="https://monnaielibre-ara.fr" rel="noreferrer noopener" target="_blank">https://monnaielibre-ara.fr</a>) et vous inscrire sur notre [liste de diffusion](<a href="https://framalistes.org/sympa/subscribe/monnaielibre-lyon" rel="noreferrer noopener" target="_blank">https://framalistes.org/sympa/subscribe/monnaielibre-lyon</a>).
 
 Un grand merci à l'ADM de nous avoir accueillis pour cette soirée !
 ```

@@ -30,4 +30,4 @@ Mettre un porte-nom métallique sur votre table de salle à manger, ce n’est p
 
 ## **À mardi prochain !**
 
-source: [Gif de Blank on Blank](http://bit.ly/BlankonBlank-JUpdike "Blank on Blank")
+source: [Gif de Blank on Blank](https://bit.ly/BlankonBlank-JUpdike "Blank on Blank")

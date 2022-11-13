@@ -18,7 +18,7 @@ C’est avec un grand plaisir et une grande fierté que l’Atelier des Médias 
 
 <img src="/uploads/2020/06/Alter_eco_46__ACH7411_-_jeremie_wach-chastel.jpg" alt="Illustration">
 
-Vincent est journaliste à Alternatives Economiques, une coopérative indépendante qui édite le mensuel [Alternatives Economiques](http://www.alternatives-economiques.fr) et tout un tas d’autres projets. Il travaille entre autres sur les sujets économiques, les questions d’emploi et de chômage, mais aussi les dynamiques territoriales.
+Vincent est journaliste à Alternatives Economiques, une coopérative indépendante qui édite le mensuel [Alternatives Economiques](https://www.alternatives-economiques.fr) et tout un tas d’autres projets. Il travaille entre autres sur les sujets économiques, les questions d’emploi et de chômage, mais aussi les dynamiques territoriales.
 
 Après deux ans de travail acharné, Vincent publie aujourd’hui son premier livre, « La renaissance des campagnes », aux [Editions du Seuil](https://www.facebook.com/editions.seuil/). Il nous confirme que non seulement les campagnes ne sont pas condamnées, mais qu’en plus, elles ont un bel avenir ! C’est un livre de géographie économique (ou d’économie géographique, comme vous préférez), construit autour de 5 reportages (Massif vosgien, Cantal, Drôme, Vendée, Tarn), d’une quinzaine d’entretiens avec des chercheurs, et de nombreuses littératures sur le sujet.
 

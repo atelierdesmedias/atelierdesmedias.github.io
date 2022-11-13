@@ -42,7 +42,7 @@ J’ai l’envie de « communiquer pour ceux qui agissent », comme je dis volon
 
 **Une motivation qu’on retrouve dans ton guide *Lyon fermier, où et comment consommer local?***
 
-Oui ! Les initiatives locales foisonnent, et sont porteuses de sens. [Cet ouvrage](http://www.decitre.fr/livres/lyon-fermier-9782876294356.html) montre la vitalité de la filière agro-alimentaire locale et oriente le lecteur vers toutes les ressources locales pour bien manger en préservant l’emploi sur le territoire.
+Oui ! Les initiatives locales foisonnent, et sont porteuses de sens. [Cet ouvrage](https://www.decitre.fr/livres/lyon-fermier-9782876294356.html) montre la vitalité de la filière agro-alimentaire locale et oriente le lecteur vers toutes les ressources locales pour bien manger en préservant l’emploi sur le territoire.
 
 **Dans tes meilleures projections d’avenir, comment ton activité va-t-elle évoluer ?**
 
@@ -52,6 +52,6 @@ J’ai une réflexion en cours avec de possibles associés ou collaborateurs. El
 
 Se parler, se comprendre, dépasser nos préjugés.
 
-> *&gt; Site internet de Nicolas Gauthy[ Fait et Cause ](http://fait-et-cause.fr)*
+> *&gt; Site internet de Nicolas Gauthy[ Fait et Cause ](https://fait-et-cause.fr)*
 
 ## Propos recueillis par[ Marlène Giroudon](/marlene-giroudon-une-fonctionnaire-entrepreneuse/)
