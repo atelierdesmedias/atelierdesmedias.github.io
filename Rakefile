@@ -3,10 +3,15 @@
 require 'html-proofer'
 
 task :html_proofer do
-  sh 'bundle exec jekyll build'
-  options = {
-    assume_extension: true,
-    disable_external: true
-  }
-  HTMLProofer.check_directory('./_site', options).run
+  HTMLProofer.check_directory('./_site', {
+                                disable_external: true,
+                                ignore_urls: [
+                                  'http://www.pizzapuce.com/',
+                                  'http://redacteur-web.fr',
+                                  'http://www.creature-studio.com/',
+                                  'http://www.lyoncast.fr',
+                                  'http://www.24hdelabandedessinee.com/',
+                                  'http://www.regard-objectif.fr/'
+                                ]
+                              }).run
 end

@@ -15,6 +15,10 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
+      - name: Jekyll build
+        env:
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build
       - name: HTML proofer
         env:
           JEKYLL_ENV: production
