@@ -28,7 +28,7 @@ AD : Il y a 9 ans. Après un BTS audiovisuel à Reims, à vocation télévisuell
 
 **Quelle est la partie de ton travail que tu aimes le plus ?**
 
-AD : Ce qui touche à l'artistique et met en avant la créativité. Je fais par exemple partie d’un collectif composé de vidéastes ([shoot it](http://shoot-it.fr/)) dont le but est de promouvoir de nouveaux artistes à travers des lieux insolites. C’est l’émulation collective qui me plaît. Ensemble, on a réalisé des clips pour des groupes locaux comme Golden Zip, Erotic Market, Péthrol, entre autres. Ça me laisse une grande liberté de création.
+AD : Ce qui touche à l'artistique et met en avant la créativité. Je fais par exemple partie d’un collectif composé de vidéastes ([shoot it](https://shoot-it.fr/)) dont le but est de promouvoir de nouveaux artistes à travers des lieux insolites. C’est l’émulation collective qui me plaît. Ensemble, on a réalisé des clips pour des groupes locaux comme Golden Zip, Erotic Market, Péthrol, entre autres. Ça me laisse une grande liberté de création.
 
 **Comment élabore-t-on le scénario d’un clip musical ?**
 
@@ -52,13 +52,13 @@ AD : Globalement, les entreprises tirent les prix vers le bas, comme partout. Ma
 
 **As-tu déjà travaillé avec un membre de l’AdM ?**
 
-AD : Oui, ça sert à ça, l'Atelier des Médias ! J'ai travaillé sur un projet avec [Jonathan Ramelli de Creature Studio, qui est perspectiviste 3D](http://www.creature-studio.com/">www.creature-studio.com "Perspective 3D à Lyon"). On n’a travaillé ensemble qu’une journée, mais ça m’a permis de trouver rapidement quelqu’un de confiance avec qui bosser.
+AD : Oui, ça sert à ça, l'Atelier des Médias ! J'ai travaillé sur un projet avec [Jonathan Ramelli de Creature Studio, qui est perspectiviste 3D](http://www.creature-studio.com/). On n’a travaillé ensemble qu’une journée, mais ça m’a permis de trouver rapidement quelqu’un de confiance avec qui bosser.
 
 - - - - - -
 
-**Site d'Aymeric** : http://www.aymericdumoulin.com/
+**Site d'Aymeric** : https://www.aymericdumoulin.com/
 
-**Shoot it** : <http://shoot-it.fr/>
+**Shoot it** : <https://shoot-it.fr/>
 
 https://vimeo.com/119564786
 

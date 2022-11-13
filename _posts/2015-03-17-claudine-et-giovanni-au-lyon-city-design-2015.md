@@ -26,4 +26,4 @@ Inauguration demain soir mercredi et ça commence jeudi !
 
 Où les trouver ? Rue Docteur Bouchut
 
-Liens : <http://www.ateliersupernova.com/>
+Liens : <https://www.ateliersupernova.com/>

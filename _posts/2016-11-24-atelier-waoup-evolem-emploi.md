@@ -11,7 +11,7 @@ categories:
     - 'L''espace'
 ---
 
-L’atélier des Médias accueillait le 15 novembre dernier une vingtaine de demandeurs d’emploi dans le cadre de notre partenariat avec [Evolem Citoyen](http://evolem-citoyen.com/) et [Waoup](http://www.waoup.com/). Ces derniers ont publiés un retour sur cet événement [dans leur blog](http://www.waoup.com/retour-sur-latelier-creer-son-emploi-pourquoi-pas-moi/), le voici republié ici :
+L’atélier des Médias accueillait le 15 novembre dernier une vingtaine de demandeurs d’emploi dans le cadre de notre partenariat avec [Evolem Citoyen](https://evolem-citoyen.com/) et [Waoup](https://www.waoup.com/). Ces derniers ont publiés un retour sur cet événement [dans leur blog](https://www.waoup.com/retour-sur-latelier-creer-son-emploi-pourquoi-pas-moi/), le voici republié ici :
 
 ![réunion waoup-evolem](/uploads/2016/11/IMG_7604.jpg)
 

@@ -40,4 +40,4 @@ Pour rompre l’isolement ! Après avoir passé plusieurs mois à travailler à 
 
 J’avais lu un article sur l’Atelier des Médias, et étant par nature très « co » : co mmunication, co llaboration, co production, co voiturage, co habitation, je suis passée co luncher plusieurs mardis avec les co workers. J’ai adoré l’accueil, l’état d’esprit, l’ambiance. En décembre, par chance, des places se sont libérées et j’ai pu intégrer le groupe et les locaux. Depuis, tout est plus simple et rassurant. Je ne me sens plus seule et cerise sur le gâteau, j’apprends enfin à jouer aux fléchettes pendant la pause !
 
-[www.dayzine.fr](http://www.dayzine.fr) et [www.onelastpeek.com](http://www.onelastpeek.com) pour les galeries photo
+[www.dayzine.fr](https://www.dayzine.fr) et [www.onelastpeek.com](https://www.onelastpeek.com) pour les galeries photo

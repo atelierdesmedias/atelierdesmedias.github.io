@@ -28,6 +28,6 @@ En janvier, une vingtaine de personnes ont pu se réunir dans nos locaux pour fa
 
 La soirée est ouverte à tout public et aux curieux qui souhaitent profiter du spectacle : adhérent, non adhérent, débutant, confirmé, jeune, moins jeune, seul ou accompagné, familles, amis et inconnus, tout style confondu.
 
-Plus d’informations sur le site des [Chantiers musicaux](http://www.leschantiersmusicaux.com/).
+Plus d’informations sur le site des [Chantiers musicaux](https://www.leschantiersmusicaux.com/).
 
 Crédit photo: Les chantiers musicaux, 2019.

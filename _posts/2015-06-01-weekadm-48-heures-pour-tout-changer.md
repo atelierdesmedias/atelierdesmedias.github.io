@@ -18,13 +18,13 @@ Et samedi dernier, pendant que les Lyonnais reniflaient les roses place des Terr
 
  **Outre le big ménage et plusieurs virées à la déchetterie, voilà tout ce qui a été accompli au cours de ces 48 heures :**
 
-– Pose d’un parquet flottant dans le « Grand Palais »  
-– Construction de tables et de bancs pour nos colunching  
-– Mise en place d’une signalétique (une reconnaissance éternelle à [www.ateliersupernova.com](http://www.ateliersupernova.com/) pour leur travail !)  
-– Elaboration d’un nouveau tableau des coworkers  
-– Inventaire de tout notre matériel  
-– Reconfiguration du wifi  
-– Petites réparations diverses  
+– Pose d’un parquet flottant dans le « Grand Palais »
+– Construction de tables et de bancs pour nos colunching
+– Mise en place d’une signalétique (une reconnaissance éternelle à [www.ateliersupernova.com](https://www.ateliersupernova.com/) pour leur travail !)
+– Elaboration d’un nouveau tableau des coworkers
+– Inventaire de tout notre matériel
+– Reconfiguration du wifi
+– Petites réparations diverses
 – Amélioration de l’intranet
 
 **Budget total pour l’ensemble des travaux : 1600 euros !**

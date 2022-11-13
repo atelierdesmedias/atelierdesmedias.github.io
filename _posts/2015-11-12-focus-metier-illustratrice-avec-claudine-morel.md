@@ -27,7 +27,7 @@ Mon travail, c’est raconter en image, rendre visible à l'oeil, au coeur et à
 
 J'illustre des livres jeunesse, en fiction ou en documentaire, des rubriques et articles pour la presse et pour des entreprises, des faire-parts de naissance, cartes de voeux, cartes postales, affiches et flyers, pochettes de CD, des tasses… Et bien que je ne sois pas graphiste de formation, il m'arrive de créer des logos et faire de la mise en page d'affiches et de dépliants.
 
-Site internet : [Claudine Morel Illustrations](http://claudinemorel.ultra-book.com/)
+Site internet : [Claudine Morel Illustrations](https://claudinemorel.ultra-book.com/)
 
 **Tu ne dessines que pour les enfants ?**
 
@@ -73,6 +73,6 @@ Oui, parce que tous ces crayons, papier, ordinateur, scanner, dessins et dossier
 
 **Contact et liens**
 
-Claudine Morel Illustratrice : <http://claudinemorel.ultra-book.com/>
+Claudine Morel Illustratrice : <https://claudinemorel.ultra-book.com/>
 
 Les mugs de Claudine sont aussi disponibles en anglais, ou en allemand

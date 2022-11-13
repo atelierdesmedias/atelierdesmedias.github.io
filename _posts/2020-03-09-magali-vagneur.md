@@ -17,7 +17,7 @@ tags:
 
 <figure class="wp-block-image"><img src="/uploads/2020/01/41_INSTA_Magali_A.jpg" alt="Illustration"></figure>
 
-***[Magali Vagneur](http://magalivagneur.com/) nous raconte sa rentrée à l’Atelier des médias et sa nouvelle passion du coworking. À 42 ans, cette Lyonnaise est rédactrice pour des collectivités et des agences.***
+***[Magali Vagneur](https://magalivagneur.com/) nous raconte sa rentrée à l’Atelier des médias et sa nouvelle passion du coworking. À 42 ans, cette Lyonnaise est rédactrice pour des collectivités et des agences.***
 
 **Dans quoi travailles-tu ?**
 

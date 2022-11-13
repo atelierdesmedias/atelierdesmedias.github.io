@@ -18,9 +18,9 @@ Laurent Victorino, 29 ans, ingénieur informatique. Après plusieurs années pas
 
 ## Que fais-tu ?
 
-Je suis développeur de jeux vidéo. J’ai fondé ma société [Monkey Moon](http://www.monkeymoon.net) il y a quelques mois et je travaille actuellement, entouré de plusieurs collaborateurs talentueux sur notre premier jeu.
+Je suis développeur de jeux vidéo. J’ai fondé ma société [Monkey Moon](https://www.monkeymoon.net) il y a quelques mois et je travaille actuellement, entouré de plusieurs collaborateurs talentueux sur notre premier jeu.
 
 ## Pourquoi le coworking ?
 
-A l’atelier des médias je rencontre des personnes venant d’horizons divers et ce melting-pot culturel et professionnel est essentiel à ma vie professionnelle. En effet le fait de pouvoir montrer mes jeux en cours de développement à des personnes qui n’ont pas la même profession que moi permet d’avoir un avis franc, direct, immédiat et très proches de l’avis que pourrait être celui du joueur découvrant le jeu par hasard. C’est un vrai plus pour moi.  
+A l’atelier des médias je rencontre des personnes venant d’horizons divers et ce melting-pot culturel et professionnel est essentiel à ma vie professionnelle. En effet le fait de pouvoir montrer mes jeux en cours de développement à des personnes qui n’ont pas la même profession que moi permet d’avoir un avis franc, direct, immédiat et très proches de l’avis que pourrait être celui du joueur découvrant le jeu par hasard. C’est un vrai plus pour moi.
 De plus le coworking, par son principe, apporte beaucoup d’échanges avec le “monde extérieur” et permet d’éviter l’effet “bunker” dans lequel beaucoup d’indépendants semblent vivre, seul chez eux, avant de s’engouffrer dans une dépression de long terme, et une psychothérapie durant de nombreuses années (pour les plus chanceux qui s’en sortent). Bref le coworking a radicalement changé ma façon de travailler et de penser le monde du travail.

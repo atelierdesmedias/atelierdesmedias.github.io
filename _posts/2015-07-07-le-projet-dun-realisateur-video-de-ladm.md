@@ -17,8 +17,8 @@ tags:
     - réalisateur
 ---
 
-L’atelier des médias c’est aussi des réalisateurs et des films !  
-Voici la dernière production en date pour les plus Curieux d’entre vous, et l’occasion de découvrir un fort joli projet associatif !  
+L’atelier des médias c’est aussi des réalisateurs et des films !
+Voici la dernière production en date pour les plus Curieux d’entre vous, et l’occasion de découvrir un fort joli projet associatif !
 (réalisation Aymeric Dumoulin)
 
-<http://fr.ulule.com/les-curieux-lyon/>
+<https://fr.ulule.com/les-curieux-lyon/>

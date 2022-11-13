@@ -20,7 +20,7 @@ L'Atelier des Médias – AdM, notre association d'espace de Coworking basée à
 
 100 kilomètres en moins de 30 heures ! On est complètement timbrés… Mais on ne peut plus faire demi-tour !
 
-[Pour faire un don, c'est ici ! Il n'y a pas de petit don !](http://oxfamtrailwalker2014.alvarum.com/cowalkdeladm)
+[Pour faire un don, c'est ici ! Il n'y a pas de petit don !](https://oxfamtrailwalker2014.alvarum.com/cowalkdeladm)
 
 **Le Cowalk de l'AdM : Pierre, Noémie, Valentine et Erwan.**
 
