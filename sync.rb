@@ -46,9 +46,10 @@ if response.is_a?(Net::HTTPSuccess)
     slug = coworker['name'].to_url
     coworker['permalink'] = "coworkers/#{slug}"
     coworker['picture_extension'] = File.extname(json['avatar']).downcase
-    %w[metier phone emailpro facebook twitter linkedin viadeo pinterest].each do |item|
+    %w[metier phone emailpro facebook linkedin viadeo pinterest].each do |item|
       coworker[item] = json[item.to_s] unless json[item.to_s].empty?
     end
+    coworker['twitter'] = json['twitter'].gsub(%r{((https?://)?twitter\.com/|@)}, '') unless json['twitter'].empty?
     tags = json['_tags'].reject { |tag| tag.nil? || tag.empty? }
     all_tags += tags
     coworker['tags'] = tags unless tags.empty?
