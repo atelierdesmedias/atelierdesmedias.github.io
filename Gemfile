@@ -2,21 +2,20 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.2'
-gem 'koala', '~> 3.1.0'
-gem 'mini_magick', '~> 4.11'
-gem 'octokit', '~> 5.0'
-gem 'rake', '~> 13.0.1'
+gem 'jekyll', '~> 4.3.1'
+gem 'koala', '~> 3.3.0'
+gem 'mini_magick', '~> 4.11.0'
+gem 'octokit', '~> 6.0'
+gem 'rake', '~> 13.0.6'
 gem 'rbnacl', '~> 7.1.1'
-gem 'rubocop', '~> 1.22.3'
+gem 'rubocop', '~> 1.38'
 gem 'stringex', '~> 2.8.5'
 
 group :jekyll_plugins do
-  gem 'html-proofer', '~> 3.19.2'
-  gem 'jekyll-feed', '0.15.1'
+  gem 'html-proofer', '~> 4.3.0'
+  gem 'jekyll-feed', '~>0.17.0'
   gem 'jekyll-paginate-v2'
   gem 'jekyll-postcss-v2', '~> 1.0.1'
   gem 'jekyll-seo-tag', '~> 2.8.0'
   gem 'jekyll-sitemap', '~> 1.4.0'
-  gem 'jekyll-tidy', '~> 0.2.2'
 end

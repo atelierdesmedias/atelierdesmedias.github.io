@@ -31,7 +31,6 @@ plugins:
   - jekyll-postcss-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-tidy
 
 collections:
   formulas:

@@ -11,16 +11,15 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: ruby/setup-ruby@v1.86.0
-        with:
-          ruby-version: '2.7'
-          bundler-cache: true
+      - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
         with:
           node-version-file: '.nvmrc'
           cache: 'npm'
       - run: npm install
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
       - name: Generate the coworkers pages
         env:
           COWORKERS_URL: ${{ secrets.COWORKERS_URL }}
