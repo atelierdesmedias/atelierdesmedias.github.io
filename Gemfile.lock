@@ -100,10 +100,10 @@ GEM
       ffi (~> 1.0)
     rbnacl (7.1.1)
       ffi
-    regexp_parser (2.6.0)
+    regexp_parser (2.6.1)
     rexml (3.2.5)
     rouge (4.0.0)
-    rubocop (1.38.0)
+    rubocop (1.39.0)
       json (~> 2.3)
       parallel (~> 1.10)
       parser (>= 3.1.2.1)
@@ -149,7 +149,7 @@ DEPENDENCIES
   octokit (~> 6.0)
   rake (~> 13.0.6)
   rbnacl (~> 7.1.1)
-  rubocop (~> 1.38)
+  rubocop (~> 1.39)
   stringex (~> 2.8.5)
 
 BUNDLED WITH
