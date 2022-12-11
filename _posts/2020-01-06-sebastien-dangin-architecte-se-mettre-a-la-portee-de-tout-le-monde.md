@@ -4,7 +4,7 @@ title: 'Sébastien Dangin, architecte : « Se mettre à la portée de tout le 
 date: '2020-01-06T12:30:46+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /sebastien-dangin-architecte-%e2%80%89se-mettre-a-la-portee-de-tout-le-monde%e2%80%89/
+permalink: /sebastien-dangin-architecte-se-mettre-a-la-portee-de-tout-le-monde/
 image: /uploads/2019/12/13_INSTA_Sebastien_A.jpg
 categories:
     - Portraits

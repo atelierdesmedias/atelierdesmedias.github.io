@@ -4,7 +4,7 @@ title: 'Pierre Gouyou Beauchamps, journaliste, photographe et formateur : « G
 date: '2019-12-09T12:30:07+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /pierre-gouyou-beauchamps-journaliste-photographe-et-formateur-%e2%80%89garder-les-yeux-et-lesprit-ouverts%e2%80%89/
+permalink: /pierre-gouyou-beauchamps-journaliste-photographe-et-formateur-garder-les-yeux-et-lesprit-ouverts/
 image: /uploads/2019/12/11_INSTA_Pierre_A.jpg
 categories:
     - Portraits

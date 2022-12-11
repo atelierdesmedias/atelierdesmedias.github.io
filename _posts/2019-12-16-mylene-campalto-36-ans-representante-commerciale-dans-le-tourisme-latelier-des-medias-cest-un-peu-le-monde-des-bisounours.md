@@ -4,7 +4,7 @@ title: 'Mylène Campalto, 36 ans, représentante commerciale dans le tourisme : 
 date: '2019-12-16T12:30:28+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /mylene-campalto-36-ans-representante-commerciale-dans-le-tourisme-%e2%80%89latelier-des-medias-cest-un-peu-le-monde-des-bisounours%e2%80%89/
+permalink: /mylene-campalto-36-ans-representante-commerciale-dans-le-tourisme-latelier-des-medias-cest-un-peu-le-monde-des-bisounours/
 image: /uploads/2019/12/12_INSTA_Mylene_A-1.jpg
 categories:
     - Portraits

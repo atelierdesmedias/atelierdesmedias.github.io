@@ -4,7 +4,7 @@ title: 'Mathieu Martinière, journaliste : « Des enquêtes long format et de 
 date: '2020-01-13T12:30:52+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /mathieu-martiniere-journaliste-%e2%80%89des-enquetes-long-format-et-de-leducation-aux-medias%e2%80%89/
+permalink: /mathieu-martiniere-journaliste-des-enquetes-long-format-et-de-leducation-aux-medias/
 image: /uploads/2019/12/14_INSTA_Mathieu_A.jpg
 categories:
     - Portraits
