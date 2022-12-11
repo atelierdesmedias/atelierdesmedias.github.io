@@ -5,7 +5,7 @@ date: '2019-02-07T13:03:21+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /latelier-accueille-les-soirees-open-mic/
-image: /uploads/2019/02/IMG_0575.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788888/blog/nzlb92t3whxxuf43b7mi.jpg
 categories:
     - Evènements
     - 'L''association'
@@ -20,7 +20,7 @@ tags:
     - rap
 ---
 
-![IMG_0583](/uploads/2019/02/IMG_0583-e1549540858867.jpg)Dans un esprit de soutien aux associations lyonnaises, l’Atelier des médias peut accueillir des événements sur demande. Depuis quelques années, les soirées Open Mic de l’association Les chantiers musicaux se déroulent dans la grande salle. Ce partenariat permet à l’association de pratiquer l’enseignement, la pratique et la promotion de la musique.
+![IMG_0583](https://res.cloudinary.com/atelier-medias/image/upload/v1670788890/blog/a8dh9ikpvzdhi10mtfl4.jpg)Dans un esprit de soutien aux associations lyonnaises, l’Atelier des médias peut accueillir des événements sur demande. Depuis quelques années, les soirées Open Mic de l’association Les chantiers musicaux se déroulent dans la grande salle. Ce partenariat permet à l’association de pratiquer l’enseignement, la pratique et la promotion de la musique.
 
 Les Open Mic offrent l’occasion aux adhérents de chanter/déclamer/jouer devant un public bienveillant et d’apprendre à dompter le trac.
 

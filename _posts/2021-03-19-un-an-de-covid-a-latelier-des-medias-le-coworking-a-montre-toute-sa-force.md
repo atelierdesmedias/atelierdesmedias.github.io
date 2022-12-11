@@ -5,7 +5,7 @@ date: '2021-03-19T08:32:52+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /un-an-de-covid-a-latelier-des-medias-le-coworking-a-montre-toute-sa-force/
-image: /uploads/2021/03/adm-janv21-2.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774087/blog/hhe7oxc1txuentqbdvvr.jpg
 categories:
     - 'L''association'
     - 'L''espace'
@@ -21,7 +21,7 @@ tags:
 
 **Comment un espace de coworking vit-il pendant cette épidémie de Covid-19 ? Un an après le premier confinement, trois coworkers de l’Atelier des Médias reviennent sur cette année difficile**.
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-2.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau.</figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774087/blog/hhe7oxc1txuentqbdvvr.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau.</figcaption></figure>
 
 **De manière globale, quel a été votre ressenti de cette année passée avec le Covid ?**
 
@@ -41,7 +41,7 @@ tags:
 
 > ***« On s’est quand même rendus compte de la force de notre modèle associatif, avec une gestion financière plus souple. »***
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-5.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774089/blog/fnop6fl2biplf8apy5mr.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
 
 **Des mesures spécifiques ont-t-elles été mises en place à l’Atelier des Médias par rapport à d’autres coworkings ?**
 
@@ -69,7 +69,7 @@ tags:
 
 > ***« C’est le message que l’on veut défendre à tout prix : les coworkings, ce ne sont pas seulement des bureaux et du café. Ce sont des lieux de vie. »***
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-3.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774090/blog/agchpbfmqllcy5ldnavh.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
 
 **Qu’est-ce que cette crise dit du coworking de manière générale ?**
 
@@ -85,7 +85,7 @@ tags:
 
 **Erwan :** Moi, je suis un indécrottable optimiste ! Il y a beaucoup de gens qui se lancent en indépendants. On verra bien, mais je pense que notre modèle peut être attractif.
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/adm-janv21-10.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774092/blog/qhuc2h2y6dijtjvokqjx.jpg" alt="Illustration"><figcaption> À l’Atelier des Médias. © Anne Gentilleau. </figcaption></figure>
 
 **Est-ce qu’on peut quand même tirer des choses positives de cette période difficile ?**
 

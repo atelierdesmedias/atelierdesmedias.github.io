@@ -5,7 +5,7 @@ date: '2019-11-18T12:30:09+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /hannah-peters-marketing-digital-ladrenaline-un-vrai-moteur/
-image: /uploads/2019/10/08_INSTA_Hannah_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788696/blog/ax6xenye2yshqy3oga1v.jpg
 categories:
     - Portraits
 tags:
@@ -19,7 +19,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/08_INSTA_Hannah_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788696/blog/ax6xenye2yshqy3oga1v.jpg" alt="Illustration"></figure>
 
 ***À 30 ans, Hannah, Bretonne (de Brest, la VRAIE Bretagne !) vient de créer une école en ligne pour apprendre à trouver des clients sur internet.***
 [www.digi-atlas.com](https://www.digi-atlas.com/)

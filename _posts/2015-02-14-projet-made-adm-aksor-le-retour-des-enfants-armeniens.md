@@ -5,7 +5,7 @@ date: '2015-02-14T15:28:30+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /projet-made-adm-aksor-le-retour-des-enfants-armeniens/
-image: /uploads/2015/02/Portraits-Teaser.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788692/blog/png23mcakah3wyis2yhe.jpg
 categories:
     - 'Projets pro'
 tags:

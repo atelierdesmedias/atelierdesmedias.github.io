@@ -5,7 +5,7 @@ date: '2019-02-07T13:24:54+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /le-rap-de-latelier-des-medias/
-image: /uploads/2019/02/atelier-des-medias.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788862/blog/hiqs1nrxbpgjqjabdrb3.jpg
 categories:
     - 'L''association'
 tags:

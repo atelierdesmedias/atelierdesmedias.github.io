@@ -5,7 +5,7 @@ date: '2015-07-07T14:21:32+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /le-projet-dun-realisateur-video-de-ladm/
-image: /uploads/2015/07/curieux.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788845/blog/ysre9t5avggqpiuprcmb.jpg
 categories:
     - 'Focus métier'
     - 'Projets pro'

@@ -5,7 +5,7 @@ date: '2019-12-09T12:30:07+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /pierre-gouyou-beauchamps-journaliste-photographe-et-formateur-garder-les-yeux-et-lesprit-ouverts/
-image: /uploads/2019/12/11_INSTA_Pierre_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788748/blog/uyigrqprp5lzx5edzfju.jpg
 categories:
     - Portraits
 tags:
@@ -18,7 +18,7 @@ tags:
     - Vélo
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/12/11_INSTA_Pierre_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788748/blog/uyigrqprp5lzx5edzfju.jpg" alt="Illustration"></figure>
 ***Sujets de société, grands reportages, éducation aux médias, Pierre a trouvé l’équilibre et c’est tant mieux pour quelqu’un qui se déplace partout sur deux roues !***
 [*w*ww.200-lemagazine.com](https://www.200-lemagazine.com/)
 [www.wereport.fr](https://www.wereport.fr/)

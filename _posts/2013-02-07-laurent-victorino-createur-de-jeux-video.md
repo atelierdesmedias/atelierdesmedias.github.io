@@ -5,12 +5,12 @@ date: '2013-02-07T17:10:22+02:00'
 author: La rédaction
 layout: post
 permalink: /laurent-victorino-createur-de-jeux-video/
-image: /uploads/2014/12/victorino_article.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788663/blog/rfoifobqqw8q4agf6p8c.jpg
 categories:
     - 'Focus métier'
 ---
 
-[![victorino_article](/uploads/2014/12/victorino_article.jpg)](/uploads/2014/12/victorino_article.jpg)
+![victorino_article](https://res.cloudinary.com/atelier-medias/image/upload/v1670788663/blog/rfoifobqqw8q4agf6p8c.jpg)
 
 ## Qui es-tu ?
 

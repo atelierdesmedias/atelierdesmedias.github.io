@@ -5,7 +5,7 @@ date: '2017-07-04T14:02:36+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /solidaires-avec-les-restos-du-coeur/
-image: /uploads/2017/07/unnamed.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788847/blog/utpiqaih24fg9p4hqt6j.jpg
 categories:
     - 'L''association'
 tags:
@@ -14,7 +14,7 @@ tags:
     - 'restos du coeur'
 ---
 
-**![unnamed](/uploads/2017/07/unnamed.jpg)**
+**![unnamed](https://res.cloudinary.com/atelier-medias/image/upload/v1670788847/blog/utpiqaih24fg9p4hqt6j.jpg)**
 
 **Tous solidaires : Collecte ADM pour les Restos du Cœur**
 
@@ -28,4 +28,4 @@ L’Atelier des Médias remercie la générosité de ses membres, qui ont réuss
 
 Pour en savoir plus, contactez[ l’association des Restos du Cœur](https://www.restosducoeur.org/associations-departementales/) la plus proche de chez vous.
 
-![_20170704_134443](/uploads/2017/07/20170704_134443.jpg)
+![_20170704_134443](https://res.cloudinary.com/atelier-medias/image/upload/v1670788848/blog/in4u4dnwmukex8at1z9r.jpg)

@@ -5,7 +5,7 @@ date: '2017-07-06T12:28:10+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /le-slam-de-latelier-des-medias/
-image: /uploads/2017/07/slam.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788756/blog/a8dfcjuwx4fjdlyzxqeo.jpg
 categories:
     - 'L''association'
 tags:

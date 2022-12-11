@@ -5,7 +5,7 @@ date: '2019-12-16T12:30:28+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /mylene-campalto-36-ans-representante-commerciale-dans-le-tourisme-latelier-des-medias-cest-un-peu-le-monde-des-bisounours/
-image: /uploads/2019/12/12_INSTA_Mylene_A-1.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788653/blog/jzejxhent3s5auo6h4vg.jpg
 categories:
     - Portraits
 tags:
@@ -18,7 +18,7 @@ tags:
     - Tourisme
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/12/12_INSTA_Mylene_A-1.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788653/blog/jzejxhent3s5auo6h4vg.jpg" alt="Illustration"></figure>
 
 ***Mylène, cette voyageuse professionnelle est fidèle à l’Atelier des Médias depuis 2011, et ne peut s’imaginer rejoindre un autre espace de coworking.***  
 [Linkedin](https://www.linkedin.com/in/myl%C3%A8ne-campalto-82051791/?locale=fr_FR)

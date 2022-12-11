@@ -5,7 +5,7 @@ date: '2017-04-25T11:23:37+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /un-evenement-sympathique/
-image: /uploads/2017/04/image.png
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788706/blog/hvvzrnmp2hckur3wqlfn.png
 categories:
     - After-work
 ---
@@ -16,6 +16,6 @@ samedi 29 avril à partir de 10h30
 
 pour les rencontres Café &amp; Spéculoos du samedi matin
 
-![claudine morel](/uploads/2017/04/image.png)
+![claudine morel](https://res.cloudinary.com/atelier-medias/image/upload/v1670788706/blog/hvvzrnmp2hckur3wqlfn.png)
 
 Courez la voir !!!!!

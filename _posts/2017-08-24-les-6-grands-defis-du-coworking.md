@@ -5,7 +5,7 @@ date: '2017-08-24T10:53:57+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /les-6-grands-defis-du-coworking/
-image: /uploads/2017/08/Capture-décran-2017-08-24-10.38.40.png
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788817/blog/dc6qzd7nbgpe6sgqejoe.png
 categories:
     - 'L''espace'
     - 'Projets pro'
@@ -17,7 +17,7 @@ tags:
 **RETOUR sur #acow17**
  **1ères assises du COWORKING**
 
-![acow1](/uploads/2017/08/Capture-décran-2017-08-24-10.33.35.png)
+![acow1](https://res.cloudinary.com/atelier-medias/image/upload/v1670788819/blog/ywmldhs1mag6ccgmvtkf.png)
 
 Synthèse du premier événement en France consacré au coworking, organisé à Lyon
 le 3 février 2017, par le Réseau Coworking Grand Lyon avec le soutien de la Métropole.
@@ -42,4 +42,4 @@ Le phénomène explose. De grands groupes arrivent sur le marché, aux visées b
 
 Malgré les discours affichés, les **entreprises** hésitent encore à sauter le pas du **télétravail**. Comment les sensibiliser à ces nouveaux modes de travail ? Comment les convaincre de se lancer dans le coworking pour leurs salariés ?
 
-**<img src="/uploads/2017/08/Capture-décran-2017-08-24-10.36.55.png" alt="Capture d'écran 2017-08-24 10.36.55"><img src="/uploads/2017/08/Capture-décran-2017-08-24-10.37.09.png" alt="Capture d'écran 2017-08-24 10.37.09"> <img src="/uploads/2017/08/Capture-décran-2017-08-24-10.37.02.png" alt="Capture d'écran 2017-08-24 10.37.02">**
+**<img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788821/blog/mtncyihnmcxvshhkftfu.png" alt="Capture d'écran 2017-08-24 10.36.55"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791269/blog/a6wc0t8macp9l9hvyzbr.png" alt="Capture d'écran 2017-08-24 10.37.09"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791441/blog/k03izrtfn9ykjxzlpxwx.png" alt="Capture d'écran 2017-08-24 10.37.02">**

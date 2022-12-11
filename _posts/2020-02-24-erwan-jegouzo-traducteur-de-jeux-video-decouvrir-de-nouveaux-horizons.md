@@ -5,7 +5,7 @@ date: '2020-02-24T12:00:54+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /erwan-jegouzo-traducteur-de-jeux-video-decouvrir-de-nouveaux-horizons/
-image: /uploads/2020/01/18_INSTA_Erwan_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788164/blog/nc3cc4gvftqsuunkevhn.jpg
 categories:
     - Portraits
 tags:
@@ -18,7 +18,7 @@ tags:
     - 'Traduction jeux vidéo'
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2020/01/18_INSTA_Erwan_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788164/blog/nc3cc4gvftqsuunkevhn.jpg" alt="Illustration"></figure>
 
 ***A 46 ans, Erwan Jegouzo est traducteur de jeux vidéo. Celui qui est aussi le président de l’Atelier des médias nous explique son métier, qui ne consiste pas (seulement) à jouer à la PlayStation en picorant des cacahuètes.***  *Il vient de Nantes en Bretagne (c’est lui qui le dit), et on peut voir en savoir plus sur lui* [*ici*](https://www.linkedin.com/in/erwanjegouzo/)*.*
 

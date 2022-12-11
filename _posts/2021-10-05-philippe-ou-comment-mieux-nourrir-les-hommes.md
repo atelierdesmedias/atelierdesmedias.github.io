@@ -5,7 +5,7 @@ date: '2021-10-05T14:25:29+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /philippe-ou-comment-mieux-nourrir-les-hommes/
-image: /uploads/2021/10/Philippe.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670773924/blog/mw8v8mpbpb5t9kzyzdql.jpg
 categories:
     - 'Focus métier'
     - Portraits
@@ -14,7 +14,7 @@ categories:
 
 **« Atiab » : c’est le nom qu’a choisi Philippe Rahbé pour son nouveau projet de lutte contre le gaspillage alimentaire. « Cela signifie ‘de meilleur goût’, en libanais », explique-t-il. Un clin d’œil à son pays d’origine, où Philippe a fait vivre pendant un an une épicerie bio.**
 
-<figure class="wp-block-image"><img src="/uploads/2021/10/Philippe.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670773924/blog/mw8v8mpbpb5t9kzyzdql.jpg" alt="Illustration"></figure>
 
 Sa vocation est toute récente mais bien ancrée : « Je veux permettre au plus grand nombre de mieux se nourrir, avec de bons produits, sans épuiser les ressources de la planète », raconte Philippe Rahbé, 43 ans, entrepreneur. « Il y a quelques années, je suis tombé sur un article qui expliquait qu’en 2050, les ressources de la planète ne seraient pas suffisantes pour nourrir les 10 milliards d’humains qui l’habitent. Cela m’a marqué. »
 

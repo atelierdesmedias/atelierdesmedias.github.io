@@ -5,12 +5,12 @@ date: '2016-07-18T16:08:12+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /laetitia-agostino-a-cree-son-activite-en-coworking/
-image: /uploads/2016/07/DSC_0919-2.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788882/blog/x7jnmystrxd9b0n7issr.jpg
 categories:
     - Portraits
 ---
 
-**[![DSC_0919 (2)](/uploads/2016/07/DSC_0919-2.jpg)](/uploads/2016/07/DSC_0919-2.jpg)Dès le lancement de son activité, Laetitia Agostino a opté pour le coworking. Cela fait près de huit mois qu’elle vit au rythme de l’Atelier des médias. Rencontre avec cette traductrice pleine d’énergie.**
+**[![DSC_0919 (2)](https://res.cloudinary.com/atelier-medias/image/upload/v1670788882/blog/x7jnmystrxd9b0n7issr.jpg)](https://res.cloudinary.com/atelier-medias/image/upload/v1670791286/blog/gqhl0vmcvdbdq8sbcnwe.jpg)Dès le lancement de son activité, Laetitia Agostino a opté pour le coworking. Cela fait près de huit mois qu’elle vit au rythme de l’Atelier des médias. Rencontre avec cette traductrice pleine d’énergie.**
 
 **Qu’est ce qui t’a poussée à créer ton activité ?**
 

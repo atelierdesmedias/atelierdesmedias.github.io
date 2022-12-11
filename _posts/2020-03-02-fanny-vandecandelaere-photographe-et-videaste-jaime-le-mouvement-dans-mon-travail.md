@@ -5,7 +5,7 @@ date: '2020-03-02T12:00:56+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /fanny-vandecandelaere-photographe-et-videaste-jaime-le-mouvement-dans-mon-travail/
-image: /uploads/2020/01/19_INSTA_Fanny_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788137/blog/ho8nbjcbqbrpdkbar9em.jpg
 categories:
     - Portraits
 tags:
@@ -18,7 +18,7 @@ tags:
     - Vidéaste
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2020/01/19_INSTA_Fanny_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788137/blog/ho8nbjcbqbrpdkbar9em.jpg" alt="Illustration"></figure>
 
 ***Fanny est photographe et vidéaste indépendante.***   
 ***Un métier qui l’amène à voyager régulièrement, en France et à l’étranger, pour des tournages ou des prises de vue.***   

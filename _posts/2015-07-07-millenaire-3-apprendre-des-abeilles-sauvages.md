@@ -5,7 +5,7 @@ date: '2015-07-07T14:18:40+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /millenaire-3-apprendre-des-abeilles-sauvages/
-image: /uploads/2015/07/apprendre-des-abeilles-sauvages.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788750/blog/f0f5r19zf62u1ugjbx1v.jpg
 categories:
     - 'Focus métier'
     - 'Projets pro'

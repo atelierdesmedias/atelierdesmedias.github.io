@@ -5,7 +5,7 @@ date: '2015-02-03T16:33:56+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /coup-de-projecteur-sur-le-metier-de-realisateur-et-de-chef-operateur/
-image: /uploads/2015/02/189906_10150109020881336_1279230_n1.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788693/blog/ao1qrh3y7wzpnztcdm5y.jpg
 categories:
     - 'Focus métier'
 tags:
@@ -18,7 +18,7 @@ tags:
     - video
 ---
 
-**![189906_10150109020881336_1279230_n](/uploads/2015/02/189906_10150109020881336_1279230_n.jpg)**
+**![189906_10150109020881336_1279230_n](https://res.cloudinary.com/atelier-medias/image/upload/v1670788694/blog/zvxw3aqrmfipqovssxdp.jpg)**
 
 **Aymeric Dumoulin** travaille à l »**Atelier des Médias** depuis plus d'un an. Il nous parle de son métier de réalisateur et de chef opérateur indépendant.
 

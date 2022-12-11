@@ -5,7 +5,7 @@ date: '2020-03-11T09:46:21+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /laurent-victorino-prix-du-meilleur-jeu-independant-aux-pegases/
-image: /uploads/2020/03/89823698_10158177085626532_1645300304926736384_n.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788162/blog/rh1kv46q0cyspguc6kte.jpg
 categories:
     - Portraits
 tags:
@@ -15,7 +15,7 @@ tags:
     - pegases2020
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2020/03/89823698_10158177085626532_1645300304926736384_n.jpg" alt="Illustration"><figcaption><a href="https://www.facebook.com/hashtag/pegases2020">#Pegases2020</a></figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788162/blog/rh1kv46q0cyspguc6kte.jpg" alt="Illustration"><figcaption><a href="https://www.facebook.com/hashtag/pegases2020">#Pegases2020</a></figcaption></figure>
 
 Nous ne sommes pas peu fiers à l’Atelier des Médias cette semaine: notre ancien coworker [Laurent Victorino](https://lvictorino.com/) vient de remporter le prix du meilleur jeu vidéo indépendant aux #Pegases2020!
 

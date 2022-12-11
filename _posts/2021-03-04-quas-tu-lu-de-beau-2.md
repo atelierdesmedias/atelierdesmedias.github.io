@@ -5,7 +5,7 @@ date: '2021-03-04T12:20:35+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /quas-tu-lu-de-beau-2/
-image: /uploads/2021/03/qu-as-tu-lu-de-beau-ok.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774084/blog/qmyj8qa4dxn03hi2stnc.jpg
 categories:
     - Evènements
 tags:
@@ -27,7 +27,7 @@ Dans la bibliothèque de Pierre, journaliste en coworking à l’Atelier des mé
 
 Une oeuvre à lire au calme, de préférence dans un endroit entouré de nature.
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/IMG_7717-ok.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774085/blog/akofwyqw406gnjhuwkeo.jpg" alt="Illustration"></figure>
 
 **Les coups de coeur de février de l’ADM :**
 

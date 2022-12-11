@@ -5,7 +5,7 @@ date: '2020-02-17T12:00:55+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /charlotte-cornudet-graphiste-et-illustratrice-jaime-placer-un-peu-dhumour/
-image: /uploads/2020/01/17_INSTA_Charlotte_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788166/blog/mbrqvq8gy7yoawuzwmnz.jpg
 categories:
     - Portraits
 tags:
@@ -19,7 +19,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2020/01/17_INSTA_Charlotte_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788166/blog/mbrqvq8gy7yoawuzwmnz.jpg" alt="Illustration"></figure>
 
 *<span style="color: #99cc00;">**Originaire de Breizh-Rennes, Charlotte Cornudet est graphiste et illustratrice, notamment dans le domaine de la santé. Elle nous raconte sa passion pour son métier, qui l’amène jusqu’à colorier des souris en vert.** Son site : </span>[<span style="color: #99cc00;">www.hirondelleprocess.com</span>](https://www.hirondelleproocess.com)*
 
@@ -53,7 +53,7 @@ Rire.
 
 En école de graphisme, il fallait réaliser la photo d’un animal. J’avais une petite souris blanche et je l’ai recouverte de pastel sec pour en faire une souris verte. C’était sympa pour ma photo… Mais le pastel n’est jamais parti, et Mauricette est restée verte toute sa vie de souris… Je vous mets la photo, en mémoire de Mauricette chérie.
 
-![graphisme-9](/uploads/2019/04/graphisme-9.jpg)
+![graphisme-9](https://res.cloudinary.com/atelier-medias/image/upload/v1670788167/blog/dxvwigaut26hh4gzsop7.jpg)
 
 **Parmi les coworkers, qui aimerais-tu découvrir davantage ?**
 

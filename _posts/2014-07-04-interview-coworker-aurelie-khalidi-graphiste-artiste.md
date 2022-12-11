@@ -5,14 +5,14 @@ date: '2014-07-04T20:19:06+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /interview-coworker-aurelie-khalidi-graphiste-artiste/
-image: /uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788852/blog/z2mywhesfawnd7jlaeop.jpg
 categories:
     - 'Focus métier'
 ---
 
 Interview d'une coworkeuse (historique) : Aurélie Khalidi. Notre graphiste de renommée internationale nous fait le plaisir de partager sa bonne humeur.
 
-[![10468134_782094485155323_8813176493120189723_o](/uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg)](/uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg)
+![10468134_782094485155323_8813176493120189723_o](https://res.cloudinary.com/atelier-medias/image/upload/v1670788852/blog/z2mywhesfawnd7jlaeop.jpg)
 
 ## Qui es-tu ?
 
@@ -58,5 +58,5 @@ De fait, par ma profession, je suis Andréa le directeur artistique, même si je
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-266 gallery-columns-3 gallery-size-thumbnail" id="gallery-5"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10506789_782094488488656_2455067585066981779_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10468134_782094485155323_8813176493120189723_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10455011_782094475155324_6916014195370138037_o.jpg" alt="Illustration"> </dt></dl>  
+<div class="gallery galleryid-266 gallery-columns-3 gallery-size-thumbnail" id="gallery-5"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788853/blog/i8phzyxk2bnc0tcuxrkk.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791274/blog/ir7neqta1wnej0swfruh.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791445/blog/r7mmrnsedfrsadjzqops.jpg" alt="Illustration"> </dt></dl>  
  </div>

@@ -5,7 +5,7 @@ date: '2018-04-10T17:16:38+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /paques-a-latelier/
-image: /uploads/2018/04/atelierdesmedias_paques.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788867/blog/ucwwlddf1clfdh8mpn9a.jpg
 categories:
     - Evènements
 tags:
@@ -14,7 +14,7 @@ tags:
     - paques
 ---
 
-![atelierdesmedias_paques](/uploads/2018/04/atelierdesmedias_paques.jpg)
+![atelierdesmedias_paques](https://res.cloudinary.com/atelier-medias/image/upload/v1670788867/blog/ucwwlddf1clfdh8mpn9a.jpg)
 
 **Les coworkers ont été gâtés !!!!!**
 

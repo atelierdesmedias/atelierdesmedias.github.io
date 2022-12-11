@@ -5,7 +5,7 @@ date: '2015-09-24T12:31:20+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /umaap-le-nouveau-site-pour-voyager-en-toute-confiance/
-image: /uploads/2015/09/CarteUmaapFaab.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788837/blog/xg9paubjw5l2vvmfv2py.jpg
 categories:
     - 'Focus métier'
     - 'Projets pro'
@@ -19,7 +19,7 @@ Comme je suis un grand voyageur, dans l’âme et autant que possible dans l’a
 
 Le principe est simple : après avoir créé votre profil voyageur, le site vous dit qui, dans votre entourage, connait votre destination de voyage !
 
-![Home_Umaap](/uploads/2015/09/Home_Umaap.png)
+![Home_Umaap](https://res.cloudinary.com/atelier-medias/image/upload/v1670788840/blog/l6uqwyjr2htneyxbvlcd.png)
 
 On le sait tous : organiser un voyage pour qu’il sorte des sentiers battus est toujours plus facile quand on peut bénéficier de conseils d’amis qui y vivent, ou y ont séjourné, et qui pourront nous communiquer les bons plans, les bons contacts, les choses à ne pas manquer, etc. Et comme on n’a pas forcément conscience de son réseau à travers le monde, Umaap s’en charge !
 

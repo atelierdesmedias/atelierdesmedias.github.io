@@ -13,7 +13,7 @@ tags:
 title: 'Anne-Gaëlle Moulun, journaliste pigiste : « Ensemble, on est plus forts »'
 excerpt: ''
 set_permalink: false
-image: https://res.cloudinary.com/atelier-medias/image/upload/v1653273865/blog/1.1_Anne-Gae%CC%88lle_tekoaphotos-2_qkjps5.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670772790/blog/tdhcvsvzbdfsgjnl4smh.jpg
 
 ---
 _Crédit photo : Hughes Delescluse, Tekoaphotos_

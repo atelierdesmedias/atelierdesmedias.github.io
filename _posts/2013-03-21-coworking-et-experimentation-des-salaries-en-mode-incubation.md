@@ -5,14 +5,16 @@ date: '2013-03-21T21:58:38+02:00'
 author: La rédaction
 layout: post
 permalink: /coworking-et-experimentation-des-salaries-en-mode-incubation/
-image: /uploads/2014/12/coworking-salarié.png
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788773/blog/pzyjruqjkv8gtyj1rkwu.png
 categories:
     - Prospective
 ---
 
 Récemment, la twittosphère s’est agitée face à l’annonce de Yahoo d’[interdire le télétravail](https://www.lemonde.fr/economie/article/2013/02/27/la-directrice-de-yahoo-en-croisade-contre-le-teletravail_1839476_3234.html) au sein de son entreprise. Les RH américains avançant comme argument qu’il n’y avait rien de plus précieux que les rencontres entre employés près de la machine à café.
 
-[![coworking-salarié](/uploads/2014/12/coworking-salarié.png)](/uploads/2014/12/coworking-salarié.png)Pourtant, si la collaboration IRL est indispensable pour développer sereinement des projets, il arrive aussi parfois que les salariés aient besoin d’un nouveau souffle, d’une coupure, d’un cadre neuf… pour avancer et repartir de plus belle au sein de leur propre entreprise.
+![coworking-salarié](https://res.cloudinary.com/atelier-medias/image/upload/v1670788773/blog/pzyjruqjkv8gtyj1rkwu.png)
+
+Pourtant, si la collaboration IRL est indispensable pour développer sereinement des projets, il arrive aussi parfois que les salariés aient besoin d’un nouveau souffle, d’une coupure, d’un cadre neuf… pour avancer et repartir de plus belle au sein de leur propre entreprise.
 
 Dès son origine, l’ADM avait imaginé créer **une formule dédiée aux salariés souhaitant travailler au sein d’un espace de coworking durant une période limitée**. Une sorte d’incubation temporaire qui leur aurait permis de se glisser, le temps d’une semaine ou d’un mois, dans la peau d’un travailleur nomade.
 

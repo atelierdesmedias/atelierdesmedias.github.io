@@ -5,12 +5,14 @@ date: '2015-06-01T11:05:19+02:00'
 author: Pascale
 layout: post
 permalink: /weekadm-48-heures-pour-tout-changer/
-image: /uploads/2015/06/CGP6-k4WcAAJhE1.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788737/blog/lor68jwgomn4ztcb1hqh.jpg
 categories:
     - 'L''association'
 ---
 
-**[![l'atelier des medias / coworking à lyon](/uploads/2015/06/CGP6-k4WcAAJhE1.jpg)](/uploads/2015/06/CGP6-k4WcAAJhE1.jpg)Ceux qui suivent les aventures de l’Atelier des Médias depuis ses débuts savent combien notre espace avait besoin d’un bon coup de neuf !** On avait bien conscience que notre moquette tâchée au gré des apéros n’inspirait plus que de la pitié, pire, du dégoût… Bref, cette situation n’avait que trop duré. Une courageuse team de coworkers, sous les ordres du chef Vincent Bouvier, s’est donc démenée ces dernières semaines pour organiser une opération déco commando.
+![l'atelier des medias / coworking à lyon](https://res.cloudinary.com/atelier-medias/image/upload/v1670788737/blog/lor68jwgomn4ztcb1hqh.jpg)
+
+**Ceux qui suivent les aventures de l’Atelier des Médias depuis ses débuts savent combien notre espace avait besoin d’un bon coup de neuf !** On avait bien conscience que notre moquette tâchée au gré des apéros n’inspirait plus que de la pitié, pire, du dégoût… Bref, cette situation n’avait que trop duré. Une courageuse team de coworkers, sous les ordres du chef Vincent Bouvier, s’est donc démenée ces dernières semaines pour organiser une opération déco commando.
 
 **Achat de parquet, de bois, listing du matériel de bricolage, to do list des choses à jeter et à conserver, mobilisation de la main d’oeuvre**… tout leur mois de mai a été consacré à faire de ce #weekadm un succès digne des meilleurs épisodes des Maçons du coeur.
 

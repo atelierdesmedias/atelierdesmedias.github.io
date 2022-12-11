@@ -5,7 +5,7 @@ date: '2021-03-14T19:58:57+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /lespetitsnouveaux-dorian-architecte/
-image: /uploads/2020/10/1.1_Photo-Profil-INTERNET.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774081/blog/zhcqpzzwhahrb3r6xssz.jpg
 categories:
     - 'Focus métier'
     - Portraits
@@ -17,7 +17,7 @@ tags:
 
 *Dorian vient de poser ses valises à Lyon, et son ordinateur à l’Atelier des médias (ADM). Jeune architecte, il travaille en distanciel pour une agence nîmoise. Dans notre tiers-lieu associatif, son accent chantant égaille les pauses-café, et son regard de pro ouvre déjà des perspectives pour optimiser les espaces.*
 
-<figure class="wp-block-image"><img src="/uploads/2021/03/gravier.png" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774082/blog/szvvj7qevczve7rftz6e.png" alt="Illustration"></figure>
 
 #### Tu viens de quitter Nîmes pour t’installer à Lyon. Qu’est ce qui t’amène chez nous ? 
 

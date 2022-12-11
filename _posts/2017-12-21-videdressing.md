@@ -5,7 +5,7 @@ date: '2017-12-21T09:37:05+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /videdressing/
-image: /uploads/2017/12/IMG_0227.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788710/blog/dx3hpcvbbzxqwbmlfp4v.jpg
 categories:
     - After-work
 ---
@@ -20,6 +20,6 @@ Le videdressing de l’ADM fut un franc succès, à refaire !
 
 *(en partenariat avec <https://www.lerelais.org>)*
 
-![IMG_0224](/uploads/2017/12/IMG_0224.jpg)![IMG_0227](/uploads/2017/12/IMG_0227-1.jpg)
+![IMG_0224](https://res.cloudinary.com/atelier-medias/image/upload/v1670788712/blog/jijnuyzmwb1gphzmi7o8.jpg)![IMG_0227](https://res.cloudinary.com/atelier-medias/image/upload/v1670791254/blog/zmnfzoga21tzxeujqfbz.jpg)
 
-![IMG_0235](/uploads/2017/12/IMG_0235.jpg)
+![IMG_0235](https://res.cloudinary.com/atelier-medias/image/upload/v1670788714/blog/ydfsju4yud3ld2vnvnuc.jpg)

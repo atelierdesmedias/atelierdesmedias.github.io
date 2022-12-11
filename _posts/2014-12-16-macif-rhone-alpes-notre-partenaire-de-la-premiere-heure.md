@@ -5,7 +5,7 @@ date: '2014-12-16T15:41:15+02:00'
 author: La rédaction
 layout: post
 permalink: /macif-rhone-alpes-notre-partenaire-de-la-premiere-heure/
-image: /uploads/2014/10/Partenaires8.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788781/blog/ecq3fspt1d0phgg3rz8x.jpg
 categories:
     - 'L''association'
 ---

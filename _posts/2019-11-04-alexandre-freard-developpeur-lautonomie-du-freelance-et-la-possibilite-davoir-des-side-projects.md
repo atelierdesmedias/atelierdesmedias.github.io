@@ -5,7 +5,7 @@ date: '2019-11-04T12:30:15+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /alexandre-freard-developpeur-lautonomie-du-freelance-et-la-possibilite-davoir-des-side-projects/
-image: /uploads/2019/10/04_INSTA_Alex_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788771/blog/sozzbwtozdp75kekm1ts.jpg
 categories:
     - Portraits
 tags:
@@ -17,7 +17,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/04_INSTA_Alex_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788771/blog/sozzbwtozdp75kekm1ts.jpg" alt="Illustration"></figure>
 
 ***A 34 ans, originaire du Nord-Est de la France, Alexandre Freard est développeur, à la fois pour du web, de l’applicatif, mais aussi pour des jeux vidéos indépendants. Et fourmille de talents cachés…***
 Son site web : <https://www.alexandre-freard.com/>

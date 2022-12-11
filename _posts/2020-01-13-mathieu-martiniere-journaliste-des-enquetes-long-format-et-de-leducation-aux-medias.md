@@ -5,7 +5,7 @@ date: '2020-01-13T12:30:52+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /mathieu-martiniere-journaliste-des-enquetes-long-format-et-de-leducation-aux-medias/
-image: /uploads/2019/12/14_INSTA_Mathieu_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788151/blog/zcura800tlg4vtxdw2fh.jpg
 categories:
     - Portraits
 tags:
@@ -18,7 +18,7 @@ tags:
     - WeReport
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/12/14_INSTA_Mathieu_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788151/blog/zcura800tlg4vtxdw2fh.jpg" alt="Illustration"></figure>
 
 ***Au sein du collectif de journalistes indépendants We Report, il mène des enquêtes au long cours, flirte avec les prix journalistiques (mais ça il ne nous le dira pas !) et lorsqu’il tient un sujet, il ne lâche rien !***
 [www.wereport.fr](https://www.wereport.fr/)

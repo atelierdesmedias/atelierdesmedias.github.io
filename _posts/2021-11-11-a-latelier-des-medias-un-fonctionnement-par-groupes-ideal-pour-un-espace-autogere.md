@@ -5,7 +5,7 @@ date: '2021-11-11T09:46:40+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /a-latelier-des-medias-un-fonctionnement-par-groupes-ideal-pour-un-espace-autogere/
-image: /uploads/2021/11/adm-janv21-1_websize.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670770720/blog/cuhmh9itzaas8c0vlgld.jpg
 categories:
     - 'L''association'
 tags:
@@ -26,7 +26,7 @@ C’est un principe de fonctionnement immuable de l’Atelier des médias, depui
 
 > **« D’autres viennent lui prêter main forte »**
 
-<figure class="wp-block-image"><img src="/uploads/2021/11/DSC03552_websize.jpg" alt="Illustration"><figcaption> Atelier des Médias, 2021 © Anne Gentilleau </figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670770722/blog/xlkxzvsrrsncbqtwd5dp.jpg" alt="Illustration"><figcaption> Atelier des Médias, 2021 © Anne Gentilleau </figcaption></figure>
 
 Chaque groupe a sa méthode. À la trésorerie, groupe précieux par définition, une permanence tournante de deux heures a lieu tous les mardi après-midi. « *Le roulement prévoit un·e Trésor par semaine mais, bien souvent, d’autres viennent lui prêter main forte* », explique Anne Balaguier, la responsable du groupe tréso.
 
@@ -40,7 +40,7 @@ Quant au groupe « communication », il répartit ses différentes tâches. Pour
 
 > **« Nous sommes ravis de servir de modèle »**
 
-<figure class="wp-block-image"><img src="/uploads/2021/11/adm-janv21-3_websize.jpg" alt="Illustration"><figcaption> Atelier des Médias, 2021 © Anne Gentilleau </figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670770724/blog/ihbuecmsjiulpd634jsq.jpg" alt="Illustration"><figcaption> Atelier des Médias, 2021 © Anne Gentilleau </figcaption></figure>
 
 Ce mode de fonctionnement, où chacun donne quelques heures bénévoles par mois, permet de faire tourner au quotidien un coworking associatif. « *Ça permet aussi aux nouveaux venus de rapidement participer à la vie de notre espace. Ce qui n’empêche pas des initiatives « hors groupes » ou des participations de coworkers pour prêter main forte à un groupe quand c’est nécessaire. Je trouve que c’est idéal pour un espace autogéré* », estime Anne-Catherine. *« Ça contribue à en faire un espace dynamique et vivant, qui sait faire face à des situations parfois complexes comme le Covid »*, ajoute Anne.
 
