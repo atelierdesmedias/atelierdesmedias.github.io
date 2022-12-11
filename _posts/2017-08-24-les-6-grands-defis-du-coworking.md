@@ -22,7 +22,7 @@ tags:
 Synthèse du premier événement en France consacré au coworking, organisé à Lyon
 le 3 février 2017, par le Réseau Coworking Grand Lyon avec le soutien de la Métropole.
 
-- *Pour lire l’article en entier :[ **téléchargez ici le PDF (5,73Mo),** ](https://temps.millenaire3.com/content/download/11539/217310/version/2/file/Capitalisation%20Assises%20Web.pdf)il a été fait entièrement à l’initiative et par le Grand Lyon / [coworking.grandlyon](https://coworking.grandlyon.com/blog/) !*
+- *Pour lire l’article en entier :[ **téléchargez ici le PDF (5,73Mo),** ](https://temps.millenaire3.com/content/download/11539/217310/version/2/file/Capitalisation%20Assises%20Web.pdf)il a été fait entièrement à l’initiative et par le Grand Lyon / [coworking.grandlyon](https://www.coworking-grandlyon.org) !*
 
 **Le Réseau Coworking Grand Lyon** a voulu ces assises en adéquation forte avec les valeurs que nous avons posées en exergue de notre charte : bienveillance, partage, égalité, transparence.
 

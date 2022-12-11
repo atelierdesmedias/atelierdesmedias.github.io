@@ -3,15 +3,60 @@
 require 'html-proofer'
 
 task :html_proofer do
-  HTMLProofer.check_directory('./_site', {
+  HTMLProofer.check_directory('./_proof', {
                                 disable_external: true,
                                 ignore_urls: [
+                                  'https://www.gone-digital.fr/',
+                                  'https://www.leschantiersmusicaux.com/',
+                                  'https://fait-et-cause.fr/',
+                                  'https://fonts.googleapis.com',
+                                  'href="//fonts.gstatic.com',
                                   'http://www.pizzapuce.com/',
                                   'http://redacteur-web.fr',
                                   'http://www.creature-studio.com/',
                                   'http://www.lyoncast.fr',
                                   'http://www.24hdelabandedessinee.com/',
-                                  'http://www.regard-objectif.fr/'
-                                ]
+                                  'http://www.regard-objectif.fr/',
+                                  'https://blog.lyonbd.com/',
+                                  'https://collectifsources.fr/',
+                                  'https://coop-alternatives.fr/',
+                                  'https://evolem-citoyen.com',
+                                  'https://evolem-citoyen.com/',
+                                  'https://fait-et-cause.fr',
+                                  'https://dataletemps.github.io/2014/11/09/airbnb.html',
+                                  'https://louis-marie.fr/blog/24-h-de-bd-2016/',
+                                  'https://oxfamtrailwalker2014.alvarum.com/cowalkdeladm',
+                                  'https://shoot-it.fr/',
+                                  'https://tgtw.me/',
+                                  'https://umaap.com',
+                                  'https://usermood.net/ben/',
+                                  'https://www.200-lemagazine.com/',
+                                  'https://www.algdcreative.com/',
+                                  'https://www.assisesducoworking.fr/',
+                                  'https://www.dayzine.fr',
+                                  'https://www.lemonde.fr/pixels/article/2018/02/28/superola-and-the-lost-burgers-nanar-videoludique-et-perle-postmoderne_5263751_4408996.html',
+                                  'https://www.letemps.ch/interactive/2014/chiens/',
+                                  'https://www.marion-bonnavent.com/',
+                                  'https://www.onelastpeek.com',
+                                  'https://www.rakor.fr/',
+                                  'https://www.ressortweb.fr',
+                                  'https://www.super-redac.fr',
+                                  'https://www.waoup.com/retour-sur-latelier-creer-son-emploi-pourquoi-pas-moi/',
+                                  'https://www.waoup.com/shaker-et-si-on-se-lancait-en-tant-quindependant-la-tout-de-suite-emploi/',
+                                  'https://www.marie-lys.fr/',
+                                  'https://www.comptoir-numerique.fr/',
+                                  'https://www.decitre.fr/livres/lyon-fermier-9782876294356.html',
+                                  'https://www.marie-lys.fr/projects/les-fantomes-de-lopera/',
+                                  'https://www.franceculture.fr/oeuvre/un-pere-sans-enfant',
+                                  'https://www.traducteur-francais.fr/',
+                                  'https://www.redactioniris.fr/',
+                                  'https://www.dayzine.fr/',
+                                  'https://www.onelastpeek.com/',
+                                  %r{https://www.diamundialradio.org/*},
+                                  %r{//fonts.googleapis.com},
+                                  %r{//fonts.gstatic.com},
+                                  %r{https://www.millenaire3.com/*}
+                                ],
+                                ignore_status_codes: [429, 999]
                               }).run
 end

@@ -27,7 +27,7 @@ Ce sont quelques uns des verbatims collectés à l’issue des [Assises du cowor
 
 <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788774/blog/bjethr5f3n9etl9o1vzs.jpg" alt="Acow2">
 
-Organisées par le collectif [Coworking Grand Lyon](https://coworking.grandlyon.com/) qui fédère à présent près de 10 lieux sur l’agglomération, elles s’inscrivent dans le prolongement de la dynamique du réseau et montrent le chemin accompli depuis 2013 ! Plus de 300 participants, des intervenants de tous secteurs, un panorama exhaustif du coworking en France et dans le monde, de nombreuses possibilités d’interactions, et beaucoup, beaucoup d’émotion avec une chaleur immédiate qui émane du rassemblement et qu’on trouve rarement sur ce type d’événement.
+Organisées par le collectif [Coworking Grand Lyon](https://www.coworking-grandlyon.org/) qui fédère à présent près de 10 lieux sur l’agglomération, elles s’inscrivent dans le prolongement de la dynamique du réseau et montrent le chemin accompli depuis 2013 ! Plus de 300 participants, des intervenants de tous secteurs, un panorama exhaustif du coworking en France et dans le monde, de nombreuses possibilités d’interactions, et beaucoup, beaucoup d’émotion avec une chaleur immédiate qui émane du rassemblement et qu’on trouve rarement sur ce type d’événement.
 
 **Nous y étions !**
 
