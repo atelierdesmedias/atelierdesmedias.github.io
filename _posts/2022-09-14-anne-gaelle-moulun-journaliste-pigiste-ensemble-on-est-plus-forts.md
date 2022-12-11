@@ -37,7 +37,7 @@ La journaliste rentre aussi à l’Atelier des médias, où elle travaille depui
 
 **« L’entraide et la solidarité entre pigistes »**
 
-Fin 2021, elle cofonde à Lyon un collectif de journalistes indépendants, « [Sources ](https://t.co/zHcZpu353b)», constitué de sept pigistes. « _Ça faisait longtemps que j’avais envie d’en fonder un, mais je n’avais pas forcément trouvé les bonnes personnes. Pendant le confinement, une pigiste a lancé des visios avec des journalistes de la région. Avec le déconfinement, on s’est vus et on était dans le même esprit._ »
+Fin 2021, elle cofonde à Lyon un collectif de journalistes indépendants, « [Sources ](https://collectifsources.fr/)», constitué de sept pigistes. « _Ça faisait longtemps que j’avais envie d’en fonder un, mais je n’avais pas forcément trouvé les bonnes personnes. Pendant le confinement, une pigiste a lancé des visios avec des journalistes de la région. Avec le déconfinement, on s’est vus et on était dans le même esprit._ »
 
 Une fois par mois, ces journalistes venant d’horizons et de spécialités différentes, qui travaillent pour une palette de médias allant du _Quotidien du pharmacien_ à Rue89Lyon en passant par Reporterre, se retrouvent pour une conférence de rédaction à l’Atelier des médias ou ailleurs. Ils présentent alors leurs sujets du moment, se conseillent, partagent des contacts. Jusqu’à collaborer ensemble, comme pour cet article d’Anne-Gaëlle [sur les centres médico-psychologiques lyonnais](https://francais.medscape.com/voirarticle/3607613), écrit avec le journaliste Moran Kerinec - qui a depuis rejoint l'Atelier des médias-, pour le site Medscape.
 

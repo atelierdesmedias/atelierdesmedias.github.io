@@ -20,8 +20,7 @@ instagram:
 exclude:
   - Makefile
   - Rakefile
-  - sync.rb
-  - events.rb
+  - "*.rb"
   - .github
   - "*.orig"
 
