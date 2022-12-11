@@ -4,7 +4,8 @@ title: 'Le bruit court, la police se tait'
 date: '2014-04-01T00:50:43+02:00'
 author: La rédaction
 layout: post
-permalink: /le-bruit-court-la-police-se-tait/
+set_permalink: false
+redirect_from: /le-bruit-court-la-police-se-tait/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670776685/blog/gwomouj7rehcdxvtfgyk.jpg
 categories:
     - After-work
@@ -20,4 +21,4 @@ Contacté hier par un journaliste de l’ADM, le Ministère de l’Intérieur es
 
 ![flec1](https://res.cloudinary.com/atelier-medias/image/upload/v1670776887/blog/zbftmh3zqppwzfmjno1s.jpg)
 
-[Lire la suite de l’histoire &gt;](/epingle-a-cheveux-contre-couteau-suisse/ "epingle a cheveux contre Couteau suisse")
+[Lire la suite de l’histoire "epingle a cheveux contre Couteau suisse" &gt;](epingle-a-cheveux-contre-couteau-suisse)

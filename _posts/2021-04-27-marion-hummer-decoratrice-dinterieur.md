@@ -4,7 +4,8 @@ title: 'Marion Hummer, décoratrice d&rsquo;intérieur'
 date: '2021-04-27T15:59:43+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /marion-hummer-decoratrice-dinterieur/
+set_permalink: false
+redirect_from: /marion-hummer-decoratrice-dinterieur/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774079/blog/yaicr3crdl3bnvhwefn4.jpg
 categories:
     - 'Focus métier'

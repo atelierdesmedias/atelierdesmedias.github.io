@@ -4,7 +4,8 @@ title: 'Epingle à cheveux contre Couteau suisse'
 date: '2014-04-01T02:15:41+02:00'
 author: La rédaction
 layout: post
-permalink: /epingle-a-cheveux-contre-couteau-suisse/
+set_permalink: false
+redirect_from: /epingle-a-cheveux-contre-couteau-suisse/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670776889/blog/d6jq1top0zvd3bmwqagh.jpg
 categories:
     - After-work
@@ -28,4 +29,6 @@ Armé d’une épingle à cheveux, Pierre s’escrime maintenant avec la serrure
 ![Illustration](https://res.cloudinary.com/atelier-medias/image/upload/v1670776892/blog/ai0rxmhtexn8gd7ucszv.jpg)
 ![Illustration](https://res.cloudinary.com/atelier-medias/image/upload/v1670776894/blog/ad0vuwmjqvdmk1ngdmnb.jpg)
 
-[&lt; Lire le début de l’histoire ](/le-bruit-court-la-police-se-tait/ "Le bruit court, la police se tait") [Lire la suite de l’histoire &gt;](/ex-otages-ca-a-ete-lescalade/ "Ex-otages : « ça a été l’escalade »")
+[&lt; Lire le début de l’histoire  "Le bruit court, la police se tait"](le-bruit-court-la-police-se-tait)
+
+[Lire la suite de l’histoire "Ex-otages : « ça a été l’escalade »" &gt;](ex-otages-ca-a-ete-lescalade)

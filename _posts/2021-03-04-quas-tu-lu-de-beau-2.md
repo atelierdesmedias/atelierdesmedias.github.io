@@ -4,7 +4,8 @@ title: 'Qu&rsquo;as-tu lu de beau ? #2'
 date: '2021-03-04T12:20:35+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /quas-tu-lu-de-beau-2/
+set_permalink: false
+redirect_from: /quas-tu-lu-de-beau-2/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774084/blog/qmyj8qa4dxn03hi2stnc.jpg
 categories:
     - Evènements

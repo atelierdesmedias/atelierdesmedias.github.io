@@ -4,7 +4,8 @@ title: 'Philippe, ou comment mieux nourrir les hommes'
 date: '2021-10-05T14:25:29+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /philippe-ou-comment-mieux-nourrir-les-hommes/
+set_permalink: false
+redirect_from: /philippe-ou-comment-mieux-nourrir-les-hommes/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670773924/blog/mw8v8mpbpb5t9kzyzdql.jpg
 categories:
     - 'Focus métier'

@@ -4,7 +4,8 @@ title: 'Du Couteau suisse à la fourchette'
 date: '2014-04-01T03:19:24+02:00'
 author: La rédaction
 layout: post
-permalink: /du-couteau-suisse-a-la-fourchette/
+set_permalink: false
+redirect_from: /du-couteau-suisse-a-la-fourchette/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670776897/blog/thhvm6nxpf6mauwez5t9.jpg
 categories:
     - After-work
@@ -41,3 +42,5 @@ Dans la nuit du 30 mars au 1<sup>er</sup> avril 2014, un commando du Front de li
  </div>\* À propos du FLEC
 
 Mené d’une main de velours dans un gant d’acier par Céline, une[ traductrice multimédia](https://www.traducteur-francais.fr/ "Traductrice de logiciels et jeux vidéo"), le groupe rassemble des journalistes lyonnais comme Simon Jousset ou Philippe qui leur donne [Du sens des mots](https://www.facebook.com/dusensdesmots?fref=ts "Du sens des mots"), mais aussi une illustratrice douée pour dessiner des poissons et autres [animaux colorés](https://claudinemorel.ultra-book.com/ "Illustratrice crayons de couleur") sans qui toutes ces actions n’auraient pas été possibles. N’oublions pas Mylène, notre agent commercial doté d’un sens de l’organisation à toute épreuve pour le côté logistique, assisté de Ciro, l’Italien du groupe, qui sera bientôt une star internationale avec ses robots d’un autre genre. Remercions enfin les deux autres traducteurs de l’équipe : Alexandre Edo, [traducteur spécialiste de la gestion du risque](https://www.linkedin.com/pub/alexandre-edo/27/484/521 "Traducteur assurance") et Erwan Jegouzo aux manettes, une place de choix pour ce travailleur du jeu vidéo. Et notre [reporter photographe](https://www.flickr.com/photos/pierregb/ "Pierre Gouyou Beauchamps") Pierre Gouyou Beauchamps, qui a couvert les événements au péril de sa vie. Bref une équipe qui a prouvé une véritable compétence en désinformation avec son happening du 1er avril.
+
+[&lt; Lire le début de l’histoire "Ex-otages : « ça a été l’escalade »" &gt;](ex-otages-ca-a-ete-lescalade)

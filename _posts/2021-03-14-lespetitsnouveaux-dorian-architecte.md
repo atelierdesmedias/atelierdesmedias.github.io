@@ -4,7 +4,8 @@ title: '#lespetitsnouveaux : Dorian, architecte'
 date: '2021-03-14T19:58:57+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /lespetitsnouveaux-dorian-architecte/
+set_permalink: false
+redirect_from: /lespetitsnouveaux-dorian-architecte/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774081/blog/zhcqpzzwhahrb3r6xssz.jpg
 categories:
     - 'Focus métier'

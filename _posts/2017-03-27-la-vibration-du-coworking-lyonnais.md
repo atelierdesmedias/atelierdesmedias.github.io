@@ -4,7 +4,8 @@ title: 'La vibration du coworking lyonnais'
 date: '2017-03-27T14:13:58+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /la-vibration-du-coworking-lyonnais/
+set_permalink: false
+redirect_from: /la-vibration-du-coworking-lyonnais/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788774/blog/bjethr5f3n9etl9o1vzs.jpg
 categories:
     - 'L''association'

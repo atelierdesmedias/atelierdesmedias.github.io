@@ -4,7 +4,8 @@ title: 'À l’Atelier des médias, un fonctionnement par groupes « idéal pour
 date: '2021-11-11T09:46:40+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /a-latelier-des-medias-un-fonctionnement-par-groupes-ideal-pour-un-espace-autogere/
+set_permalink: false
+redirect_from: /a-latelier-des-medias-un-fonctionnement-par-groupes-ideal-pour-un-espace-autogere/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670770720/blog/cuhmh9itzaas8c0vlgld.jpg
 categories:
     - 'L''association'

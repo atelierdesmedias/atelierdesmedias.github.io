@@ -4,7 +4,8 @@ title: 'Un an de Covid à l’Atelier des Médias : « Le coworking a montré to
 date: '2021-03-19T08:32:52+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /un-an-de-covid-a-latelier-des-medias-le-coworking-a-montre-toute-sa-force/
+set_permalink: false
+redirect_from: /un-an-de-covid-a-latelier-des-medias-le-coworking-a-montre-toute-sa-force/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774087/blog/hhe7oxc1txuentqbdvvr.jpg
 categories:
     - 'L''association'

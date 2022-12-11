@@ -4,7 +4,8 @@ title: 'Anne Catherine, experte de l&rsquo;entraide'
 date: '2022-02-03T08:07:08+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /anne-catherine-experte-de-lentraide/
+set_permalink: false
+redirect_from: /anne-catherine-experte-de-lentraide/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670770871/blog/vtopdavs92dv16q50qv3.jpg
 categories:
     - 'Focus métier'

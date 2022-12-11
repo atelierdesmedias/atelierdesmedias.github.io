@@ -4,7 +4,8 @@ title: 'Ex-otages : « ça a été l&#039;escalade »'
 date: '2014-04-01T02:52:02+02:00'
 author: La rédaction
 layout: post
-permalink: /ex-otages-ca-a-ete-lescalade/
+set_permalink: false
+redirect_from: /ex-otages-ca-a-ete-lescalade/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670778134/blog/fuwqlen0j5ud4e0ys2fc.jpg
 categories:
     - After-work
@@ -40,4 +41,6 @@ Après plusieurs dizaines de minutes, une petite troupe de coworkers de l'ADM so
 
 ![Flec3DemiberationTerroriste](https://res.cloudinary.com/atelier-medias/image/upload/v1670778199/blog/dufrbehzmw5pm8bzxefy.jpg)
 
-[&lt; Lire le début de l'histoire](/epingle-a-cheveux-contre-couteau-suisse/ "Epingle à cheveux contre Couteau suisse") [Lire la suite de l'histoire &gt;](/du-couteau-suisse-a-la-fourchette/ "Du Couteau suisse à la fourchette")
+[&lt; Lire le début de l'histoire "Epingle à cheveux contre Couteau suisse"](epingle-a-cheveux-contre-couteau-suisse)
+
+[Lire la suite de l'histoire "Du Couteau suisse à la fourchette" &gt;](du-couteau-suisse-a-la-fourchette)
