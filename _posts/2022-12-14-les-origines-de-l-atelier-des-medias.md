@@ -11,7 +11,7 @@ excerpt: Ni salarié, ni subvention et le moins cher de Lyon. Depuis 2011, l’A
   L’aboutissement d’une série de rencontres fructueuses, consolidées par une gouvernance
   horizontale.
 set_permalink: false
-image: https://res.cloudinary.com/atelier-medias/image/upload/v1671012917/blog/Avenue_de_Saxe_8_iwaknm.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1671013979/blog/Mar%C3%A9chal_de_saxe_vjpbcc.jpg
 
 ---
 **Ni salarié, ni subvention et le moins cher de Lyon. Depuis 2011, l’Atelier des Médias est le plus ancien coworking et le seul autogéré de la métropole rhodanienne. L’aboutissement d’une série de rencontres fructueuses, consolidées par une gouvernance horizontale.**
@@ -19,8 +19,6 @@ image: https://res.cloudinary.com/atelier-medias/image/upload/v1671012917/blog/A
     Le terme « coworking », Pascale Lagahe l’a entendu un matin sur Canal +. Son téléviseur diffusait un reportage sur le premier espace de travail partagé français né à Paris. Freelances et entrepreneurs y partagent bureaux et déjeuners. Un concept innovant en cette année 2010. À l'affût des nouvelles tendances, la journaliste visite les lieux et revient à Lyon partager sa découverte avec ses confrères indépendants. Bruno Crozat, Laurent Poillot, Laure Marandet, Farid Ben Saïd, Julius Suzat… Ils sont déjà quelques-uns à partager un étroit bureau dans les pentes de la Croix-Rousse et davantage à rêver d’un vrai espace de travail. Le modèle parisien leur plaît, reste à le calquer dans la capitale du Rhône.
 
 En quête d’un espace, les journalistes toquent aux portes des investisseurs et des politiques pour financer leur projet. Ils peinent à convaincre. « _Votre modèle économique est nul_ », leur assène un banquier. Par jeu de réseau, Laurent Poillot parvient à décrocher un rendez-vous avec le président de la MACIF Rhône-Alpes fin décembre 2010. Conquis, l’assureur leur propose d’occuper gratuitement un local de 120 m² avenue Maréchal de Saxe pendant six mois. « _Il a vu l’ambition du projet, son utilité et a trouvé ça génial. Ça a marché sur l’enthousiasme d’une personne_ », se souvient Bruno Crozat.
-
-**![Coworking avenue Maréchal de Saxe](https://res.cloudinary.com/atelier-medias/image/upload/v1671012917/blog/Avenue_de_Saxe_8_iwaknm.jpg "Coworking avenue Maréchal de Saxe")**
 
 Le bail est signé fin janvier, les lieux sont investis début février. _M6_, _France 3_, les quotidiens nationaux… Leur projet attire l'œil des médias. Tous scrutent ce premier « espace de travail partagé » lyonnais et suscitent l’émulation. Une trentaine d’intéressés viennent poser écrans et claviers sur un coin de table. Leur loyer permet d’amasser un trésor de guerre pour planifier un projet plus durable. Fin juin, l’équipe visite les locaux du 9 quai André Lacassagne, puis y pose ses bureaux à l’été 2011.
 
