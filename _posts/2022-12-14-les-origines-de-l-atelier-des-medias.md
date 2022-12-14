@@ -20,15 +20,21 @@ image: https://res.cloudinary.com/atelier-medias/image/upload/v1671013979/blog/M
 
 En quête d’un espace, les journalistes toquent aux portes des investisseurs et des politiques pour financer leur projet. Ils peinent à convaincre. « _Votre modèle économique est nul_ », leur assène un banquier. Par jeu de réseau, Laurent Poillot parvient à décrocher un rendez-vous avec le président de la MACIF Rhône-Alpes fin décembre 2010. Conquis, l’assureur leur propose d’occuper gratuitement un local de 120 m² avenue Maréchal de Saxe pendant six mois. « _Il a vu l’ambition du projet, son utilité et a trouvé ça génial. Ça a marché sur l’enthousiasme d’une personne_ », se souvient Bruno Crozat.
 
+![Coworking avenue Maréchal de Saxe](https://res.cloudinary.com/atelier-medias/image/upload/v1671014013/blog/Avenue_de_Saxe_8_xz1mtv.jpg "Coworking avenue Maréchal de Saxe")
+
+_Coworking avenue Maréchal de Saxe_
+
 Le bail est signé fin janvier, les lieux sont investis début février. _M6_, _France 3_, les quotidiens nationaux… Leur projet attire l'œil des médias. Tous scrutent ce premier « espace de travail partagé » lyonnais et suscitent l’émulation. Une trentaine d’intéressés viennent poser écrans et claviers sur un coin de table. Leur loyer permet d’amasser un trésor de guerre pour planifier un projet plus durable. Fin juin, l’équipe visite les locaux du 9 quai André Lacassagne, puis y pose ses bureaux à l’été 2011.
 
-**« _On voulait que l’ADM survive à ses fondateurs_** **»**
+#### **« _On voulait que l’ADM survive à ses fondateurs_** **»**
 
 « _En un an, on est passé de 4 dans un petit bureau des pentes à 60 dans un immense local sur les quais_ », dépeint Laure Marandet. Cette croissance rapide oblige à repenser le cadre de fonctionnement pour trouver une organisation durable. « _La question "qui fait quoi" est arrivée très vite. Qui peut mettre de l’énergie dans la gestion du lieu ?_ » interroge Pascale Lagahe. Dans sa carrière, la journaliste a observé « _beaucoup d’associations qui s’encroûtent avec des présidents à vie_. _Notre but, c’était de fonder un lieu auto et co-géré. On voulait que l’ADM survive à ses fondateurs._ »
 
 Ces réflexions débouchent sur l’obligation de renouveler le conseil d’administration tous les six mois, et pour chaque membre de participer activement à une commission spécialisée quelques heures par mois : trésorerie, recrutement, communication, vie quotidienne, informatique… Fractionner les tâches permet de répartir équitablement la charge de faire fonctionner l’Atelier Des Médias.
 
 **![Assemblée générale de l'ADM](https://res.cloudinary.com/atelier-medias/image/upload/v1671013042/blog/IMG_0785_ndirdw.jpg "Assemblée générale de l'ADM")**
+
+_Assemblée générale de l'ADM_
 
 En quête de mixité stimulant la créativité, l’équipe de journalistes s’ouvre aux métiers de l’image, de la communication et du web. « _On a eu des profils éclectiques : une illustratrice, un photographe, quelqu’un de l'événementiel…_ » liste Pascale Lagahe. Avec un critère de sélection à l’entrée pointe Laure Marandet : « _Sélectionner ceux qui acceptent de jouer le jeu collectif, c’est important._ » Et d’appliquer ses valeurs : « _Un esprit d’intérêt commun, ouvert à la nouveauté, le faire-ensemble, une rigueur comptable, le partage..._ » énumère Bruno Crozet.
 
