@@ -11,7 +11,7 @@ excerpt: Ni salarié, ni subvention et le moins cher de Lyon. Depuis 2011, l’A
   L’aboutissement d’une série de rencontres fructueuses, consolidées par une gouvernance
   horizontale.
 set_permalink: false
-image: ''
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1671012917/blog/Avenue_de_Saxe_8_iwaknm.jpg
 
 ---
 **Ni salarié, ni subvention et le moins cher de Lyon. Depuis 2011, l’Atelier des Médias est le plus ancien coworking et le seul autogéré de la métropole rhodanienne. L’aboutissement d’une série de rencontres fructueuses, consolidées par une gouvernance horizontale.**
