@@ -24,7 +24,7 @@ En quête d’un espace, les journalistes toquent aux portes des investisseurs e
 
 _Coworking avenue Maréchal de Saxe_
 
-Le bail est signé fin janvier, les lieux sont investis début février. _M6_, _France 3_, les quotidiens nationaux… Leur projet attire l'œil des médias. Tous scrutent ce premier « espace de travail partagé » lyonnais et suscitent l’émulation. Une trentaine d’intéressés viennent poser écrans et claviers sur un coin de table. Leur loyer permet d’amasser un trésor de guerre pour planifier un projet plus durable. Fin juin, l’équipe visite les locaux du 9 quai André Lacassagne, puis y pose ses bureaux à l’été 2011.
+Le bail est signé fin janvier, les lieux sont investis début février. _M6_, _France 3_, les quotidiens nationaux… Leur projet attire l'œil des médias. Tous scrutent ce premier « espace de travail partagé » lyonnais et suscitent l’émulation. Une trentaine d’intéressés viennent poser écrans et claviers sur un coin de table. Leur loyer permet d’amasser un trésor de guerre pour planifier un projet plus durable. Fin juin, l’équipe visite les locaux du 9 quai André Lassagne, puis y pose ses bureaux à l’été 2011.
 
 #### **« _On voulait que l’ADM survive à ses fondateurs_** **»**
 
