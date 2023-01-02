@@ -7,10 +7,12 @@ require 'base64'
 
 require './env_utils'
 
+puts 'Checking environment...'
 access_token = get_env_or_exit('FACEBOOK_TOKEN')
 app_id = get_env_or_exit('FACEBOOK_APP_ID')
 app_secret = get_env_or_exit('FACEBOOK_CLIENT_SECRET')
 
+puts 'Renewing token...'
 uri = URI('https://graph.facebook.com/oauth/access_token')
 uri.query = URI.encode_www_form({
                                   grant_type: 'fb_exchange_token',
@@ -21,6 +23,7 @@ uri.query = URI.encode_www_form({
 
 res = Net::HTTP.get_response(uri)
 if res.is_a?(Net::HTTPSuccess)
+  puts 'Token renewed!'
   new_token = JSON.parse(res.body)['access_token']
 else
   puts "Bad response: #{res}"
@@ -40,7 +43,7 @@ def create_box(public_key)
   }
 end
 
-repo = client.repo 'atelierdesmedias/atelierdesmedias.github.io'
+repo = client.repo get_env_or_exit('REPOSITORY')
 
 secret = { name: 'FACEBOOK_TOKEN', value: new_token }
 public_key = client.get_public_key(repo.id)

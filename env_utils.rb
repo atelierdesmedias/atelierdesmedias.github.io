@@ -2,7 +2,7 @@
 
 def get_env_or_exit(name)
   result = ENV[name]
-  if result.nil?
+  if result.nil? || result.empty?
     puts "Please set environment variable: #{name}"
     exit(-1)
   end

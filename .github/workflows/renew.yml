@@ -2,10 +2,8 @@ name: Renew facebook token
 
 on:
   schedule:
-    - cron: "0 0 1 * *"
-
-permissions:
-  actions: read
+    - cron: "0 0 2,16 * *"
+  pull_request:
 
 jobs:
   renew:
@@ -21,4 +19,5 @@ jobs:
           FACEBOOK_CLIENT_SECRET: ${{ secrets.FACEBOOK_CLIENT_SECRET }}
           FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.REPO_ACCESS_TOKEN }}
+          REPOSITORY: ${{ github.repository }}
         run: bundle exec ruby renew.rb
