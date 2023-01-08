@@ -18,7 +18,7 @@ jobs:
       - name: Jekyll build
         env:
           JEKYLL_ENV: production
-        run: bundle exec jekyll build
+        run: bundle exec jekyll build --destination _proof
       - name: HTML proofer
         env:
           JEKYLL_ENV: production

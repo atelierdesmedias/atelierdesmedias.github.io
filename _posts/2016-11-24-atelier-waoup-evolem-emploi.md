@@ -5,7 +5,7 @@ date: '2016-11-24T09:04:05+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /atelier-waoup-evolem-emploi/
-image: /uploads/2016/11/IMG_7601.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788766/blog/ymra7byarjhjxhyzzhps.jpg
 categories:
     - 'L''association'
     - 'L''espace'
@@ -13,7 +13,7 @@ categories:
 
 L’atélier des Médias accueillait le 15 novembre dernier une vingtaine de demandeurs d’emploi dans le cadre de notre partenariat avec [Evolem Citoyen](https://evolem-citoyen.com/) et [Waoup](https://www.waoup.com/). Ces derniers ont publiés un retour sur cet événement [dans leur blog](https://www.waoup.com/retour-sur-latelier-creer-son-emploi-pourquoi-pas-moi/), le voici republié ici :
 
-![réunion waoup-evolem](/uploads/2016/11/IMG_7604.jpg)
+![réunion waoup-evolem](https://res.cloudinary.com/atelier-medias/image/upload/v1670788767/blog/ujhurmrou9z2z4eapj3d.jpg)
 
 SE PLONGER DANS LA VIE D’UN TRAVAILLEUR INDÉPENDANT, LE TEMPS D’UNE SOIRÉE … C’EST L’AVENTURE QU’A DÉCIDÉ DE VIVRE UNE VINGTAINE DE DEMANDEURS D’EMPLOI LE MARDI 15 NOVEMBRE 2016.
 
@@ -35,7 +35,7 @@ Nous n’avons pas toutes les connaissances et toutes les solutions aux problèm
 
 Le réseau Lyon Ville de l’Entrepreneuriat est l’un des plus importants du territoire français ! Il existe toutes sortes de structures d’accueil, d’accompagnement et de financement des entrepreneurs de l’anté-création et jusqu’à 3 ans après la création de votre structure. Et certaines sont spécialisées en fonction de votre domaine d’activité et/ou vos valeurs.
 
-![img_7599](/uploads/2016/11/IMG_7599.jpg)
+![img_7599](https://res.cloudinary.com/atelier-medias/image/upload/v1670788769/blog/dfhycs6oizrispg1tavi.jpg)
 
 ## \#3(bonus) : Prenez du plaisir !
 

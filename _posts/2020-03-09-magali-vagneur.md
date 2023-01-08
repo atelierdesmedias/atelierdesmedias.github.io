@@ -5,7 +5,7 @@ date: '2020-03-09T13:37:15+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /magali-vagneur/
-image: /uploads/2020/01/41_INSTA_Magali_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788142/blog/egd1tuogbeyswbaqg8qa.jpg
 categories:
     - Portraits
 tags:
@@ -15,7 +15,7 @@ tags:
     - rédactrice
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2020/01/41_INSTA_Magali_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788142/blog/egd1tuogbeyswbaqg8qa.jpg" alt="Illustration"></figure>
 
 ***[Magali Vagneur](https://magalivagneur.com/) nous raconte sa rentrée à l’Atelier des médias et sa nouvelle passion du coworking. À 42 ans, cette Lyonnaise est rédactrice pour des collectivités et des agences.***
 

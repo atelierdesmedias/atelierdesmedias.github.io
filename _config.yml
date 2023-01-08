@@ -20,14 +20,15 @@ instagram:
 exclude:
   - Makefile
   - Rakefile
-  - sync.rb
-  - events.rb
+  - "*.rb"
   - .github
+  - "*.orig"
 
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-postcss-v2
+  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
 
@@ -40,7 +41,7 @@ collections:
     output: true
   posts:
     output: true
-    permalink: /:title/
+    permalink: /blog/:title
 
 pagination:
   enabled: true

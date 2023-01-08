@@ -5,7 +5,7 @@ date: '2015-03-17T17:09:40+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /claudine-et-giovanni-au-lyon-city-design-2015/
-image: /uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788815/blog/ngejqyue8zhygz19rqxd.jpg
 categories:
     - 'Focus métier'
     - 'Projets pro'
@@ -16,7 +16,7 @@ tags:
     - urbanisme
 ---
 
-[![Lyoncitydesign_Walknroll_Supernova_vue-general](/uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general.jpg)](/uploads/2015/03/Lyoncitydesign_Walknroll_Supernova_vue-general.jpg)
+![Lyoncitydesign_Walknroll_Supernova_vue-general](https://res.cloudinary.com/atelier-medias/image/upload/v1670788815/blog/ngejqyue8zhygz19rqxd.jpg)
 
 Nos coworkers Claudine et Giovanni s'exposent au Lyon City Design 2015 !
 

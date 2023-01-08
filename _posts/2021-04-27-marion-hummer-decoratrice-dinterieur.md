@@ -4,8 +4,9 @@ title: 'Marion Hummer, décoratrice d&rsquo;intérieur'
 date: '2021-04-27T15:59:43+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /marion-hummer-decoratrice-dinterieur/
-image: /uploads/2021/04/Marion-HUMMER.jpg
+set_permalink: false
+redirect_from: /marion-hummer-decoratrice-dinterieur/
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774079/blog/yaicr3crdl3bnvhwefn4.jpg
 categories:
     - 'Focus métier'
     - Portraits
@@ -14,7 +15,7 @@ categories:
 
 **Marion Hummer, 40 ans, est arrivée à l’Atelier des médias en 2017. Sa spécialité : le désign de stands d’exposition. Mais avec le confinement et la crise sanitaire, les salons et les congrès ne peuvent plus se dérouler normalement… L’occasion pour Marion de se lancer dans un projet qui lui tient à cœur : la décoration d’intérieur pour les particuliers.**
 
-<div class="wp-block-image"><figure class="aligncenter"><img src="/uploads/2021/04/Marion-HUMMER.jpg" alt="Illustration"><figcaption>Franck RIBARD – REGARD OBJECTIF® – Photographe – ARCHITECTURE, INDUSTRIE, COMMUNICATION </figcaption></figure></div>Donnez-lui un espace vide, elle va l’aménager et le décorer à votre goût. Marion Hummer, 40 ans, se lance en ce début d’année 2021, dans une nouvelle activité : « Je propose un service conseil en décoration intérieure et agencement personnalisés, pour accompagner les particuliers dans leur projet de rénovation ou d’aménagement, et créer un cadre de vie à leur image. » Un « virage à 90 degrès » pour cette mère de trois enfants, virage « né d’une passion pour la décoration, mais aussi motivé par les conséquences de la crise sanitaire ». En effet, le confinement a mis en stand-by son activité de designer d’espaces pour les salons et les événements.
+<div class="wp-block-image"><figure class="aligncenter"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774079/blog/yaicr3crdl3bnvhwefn4.jpg" alt="Illustration"><figcaption>Franck RIBARD – REGARD OBJECTIF® – Photographe – ARCHITECTURE, INDUSTRIE, COMMUNICATION </figcaption></figure></div>Donnez-lui un espace vide, elle va l’aménager et le décorer à votre goût. Marion Hummer, 40 ans, se lance en ce début d’année 2021, dans une nouvelle activité : « Je propose un service conseil en décoration intérieure et agencement personnalisés, pour accompagner les particuliers dans leur projet de rénovation ou d’aménagement, et créer un cadre de vie à leur image. » Un « virage à 90 degrès » pour cette mère de trois enfants, virage « né d’une passion pour la décoration, mais aussi motivé par les conséquences de la crise sanitaire ». En effet, le confinement a mis en stand-by son activité de designer d’espaces pour les salons et les événements.
 
 Le design d’espace, Marion l’a appris à l’Ecole nationale supérieure d’arts appliqués et métiers d’arts Olivier de Serres, à Paris. Diplôme en poche, elle commence sa carrière au sein de l’agence Carte Blanche, en région parisienne. Une expérience qui lui permet « d’apprendre le métier, de la conception d’un espace, jusqu’à la réalisation, en passant par les aspects commerciaux », raconte-t-elle.
 

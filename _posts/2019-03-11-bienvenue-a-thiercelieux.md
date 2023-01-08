@@ -5,7 +5,7 @@ date: '2019-03-11T08:47:01+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /bienvenue-a-thiercelieux/
-image: /uploads/2019/03/loup-garou-Lélia.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788879/blog/cotwo5auannffw83ajsk.jpg
 categories:
     - After-work
 tags:
@@ -15,7 +15,7 @@ tags:
     - thiercelieux
 ---
 
-![loup garou Lélia](/uploads/2019/03/loup-garou-Lélia.jpg)Nous sommes en l’an 1802, dans ce pittoresque village de Thiercelieux, situé dans le Duché de Bourgogne. La vie à Thiercelieux est certes modeste et sans prétention, mais douce et agréable. La petite rivière traversant le village scintille lors des belles journées d’été, et le chant des oiseaux donne le sourire aux habitants.
+![loup garou Lélia](https://res.cloudinary.com/atelier-medias/image/upload/v1670788879/blog/cotwo5auannffw83ajsk.jpg)Nous sommes en l’an 1802, dans ce pittoresque village de Thiercelieux, situé dans le Duché de Bourgogne. La vie à Thiercelieux est certes modeste et sans prétention, mais douce et agréable. La petite rivière traversant le village scintille lors des belles journées d’été, et le chant des oiseaux donne le sourire aux habitants.
 
 Ces habitants qui, depuis des décennies, chérissent une cohésion à toutes épreuves où chacun, chacune met son labeur au service de l’intérêt commun.
 

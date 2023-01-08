@@ -5,7 +5,7 @@ date: '2019-10-21T17:08:32+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /aurelie-khalidi-graphiste-et-illustratrice-pouvoir-etre-nomade-bosser-dou-je-veux-y-compris-du-bout-du-monde/
-image: /uploads/2019/10/05_INSTA_Aurelie_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788764/blog/cbizklfsr3f0z2qroqll.jpg
 categories:
     - Portraits
 tags:
@@ -18,7 +18,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/05_INSTA_Aurelie_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788764/blog/cbizklfsr3f0z2qroqll.jpg" alt="Illustration"></figure>
 
 ***Graphiste et illustratrice, originaire du Loir-et-Cher, Aurélie Khalidi est passée par Salamanque et Nice avant de poser ses valises à Lyon et à l’Atelier des médias. Pour mieux repartir.***
 [www.orangevif.com](https://www.orangevif.com/)

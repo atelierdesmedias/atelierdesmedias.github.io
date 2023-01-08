@@ -5,14 +5,14 @@ date: '2014-07-16T20:24:41+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /interview-coworker-sylvain-rogelet-web-entrepreneur/
-image: /uploads/2014/09/10560418_788403711191067_4750063957649665115_o.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788675/blog/c4bpq7v1xlwp4h4q2jgq.jpg
 categories:
     - 'Focus métier'
 ---
 
 Connaissez-vous Consomac.fr ? C'est le site référence des passionnés de la marque à la pomme ! Mais connaissez-vous Sylvain Rogelet, son administrateur ? Découvrez-le grâce à cet interview !
 
-[![10560418_788403711191067_4750063957649665115_o](/uploads/2014/09/10560418_788403711191067_4750063957649665115_o.jpg)](/uploads/2014/09/10560418_788403711191067_4750063957649665115_o.jpg)
+![10560418_788403711191067_4750063957649665115_o](https://res.cloudinary.com/atelier-medias/image/upload/v1670788675/blog/c4bpq7v1xlwp4h4q2jgq.jpg)
 
 ## Qui es-tu ?
 
@@ -54,5 +54,5 @@ Joey Startup. Parce que depuis que je suis à l'Atelier des Médias, j'ai quitt�
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-268 gallery-columns-3 gallery-size-thumbnail" id="gallery-6"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10428337_788403754524396_3920591273918869379_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10560418_788403711191067_4750063957649665115_o.jpg" alt="Illustration"> </dt></dl>   
+<div class="gallery galleryid-268 gallery-columns-3 gallery-size-thumbnail" id="gallery-6"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788676/blog/n1giugigsrelkuo78hta.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791251/blog/uz5rexjpaywcz5ya01ea.jpg" alt="Illustration"> </dt></dl>   
  </div>

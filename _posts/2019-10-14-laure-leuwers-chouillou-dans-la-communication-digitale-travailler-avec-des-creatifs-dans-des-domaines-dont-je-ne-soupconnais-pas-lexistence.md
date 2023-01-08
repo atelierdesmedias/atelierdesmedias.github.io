@@ -5,7 +5,7 @@ date: '2019-10-14T16:46:49+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /laure-leuwers-chouillou-dans-la-communication-digitale-travailler-avec-des-creatifs-dans-des-domaines-dont-je-ne-soupconnais-pas-lexistence/
-image: /uploads/2019/10/03_INSTA_Laure_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788736/blog/vjqfrcbfu6s1p714rjhg.jpg
 categories:
     - Portraits
 tags:
@@ -17,7 +17,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/03_INSTA_Laure_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788736/blog/vjqfrcbfu6s1p714rjhg.jpg" alt="Illustration"></figure>
 
 ***A 35 ans, Laure Leuwers-Chouillou travaille dans la communication digitale, dans des domaines aussi variés que le lifestyle, l’écologie ou la science.***
 

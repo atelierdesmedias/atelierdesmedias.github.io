@@ -5,7 +5,7 @@ date: '2019-12-02T12:00:05+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /marion-bonnavent-coach-par-hypnose-et-art-latelier-des-medias-cest-de-lenergie-bouillonnante/
-image: /uploads/2019/11/10_INSTA_Marion_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788804/blog/kuexs7uovpd9dvelg998.jpg
 categories:
     - Portraits
 tags:
@@ -19,7 +19,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/11/10_INSTA_Marion_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788804/blog/kuexs7uovpd9dvelg998.jpg" alt="Illustration"></figure>
 
 ***Marion Bonnavent, 29 ans, fait du coaching par l’hypnose et l’art. Le coworking l’aide à rester concentrée sur ses projets.***
 [www.marion-bonnavent.com](https://www.marion-bonnavent.com/)

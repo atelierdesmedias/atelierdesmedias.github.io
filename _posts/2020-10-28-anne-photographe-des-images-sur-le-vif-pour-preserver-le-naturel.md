@@ -6,7 +6,7 @@ author: 'La rédaction'
 excerpt: 'Anne a rejoint l''ADM en tant que photographe indépendante. Son écriture visuelle parvient à saisir la vérité et le naturel des instants. Ses sujets de prédilection ? Les liens familiaux et le monde de l''entrepreunariat.'
 layout: post
 permalink: /anne-photographe-des-images-sur-le-vif-pour-preserver-le-naturel/
-image: /uploads/2020/10/famille-anne-thomas-ambre-lois-HD-69_websize.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788153/blog/xlqwlg9ex9bxx07sxn6w.jpg
 categories:
     - 'Focus métier'
     - Portraits
@@ -30,7 +30,7 @@ J’ai rejoint le réseau [Pose ta dem’](https://posetadem.com/) qui m’a per
 
 J’en ai profité pour me perfectionner à fond ! Bien sûr je ne suis pas partie de rien : j’avais déjà une pratique photographique régulière. Mais j’ai pu me former en suivant un workshop pendant lequel j’ai énormément travaillé mon identité visuelle. Et je me suis exercée en m’imposant de poster tous les jours des clichés sur [Instagram](https://www.instagram.com/annegentilleau/). J’ai beaucoup progressé pendant cette période car j’avais la volonté très forte d’avancer.
 
-<figure class="wp-block-image"><img src="/uploads/2020/10/anne-gentilleau.jpg" alt="Illustration"><figcaption>« Photo de famille » par <a href="https://annegentilleau.com/"> Anne Gentilleau</a> </figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788155/blog/k8cxmu7k7k58c1mbn3wt.jpg" alt="Illustration"><figcaption>« Photo de famille » par <a href="https://annegentilleau.com/"> Anne Gentilleau</a> </figcaption></figure>
 
 #### Quelle est ton approche photographique ? En quoi tes photos sont elles singulières ? 
 
@@ -48,7 +48,7 @@ Je prends le temps de faire connaissance avant la séance photo. On se parle au 
 
 Oui, je m’intéresse particulièrement aux entrepreneurs (coachs, artisans, créateurs…) car ce sont des personnes qui vivent leurs projets intensément, qui les mènent avec leurs tripes ! Et mettre son talent au service de son métier, ça a beaucoup de sens pour moi. C’est pourquoi je photographie aussi le monde de l’entreprise avec l’idée de ne pas faire des portraits *corporate* figés mais au contraire, des photographies qui leur ressemblent vraiment. Il faut avant tout qu’elles révèlent qui sont les gens.
 
-<figure class="wp-block-image"><img src="/uploads/2020/10/entreprise.jpg" alt="Illustration"><figcaption>Evénement d’entreprise, capturé par  <a href="https://annegentilleau.com/">Anne Gentilleau</a> </figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788157/blog/wdrlc4mqefxlpujqjr44.jpg" alt="Illustration"><figcaption>Evénement d’entreprise, capturé par  <a href="https://annegentilleau.com/">Anne Gentilleau</a> </figcaption></figure>
 
 #### Rejoindre l’Atelier des Médias en co-working, c’était un choix important pour toi ? 
 

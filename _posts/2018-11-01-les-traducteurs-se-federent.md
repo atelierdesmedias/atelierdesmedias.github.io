@@ -5,7 +5,7 @@ date: '2018-11-01T19:58:05+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /les-traducteurs-se-federent/
-image: /uploads/2018/11/Syllabes-groupe.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788827/blog/tzvgv3jpjin7k0voplza.jpg
 categories:
     - 'Focus métier'
     - 'Projets pro'
@@ -21,4 +21,4 @@ Et parce qu’on va plus loin ensemble, deux coworkeuses Audrey Anzil et Deirdre
 
 À l’image de l’Atelier des médias, Syllabes est une structure autogerée. Elle permet la mise en commun des compétences de ses membres pour une offre plus large tout en travaillant mieux, ensemble, aujourd’hui et demain.
 
-Bon vent à Syllabes !![Syllabes groupe](/uploads/2018/11/Syllabes-groupe.jpg)
+Bon vent à Syllabes !![Syllabes groupe](https://res.cloudinary.com/atelier-medias/image/upload/v1670788827/blog/tzvgv3jpjin7k0voplza.jpg)

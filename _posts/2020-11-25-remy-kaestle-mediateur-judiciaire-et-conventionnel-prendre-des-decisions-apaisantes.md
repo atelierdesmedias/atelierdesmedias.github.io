@@ -5,7 +5,7 @@ date: '2020-11-25T09:00:07+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /remy-kaestle-mediateur-judiciaire-et-conventionnel-prendre-des-decisions-apaisantes/
-image: /uploads/2020/11/Rémy-Kaestlé-2-1.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788139/blog/fg31fbeq0wn4pvqrshub.jpg
 categories:
     - 'Focus métier'
     - Portraits
@@ -22,7 +22,7 @@ tags:
 
 Pour Rémy Kaestlé, le confinement a été comme un déclic. *« Il a été un gros accélérateur quant à la façon dont j’exerce mon métier, de manière plus alternative. Pouvoir prendre des décisions apaisantes, sur un mode plus doux, c’est un peu comme de la médecine préventive »*, explique aujourd’hui Rémy.
 
-<div class="wp-block-image"><figure class="alignleft"><img src="/uploads/2020/11/Rémy-Kaestlé-3.jpg" alt="Illustration"><figcaption> © Chambre nationale des commissaires de justice (Cncj). </figcaption></figure></div>Avec sa formation en droit classique, Rémy, originaire de Nancy, s’est tourné dans un premier temps vers le métier d’huissier de justice. *« Contrairement à l’image populaire du personnage qui contraint et qui oblige, l’huissier de justice fait aussi de la médiation. C’est juste que tu es le dernier maillon de la chaîne et que tu exécutes des décisions de justice. Pourtant, c’est un métier louable et humain »*, précise Rémy. *« Je me suis rendu compte qu’avec la discussion, on obtenait des résultats. Quand la formation de médiateur s’est ouverte, j’ai saisi l’occasion. »*
+<div class="wp-block-image"><figure class="alignleft"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788140/blog/ppfx6rm5mzachlukgjz5.jpg" alt="Illustration"><figcaption> © Chambre nationale des commissaires de justice (Cncj). </figcaption></figure></div>Avec sa formation en droit classique, Rémy, originaire de Nancy, s’est tourné dans un premier temps vers le métier d’huissier de justice. *« Contrairement à l’image populaire du personnage qui contraint et qui oblige, l’huissier de justice fait aussi de la médiation. C’est juste que tu es le dernier maillon de la chaîne et que tu exécutes des décisions de justice. Pourtant, c’est un métier louable et humain »*, précise Rémy. *« Je me suis rendu compte qu’avec la discussion, on obtenait des résultats. Quand la formation de médiateur s’est ouverte, j’ai saisi l’occasion. »*
 
 ***« Je ne travaille ni pour, ni contre. Le médiateur est au milieu, il est indépendant »***
 

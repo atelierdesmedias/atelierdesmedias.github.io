@@ -5,7 +5,7 @@ date: '2015-01-22T15:13:35+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /court-resume-de-la-soiree-mediadrinks-n4/
-image: /uploads/2015/01/mediadrinks4.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788828/blog/drrdj5hhwd9dwiughv35.jpg
 categories:
     - After-work
     - 'Focus métier'
@@ -17,7 +17,7 @@ tags:
     - mediadrinks
 ---
 
-<img src="/uploads/2015/01/mediadrinks4.jpg" alt="mediadrinks4">
+<img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788828/blog/drrdj5hhwd9dwiughv35.jpg" alt="mediadrinks4">
 
 Voici un petit résumé de la soirée Mediadrinks du 19 janvier 2015 !
 

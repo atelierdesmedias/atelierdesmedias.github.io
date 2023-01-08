@@ -5,7 +5,7 @@ date: '2019-11-25T12:30:26+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /claire-morel-creatrice-editoriale-jaime-rendre-un-sujet-hermetique-facile-a-comprendre/
-image: /uploads/2019/10/09_INSTA_Claire_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788850/blog/uq8arus8f5fnn5jmr0r0.jpg
 categories:
     - Portraits
 tags:
@@ -18,7 +18,7 @@ tags:
     - rédactrice
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/09_INSTA_Claire_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788850/blog/uq8arus8f5fnn5jmr0r0.jpg" alt="Illustration"></figure>
 
 ***Claire est créatrice éditoriale. À 36 ans, elle déborde d’énergie, de curiosité et aime comprendre les sujets les plus compliqués… pour mieux les expliquer !***  
 www.morelclaire.com/

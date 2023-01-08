@@ -5,7 +5,7 @@ date: '2020-05-22T13:18:25+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /deconfinement-le-guide-des-bons-gestes-du-coworker/
-image: /uploads/2020/05/visuel-guide-coworker.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788176/blog/fwl64lnfys4q4jqr9tms.jpg
 categories:
     - 'L''association'
 tags:
@@ -27,4 +27,4 @@ Lisez-le et préparez votre pack pour la reprise (gourde, serviette individuelle
 
 On a hâte de vous retrouver!
 
-<figure class="wp-block-image"><img src="/uploads/2020/05/règles-COVID-ADM.jpg" alt="Illustration"><figcaption>« Le petit guide des bons gestes du coworker », réalisé par les graphistes de l’Atelier des médias. Crédit: Atelier des médias. Mai 2020</figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788178/blog/uboditiuck1p2xgi3whh.jpg" alt="Illustration"><figcaption>« Le petit guide des bons gestes du coworker », réalisé par les graphistes de l’Atelier des médias. Crédit: Atelier des médias. Mai 2020</figcaption></figure>

@@ -5,7 +5,7 @@ date: '2019-09-30T14:44:44+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /portrait-de-laure-marandet/
-image: /uploads/2019/09/01_INSTA_Laure_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788744/blog/aadlf53hsfdo3krdx68j.jpg
 categories:
     - Portraits
 tags:
@@ -18,7 +18,7 @@ tags:
     - rédactrice
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/09/01_INSTA_Laure_A.jpg" alt="Laure Marandet 1"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788744/blog/aadlf53hsfdo3krdx68j.jpg" alt="Laure Marandet 1"></figure>
 
 ***Avec sa formation de journaliste scientifique et une passion pour l’équitation, Laure Marandet, 39 ans, détonne dans le monde de la presse traditionnelle*.**
 

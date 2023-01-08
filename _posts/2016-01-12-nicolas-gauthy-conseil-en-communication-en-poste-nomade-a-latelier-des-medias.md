@@ -5,12 +5,12 @@ date: '2016-01-12T10:27:49+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /nicolas-gauthy-conseil-en-communication-en-poste-nomade-a-latelier-des-medias/
-image: /uploads/2016/01/Nicolas-3.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788707/blog/ml1axavgg8umepvlqxmq.jpg
 categories:
     - 'Focus métier'
 ---
 
-**[![Nicolas 3](/uploads/2016/01/Nicolas-3.jpg)](/uploads/2016/01/Nicolas-3.jpg)**
+![Nicolas 3](https://res.cloudinary.com/atelier-medias/image/upload/v1670788707/blog/ml1axavgg8umepvlqxmq.jpg)
 
 **Salut Nicolas ! En une ligne, comment définis-tu ton travail ?**
 

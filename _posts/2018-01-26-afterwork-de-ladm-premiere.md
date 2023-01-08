@@ -5,7 +5,7 @@ date: '2018-01-26T09:54:09+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /afterwork-de-ladm-premiere/
-image: /uploads/2018/01/visu-fresque-d-or.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788891/blog/kxenjyshyad9qmplcidi.jpg
 categories:
     - After-work
 tags:
@@ -22,4 +22,4 @@ Autour d’un buffet de producteurs de La ruche qui dit Oui !, visiteurs et cowo
 
 Merci à tous pour votre participation!
 
-![IMG_6377](/uploads/2018/01/IMG_6377.jpg) ![afterwork visuel](/uploads/2018/01/afterwork-visuel.jpg)
+![IMG_6377](https://res.cloudinary.com/atelier-medias/image/upload/v1670788893/blog/jvungjjslostnd1jumkq.jpg) ![afterwork visuel](https://res.cloudinary.com/atelier-medias/image/upload/v1670791289/blog/c2r0rqzwnzuiqbnript2.jpg)

@@ -5,7 +5,7 @@ date: '2020-02-18T21:53:56+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /reunion-sur-la-monnaie-libre-23-01-2010/
-image: /uploads/2020/02/apero-monnaie-libre.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788158/blog/jdm7jkudggnmvp57dvof.jpg
 categories:
     - Evènements
 tags:
@@ -40,4 +40,4 @@ Pour en savoir plus, vous pouvez visiter notre site [<a href="https://monnaielib
 Un grand merci à l'ADM de nous avoir accueillis pour cette soirée !
 ```
 
-<figure class="wp-block-image"><img src="/uploads/2020/02/aperomonnaielibre.jpg" alt="Illustration"><figcaption>Et au premier plan, les piécettes pour tester plusieurs systèmes d’échange : le troc, les monnaies métalliques, les monnaies-crédit (comme l’Euro©) et enfin la monnaie libre.</figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788159/blog/ifca9rysvangl25i2hjc.jpg" alt="Illustration"><figcaption>Et au premier plan, les piécettes pour tester plusieurs systèmes d’échange : le troc, les monnaies métalliques, les monnaies-crédit (comme l’Euro©) et enfin la monnaie libre.</figcaption></figure>

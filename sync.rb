@@ -14,6 +14,16 @@ code = get_env_or_exit('COWORKERS_CODE')
 user = get_env_or_exit('COWORKERS_USER')
 password = get_env_or_exit('COWORKERS_PASSWORD')
 
+def store_coworker(slug, coworker, json)
+  File.open("_coworkers/#{slug}.md", 'w') do |f|
+    f.write("#{coworker.to_yaml}---\n")
+    { 'public_quiesttu': 'Qui es-tu?', 'public_quefaistu': 'Que fais-tu?',
+      'public_pourquoicoworking': 'Pourquoi le coworking?' }.each do |key, question|
+      f.write("\n## #{question}\n\n#{json[key.to_s]}\n") unless json[key.to_s].empty?
+    end
+  end
+end
+
 def fetch_image(image_url, user, password, path)
   uri = URI(image_url)
   request = Net::HTTP::Get.new(uri)
@@ -46,24 +56,19 @@ if response.is_a?(Net::HTTPSuccess)
     slug = coworker['name'].to_url
     coworker['permalink'] = "coworkers/#{slug}"
     coworker['picture_extension'] = File.extname(json['avatar']).downcase
-    %w[metier phone emailpro facebook linkedin viadeo pinterest].each do |item|
+    %w[metier phone emailpro].each do |item|
       coworker[item] = json[item.to_s] unless json[item.to_s].empty?
     end
     coworker['twitter'] = json['twitter'].gsub(%r{((https?://)?twitter\.com/|@)}, '') unless json['twitter'].empty?
+    %w[facebook linkedin pinterest].each do |item|
+      url = json[item.to_s]
+      coworker[item] = url.sub('http:', 'https:') if url[%r{https?://\S+}]
+    end
     tags = json['_tags'].reject { |tag| tag.nil? || tag.empty? }
     all_tags += tags
     coworker['tags'] = tags unless tags.empty?
 
-    puts coworker, slug
-
-    File.open("_coworkers/#{slug}.md", 'w') do |f|
-      f.write("#{coworker.to_yaml}---\n")
-      { 'public_quiesttu': 'Qui es-tu?', 'public_quefaistu': 'Que fais-tu?',
-        'public_pourquoicoworking': 'Pourquoi le coworking?' }.each do |key, question|
-        f.write("\n## #{question}\n\n#{json[key.to_s]}\n") unless json[key.to_s].empty?
-      end
-    end
-
+    store_coworker(slug, coworker, json)
     fetch_image(parser.escape(json['_profile_picture']), user, password,
                 "_coworkers/#{slug}#{coworker['picture_extension']}")
   end

@@ -5,7 +5,7 @@ date: '2017-12-18T10:46:49+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /lafterwork-18-janvier/
-image: /uploads/2017/12/affiche-event-18-jan.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788811/blog/xrpdsuermxdlmv1eunji.jpg
 categories:
     - After-work
     - 'L''association'
@@ -17,7 +17,7 @@ tags:
     - talents
 ---
 
-![affiche event 18 jan](/uploads/2017/12/affiche-event-18-jan.jpg)
+![affiche event 18 jan](https://res.cloudinary.com/atelier-medias/image/upload/v1670788811/blog/xrpdsuermxdlmv1eunji.jpg)
 
 Pour découvrir tous nos talents, l’Atelier des médias vous invite à son premier Afterwork. Au programme: exposition des photographes, speednetworking, buffet de petits producteurs et autres surprises! Vous rencontrerez nos coworkers, qui représentent tous les métiers des médias (graphistes, illustrateurs, photographes, journalistes, etc…), de la com’ et du développement numérique.
 

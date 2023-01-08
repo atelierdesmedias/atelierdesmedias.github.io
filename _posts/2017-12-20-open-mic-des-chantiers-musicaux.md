@@ -5,7 +5,7 @@ date: '2017-12-20T12:55:09+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /open-mic-des-chantiers-musicaux/
-image: /uploads/2017/12/25635058_10155973970246552_733446727_o.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788855/blog/exfqx59ayxrdkwdvpj68.jpg
 categories:
     - Evènements
     - 'L''espace'
@@ -26,4 +26,4 @@ La jeune école de musique lyonnaise et associative, organise régulièrement de
 
 À la rubrique musique, on a aussi des talents à l’ADM. On espère qu’en 2018, les coworkers feront leur concert Made in ADM.
 
-Bonne fin d’année,<img src="/uploads/2017/12/25590477_10155973969856552_338493986_o.jpg" alt="25590477_10155973969856552_338493986_o">
+Bonne fin d’année,<img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788857/blog/hdj6l2xo9szaoxexzuuz.jpg" alt="25590477_10155973969856552_338493986_o">

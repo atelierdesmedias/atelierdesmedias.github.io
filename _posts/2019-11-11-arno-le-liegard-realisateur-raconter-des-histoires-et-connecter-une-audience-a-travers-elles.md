@@ -5,7 +5,7 @@ date: '2019-11-11T12:30:05+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /arno-le-liegard-realisateur-raconter-des-histoires-et-connecter-une-audience-a-travers-elles/
-image: /uploads/2019/10/07_INSTA_Arnaud_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788760/blog/oolzzbifcvat1his9nky.jpg
 categories:
     - Portraits
 tags:
@@ -19,7 +19,7 @@ tags:
     - 'Web serie'
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/07_INSTA_Arnaud_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788760/blog/oolzzbifcvat1his9nky.jpg" alt="Illustration"></figure>
 
 ***Arno est réalisateur. Ce parisien d’origine a fait un bon bout de chemin vers l’Ouest (Bretagne, puis UK, puis US) pour s’installer aujourd’hui à Lyon. Foisonnant d’idées, il se sert de sa caméra pour raconter des histoires.***
 [www.algdcreative.com](https://www.algdcreative.com/)

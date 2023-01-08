@@ -4,8 +4,9 @@ title: 'Qu’as-tu lu de beau ? #1'
 date: '2021-02-24T18:30:32+02:00'
 author: 'La rédaction'
 layout: post
-permalink: /quas-tu-lu-de-beau-1/
-image: /uploads/2021/02/IMG_7718-ok.jpg
+set_permalink: false
+redirect_from: /quas-tu-lu-de-beau-1/
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670774096/blog/ji4cyinxj3yzkee7kex7.jpg
 categories:
     - Evènements
 tags:
@@ -22,13 +23,13 @@ tags:
 
 Après ce book club virtuel, Sophie a lu un autre ouvrage conseillé cette fois-ci par Valentine : ***[Radium Girls](https://www.glenat.com/karma/radium-girls-9782344033449)***, de Cy. Cette bande dessinée retrace le destin d’un groupe de femmes, des ouvrières américaines contaminées par une peinture au radium appliquée au pinceau sur les cadrans lumineux de montre ou d’instruments de mesure pour l’aéronautique. Pour aller plus loin, elle conseille d’écouter l’émission *[Des femmes lumineuses](https://www.franceculture.fr/emissions/une-histoire-particuliere-un-recit-documentaire-en-deux-parties/radium-girls-12-des-femmes-lumineuses)*, sur France Culture.
 
-<figure class="aligncenter"><img src="/uploads/2021/02/radium.jpg" alt="Illustration"><figcaption>Crédit: Sophie de l’Atelier des Médias. 2021</figcaption></figure>
+<figure class="aligncenter"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774095/blog/x8vbggsvweyv37puocss.jpg" alt="Illustration"><figcaption>Crédit: Sophie de l’Atelier des Médias. 2021</figcaption></figure>
 
 Dans sa bibliothèque, Valentine nous conseille également ***[Peau d’Homme](https://www.glenat.com/1000-feuilles/peau-dhomme-9782344010648)***, une BD de Billy Wilder, Hubert et Zanzim. L’histoire d’une jeune fille de bonne famille, dans l’Italie de la Renaissance, qui revêt une peau d’homme pour suivre et mieux connaître son futur mari, avant un mariage arrangé. *« Depuis des années je lis, j’écoute beaucoup de choses sur le féminisme et le patriarcat, et je craignais un peu que cette BD soit basée sur des lieux communs du féminisme. En fait, elle m’a beaucoup marquée,* explique Valentine. *Outre le propos sur une société patriarcale et le besoin de liberté de l’héroïne, j’ai beaucoup aimé le lien qui se tisse entre les deux personnages, même une fois l’intrigue révélée. Pour moi la BD parle aussi d’autres relations possibles entre hommes et femmes, quelque chose d’autre que le couple ou l’affrontement ».*
 
 Pour rester dans les bandes dessinées, Clément lui recommande la trilogie ***[Révolution](https://www.actes-sud.fr/node/66892)***, de Grouazel et locard. *« Cette BD se joue des clichés de la Révolution française. A lire pour les amateurs d’histoire mais aussi pour tous les curieux ! »*, commente Clément. En ce moment, il lit aussi ***[L’Odyssée d’Hakim](https://www.editions-delcourt.fr/bd/series/serie-l-odyssee-d-hakim/album-odyssee-d-hakim-t03-de-la-macedoine-la-france)***, le best-seller de Fabien Toulmé. *« C’est l’histoire d’Hakim, un syrien qui tente de rallier la France pour rejoindre sa famille. Ce récit réel est poignant et donne un autre regard sur cette crise ».*
 
-<figure class="wp-block-image"><img src="/uploads/2021/02/IMG_7718-ok-1.jpg" alt="Illustration"><figcaption>Crédit: Atelier des médias 2021</figcaption></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670774096/blog/ji4cyinxj3yzkee7kex7.jpg" alt="Illustration"><figcaption>Crédit: Atelier des médias 2021</figcaption></figure>
 
 En quasi professionnelle de la lecture, Anne-Catherine a suivi un mooc sur les romans américains de 1945 à nos jours qui lui a permis de découvrir *[The bluest eye](https://www.franceculture.fr/litterature/toni-morrison-les-trois-romans-quil-faut-avoir-lus)*, de Toni Morrisson, prix Nobel de littérature. *« C’est un livre frappant parce que c’est une histoire dramatique, l’histoire d’une petite fille noire qui vit à la fois dans un contexte familial terrible et dans un contexte de discrimination raciale ».* Elle rêve d’avoir les yeux bleus, comme l’actrice Shirley Temple. *« L’écriture est très poétique et douce, même dans les passages les plus dramatiques »*, ajoute Anne-Catherine.
 

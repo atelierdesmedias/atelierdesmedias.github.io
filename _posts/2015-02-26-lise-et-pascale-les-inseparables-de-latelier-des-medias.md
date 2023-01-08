@@ -5,7 +5,7 @@ date: '2015-02-26T15:35:44+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /lise-et-pascale-les-inseparables-de-latelier-des-medias/
-image: /uploads/2015/02/Pascale-et-Lise.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788685/blog/l0c3hgtbl1otcas5lk1s.jpg
 categories:
     - 'Focus métier'
     - 'Projets pro'
@@ -16,7 +16,7 @@ tags:
     - lyon
 ---
 
-<img src="/uploads/2015/02/pascale-et-lise-editorial-interactif-2.jpg" alt="OLYMPUS DIGITAL CAMERA">
+<img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788687/blog/iab1pbnelz1zqvot8zwn.jpg" alt="OLYMPUS DIGITAL CAMERA">
 
 ## **Bonjour à toutes les deux ! Un petit mot pour vous présenter ?**
 
@@ -27,7 +27,7 @@ tags:
 
 « Seulement les plus sympas ! 🙂 Non, plus sérieusement, nous travaillons aussi bien pour des PME que pour des agences web et des grands comptes. Nos clients exercent dans des secteurs d’activité très différents. Autant vous dire que nous ne connaissons pas la routine ! Et c’est grâce à cette diversité que nous sommes devenues des « plumes caméléons ». **Nous avons toutefois une expertise un peu plus forte sur les secteurs de l’immobilier et des Startups**. Pascale a été l’une des premières à importer les startup week-end à Lyon, a participé à la création de l’incubateur BoostinLyon, et au développement du Nightswapping. »## **Quel type de prestation réalisez-vous ?**
 
-[![editorial-interactif-homepage](/uploads/2015/02/editorial-interactif-homepage.jpg)](/uploads/2015/02/editorial-interactif-homepage.jpg)
+![editorial-interactif-homepage](https://res.cloudinary.com/atelier-medias/image/upload/v1670788688/blog/zwkrjkqjunxdboi9zjpx.jpg)
 
 « **Nous proposons deux types de prestations. Les premières sont tournées vers le conseil, les secondes vers l’opérationnel**. Nous réalisons des audits éditoriaux, permettant de déceler les forces et les faiblesses de chaque site. Pour cela, nous nous intéressons à l’efficacité du contenu, au référencement, mais également à l’ergonomie éditoriale, l’adaptation aux supports mobiles etc. Un audit prend du temps, nous balayons de nombreux critères de performance, en utilisant différents outils comme les web analytics.
 
@@ -49,7 +49,7 @@ Cela nous offre pas mal de perspectives d’innovation dans notre métier ! »
 
 « Oui ! Après de nombreux mois de maturation, nous avons créé [www.redacteur-web.fr](http://redacteur-web.fr "redacteur-web.fr"). Un site-ressource à destination des jeunes qui souhaitent exercer ce métier et des professionnels en poste.
 
-[![redacteur web](/uploads/2015/02/redacteur-web.jpg)](/uploads/2015/02/redacteur-web.jpg)
+![redacteur web](https://res.cloudinary.com/atelier-medias/image/upload/v1670788690/blog/xuarijrkvg1ecfk3abxv.jpg)
 
 Ce projet s’adresse également aux clients, qui ne savent pas toujours comment travailler avec des rédacteurs. Un site pour tordre le cou aux idées reçues et valoriser un métier parfois déprécié. N’hésitez pas à en parler autour de vous ! »
 

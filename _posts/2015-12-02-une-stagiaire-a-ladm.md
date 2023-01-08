@@ -5,7 +5,7 @@ date: '2015-12-02T18:51:02+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /une-stagiaire-a-ladm/
-image: /uploads/2015/12/MetierSigneCarre-2.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788822/blog/vjq7nrxobas2kevavofu.jpg
 categories:
     - 'L''association'
 tags:
@@ -51,6 +51,6 @@ Plein de métiers qu’elle a découverts en passant du temps en particulier ave
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-1457 gallery-columns-3 gallery-size-medium" id="gallery-8"><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/quitus.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse1.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse-colo.jpg" alt="Illustration"> </dt></dl>  
-<dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/Coworkeuse.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="/uploads/2015/12/MetierSigneCarre.jpg" alt="Illustration"> </dt></dl>   
+<div class="gallery galleryid-1457 gallery-columns-3 gallery-size-medium" id="gallery-8"><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788824/blog/gkmew28ptrcqcmw7knge.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791271/blog/qijnb7jgeevjesesrpq8.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791443/blog/c9sxfrqkwtatdcmqdknx.jpg" alt="Illustration"> </dt></dl>  
+<dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788825/blog/ifn1skyqgoodui9wn1bj.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon portrait"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791272/blog/ihtaoyzsdopn7bymunvg.jpg" alt="Illustration"> </dt></dl>   
  </div>

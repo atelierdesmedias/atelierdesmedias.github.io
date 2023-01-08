@@ -5,12 +5,12 @@ date: '2016-01-12T10:30:28+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /marlene-giroudon-une-fonctionnaire-entrepreneuse/
-image: /uploads/2016/01/Marlène.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788755/blog/pluoia46c42l7o2fhyv6.jpg
 categories:
     - 'Focus métier'
 ---
 
-**<u><img src="/uploads/2016/01/Marlène.jpg" alt="Marlène">En une ligne, comment définis-tu ton travail </u><u>?</u>**
+**<u><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788755/blog/pluoia46c42l7o2fhyv6.jpg" alt="Marlène">En une ligne, comment définis-tu ton travail </u><u>?</u>**
 
 Je propose du conseil en communication avec une forte composante éditoriale.
 

@@ -5,7 +5,7 @@ date: '2016-07-04T17:14:35+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /callum-downs-loves-langlais/
-image: /uploads/2016/07/11167815_10204794521168501_1972235698957677682_o.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788657/blog/cwpllrnghaldbv978qxb.jpg
 categories:
     - Portraits
 tags:
@@ -14,7 +14,7 @@ tags:
     - traducteur
 ---
 
-![Callum Downs](/uploads/2016/07/Headshot-round.png)**Callum Downs est un traducteur, que l’on retrouve derrière le site [www.callumdowns.com](https://callumdowns.com/) Entre deux matches de l’Euro, il nous parle de sa vie professionnelle à l’Atelier des médias.**
+![Callum Downs](https://res.cloudinary.com/atelier-medias/image/upload/v1670788659/blog/mdst7zsbympk3wp3ddxa.png)**Callum Downs est un traducteur, que l’on retrouve derrière le site [www.callumdowns.com](https://callumdowns.com/) Entre deux matches de l’Euro, il nous parle de sa vie professionnelle à l’Atelier des médias.**
 
 **Très succinctement, que fais-tu derrière ton ordinateur à l’ADM?**
 

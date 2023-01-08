@@ -5,12 +5,12 @@ date: '2013-01-31T13:13:15+02:00'
 author: La rédaction
 layout: post
 permalink: /anne-simonnot-redactrice-photographe/
-image: /uploads/2014/12/SIMONOT-article.png
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788880/blog/t1lyglhmq2cneib6d9d4.png
 categories:
     - 'Focus métier'
 ---
 
-[![SIMONOT-article](/uploads/2014/12/SIMONOT-article.png)](/uploads/2014/12/SIMONOT-article.png)
+![SIMONOT-article](https://res.cloudinary.com/atelier-medias/image/upload/v1670788880/blog/t1lyglhmq2cneib6d9d4.png)
 
 ## Qui es-tu ?
 

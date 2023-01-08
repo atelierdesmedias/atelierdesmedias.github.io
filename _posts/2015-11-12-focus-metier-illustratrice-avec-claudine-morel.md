@@ -5,7 +5,7 @@ date: '2015-11-12T14:56:34+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /focus-metier-illustratrice-avec-claudine-morel/
-image: /uploads/2015/11/claudinemorel.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788679/blog/sedg76e5au19v0v7qma5.jpg
 categories:
     - 'Focus métier'
     - 'Projets pro'
@@ -33,7 +33,7 @@ Site internet : [Claudine Morel Illustrations](https://claudinemorel.ultra-book.
 
 Non, pas exclusivement. J'ai par exemple travaillé pour un magazine d'information juridique et patrimoniale et pour des entreprises. Mais j’aime le monde des enfants, c'est dans ce domaine que s »épanouit mon travail, et que je me sens à l'aise et heureuse. De fait, c'est plutôt pour l'illustration jeunesse qu'on fait appel à moi aujourd'hui.
 
-[![unnamed](/uploads/2015/11/unnamed.png)](/uploads/2015/11/unnamed.png)
+![unnamed](https://res.cloudinary.com/atelier-medias/image/upload/v1670788681/blog/otx4v5gyb3ywacdru1cb.png)
 
 **Quel a été ton plus beau projet jusqu’à présent ?**
 
@@ -47,7 +47,7 @@ Je sais que je fais parfois un peu figure d'OVNI à l'ADM, avec mes crayons et m
 
 Je me sers du numérique pour le traitement de l'image, la mise en page, d'autres esthétiques… C'est un outil fabuleux, qui permet de travailler vite, d'effacer et de recommencer à l'infini, ce qui est un vrai confort – mais parfois un piège!, et d'obtenir des effets que le « réel » ne permet pas. Chacun a ses avantages ! Donc non, dessiner au crayon n'est pas anachronique. C'est même, je crois, être bien de son temps que de savoir utiliser et faire cohabiter harmonieusement tous les outils. Tout est histoire de choix, selon son objectif et son aisance aussi. On choisit l'outil qui nous appelle, avec lequel on se sent bien et qui nous permet de nous exprimer au mieux.
 
-[![morel](/uploads/2015/11/morel.png)](/uploads/2015/11/morel.png)
+[![morel](https://res.cloudinary.com/atelier-medias/image/upload/v1670788682/blog/zekiiovaudpsuesa3r0i.png)](https://res.cloudinary.com/atelier-medias/image/upload/v1670791252/blog/v5bydclnfj1cfjafcqgm.png)
 
 **Quelles sont les difficultés de ton métier ?**
 

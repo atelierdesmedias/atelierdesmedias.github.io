@@ -5,7 +5,7 @@ date: '2015-07-07T15:13:35+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /latelier-supernova-signe-lidentite-visuelle-de-ladm/
-image: /uploads/2015/07/5OM7As_owt9MS5PB1_gSfTIO_wflfl2gGk9BBnak0YMKfk9rI1Ye5RLHBnN1OHttUzhaoxzPGuf73z6_wwvUCz0o6cRdkkTNa9vMh8af9AR5LPMICzZxwpziWZyfhVBIrWpHi8O60ahBnoQMLPQhnb6MJdzwt5u_ZHhWmZ4s0-d-e1-ft.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788770/blog/ehcu1joi83e1s6jxhkgz.jpg
 categories:
     - 'Focus métier'
     - 'L''association'
@@ -24,7 +24,11 @@ Le système est **simple** et **efficace**, il redonne une **unité** aux diffé
 
 <span style="color: #008080;">Le résultat en image : </span>
 
-[![Supernova](/uploads/2015/07/5OM7As_owt9MS5PB1_gSfTIO_wflfl2gGk9BBnak0YMKfk9rI1Ye5RLHBnN1OHttUzhaoxzPGuf73z6_wwvUCz0o6cRdkkTNa9vMh8af9AR5LPMICzZxwpziWZyfhVBIrWpHi8O60ahBnoQMLPQhnb6MJdzwt5u_ZHhWmZ4s0-d-e1-ft.jpg)](/uploads/2015/07/5OM7As_owt9MS5PB1_gSfTIO_wflfl2gGk9BBnak0YMKfk9rI1Ye5RLHBnN1OHttUzhaoxzPGuf73z6_wwvUCz0o6cRdkkTNa9vMh8af9AR5LPMICzZxwpziWZyfhVBIrWpHi8O60ahBnoQMLPQhnb6MJdzwt5u_ZHhWmZ4s0-d-e1-ft.jpg) [![Supernova2](/uploads/2015/07/Eolbgg1HlycVP80i6c2xXDiLnLFt2KBvvUxPTZ0IL690itcYoVmNnspDVj9Y9vK-RAKtOEAGxXC-8jDVst_TQmUFLVzgofJq3yZWOAvOwpyqKew7n7JR_ORrJBzDwrKKZ80C-9dRn9fUNpPTO6408bdEuTXGcKjCXJLXwe4s0-d-e1-ft.jpg)](/uploads/2015/07/Eolbgg1HlycVP80i6c2xXDiLnLFt2KBvvUxPTZ0IL690itcYoVmNnspDVj9Y9vK-RAKtOEAGxXC-8jDVst_TQmUFLVzgofJq3yZWOAvOwpyqKew7n7JR_ORrJBzDwrKKZ80C-9dRn9fUNpPTO6408bdEuTXGcKjCXJLXwe4s0-d-e1-ft.jpg) [![Supernova3](/uploads/2015/07/gHg4b2btO2DPOU0vLq61WhT49ThICQhnbxrHc5OaEkfY2Taa_o0ULqFyOUDloQlvCp3SeIR4BTAZlrrk_oVdJ7aUdGNyZ85EUpRLynAOY0KJ8DMhMBLeFR8_-W_LcFCBQ6cbV-jwZIU8OS5U-l81tJXpntVTqxlR1nhQ4jks0-d-e1-ft.jpg)](/uploads/2015/07/gHg4b2btO2DPOU0vLq61WhT49ThICQhnbxrHc5OaEkfY2Taa_o0ULqFyOUDloQlvCp3SeIR4BTAZlrrk_oVdJ7aUdGNyZ85EUpRLynAOY0KJ8DMhMBLeFR8_-W_LcFCBQ6cbV-jwZIU8OS5U-l81tJXpntVTqxlR1nhQ4jks0-d-e1-ft.jpg)
+![Supernova](https://res.cloudinary.com/atelier-medias/image/upload/v1670788770/blog/ehcu1joi83e1s6jxhkgz.jpg)
+
+![Supernova2](https://res.cloudinary.com/atelier-medias/image/upload/v1670791265/blog/h0a2wl13pxmqj3t75dfa.jpg)
+
+![Supernova3](https://res.cloudinary.com/atelier-medias/image/upload/v1670791267/blog/cyrvlkrdsrc8vlahqkqa.jpg)
 
 Contact et liens :
 

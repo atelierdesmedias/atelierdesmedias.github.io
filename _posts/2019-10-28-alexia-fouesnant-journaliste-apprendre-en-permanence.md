@@ -5,7 +5,7 @@ date: '2019-10-28T12:30:01+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /alexia-fouesnant-journaliste-apprendre-en-permanence/
-image: /uploads/2019/10/06_INSTA_Alexia_A.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788684/blog/c3yd6xrqyq8dqx95dii2.jpg
 categories:
     - Portraits
 tags:
@@ -17,7 +17,7 @@ tags:
     - Portrait
 ---
 
-<figure class="wp-block-image"><img src="/uploads/2019/10/06_INSTA_Alexia_A.jpg" alt="Illustration"></figure>
+<figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788684/blog/c3yd6xrqyq8dqx95dii2.jpg" alt="Illustration"></figure>
 
 ***Journaliste lyonnaise de 31 ans, elle avoue ne pas avoir encore de site pro. Un jour peut-être…***
 

@@ -5,7 +5,7 @@ date: '2017-10-10T09:59:20+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /exposition-migrants-les-escales-du-vide/
-image: /uploads/2017/10/21686036_1659523310745765_3435775763162410039_n.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788730/blog/ylsikt8ewhow60dhcwjn.jpg
 categories:
     - Evènements
 tags:

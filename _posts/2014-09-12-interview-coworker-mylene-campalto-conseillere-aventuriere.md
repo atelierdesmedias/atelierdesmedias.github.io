@@ -5,14 +5,14 @@ date: '2014-09-12T20:30:34+02:00'
 author: 'La rédaction'
 layout: post
 permalink: /interview-coworker-mylene-campalto-conseillere-aventuriere/
-image: /uploads/2014/09/10499385_817478864950218_6054824712993519846_o.jpg
+image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788655/blog/p0icltiqert16hv1zhe5.jpg
 categories:
     - 'Focus métier'
 ---
 
 Interview d’une coworkeuse globe-trotteuse : Mylène Campalto !
 
-![Mylène Campalto](/uploads/2014/09/mylene_campalto08.jpg)
+![Mylène Campalto](https://res.cloudinary.com/atelier-medias/image/upload/v1670788656/blog/rgem1fxicv2wmzpqerr4.jpg)
 
 ## Qui es-tu ?
 
@@ -59,5 +59,5 @@ Retrouvez-moi sur [Linkedin](https://www.linkedin.com/in/myl%C3%A8ne-campalto-82
 			/* see gallery_shortcode() in wp-includes/media.php */
 		</style>
 
-<div class="gallery galleryid-271 gallery-columns-3 gallery-size-thumbnail" id="gallery-7"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/10499385_817478864950218_6054824712993519846_o.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2014/09/20181109_190245.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="/uploads/2019/12/12_INSTA_Mylene_A-1.jpg" alt="Illustration"> </dt></dl>  
+<div class="gallery galleryid-271 gallery-columns-3 gallery-size-thumbnail" id="gallery-7"><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788655/blog/p0icltiqert16hv1zhe5.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791247/blog/brtm5uy45ooqhxudokuz.jpg" alt="Illustration"> </dt></dl><dl class="gallery-item"> <dt class="gallery-icon landscape"> <img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670791434/blog/ex7heqnae0mbzkjl3am3.jpg" alt="Illustration"> </dt></dl>  
  </div>
