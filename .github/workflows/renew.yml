@@ -4,6 +4,7 @@ on:
   schedule:
     - cron: "0 0 2,16 * *"
   pull_request:
+  workflow_dispatch:
 
 jobs:
   renew:
