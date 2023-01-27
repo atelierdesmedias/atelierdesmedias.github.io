@@ -13,6 +13,12 @@ page_id = get_env_or_exit('FACEBOOK_PAGE_ID')
 
 graph = Koala::Facebook::API.new(access_token)
 fb_events = graph.get_connections(page_id, 'events', fields: %w[id name start_time place description cover])
+
+Dir['_events/*.*'].each { |f| File.delete(f) }
+
+# Pick up the 3 recents events
+fb_events = fb_events.sort_by { |e| e['start_time'] }.reverse[0..2]
+
 fb_events.each do |fb_event|
   next unless fb_event['name'] && fb_event['cover']
 
