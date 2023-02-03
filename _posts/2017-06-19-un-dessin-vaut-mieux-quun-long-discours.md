@@ -1,22 +1,22 @@
 ---
-id: 1805
-title: "«\_Un dessin vaut mieux qu&rsquo;un long discours\_»"
-date: '2017-06-19T12:52:05+02:00'
-author: 'La rédaction'
+id: "1805"
+title: "« Un dessin vaut mieux qu'un long discours »"
+date: 2017-06-19T12:52:05+02:00
+author: La rédaction
 layout: post
-permalink: /un-dessin-vaut-mieux-quun-long-discours/
+permalink: "/un-dessin-vaut-mieux-quun-long-discours/"
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788783/blog/xncyehwiwhi3pzabirwv.jpg
 categories:
-    - Portraits
+- Portraits
 tags:
-    - 'atelier des medias'
-    - colunchs
-    - exposition
-    - graphisme
-    - lyon
-    - 'marie-lys errard'
----
+- atelier des medias
+- colunchs
+- exposition
+- graphisme
+- lyon
+- marie-lys errard
 
+---
 **Pendant deux mois, Marie-Lys Errard expose ses oeuvres sur les murs de l’Atelier des médias, à Lyon. Rencontre avec notre coworkeuse, traductrice graphique.**
 
 *Peux-tu décrire t*![marie-lys-portrait](https://res.cloudinary.com/atelier-medias/image/upload/v1670788785/blog/sjfkibga7bqrf9iqauhx.jpg)*on activité en quelques mots ?*
