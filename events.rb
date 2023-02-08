@@ -23,7 +23,6 @@ fb_events.each do |fb_event|
   next unless fb_event['name'] && fb_event['cover']
 
   puts '---'
-  pp fb_event
   event_time = Time.parse(fb_event['start_time'])
   slug = "#{event_time.strftime('%F')}-#{fb_event['name'].to_url}"
   event = { 'name' => fb_event['name'],
