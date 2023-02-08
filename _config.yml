@@ -26,11 +26,9 @@ exclude:
 
 plugins:
   - jekyll-feed
-  - jekyll-paginate-v2
-  - jekyll-postcss-v2
-  - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-paginate-v2
 
 collections:
   formulas:
@@ -54,6 +52,3 @@ pagination:
   trail:
     before: 2
     after: 2
-
-postcss:
-  cache: false

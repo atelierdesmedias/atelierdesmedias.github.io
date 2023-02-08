@@ -1,3 +1,5 @@
+@import "mixings";
+
 header {
   .logo {
     img {
@@ -34,7 +36,7 @@ header {
     }
 
     .nav-active {
-      background-image: linear-gradient(to bottom, transparent 8px, #8dcdda 8px, #8dcdda 100%);
+      @include blue-background-mixin;
     }
 
     .social-icons {

@@ -17,15 +17,9 @@
   },
   "homepage": "https://github.com/MartinDelille/adm#readme",
   "devDependencies": {
-    "@tailwindcss/typography": "^0.5.2",
-    "autoprefixer": "^10.4.7",
-    "cssnano": "^5.1.12",
-    "postcss": "^8.4.14",
-    "postcss-cli": "^9.1.0",
     "stylelint": "^14.1.0",
     "stylelint-config-standard-scss": "^5.0.0",
     "stylelint-order": "^5.0.0",
-    "stylelint-processor-ignore-front-matter": "^1.0.3",
-    "tailwindcss": "^3.1.4"
+    "stylelint-processor-ignore-front-matter": "^1.0.3"
   }
 }
