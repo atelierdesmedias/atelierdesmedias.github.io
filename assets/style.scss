@@ -3,17 +3,15 @@
 
 @charset "UTF-8";
 
-$baseurl: "{{ site.baseurl }}";
-
-@import "base";
-@import "links";
-@import "typography";
-@import "header";
-@import "home";
-@import "formulas";
-@import "icons";
-@import "events";
-@import "footer";
-@import "coworkers";
-@import "blog";
-@import "posts";
+@use "base";
+@use "links";
+@use "typography";
+@use "header";
+@use "home";
+@use "formulas";
+@use "icons";
+@use "events";
+@use "footer";
+@use "coworkers";
+@use "blog";
+@use "posts";
