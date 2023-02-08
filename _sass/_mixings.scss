@@ -1,6 +1,6 @@
 @mixin blue-background-mixin {
   display: inline;
   box-shadow:
-  inset 0 0.35em white,
-  inset 0 -0.8em #8dcdda;
+    inset 0 .35em white,
+    inset 0 -.8em #8dcdda;
 }
