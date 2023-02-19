@@ -42,11 +42,6 @@
     max-width: 800px;
     grid-template-columns: repeat(4, 1fr);
   }
-
-  @media screen and (min-width: 1200px) {
-    max-width: 1200px;
-    grid-template-columns: repeat(8, 1fr);
-  }
 }
 
 .icons.flex {
