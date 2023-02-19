@@ -1,5 +1,6 @@
 ---
-name: Adhésion
+verb: Devenir
+name: adhérent
 price: 15
 period: an
 ---
