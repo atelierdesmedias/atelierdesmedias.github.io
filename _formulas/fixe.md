@@ -1,5 +1,6 @@
 ---
-name: Formule fixe
+verb: Devenir
+name: fixe
 price: "178,50"
 period: mois
 ---

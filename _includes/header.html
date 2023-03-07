@@ -2,7 +2,7 @@
   <input type="checkbox" id="nav-toggle" class="nav-toggle"/>
   <nav>
     <a class="logo" href="{{ "/" | relative_url }}">
-      <img src="{{ "/assets/logo.svg" | relative_url }}" alt="{{ site.title }}" />
+      <img src="{{ "/assets/logo_without_baseline.svg" | relative_url }}" alt="{{ site.title }}" />
     </a>
     {% for item in site.data.navigation.menu %}
       <a class="nav-{% if page.title == item.title %}active{% else %}link{% endif %}"
