@@ -20,7 +20,6 @@
     "stylelint": "^14.16.1",
     "stylelint-config-standard-scss": "^6.1.0",
     "stylelint-order": "^6.0.1",
-    "stylelint-processor-ignore-front-matter": "^1.0.4",
     "stylelint-scss": "^4.3.0"
   }
 }
