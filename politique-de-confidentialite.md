@@ -1,4 +1,5 @@
 ---
+title: Politique de confidentialité
 layout: simple
 permalink: politique-de-confidentialite
 
@@ -9,6 +10,6 @@ permalink: politique-de-confidentialite
 
 Nous ne collectons pas, n'avons pas accès, n'enregistrons pas ni avons accès à vos données personnelle.
 
-### Contactez-moi
+### Contactez-nous
 
-Si vous avez des questions concernant cette politique de confidentialité, contactez-moi à l'adresse [martin.delille@gmail.com](mailto:margin.delille@gmail.com).
+Si vous avez des questions concernant cette politique de confidentialité, contactez-nous à l'adresse [admin@atelier-medias.org](mailto:admin@atelier-medias.org).

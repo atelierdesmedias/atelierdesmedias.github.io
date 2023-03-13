@@ -1,4 +1,5 @@
 ---
+title: Charte des Évènements
 layout: simple
 permalink: charte-des-evenements
 ---
