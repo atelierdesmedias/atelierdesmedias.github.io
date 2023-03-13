@@ -21,6 +21,7 @@ instagram:
   username: "atelierdesmedias_lyon"
 
 exclude:
+  - README.md
   - Makefile
   - Rakefile
   - "*.rb"
