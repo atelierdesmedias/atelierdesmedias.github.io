@@ -1,9 +1,9 @@
 ---
 title: Nous Rejoindre
 layout: simple
-permalink: /nous-rejoindre
----
+permalink: "/nous-rejoindre"
 
+---
 ## Les tarifs
 
 _L'Atelier des Médias_ est une association et le prix des formulles est peu élevé à adhérer à
@@ -19,11 +19,10 @@ et la suspension d'abonnement nécessite 2 mois de préavis.
 
 ## Comment nous rejoindre ?
 
-Écrivez-nous et venez avec votre casse-croûte pour nous rencontrer et découvrir l'_Atelier des Médias_ les
-mardis à 12H45. C'est le groupe _Cueillette_ qui vous fera visiter les lieux et répondra à toutes vos questions.
-Ils se réuniront ensuite pour étudier votre demande d'inscription. La décision de l'accueil d'un nouveau coworker
-prend en compte plusieurs critères : nombre de places disponibles, fixe ou nomade, variété et équilibre entre
-les métiers des coworkers déjà en place, parité… En moyenne, il y a *tous les mois une place qui se libère* :
-tentez votre chance et venez nous rencontrer autour d'un co-lunch !
+Écrivez-nous et **venez participer au colunch du jeudi** avec votre casse-croûte ! L’occasion parfaite pour **rencontrer les coworkeur·ses** et **découvrir les locaux** spacieux et agréables de l’_Atelier des Médias, à deux pas des Terreaux._ **Le groupe _Cueillette_** vous fera visiter les lieux et répondra à toutes vos questions.
+
+Les membres du groupe se réuniront ensuite pour étudier votre demande d’inscription selon le nombre de places fixes ou nomades disponibles, **la variété et l’équilibre entre les métiers**, la parité… **Revenez coluncher** **autant que vous voulez** dans l’attente qu’une place se libère (une tous les mois en moyenne) !
+
+Et si vous hésitez encore, voici [5 bonnes raisons de rejoindre notre merveilleux coworking]() :-)
 
 <a class="button" href="/contact">Venir au co-lunch</a>
