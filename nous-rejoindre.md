@@ -19,7 +19,7 @@ et la suspension d'abonnement nécessite 2 mois de préavis.
 
 ## Comment nous rejoindre ?
 
-Écrivez-nous et **venez participer au colunch du jeudi** avec votre casse-croûte ! L’occasion parfaite pour **rencontrer les coworkeur·ses** et **découvrir les locaux** spacieux et agréables de l’_Atelier des Médias, à deux pas des Terreaux._ **Le groupe _Cueillette_** vous fera visiter les lieux et répondra à toutes vos questions.
+Écrivez-nous et **venez participer au colunch du jeudi** avec votre casse-croûte ! L’occasion parfaite pour **rencontrer les coworkeur·ses** et **découvrir les locaux** spacieux et agréables de l’Atelier des médias, à deux pas des Terreaux_._ **Le groupe Cueillette** vous fera visiter les lieux et répondra à toutes vos questions.
 
 Les membres du groupe se réuniront ensuite pour étudier votre demande d’inscription selon le nombre de places fixes ou nomades disponibles, **la variété et l’équilibre entre les métiers**, la parité… **Revenez coluncher** **autant que vous voulez** dans l’attente qu’une place se libère (une tous les mois en moyenne) !
 
