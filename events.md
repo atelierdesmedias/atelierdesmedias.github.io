@@ -1,13 +1,13 @@
 ---
-title: Les Evènements
+title: Les Événements
 layout: events
-permalink: /les-evenements
+permalink: "/les-evenements"
+
 ---
+## Vous souhaitez organiser un évènement à l’Atelier des médias ?
 
-## Vous souhaitez organiser un évènement à l'Atelier ?
+Vous êtes les bienvenu·es !
 
-Vous êtes les bienvenus !
+Votre évènement doit être gratuit, ouvert à tou·tes et à visée non commerciale.
 
-Votre évènement doit être gratuit et ouvert à tous et à visée non commerciale.
-
-On met à disposition pour les évènement:
+L’Atelier des médias met à disposition pour les événements :
