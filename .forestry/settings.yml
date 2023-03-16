@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: ''
-webhook_url:
+webhook_url: 
 sections:
 - type: jekyll-pages
   label: Pages
@@ -18,7 +18,7 @@ sections:
 upload_dir: blog
 public_path: https://res.cloudinary.com/atelier-medias/image/upload
 front_matter_path: ''
-use_front_matter_path:
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
