@@ -10,7 +10,7 @@ Un coworking spacieux et sympa **en plein centre de Lyon à un prix si peu élev
 
 Pour faire fonctionner le coworking et rendre possibles de tels tarifs, tout le monde s’engage à [intégrer un groupe](https://www.atelier-medias.org/blog/a-latelier-des-medias-un-fonctionnement-par-groupes-ideal-pour-un-espace-autogere "Un coworking lyonnais autogéré") et **donner une heure de son temps par semaine** à l’association.
 
-Les formules fixes et nomades permettent **un accès 24 h/24 et 7 j/7** à l’espace de coworking par badge, **l’accès à une salle de réunion, trois box téléphone**, la cuisine avec **thé et café**. L’adhésion à l’association est obligatoire (15 €/an). Le règlement s’effectue mensuellement par prélèvement automatique et la suspension d’abonnement nécessite 2 mois de préavis.
+Les formules fixes et nomades permettent **l’accès 24 h/24 et 7 j/7** à l’espace de coworking par badge, **à une salle de réunion, trois box téléphone**, la cuisine avec **thé et café**, un casier. L’adhésion à l’association est obligatoire (15 €/an). Le règlement s’effectue mensuellement par prélèvement automatique et la suspension d’abonnement nécessite 2 mois de préavis.
 
 {% include formulas.html %}
 
