@@ -1,12 +1,11 @@
 ---
 title: Qui Sommes-Nous
 layout: qui-sommes-nous
-permalink: /qui-sommes-nous
----
+permalink: "/qui-sommes-nous"
 
+---
 ## Qui sont les coworkers?
 
-L'_Atelier des Médias_ est un projet collectif et innovant de coworking à Lyon, un espace partagé de
-travail, imaginé par et pour les professionnels indépendants des médias, du web et de l'image. Ce lieu porte une
-volonté d'ouverture et d'innovation, des ambitions partagées, une dimension sociétale, un esprit collaboratif pour
-que les indépendants développent ensemble de nouvelles solidarités professionnelles.
+Imaginé par et pour les **professionnel·les indépendant·es des médias, du web et de l'image**, l’Atelier des médias s’est ouvert à **d’autres secteurs professionnels**. Journalistes, traducteurs et traductrices, rédacteurs et rédactrices côtoient aujourd’hui graphistes, développeurs, architectes, photographes, porteurs et porteuses de projet...
+
+De quoi **nourrir des échanges constructifs, proposer des réponses communes à des appels d’offre, partager des compétences, s’inspirer…** C’est ça, la richesse de l’ADM !
