@@ -6,14 +6,11 @@ permalink: "/nous-rejoindre"
 ---
 ## Les tarifs
 
-_L'Atelier des Médias_ est une association et le prix des formulles est peu élevé à adhérer à
-l'_Atelier des Médias_, c'est tout simplement accepter d'accorder 1h à 2h par mois pour faire
-tourner l'association tout en profitant des tarifs attractifs correspondant au fonctionnement du lieu !
+Un coworking spacieux et sympa **en plein centre de Lyon à un prix si peu élevé ?** Le tarif attractif des formules d’abonnement fixes et nomades à l’Atelier des médias a un secret : l’ADM est une association. **Le fonctionnement de l’ADM est assuré par** [**les coworkeuses et les coworkeurs**](https://www.atelier-medias.org/qui-sommes-nous "Les coworkeuses et coworkeurs de l’ADM à Lyon") et personne d’autre !
 
-L'adhésion est ouverte à tous et la cotisation libre (mini 15 € et donnant lieu à une facture) est
-valable une année civile. Les formules proposées ci-dessus permettent accès 24 h/24 et 7 j/7
-à l'espace de coworking par badge. Le règlement s'effectue mensuellement par prélèvement automatique
-et la suspension d'abonnement nécessite 2 mois de préavis.
+Pour faire fonctionner le coworking et rendre possibles de tels tarifs, tout le monde s’engage à [intégrer un groupe](https://www.atelier-medias.org/blog/a-latelier-des-medias-un-fonctionnement-par-groupes-ideal-pour-un-espace-autogere "Un coworking lyonnais autogéré") et **donner une heure de son temps par semaine** à l’association.
+
+Les formules fixes et nomades permettent **un accès 24 h/24 et 7 j/7** à l’espace de coworking par badge, **l’accès à une salle de réunion, trois box téléphone**, la cuisine avec **thé et café**. L’adhésion à l’association est obligatoire (15 €/an). Le règlement s’effectue mensuellement par prélèvement automatique et la suspension d’abonnement nécessite 2 mois de préavis.
 
 {% include formulas.html %}
 
