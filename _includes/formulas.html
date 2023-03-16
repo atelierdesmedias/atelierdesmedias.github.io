@@ -5,9 +5,7 @@
       </h3>
       {{ formula.content }}
       <div class="tarif"><span>{{ formula.price }} €</span>TTC/{{ formula.period }}</div>
-      {% if formula.slug != "adherent" %}
-        <small>Sous condition de s'être acquitté de l'adhésion annuelle de 15 €</small>
-      {% endif %}
+      <small>{{ formula.condition }}</small>
     </div>
   {% endfor %}
 </section>
