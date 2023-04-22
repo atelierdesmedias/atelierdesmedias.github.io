@@ -1,19 +1,22 @@
 ---
 layout: post
-date: 2022-12-14 11:12:19 +0100
+date: '2022-12-14 11:12:19 +0100'
 author: La rédaction
 show_image: true
 categories: []
 tags: []
 title: Les origines de l’Atelier des Médias
-excerpt: Ni salarié, ni subvention et le moins cher de Lyon. Depuis 2011, l’Atelier
-  des Médias est le plus ancien coworking et le seul autogéré de la métropole rhodanienne.
-  L’aboutissement d’une série de rencontres fructueuses, consolidées par une gouvernance
-  horizontale.
+excerpt: >-
+  Ni salarié, ni subvention et le moins cher de Lyon. Depuis 2011, l’Atelier des
+  Médias est le plus ancien coworking et le seul autogéré de la métropole
+  rhodanienne. L’aboutissement d’une série de rencontres fructueuses,
+  consolidées par une gouvernance horizontale.
 set_permalink: false
-image: https://res.cloudinary.com/atelier-medias/image/upload/v1671013979/blog/Mar%C3%A9chal_de_saxe_vjpbcc.jpg
-
+image: >-
+  https://res.cloudinary.com/atelier-medias/image/upload/v1671013979/blog/Mar%C3%A9chal_de_saxe_vjpbcc.jpg
+_template: post
 ---
+
 **Ni salarié, ni subvention et le moins cher de Lyon. Depuis 2011, l’Atelier des Médias est le plus ancien coworking et le seul autogéré de la métropole rhodanienne. L’aboutissement d’une série de rencontres fructueuses, consolidées par une gouvernance horizontale.**
 
 Le terme « coworking », Pascale Lagahe l’a entendu un matin sur Canal +. Son téléviseur diffusait un reportage sur le premier espace de travail partagé français né à Paris. Freelances et entrepreneurs y partagent bureaux et déjeuners. Un concept innovant en cette année 2010. À l'affût des nouvelles tendances, la journaliste visite les lieux et revient à Lyon partager sa découverte avec ses confrères indépendants. Bruno Crozat, Laurent Poillot, Laure Marandet, Farid Sidi-Boumedine, Julius Suzat… Ils sont déjà quelques-uns à partager un étroit bureau dans les pentes de la Croix-Rousse et davantage à rêver d’un vrai espace de travail. Le modèle parisien leur plaît, reste à le calquer dans la capitale du Rhône.
