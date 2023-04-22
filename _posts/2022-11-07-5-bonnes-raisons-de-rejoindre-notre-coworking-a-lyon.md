@@ -1,22 +1,25 @@
 ---
 layout: post
-date: 2022-11-07 11:18:07 +0100
+date: '2022-11-07 11:18:07 +0100'
 author: La rédaction
 show_image: true
 categories: []
 tags:
-- coworking
-- " coworking lyon"
-- " bureaux partagés"
-- espace coworking lyon
+  - coworking
+  - ' coworking lyon'
+  - ' bureaux partagés'
+  - espace coworking lyon
 title: 5 bonnes raisons de rejoindre notre coworking à Lyon
-excerpt: Pas cher, sympa et collaboratif, le coworking l’Atelier des Médias a plus
-  d’un atout dans sa manche. Passage en revue.
+excerpt: >-
+  Pas cher, sympa et collaboratif, le coworking l’Atelier des Médias a plus d’un
+  atout dans sa manche. Passage en revue.
 set_permalink: false
 redirect_from: /5-bonnes-raisons-de-rejoindre-notre-coworking-a-lyon/
-image: https://res.cloudinary.com/atelier-medias/image/upload/v1668421251/blog/IMG_20220908_150555_xyv440.jpg
-
+image: >-
+  https://res.cloudinary.com/atelier-medias/image/upload/v1668421251/blog/IMG_20220908_150555_xyv440.jpg
+_template: post
 ---
+
 # 5 bonnes raisons de rejoindre notre coworking à Lyon
 
 **Pas cher, sympa et collaboratif, le coworking l’Atelier des Médias a plus d’un atout dans sa manche. Passage en revue.**
