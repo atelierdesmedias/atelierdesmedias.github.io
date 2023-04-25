@@ -7,7 +7,7 @@
     margin: 1rem;
     border: 1px solid #ddd;
 
-    a {
+    .post-link {
       display: flex;
       flex-direction: column;
 
@@ -15,7 +15,8 @@
         flex-direction: row;
       }
 
-      div:first-child {
+
+      .post-image {
         flex: none;
 
         @media screen and (min-width: 560px) {
@@ -37,7 +38,7 @@
         }
       }
 
-      div:last-child {
+      .post-content {
         flex: 1 1 0%;
         padding: .5rem 1rem;
 
@@ -53,6 +54,11 @@
           .author {
             color: #88ba30;
           }
+        }
+
+        .category-link {
+          text-decoration: none;
+          color: white;
         }
       }
     }
