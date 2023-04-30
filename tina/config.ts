@@ -1,13 +1,14 @@
 import { defineConfig } from "tinacms";
 import { postFields } from "./templates";
 
-// Your hosting provider likely exposes this as an environment variable
-const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const BRANCH = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const CLIENT_ID = String(process.env.TINA_CLIENT_ID ?? '');
+const TOKEN = String(process.env.TINA_TOKEN ?? '');
 
 export default defineConfig({
-  branch,
-  clientId: null, // Get this from tina.io
-  token: null, // Get this from tina.io
+  branch: BRANCH,
+  clientId: CLIENT_ID,
+  token: TOKEN,
   client: { skip: true },
   build: {
     outputFolder: "admin",
