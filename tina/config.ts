@@ -1,7 +1,7 @@
 import { defineConfig } from "tinacms";
 import { postFields } from "./templates";
 
-const BRANCH = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
+const BRANCH = process.env.HEAD || process.env.BRANCH_NAME || "main";
 const CLIENT_ID = String(process.env.TINA_CLIENT_ID ?? '');
 const TOKEN = String(process.env.TINA_TOKEN ?? '');
 
