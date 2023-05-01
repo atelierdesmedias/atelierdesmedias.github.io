@@ -8,7 +8,7 @@ gem 'mini_magick', '~> 4.11.0'
 gem 'octokit', '~> 6.0'
 gem 'rake', '~> 13.0.6'
 gem 'rbnacl', '~> 7.1.1'
-gem 'rubocop', '~> 1.48.1'
+gem 'rubocop', '~> 1.50.2'
 gem 'stringex', '~> 2.8.5'
 
 group :jekyll_plugins do
