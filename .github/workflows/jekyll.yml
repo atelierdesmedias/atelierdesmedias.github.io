@@ -37,6 +37,7 @@ jobs:
           BRANCH_NAME: ${{ github.head_ref || github.ref_name }}
           TINA_CLIENT_ID: ${{ secrets.TINA_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        if: github.ref == 'refs/heads/main'
         run: npx tinacms build
       - name: Generate the coworkers pages
         env:
