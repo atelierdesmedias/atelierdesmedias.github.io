@@ -4,22 +4,17 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: _formulas
-  label: Formulas
-  create: all
-  match: "**/*"
-- type: directory
-  path: _coworkers
-  label: Coworkers
-  create: all
-  match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: jekyll-pages
   label: Pages
   create: all
+- type: jekyll-posts
+  label: Articles
+  create: all
+- type: directory
+  path: _formulas
+  label: Formules
+  create: all
+  match: "**/*"
 upload_dir: blog
 public_path: https://res.cloudinary.com/atelier-medias/image/upload
 front_matter_path: ''

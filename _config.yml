@@ -21,6 +21,7 @@ instagram:
   username: "atelierdesmedias_lyon"
 
 exclude:
+  - README.md
   - Makefile
   - Rakefile
   - "*.rb"
@@ -32,6 +33,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate-v2
+
+favicon:
+  source: /assets/favicon.svg
 
 collections:
   formulas:

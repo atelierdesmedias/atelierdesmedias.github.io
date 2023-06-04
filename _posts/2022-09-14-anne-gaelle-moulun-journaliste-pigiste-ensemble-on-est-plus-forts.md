@@ -1,22 +1,24 @@
 ---
 layout: post
-date: 2022-09-14 10:15:19 +0200
+date: '2022-09-14 10:15:19 +0200'
 author: La rédaction
 show_image: true
 categories: []
 tags:
-- journalisme
-- " pige"
-- coworking
-- médias
-- lyon
+  - journalisme
+  - ' pige'
+  - coworking
+  - médias
+  - lyon
 title: 'Anne-Gaëlle Moulun, journaliste pigiste : « Ensemble, on est plus forts »'
 excerpt: ''
 set_permalink: false
 redirect_from: /anne-gaelle-moulun-journaliste-pigiste-ensemble-on-est-plus-forts/
-image: https://res.cloudinary.com/atelier-medias/image/upload/v1670772790/blog/tdhcvsvzbdfsgjnl4smh.jpg
-
+image: >-
+  https://res.cloudinary.com/atelier-medias/image/upload/v1670772790/blog/tdhcvsvzbdfsgjnl4smh.jpg
+_template: post
 ---
+
 _Crédit photo : Hughes Delescluse, Tekoaphotos_
 
 **Journaliste pigiste spécialisée dans la santé, Anne-Gaëlle Moulun a cofondé l’an dernier un collectif de journalistes indépendants basé à Lyon, « Sources », qui prône l’entraide et la solidarité entre pigistes. Portrait.**
