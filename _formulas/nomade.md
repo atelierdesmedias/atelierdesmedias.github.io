@@ -3,7 +3,7 @@ verb: Devenir
 name: nomade
 price: "102"
 period: mois
-condition: Sous condition de s'être acquitté de l'adhésion annuelle de 15 €
+condition: Sous condition de s'être acquitté.e de l'adhésion annuelle de 15 €
 ---
 
 * Un bureau sans place attitrée

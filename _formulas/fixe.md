@@ -3,7 +3,7 @@ verb: Devenir
 name: fixe
 price: '178,50'
 period: mois
-condition: Sous condition de s'être acquitté de l'adhésion annuelle de 15 €
+condition: Sous condition de s'être acquitté.e de l'adhésion annuelle de 15 €
 ---
 
 * Un bureau fixe en open space

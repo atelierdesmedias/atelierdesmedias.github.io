@@ -12,7 +12,7 @@ npm install
 ## Serve
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --livereload --incremental
 ```
 
 ## Facebook event

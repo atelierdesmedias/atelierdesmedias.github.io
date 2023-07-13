@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h2>Les évènements</h2>
+<h2>Les Événements</h2>
 
 {% assign reversed_events = site.events | reverse %}
 
@@ -38,13 +38,13 @@ layout: default
 <section class="contact">
   <form action="https://formspree.io/f/mrgjznyn" method="POST">
     <label id="decription-label" for="description-textarea">
-      <h4>Décrivez votre évènement</h4>
-      <small>(en 500 signes), ce paragraphe sera utilisé pour promouvoir votre évènement</small>
+      <h4>Décrivez votre événement</h4>
+      <small>(en 500 signes), ce paragraphe sera utilisé pour promouvoir votre événement</small>
     </label>
     <textarea name="Description" id="description-textarea"></textarea>
     <label id="date-label" for="date-textarea">
       <h4>Date souhaitée</h4>
-      <small>(sous réserve de validation par l'Atelier)</small>
+      <small>(sous réserve de validation par l'Atelier des Médias)</small>
     </label>
     <textarea name="Date souhaitée" id="date-textarea"></textarea>
     <label id="contact-label" for="name-input">
@@ -55,20 +55,20 @@ layout: default
     <input id="phone-input" placeholder="Téléphone" name="Téléphone">
     <input id="site-input" placeholder="Site / Réseaux sociaux (Facebook, Instagram, Twitter...)" name="Site ou réseaux sociaux">
     <div>
-      <input id="already-checkbox" type="checkbox" name="A déjà organisé un évènement">
-      <label for=already-checkbox>Vous avez déjà organisé un évènement à l'Atelier ?
+      <input id="already-checkbox" type="checkbox" name="A déjà organisé un événement">
+      <label for=already-checkbox>Avez-vous déjà organisé un événement à l'Atelier des Médias?
         <small>(Cochez si c'est le cas)</small>
       </label>
     </div>
     <div>
       <input id="charte-checkbox" type="checkbox" name="Charte acceptée">
-      <label for=charte-checkbox>En tant qu'organisateur, je m'engage à <a href="{% link charte-des-evenements.md %}">respecter la charte</a>
+      <label for=charte-checkbox>En tant qu'organisatrice ou organisateur, je m'engage à <a href="{% link charte-des-evenements.md %}">respecter la charte</a> pour les événements extérieurs.
         <small>(Cochez si c'est le cas)</small>
       </label>
     </div>
     <div>
-      <input id="summary-checkbox" type="checkbox" name="Ok pour envoi photos et résumé après l'évènement">
-      <label for=summary-checkbox>Après l'évènement, je m'engage à envoyer quelques photos et un résumé pour la communication de l'Atelier des Médias
+      <input id="summary-checkbox" type="checkbox" name="Ok pour envoi photos et résumé après l'événement">
+      <label for=summary-checkbox>Après l'événement, je m'engage à envoyer quelques photos et un résumé pour la communication de l'Atelier des Médias
         <small>(Cochez si c'est le cas)</small>
       </label>
     </div>
