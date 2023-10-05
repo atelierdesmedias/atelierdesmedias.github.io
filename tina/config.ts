@@ -1,6 +1,5 @@
 import { defineConfig } from "tinacms";
 import { postFields } from "./templates";
-import moment from 'moment';
 
 const BRANCH = process.env.HEAD || process.env.BRANCH_NAME || "main";
 const CLIENT_ID = String(process.env.TINA_CLIENT_ID ?? '');
@@ -30,7 +29,6 @@ export default defineConfig({
         path: "_posts",
         ui: {
           defaultItem: {
-            date: moment(new Date()).format('YYYY-MM-DD'),
             author: "La rédaction",
             layout: "post",
           },

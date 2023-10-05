@@ -1,10 +1,10 @@
 ---
-title: Charte des Évènements
+title: Charte des Événements
 layout: simple
 permalink: charte-des-evenements
 ---
 
-## Charte des évènements
+## Charte des événements
 
 Cette charte a été élaborée pour assurer la bonne gestion des événements. Elle est à remettre aux organisateurs venant de l'extérieur de l’Atelier des Médias et au coworkeur référent qui assiste aux événements :
 
