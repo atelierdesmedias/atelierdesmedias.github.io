@@ -59,3 +59,17 @@ pagination:
   trail:
     before: 2
     after: 2
+
+autopages:
+  enabled: true
+  tags: 
+    enabled: false
+  categories:
+    layouts:
+      - autopage_cat.html
+    enabled: true
+    permalink: '/blog/category/:cat'
+    slugify:
+       mode: 'default'
+  collections:
+    enabled: false
