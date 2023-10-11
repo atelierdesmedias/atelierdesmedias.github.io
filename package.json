@@ -4,6 +4,7 @@
   "description": "Le site de l'Atelier des Médias",
   "main": "assets/script.js",
   "scripts": {
+    "stylelint:fix": "stylelint '**/*.scss' --fix",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
