@@ -1,5 +1,5 @@
 ---
-title: 'L’Atelier des médias comme si vous y étiez : visite secrète des locaux'
+title: 'L’Atelier des Médias comme si vous y étiez : visite secrète des locaux'
 date: 2023-10-24T22:00:00.000Z
 image: /medias/ADM - Photos salles/ADM_Salles.jpeg
 author: La rédaction
@@ -36,7 +36,7 @@ Les + : l’étage « servez-vous » du frigo, le placard du bas avec le chocola
 
 Le – : la pyramide de vaisselle et les moucherons occasionnels au-dessus de l’évier.
 
-Phrases les plus entendues : 
+Phrases les plus entendues :
 
 ##### « Qui a jeté mon tzatziki ? Il était encore bon ! », « Il est à qui ce tupperware ? », « Stéphane, c’est toi qui as pris ma pomme ? »
 
@@ -56,7 +56,7 @@ Le — : la moquette, le réglage des stores à lamelles diaboliques. Une compé
 
 La légende : une souris aurait été aperçue dans cette salle il y a six ans, mais selon Wikipédia, la durée de vie maximale des souris est de quatre.
 
-Phrases les plus entendues : 
+Phrases les plus entendues :
 
 « Oh, le coucher de soleil »,« Oh, une manif », « Quelqu’un a un chargeur ? »
 
@@ -108,7 +108,7 @@ Les + : permet de voyager sans bouger car on y entend toutes les langues. Permet
 
 Le – : la quatrième planche sur la gauche qui grince. 
 
-Phrase la plus entendue : 
+Phrase la plus entendue :
 
 > « Non, je ne peux pas parler plus fort. Il y a quelqu’un en visio à côté de moi ».
 
@@ -140,7 +140,6 @@ Fond sonore : le bruit de la mer — si on ferme les yeux, le bruit de la circ
 
 La légende : y tenir à deux pour une réunion de plus de deux heures rendrait fou.
 
-
 ## #La grotte
 
 Comme dans les contes pour enfants, la pièce est bien cachée et fait un peu peur mais elle ne cache pas de monstre… sauf \[censuré] quand il n’a pas bu son café du matin. Salle clivante : il y a celles et ceux qui adorent et celles et ceux qu’on n’y voit jamais. Écosystème parfaitement adapté aux peaux les plus fragiles, déconseillé à ceux qui vivent de la photosynthèse. Hors de leur habitat, on reconnait les habitué·es de la grotte à certains indices : pull en laine et mug de thé fumant même en pleine canicule — accessoires supplémentaires de septembre à avril : bouillotte, mitaines, bonnet en laine et damart —, ou encore air ébloui et pupilles contractées — voire lunettes de soleil — en toute saison dans le reste du coworking.  
@@ -149,14 +148,13 @@ Le + : la solidarité des habitant·es de la grotte, on se serre les coudes pour
 
 Le – : les gens qui te tapotent l’épaule d’un air contrit quand ils apprennent que tu es installé·e dans la grotte.
 
-Phrase la plus entendue : 
+Phrase la plus entendue :
 
 > « Mais qui a éteint la lumière ? »
 
 Légende : il se dit que si que si toutes les places sont prises, il reste TOUJOURS au moins une place dans la grotte — non valable l’été, cf. « usage inattendu ».
 
 Usage inattendu : lieu prisé pour sa fraicheur l’été. Les habitué·e·s ne manquent d’ailleurs pas de juger les jeunes hipsters qui viennent s’y réfugier par grande canicule, en rappelant à qui veut l’entendre qu’ils/elles étaient là avant que ce soit cool.
-
 
 ![](</medias/ADM - Photos salles/Grotte.jpeg>)
 
@@ -168,7 +166,7 @@ Le + : l’impression d’être Youri Gagarine derrière son hublot en 1961, pet
 
 Le – : votre interlocuteur en visio qui demande à plusieurs reprises « Mais tu es où, là, exactement ? » Le manque d’oxygène est un motif valable pour mettre fin à un appel qui s’éternise. Pièce interdite aux claustrophobes.  
 
-Phrases les plus entendues (dans la tête seulement) : 
+Phrases les plus entendues (dans la tête seulement) :
 
 > « This is Major Tom to Ground control », « Il se passe quoi au juste si je touche au fil bleu ? », « C’est normal cette diode qui clignote ? »
 
@@ -184,9 +182,9 @@ Le + : il y a toujours de la lecture.
 
 Le – : le risque — rare — de n’avoir pas anticipé une pénurie de PQ… à aller chercher à l’exact opposé l’ADM, dans la cuisine.
 
-Phrase la plus entendue : 
+Phrase la plus entendue :
 
-> « Revenez avec un mandat ! » 
+> « Revenez avec un mandat ! »
 
 quand quelqu’un essaie d’ouvrir la porte manifestement fermée.
 
