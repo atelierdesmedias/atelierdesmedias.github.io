@@ -108,7 +108,11 @@ Les + : permet de voyager sans bouger car on y entend toutes les langues. Permet
 
 Le – : la quatrième planche sur la gauche qui grince. 
 
-Phrase la plus entendue : « Non, je ne peux pas parler plus fort. Il y a quelqu’un en visio à côté de moi ».
+Phrase la plus entendue : 
+
+> « Non, je ne peux pas parler plus fort. Il y a quelqu’un en visio à côté de moi ».
+
+![](</medias/ADM - Photos salles/Traboule.jpeg>)
 
 ## #Le board
 
@@ -120,7 +124,7 @@ Le – : étrangement, ricaner toute la journée n’aide pas à boucler ses pro
 
 Phrase la plus entendue : rires, chuchotements et tintements de tasses.
 
-Le mystère : personne ne sait pourquoi cette pièce porte ce nom car jamais aucun·e PDG, ni actionnaire n’y a mis les pieds.
+Le mystère : personne ne sait pourquoi cette pièce porte ce nom car jamais aucun·e PDG, ni actionnaire n’y a mis les pieds.![](</medias/ADM - Photos salles/Board.jpeg>)
 
 ## #Le bocal
 
@@ -130,7 +134,7 @@ Le + : on peut y téléphoner impunément sans déranger ses petit·es camarades
 
 Le moins : devoir résister à l'appel des quais qu'on voit depuis la fenêtre pendant une visio qui s'éternise.
 
-Fond sonore: le bruit de la mer — si on ferme les yeux, le bruit de la circulation sur le quai si on les garde ouverts.
+Fond sonore : le bruit de la mer — si on ferme les yeux, le bruit de la circulation sur le quai si on les garde ouverts.
 
 La légende : y tenir à deux pour une réunion de plus de deux heures rendrait fou.
 
@@ -143,12 +147,14 @@ Le + : la solidarité des habitant·es de la grotte, on se serre les coudes pour
 
 Le – : les gens qui te tapotent l’épaule d’un air contrit quand ils apprennent que tu es installé·e dans la grotte.
 
-Phrase la plus entendue : « Mais qui a éteint la lumière ? »
+Phrase la plus entendue : 
+
+> « Mais qui a éteint la lumière ? »
 
 Légende : il se dit que si que si toutes les places sont prises, il reste TOUJOURS au moins une place dans la grotte — non valable l’été, cf. « usage inattendu ».
 
 Usage inattendu : lieu prisé pour sa fraicheur l’été. Les habitué·e·s ne manquent d’ailleurs pas de juger les jeunes hipsters qui viennent s’y réfugier par grande canicule, en rappelant à qui veut l’entendre qu’ils/elles étaient là avant que ce soit cool.
-
+![](</medias/ADM - Photos salles/Grotte.jpeg>)
 
 ## #La cabine
 
@@ -158,9 +164,13 @@ Le + : l’impression d’être Youri Gagarine derrière son hublot en 1961, pet
 
 Le – : votre interlocuteur en visio qui demande à plusieurs reprises « Mais tu es où, là, exactement ? » Le manque d’oxygène est un motif valable pour mettre fin à un appel qui s’éternise. Pièce interdite aux claustrophobes.  
 
-Phrases les plus entendues (dans la tête seulement) : « This is Major Tom to Ground control », « Il se passe quoi au juste si je touche au fil bleu ? », « C’est normal cette diode qui clignote ? »
+Phrases les plus entendues (dans la tête seulement) : 
+
+> « This is Major Tom to Ground control », « Il se passe quoi au juste si je touche au fil bleu ? », « C’est normal cette diode qui clignote ? »
 
 La légende : pièce trop récente encore pour cette rubrique !
+
+![](</medias/ADM - Photos salles/Cabine.jpeg>)
 
 ## #Les cabinets 
 
@@ -170,6 +180,12 @@ Le + : il y a toujours de la lecture.
 
 Le – : le risque — rare — de n’avoir pas anticipé une pénurie de PQ… à aller chercher à l’exact opposé l’ADM, dans la cuisine.
 
-Phrase la plus entendue : « Revenez avec un mandat ! » quand quelqu’un essaie d’ouvrir la porte manifestement fermée.
+Phrase la plus entendue : 
+
+> « Revenez avec un mandat ! » 
+
+quand quelqu’un essaie d’ouvrir la porte manifestement fermée.
+
+![](</medias/ADM - Photos salles/Cabinets.jpeg>)
 
 Alors, vous venez ?
