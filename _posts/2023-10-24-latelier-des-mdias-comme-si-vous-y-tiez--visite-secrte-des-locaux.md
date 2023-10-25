@@ -58,13 +58,17 @@ Le — : la moquette, le réglage des stores à lamelles diaboliques. Une compé
 
 La légende : une souris aurait été aperçue dans cette salle il y a six ans, mais selon Wikipédia, la durée de vie maximale des souris est de quatre.
 
-Phrases les plus entendues : « Oh, le coucher de soleil »,« Oh, une manif », « Quelqu’un a un chargeur ? »
+Phrases les plus entendues : 
+
+> « Oh, le coucher de soleil »,« Oh, une manif », « Quelqu’un a un chargeur ? »
 
 ## #Le couloir
 
 À la confluence de tous les espaces — et passage obligé pour se rendre aux toilettes —, le couloir est un haut lieu de sociabilité de l’ADM. C’est là que l’on trouve les casiers jaunes à cadenas des coworkeurs, avec leur jardin secret façon collège des séries américaines : Switch, tricot en cours, petits gâteaux, bouillotte, affaires de sport pour se donner l’illusion naïve qu’un jour on ira courir sur les quais entre midi et deux, mais pas aujourd’hui.
 
 Le + : le charme du parquet qui grince et annonce les visiteur·ses.
+
+![](</medias/ADM - Photos salles/Couloir.jpeg>)
 
 ## #La salle de réunion
 
