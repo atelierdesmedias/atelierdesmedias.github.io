@@ -38,7 +38,7 @@ Le – : la pyramide de vaisselle et les moucherons occasionnels au-dessus de l�
 
 Phrases les plus entendues : 
 
-> « Qui a jeté mon tzatziki ? Il était encore bon ! », « Il est à qui ce tupperware ? », « Stéphane, c’est toi qui as pris ma pomme ? »
+##### « Qui a jeté mon tzatziki ? Il était encore bon ! », « Il est à qui ce tupperware ? », « Stéphane, c’est toi qui as pris ma pomme ? »
 
 Usage inattendu : salle de réunion de secours, annexe prisée des soirées.
 
