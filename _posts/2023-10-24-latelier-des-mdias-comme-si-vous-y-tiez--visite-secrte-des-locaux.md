@@ -82,6 +82,8 @@ Ambiance sonore : ronflement zzz, soupir, notification de SMS, toc toc sur la po
 
 Usage inattendu : vestiaire lors des soirées.
 
+![](</medias/ADM - Photos salles/SalleReu.jpeg>)
+
 ## #Le Petit Trianon
 
 Située face à la porte d'entrée et donnant accès au balcon, la salle voit passer du monde : les fumeur·ses, les adeptes du café ou des pauses avec vue… mais pas encore de Marie-Antoinette à l’horizon. Lors des soirées, le Petit Trianon fait littéralement office de couloir. En semaine, les places sur les chaises hautes, style « au comptoir », sont prisées par celles et ceux qui veulent avoir l'impression qu'ils ne vont pas passer leur journée à travailler. Les habitué·es du Petit Trianon le savent : ils sont un peu les agents d’accueil de l’ADM, ouvrant tour à tour la porte aux livreur·ses, la personne en charge du ménage et aux « passagères » ou « passagers »... ces ancien·nes de l’ADM qui reviennent régulièrement travailler/déjeuner/dire bonjour.
@@ -92,7 +94,11 @@ Le + : travailler en petit comité et pouvoir rêvasser en regardant dehors.
 
 Le – : le bruit de la porte d’entrée qui claque et reclaque.
 
-Phrase la plus entendue : « tu vas ouvrir ou j’y vais ? »
+Phrase la plus entendue :
+
+> « Tu vas ouvrir ou j’y vais ? »
+
+![](</medias/ADM - Photos salles/PetitTrianon.jpeg>)
 
 ## #Les traboules
 
