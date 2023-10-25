@@ -62,7 +62,7 @@ Phrases les plus entendues :
 
 > « Oh, le coucher de soleil »,« Oh, une manif », « Quelqu’un a un chargeur ? »
 
-![](</medias/ADM - Photos salles//Versailles.jpeg>)
+![](</medias/ADM - Photos salles/Versailles.jpeg>)
 
 ## #Le couloir
 
