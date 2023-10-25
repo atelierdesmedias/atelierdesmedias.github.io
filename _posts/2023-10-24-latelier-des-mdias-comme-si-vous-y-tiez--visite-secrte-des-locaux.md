@@ -62,6 +62,8 @@ Phrases les plus entendues :
 
 > « Oh, le coucher de soleil »,« Oh, une manif », « Quelqu’un a un chargeur ? »
 
+![](</medias/ADM - Photos salles//Versailles.jpeg>)
+
 ## #Le couloir
 
 À la confluence de tous les espaces — et passage obligé pour se rendre aux toilettes —, le couloir est un haut lieu de sociabilité de l’ADM. C’est là que l’on trouve les casiers jaunes à cadenas des coworkeurs, avec leur jardin secret façon collège des séries américaines : Switch, tricot en cours, petits gâteaux, bouillotte, affaires de sport pour se donner l’illusion naïve qu’un jour on ira courir sur les quais entre midi et deux, mais pas aujourd’hui.
