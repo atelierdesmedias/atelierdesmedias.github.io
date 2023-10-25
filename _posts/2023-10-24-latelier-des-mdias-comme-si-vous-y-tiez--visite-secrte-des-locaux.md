@@ -6,8 +6,6 @@ author: La rédaction
 layout: post
 ---
 
-# L’Atelier des médias secret, visite guidée
-
 Au deuxième étage du 9, quai André Lassagne, cinq salles et espaces de vie accueillent les coworkeur·ses fixes ou nomades de l’ADM. À chacune son caractère et son ambiance ! Visite guidée. 
 
 Un ancien appartement de plus de 200 m2 tout en parquet qui craque, moulures rococos et recoins mystérieux, des plantes partout, d’élégantes photos au mur, la vue sur le Rhône… Pas étonnant que ce soit par une visite guidée que débutent la plupart des « colunchs », ces repas qui permettent aux intéressé·es de découvrir le fonctionnement de l’Atelier des médias avant de sauter le pas. Quel sera votre espace de travail ou lieu de vie préféré ? Aperçu subjectif par des habitué·e·s.
