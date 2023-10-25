@@ -58,7 +58,7 @@ La légende : une souris aurait été aperçue dans cette salle il y a six ans, 
 
 Phrases les plus entendues : 
 
-> « Oh, le coucher de soleil »,« Oh, une manif », « Quelqu’un a un chargeur ? »
+« Oh, le coucher de soleil »,« Oh, une manif », « Quelqu’un a un chargeur ? »
 
 ![](</medias/ADM - Photos salles/Versailles.jpeg>)
 
@@ -124,7 +124,9 @@ Le – : étrangement, ricaner toute la journée n’aide pas à boucler ses pro
 
 Phrase la plus entendue : rires, chuchotements et tintements de tasses.
 
-Le mystère : personne ne sait pourquoi cette pièce porte ce nom car jamais aucun·e PDG, ni actionnaire n’y a mis les pieds.![](</medias/ADM - Photos salles/Board.jpeg>)
+Le mystère : personne ne sait pourquoi cette pièce porte ce nom car jamais aucun·e PDG, ni actionnaire n’y a mis les pieds.
+
+![](</medias/ADM - Photos salles/Board.jpeg>)
 
 ## #Le bocal
 
@@ -154,6 +156,8 @@ Phrase la plus entendue :
 Légende : il se dit que si que si toutes les places sont prises, il reste TOUJOURS au moins une place dans la grotte — non valable l’été, cf. « usage inattendu ».
 
 Usage inattendu : lieu prisé pour sa fraicheur l’été. Les habitué·e·s ne manquent d’ailleurs pas de juger les jeunes hipsters qui viennent s’y réfugier par grande canicule, en rappelant à qui veut l’entendre qu’ils/elles étaient là avant que ce soit cool.
+
+
 ![](</medias/ADM - Photos salles/Grotte.jpeg>)
 
 ## #La cabine
