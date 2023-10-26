@@ -46,12 +46,6 @@ jobs:
           COWORKERS_USER: ${{ secrets.COWORKERS_USER }}
           COWORKERS_PASSWORD: ${{ secrets.COWORKERS_PASSWORD }}
         run: bundle exec ruby sync.rb
-      - name: Generate the events pages
-        env:
-          FACEBOOK_GRAPH_URL: "https://graph.facebook.com/"
-          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
-          FACEBOOK_TOKEN: ${{ secrets.FACEBOOK_TOKEN }}
-        run: bundle exec ruby events.rb
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
