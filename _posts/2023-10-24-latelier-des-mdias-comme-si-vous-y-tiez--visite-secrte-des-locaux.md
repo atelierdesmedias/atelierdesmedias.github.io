@@ -6,7 +6,7 @@ author: La rédaction
 layout: post
 ---
 
-Au deuxième étage du 9, quai André Lassagne, cinq salles et espaces de vie accueillent les coworkeur·ses fixes ou nomades de l’ADM. À chacune son caractère et son ambiance ! Visite guidée. 
+Au deuxième étage du 9, quai André Lassagne, cinq salles et espaces de vie accueillent les coworkeur·ses fixes ou nomades de l’ADM. À chacune son caractère et son ambiance ! Visite guidée.
 
 Un ancien appartement de plus de 200 m2 tout en parquet qui craque, moulures rococos et recoins mystérieux, des plantes partout, d’élégantes photos au mur, la vue sur le Rhône… Pas étonnant que ce soit par une visite guidée que débutent la plupart des « colunchs », ces repas qui permettent aux intéressé·es de découvrir le fonctionnement de l’Atelier des médias avant de sauter le pas. Quel sera votre espace de travail ou lieu de vie préféré ? Aperçu subjectif par des habitué·e·s.
 
@@ -24,7 +24,7 @@ Phrase la plus entendue : \[inaudible].
 
 Usage inattendu : terrain de ping pong avec tout sauf des raquettes.
 
-Le mystère : en observant des photos de l’ADM d’il y a dix ans, on constate que les coworkeur·euses qui travaillent au Grand Palais semblent étrangement échapper au vieillissement. À creuser. 
+Le mystère : en observant des photos de l’ADM d’il y a dix ans, on constate que les coworkeur·euses qui travaillent au Grand Palais semblent étrangement échapper au vieillissement. À creuser.
 
 ![](</medias/ADM - Photos salles/GrandPalais-1.jpeg>)
 
@@ -42,7 +42,7 @@ Phrases les plus entendues :
 
 Usage inattendu : salle de réunion de secours, annexe prisée des soirées.
 
-La légende : si tu acceptes de laver le tupperware de la personne qui te suit dans la file d’attente devant l’évier, le karma te dispensera de la prochaine mission verre. 
+La légende : si tu acceptes de laver le tupperware de la personne qui te suit dans la file d’attente devant l’évier, le karma te dispensera de la prochaine mission verre.
 
 ![](</medias/ADM - Photos salles/Cuisine-1.jpeg>)![](</medias/ADM - Photos salles/Cuisine-2.jpeg>)
 
@@ -74,7 +74,7 @@ Le + : le charme du parquet qui grince et annonce les visiteur·ses.
 
 Un coworking sans salle de réunion, c’est un peu comme une soirée AG sans déguisement  : sympa, mais il manque un truc. La porte vitrée offre une petite distraction — « Coucou ! ». L’astuce pour être sûr·e qu’une réunion ne s’éternisera pas consiste à réserver un créneau serré pour pouvoir ensuite dire à Jean·ne-Michel·le en visio : « Désolé·e, je dois libérer la salle » en montrant un coworkeur/une coworkeuse qui s’impatiente derrière la vitre. Sous les grands tirages inspirants de photographes de l’ADM, c’est ici que se réunissent chaque mois les éminents membres du conseil d'administration de l’association. Ou que se tiennent les petit-déjeuners métiers, les Coop of’ — partage de pratiques pro — ou les ateliers pop-up ou linogravure du midi.
 
-Le + : on peut y faire des réunions. 
+Le + : on peut y faire des réunions.
 
 Le – : les réunions
 
@@ -106,7 +106,7 @@ Ces trois « box » côte à côte, style opérateur·rices téléphoniques des 
 
 Les + : permet de voyager sans bouger car on y entend toutes les langues. Permet aussi d’espionner discrètement ce qui se passe dans les bureaux en faisant mine de traverser le couloir d’un air inspiré.
 
-Le – : la quatrième planche sur la gauche qui grince. 
+Le – : la quatrième planche sur la gauche qui grince.
 
 Phrase la plus entendue :
 
@@ -130,7 +130,7 @@ Le mystère : personne ne sait pourquoi cette pièce porte ce nom car jamais auc
 
 ## #Le bocal
 
-La pièce de 2,5 m2 — à tout casser — doit son nom à la grande porte vitrée qui, une fois fermée, vous sépare du reste de l’ADM — et du monde — tel un poisson pris dans les filets d’une interminable visio. L’espace a été optimisé au mieux pour contenir tous les accessoires indispensables à une looooongue réunion : table ronde imitation bois, lampe d’interrogatoire, moquette de couleur indéfinie avec nombreuses taches de matière indéfinie. Il y a une chose à savoir quand on est dans cette salle : oui, on peut ouvrir la fenêtre mais attention, non, on ne touche pas au thermostat du radiateur — et pas l’inverse, d’accord ?    
+La pièce de 2,5 m2 — à tout casser — doit son nom à la grande porte vitrée qui, une fois fermée, vous sépare du reste de l’ADM — et du monde — tel un poisson pris dans les filets d’une interminable visio. L’espace a été optimisé au mieux pour contenir tous les accessoires indispensables à une looooongue réunion : table ronde imitation bois, lampe d’interrogatoire, moquette de couleur indéfinie avec nombreuses taches de matière indéfinie. Il y a une chose à savoir quand on est dans cette salle : oui, on peut ouvrir la fenêtre mais attention, non, on ne touche pas au thermostat du radiateur — et pas l’inverse, d’accord ?
 
 Le + : on peut y téléphoner impunément sans déranger ses petit·es camarades.
 
@@ -142,7 +142,7 @@ La légende : y tenir à deux pour une réunion de plus de deux heures rendrait 
 
 ## #La grotte
 
-Comme dans les contes pour enfants, la pièce est bien cachée et fait un peu peur mais elle ne cache pas de monstre… sauf \[censuré] quand il n’a pas bu son café du matin. Salle clivante : il y a celles et ceux qui adorent et celles et ceux qu’on n’y voit jamais. Écosystème parfaitement adapté aux peaux les plus fragiles, déconseillé à ceux qui vivent de la photosynthèse. Hors de leur habitat, on reconnait les habitué·es de la grotte à certains indices : pull en laine et mug de thé fumant même en pleine canicule — accessoires supplémentaires de septembre à avril : bouillotte, mitaines, bonnet en laine et damart —, ou encore air ébloui et pupilles contractées — voire lunettes de soleil — en toute saison dans le reste du coworking.  
+Comme dans les contes pour enfants, la pièce est bien cachée et fait un peu peur mais elle ne cache pas de monstre… sauf \[censuré] quand il n’a pas bu son café du matin. Salle clivante : il y a celles et ceux qui adorent et celles et ceux qu’on n’y voit jamais. Écosystème parfaitement adapté aux peaux les plus fragiles, déconseillé à ceux qui vivent de la photosynthèse. Hors de leur habitat, on reconnait les habitué·es de la grotte à certains indices : pull en laine et mug de thé fumant même en pleine canicule — accessoires supplémentaires de septembre à avril : bouillotte, mitaines, bonnet en laine et damart —, ou encore air ébloui et pupilles contractées — voire lunettes de soleil — en toute saison dans le reste du coworking.
 
 Le + : la solidarité des habitant·es de la grotte, on se serre les coudes pour ne pas sombrer dans la dépression et on allume la lumière à 14 h 30.
 
@@ -162,9 +162,9 @@ Usage inattendu : lieu prisé pour sa fraicheur l’été. Les habitué·e·s ne
 
 À ne pas confondre avec les cabinets, la cabine est la dernière née des salles de l’ADM, arrachée à un placard durant un « week-end ADM », ce rendez-vous annuel façon « grand rangement de printemps » au cours duquel tout le monde se retrousse les manches dans la bonne humeur pour donner un coup de frais à l’atelier. Dans cet ancien réduit, chaque mouvement doit être anticipé et les grands gabarits doivent choisir : étirer ses jambes ou ses bras, mais pas les deux en même temps. Le nombre d’heures passées dans la cabine peut-être déduit de l’entrainement officiel de la NASA pour devenir astronaute.
 
-Le + : l’impression d’être Youri Gagarine derrière son hublot en 1961, petits boutons qui clignotent inclus… ou (si ça se passe moins bien) Major Tom dans Space Oddity. D’ailleurs, la sortie de la cabine donne l’impression de revenir sur Terre après un long séjour dans l’espace.  
+Le + : l’impression d’être Youri Gagarine derrière son hublot en 1961, petits boutons qui clignotent inclus… ou (si ça se passe moins bien) Major Tom dans Space Oddity. D’ailleurs, la sortie de la cabine donne l’impression de revenir sur Terre après un long séjour dans l’espace.
 
-Le – : votre interlocuteur en visio qui demande à plusieurs reprises « Mais tu es où, là, exactement ? » Le manque d’oxygène est un motif valable pour mettre fin à un appel qui s’éternise. Pièce interdite aux claustrophobes.  
+Le – : votre interlocuteur en visio qui demande à plusieurs reprises « Mais tu es où, là, exactement ? » Le manque d’oxygène est un motif valable pour mettre fin à un appel qui s’éternise. Pièce interdite aux claustrophobes.
 
 Phrases les plus entendues (dans la tête seulement) :
 
@@ -174,7 +174,7 @@ La légende : pièce trop récente encore pour cette rubrique !
 
 ![](</medias/ADM - Photos salles/Cabine.jpeg>)
 
-## #Les cabinets 
+## #Les cabinets
 
 Contrairement à ce que leur nom indique, on n’y passe — a priori — pas d’appels téléphoniques. Les miroirs permettent de checker qu’on n’a pas un bout de persil coincé entre les dents avant une visio ou de s’entrainer à refuser la demande d’un·e client·e de lui faire « un petit prix » (« Are you talking to me ? »). L’affiche « on aime les saouls » invite à la méditation… ou aux souvenirs. À la recherche d’un·e ostéo, d’un·e masseur·se, d’un·e couturier·ère ou d’un·e coiffeur·se ? On pioche — presque — les yeux fermés dans la pile de cartes de visite laissées à disposition par les coworkeur·ses. On peut aussi méditer devant des phrases inspirantes entendues au gré des salles.
 
