@@ -98,6 +98,33 @@ export default defineConfig({
           },
         ],
       },
+      {
+        format: "md",
+        label: "Pages",
+        name: "pages",
+        path: "",
+        match: {
+          include: '{contact,charte-des-evenements,contact,events,index,nous-rejoindre,qui-sommes-nous}',
+          exclude: '_posts',
+          exclude: '_coworkers',
+        },
+        fields: [
+          {
+            label: 'Titre',
+            name: 'title',
+            type: 'string',
+            isTitle: true,
+            required: true,
+          },
+          {
+            type: "rich-text",
+            name: "body",
+            label: "Body of Document",
+            description: "This is the markdown body",
+            isBody: true,
+          },
+        ],
+      },
     ],
   },
 });
