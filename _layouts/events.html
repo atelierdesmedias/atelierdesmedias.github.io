@@ -4,31 +4,6 @@ layout: default
 
 <h2>Les Événements</h2>
 
-{% assign reversed_events = site.events | reverse %}
-
-{% for event in reversed_events %}
-  <section class=event>
-    <div class="picture">
-      <img src="{{ site.baseurl}}/events/{{ event.cover }}" alt="{{ event.name | escape }}"/>
-    </div>
-    <div class="details">
-      <span class="date">{{ event.date | date: "%d/%m/%Y"}}</span>
-      <span class="time">{{ event.date | date: "> %Hh%M"}}</span>
-      <a href="https://www.facebook.com/events/{{ event.event_id}}" target="_blank">
-        <h3>{{ event.name }}</h3>
-        <div class="place">
-          <i class="fa fa-map-marker"></i>
-          {{ event.place }}
-        </div>
-      </a>
-      <div class="excerpt">
-        {{ event.excerpt }}
-      </div>
-      <a href="https://www.facebook.com/events/{{ event.event_id}}" target="_blank">S'inscrire / En savoir +</a>
-    </div>
-  </section>
-{% endfor %}
-
 <section class="organize">
   {{ content }}
 </section>
