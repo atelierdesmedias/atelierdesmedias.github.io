@@ -8,7 +8,7 @@ layout: post
 
 > Se faire appeler « Madame la Présidente » pendant 2 ans, je trouve que c’est déjà un privilège dont on ne bénéficie que trop peu dans une vie.
 
-**![](</medias/ADM - ITW Presidente/ADM_Prez_Salut.jpg>)
+![](</medias/ADM - ITW Presidente/ADM_Prez_Salut.jpg>)
 
 *Vous le savez peut-être, le mandat de notre Présidente bien aimée arrive à son terme en décembre, et il faut songer à qui pourra poser son auguste séant sur le trône encore chaud de l’ADM. Pour mieux connaître cette prestigieuse fonction et pour vous inspirer à marcher dans les pas de notre Présidente, nous avons tiré au sort qui aurait l’honneur de rencontrer notre présidente pour une interview historique, et c’est tombé sur moi.*
 
