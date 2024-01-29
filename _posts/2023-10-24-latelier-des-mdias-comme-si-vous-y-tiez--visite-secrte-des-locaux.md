@@ -38,7 +38,11 @@ Le – : la pyramide de vaisselle et les moucherons occasionnels au-dessus de l�
 
 Phrases les plus entendues :
 
-##### « Qui a jeté mon tzatziki ? Il était encore bon ! », « Il est à qui ce tupperware ? », « Stéphane, c’est toi qui as pris ma pomme ? »
+> Qui a jeté mon tzatziki ? Il était encore bon !
+
+> Il est à qui ce tupperware ?
+
+> Stéphane, c’est toi qui as pris ma pomme ?
 
 Usage inattendu : salle de réunion de secours, annexe prisée des soirées.
 
@@ -58,7 +62,11 @@ La légende : une souris aurait été aperçue dans cette salle il y a six ans, 
 
 Phrases les plus entendues :
 
-« Oh, le coucher de soleil »,« Oh, une manif », « Quelqu’un a un chargeur ? »
+> Oh, le coucher de soleil
+
+> Oh, une manif
+
+> Quelqu’un a un chargeur ?
 
 ![](</medias/ADM - Photos salles/Versailles.jpeg>)
 
@@ -168,7 +176,11 @@ Le – : votre interlocuteur en visio qui demande à plusieurs reprises « Mais 
 
 Phrases les plus entendues (dans la tête seulement) :
 
-> « This is Major Tom to Ground control », « Il se passe quoi au juste si je touche au fil bleu ? », « C’est normal cette diode qui clignote ? »
+> This is Major Tom to Ground control
+
+> Il se passe quoi au juste si je touche au fil bleu ?
+
+> C’est normal cette diode qui clignote ?
 
 La légende : pièce trop récente encore pour cette rubrique !
 
@@ -184,7 +196,7 @@ Le – : le risque — rare — de n’avoir pas anticipé une pénurie de PQ�
 
 Phrase la plus entendue :
 
-> « Revenez avec un mandat ! »
+> Revenez avec un mandat !
 
 quand quelqu’un essaie d’ouvrir la porte manifestement fermée.
 
