@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3.3'
+gem 'jekyll', '~> 4.3.4'
 gem 'koala', '~> 3.3.0'
 gem 'mini_magick', '~> 4.11.0'
 gem 'octokit', '~> 6.0'
