@@ -1,21 +1,22 @@
 ---
 id: 3258
-title: 'Étienne Duranton, ingénieur d&rsquo;imaginaires'
-date: '2020-12-15T09:04:32+02:00'
-author: 'La rédaction'
+title: "Étienne Duranton, ingénieur d&rsquo;imaginaires"
+date: "2020-12-15T09:04:32+02:00"
+author: "La rédaction"
 layout: post
 permalink: /etienne-duranton-ingenieur-dimaginaires/
 image: https://res.cloudinary.com/atelier-medias/image/upload/v1670788117/blog/abaxhfjo3ed7qrb9gna4.jpg
 categories:
-    - 'Focus métier'
-    - Portraits
-    - 'Projets pro'
+  - "Focus métier"
+  - Portraits
+  - "Projets pro"
 tags:
-    - developpeur
-    - 'Réalité virtuelle'
+  - developpeur
+  - "Réalité virtuelle"
+published: false
 ---
 
-Étienne *Duranton (38 ans) mène deux projets de front : construire un village de Hobbit, – du nom de la créature semi-humaine habitant la Comté du Seigneur des anneaux – et développer des solutions de réalité augmentée pour Escape Game et Serious Game.*
+Étienne _Duranton (38 ans) mène deux projets de front : construire un village de Hobbit, – du nom de la créature semi-humaine habitant la Comté du Seigneur des anneaux – et développer des solutions de réalité augmentée pour Escape Game et Serious Game._
 
 <figure class="wp-block-image"><img src="https://res.cloudinary.com/atelier-medias/image/upload/v1670788119/blog/i9jvapuo3sqgcaddedxn.jpg" alt="Illustration"></figure>
 

@@ -2,13 +2,13 @@
 
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 4.3.3'
+gem 'jekyll', '~> 4.3.4'
 gem 'koala', '~> 3.3.0'
 gem 'mini_magick', '~> 4.11.0'
 gem 'octokit', '~> 6.0'
 gem 'rake', '~> 13.2.1'
 gem 'rbnacl', '~> 7.1.1'
-gem 'rubocop', '~> 1.63.5'
+gem 'rubocop', '~> 1.66.1'
 gem 'stringex', '~> 2.8.5'
 
 group :jekyll_plugins do
