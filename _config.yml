@@ -52,10 +52,10 @@ collections:
 pagination:
   enabled: true
   per_page: 8
-  permalink: '/:num/'
-  title: ':title'
+  permalink: "/:num/"
+  title: ":title"
   limit: 0
-  sort_field: 'date'
+  sort_field: "date"
   sort_reverse: true
   trail:
     before: 2
@@ -63,14 +63,14 @@ pagination:
 
 autopages:
   enabled: true
-  tags: 
+  tags:
     enabled: false
   categories:
     layouts:
       - autopage_categories.html
     enabled: true
-    permalink: '/blog/category/:cat'
+    permalink: "/blog/category/:cat"
     slugify:
-       mode: 'default'
+      mode: "default"
   collections:
     enabled: false
