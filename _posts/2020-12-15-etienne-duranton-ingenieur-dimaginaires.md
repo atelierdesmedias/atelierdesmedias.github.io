@@ -13,6 +13,7 @@ categories:
 tags:
   - developpeur
   - "Réalité virtuelle"
+published: false
 ---
 
 Étienne _Duranton (38 ans) mène deux projets de front : construire un village de Hobbit, – du nom de la créature semi-humaine habitant la Comté du Seigneur des anneaux – et développer des solutions de réalité augmentée pour Escape Game et Serious Game._
