@@ -12,7 +12,7 @@ npm install
 ## Serve
 
 ```
-bundle exec jekyll serve --livereload --incremental
+bundle exec jekyll serve --verbose --port 54321 --livereload
 ```
 
 ## VSCode configuration

@@ -4,6 +4,9 @@ description: "Le 1er espace de coworking Lyonnais associatif"
 lang: fr
 locale: fr_FR
 
+incremental: true
+markdown: kramdown
+
 liquid:
   error_mode: strict
   strict_filters: true
