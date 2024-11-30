@@ -21,6 +21,11 @@ linkedin:
 instagram:
   username: "atelierdesmedias_lyon"
 
+#webmaster_verifications:
+#  google: TODO
+#  bing: TODO
+#  facebook: TODO
+
 exclude:
   - README.md
   - Makefile
