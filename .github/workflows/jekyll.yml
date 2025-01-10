@@ -23,7 +23,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - run: npm install
+      - name: NPM install
+        run: npm install
+      - name: Install Image Magick
+        run: sudo apt-get install imagemagick
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
