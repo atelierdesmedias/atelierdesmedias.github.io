@@ -24,6 +24,9 @@ linkedin:
 instagram:
   username: "atelierdesmedias_lyon"
 
+development:
+  limit_posts: 10
+
 incremental: true
 markdown: kramdown
 
