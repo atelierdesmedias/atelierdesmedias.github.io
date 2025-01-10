@@ -1,9 +1,9 @@
 ---
 title: L'Atelier
 layout: home
-
 ---
-## Travailler à l’Atelier des médias
+
+## Travailler à l’Atelier des Médias
 
 Créé en 2008, **l’Atelier des médias est** [**le 1er espace de coworking lyonnais**](https://www.atelier-medias.org/blog/les-origines-de-l-atelier-des-medias "Les origines de l’Atelier des médias"). Situé en plein centre de Lyon, il constitue **un espace de travail agréable et convivial de 212 m², au pied des pentes de la Croix-Rousse** et à deux pas des Terreaux.
 
