@@ -1,1 +1,3 @@
   --ignore-directory=is:_proof
+  --ignore-directory=is:tina/__generated__
+  --ignore-file=is:tina-lock.json
