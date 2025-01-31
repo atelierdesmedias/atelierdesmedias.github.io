@@ -8,11 +8,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version-file: '.nvmrc'
-          cache: 'npm'
+          node-version-file: ".nvmrc"
+          cache: "npm"
       - run: npm install
       - uses: ruby/setup-ruby@v1
         with:
@@ -23,4 +23,4 @@ jobs:
           rubocop: true
           rubocop_command_prefix: bundle exec
           stylelint: true
-          stylelint_extensions: 'scss'
+          stylelint_extensions: "scss"
