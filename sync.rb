@@ -49,6 +49,7 @@ if response.is_a?(Net::HTTPSuccess)
   Dir['_coworkers/*.*'].each { |f| File.delete(f) }
   JSON.parse(response.body)['coworkers'].each do |json|
     next unless json['public_enable'] == 1 &&
+                json['active'] == 1 &&
                 %w[nomade fixe passager].include?(json['formule']) &&
                 json['_profile_picture']
 
