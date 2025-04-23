@@ -1,6 +1,6 @@
 ---
 title: Dans les coulisses de La Gazette de l'Atelier
-date: 2025-04-30T22:00:00.000Z
+date: 2025-04-22T22:00:00.000Z
 image: /medias/Article Gazette/7_gazette_impression_bd.jpg
 author: Anne
 layout: post
