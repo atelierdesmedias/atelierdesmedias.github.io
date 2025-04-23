@@ -52,7 +52,7 @@ Qu’ont découvert les coworkeuses et coworkeurs grâce à *La Gazette* ? « L�
 
 ## Un média que se sont approprié les membres du coworking
 
-Dès le départ, l’enthousiasme suscité par La Gazette a inspiré des contributions volontaires, faisant de chaque parution un numéro unique. À Madame Adèle, feuilleton littéraire à suspense déroulé sur plusieurs mois par Anne-Catherine, ont succédé les mots croisés fun de Mathilde, le quiz de la Vie quot’, les super itinéraires vélo de Pierre, sans oublier LA rubrique mode de Clara dont tout le coworking guette le prochain opus à l’approche de l’été. « On s’est bien amusées lors du shooting », raconte Valentine. « Une personne de l’Atelier a pensé que mes tenues étaient prêtées par des créateurs et créatrices du quartier ! »
+Dès le départ, l’enthousiasme suscité par *La Gazette* a inspiré des contributions volontaires, faisant de chaque parution un numéro unique. À *Madame Adèle*, feuilleton littéraire à suspense déroulé sur plusieurs mois par Anne-Catherine, ont succédé les mots croisés fun de Mathilde, le quiz de la Vie quot’, les super itinéraires vélo de Pierre, sans oublier LA rubrique mode de Clara dont tout le coworking guette le prochain opus à l’approche de l’été. « On s’est bien amusées lors du shooting », raconte Valentine. « Une personne de l’Atelier a pensé que mes tenues étaient prêtées par des créateurs et créatrices du quartier ! »
 
 ![](</medias/Article Gazette/10_gazette_velo_mode_bd.jpg>)
 
