@@ -6,7 +6,7 @@ author: Anne
 layout: post
 ---
 
-###### *Ça y est, La Gazette a un an. Un an ! En onze numéros, le mensuel de l’Atelier des médias s’est imposé comme un joyeux repère dans la vie du coworking.*
+##### *Ça y est, La Gazette a un an. Un an ! En onze numéros, le mensuel de l’Atelier des médias s’est imposé comme un joyeux repère dans la vie du coworking.*
 
 ## Au départ, la réalisation d’un rêve
 
