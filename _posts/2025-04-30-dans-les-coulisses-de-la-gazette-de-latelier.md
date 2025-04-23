@@ -32,7 +32,7 @@ Rubriques phares de *La Gazette*, l’édito et les favoris du mois changent de 
 
 ## Un succès fou
 
-Après relecture et bon à tirer, une coursière monte la colline, clé USB en poche, jusqu’à un atelier de reprographie croix-roussien. « C’est une véritable expérience », raconte Anne. « Après moultes opérations, imposition du fichier, préchauffage de la machine, l’immense imprimante s’active avec un bruit de moteur d’avion et lance sur un support une épreuve de contrôle de *La Gazette*. Je la parcours les yeux humides et donne mon BAT pour deux autres exemplaires ». Et comme il est impossible de tou·tes la lire en même temps, Simon l’envoie chaque mois par mail à tous les membres de l’asso.
+Après relecture et bon à tirer, une coursière monte la colline, clé USB en poche, jusqu’à un atelier de reprographie croix-roussien. « C’est une véritable expérience », raconte Anne. « Après moultes opérations, imposition du fichier, préchauffage de la machine, l’immense imprimante s’active avec un bruit de moteur d’avion et lance sur un support une épreuve de contrôle de *La Gazette*. Je la parcours les yeux humides et donne mon BAT pour deux autres exemplaires ». Et comme il est impossible de toutes et tous la lire en même temps, Simon l’envoie chaque mois par mail à tous les membres de l’asso.
 
 ![](</medias/Article Gazette/6_gazette_imposition_bd.jpg>)![](</medias/Article Gazette/7_gazette_impression_bd.jpg>)
 
@@ -42,9 +42,9 @@ Après relecture et bon à tirer, une coursière monte la colline, clé USB en p
 
 ## Tous les plaisirs sont dans *La Gazette*
 
-C’est que les rubriques de La Gazette offrent toujours de belles surprises. L’occasion d’élargir ses champs culturels, de découvrir des plumes géniales ou des passions secrètes ! En onze numéros, les pages ont accueilli roman-photo, encart publicitaire, photos de soirée (casino, pyjama ou karaoké)… 
+C’est que les rubriques de La Gazette offrent toujours de belles surprises. L’occasion d’élargir ses champs culturels, de découvrir des plumes géniales ou des passions secrètes ! En onze numéros, les pages ont accueilli roman-photo, encart publicitaire, photos de soirée (casino, pyjama ou karaoké)…
 
-> « J’adore les favoris du mois et apprendre des anecdotes sur les gens. » Anaïs, enthousiaste. 
+> « J’adore les favoris du mois et apprendre des anecdotes sur les gens. » Anaïs, enthousiaste.
 
 Qu’ont découvert les coworkeuses et coworkeurs grâce à *La Gazette* ? « L’existence de Radio Moquette », « la playlist de l’ADM disponible sur Spotify et sur Deezer », « Sylvain en costard cravate », « qu’il existe des coachs en douche froide », « que je partageais avec Mad une passion pour les mots fléchés », « que Caro pratique la pêche à la mouche et Martin a eu 16 au bac en danse rock », « qu’il y a un super resto portugais rue des Quatre Chapeaux », « qu’on peut vraiment porter des boucles d’oreilles fabriquées soi-même (moi si j’essaie d’en faire, ça ressemble à un cadeau d’enfant pour la fête des mères) ».
 
