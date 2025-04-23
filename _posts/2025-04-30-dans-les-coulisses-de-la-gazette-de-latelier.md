@@ -6,9 +6,9 @@ author: Anne
 layout: post
 ---
 
-##### *Ça y est, La Gazette a un an. Un an ! En onze numéros, le mensuel de l’Atelier des médias s’est imposé comme un joyeux repère dans la vie du coworking.*
+#### *Ça y est, La Gazette a un an. Un an ! En onze numéros, le mensuel de l’Atelier des médias s’est imposé comme un joyeux repère dans la vie du coworking.*
 
-### Au départ, la réalisation d’un rêve
+### La réalisation d’un rêve
 
 Avril 2024. Dans la salle de réunion de l’Atelier des médias, une équipe s’active sur des templates Canva, échange des idées à bâtons rompus, fait des blagues, observe, commente, discute pictos, couleurs, typos. « Combien de pages ? », « On demande à qui ? », « On n’a rien, là ! », « Ah ah, génial, ce cœur rose, Valentine on dirait que tu tiens une rubrique coquine ! », « Qui pourra relire ? » Ce jour-là, un rêve commençait à devenir concret. Celui de Martin Delille, coworkeur historique de l’Atelier : « J’ai pensé que l’Atelier des médias avait droit à un média de l’Atelier ».![](</medias/Article Gazette/1_gazette_martin_bd.jpg>)Même si, l’avoue-t-il dès le premier édito, la véritable raison est qu’« avant d’orienter mes études vers les sciences, je caressais l’idée de devenir journaliste, animé par l’image romantique qu’Hollywood en faisait, dans ces vieilles rédactions où ça fumait à s’en rompre les poumons dans des locaux faits de boiseries et de vitraux dépolis où cliquettent et résonnent machines à écrire et téléphones ».
 
