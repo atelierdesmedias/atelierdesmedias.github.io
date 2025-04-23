@@ -6,7 +6,7 @@ author: Anne
 layout: post
 ---
 
-> Ça y est, *La Gazette* a un an. Un an ! En onze numéros, le mensuel de l’Atelier des médias s’est imposé comme un joyeux repère dans la vie du coworking.
+###### *Ça y est, La Gazette a un an. Un an ! En onze numéros, le mensuel de l’Atelier des médias s’est imposé comme un joyeux repère dans la vie du coworking.*
 
 ## Au départ, la réalisation d’un rêve
 
@@ -60,9 +60,7 @@ Dès le départ, l’enthousiasme suscité par *La Gazette* a inspiré des contr
 
 La formule s’améliore au fil du temps. « Nous avons fait évoluer le concept au fur et à mesure, en ajoutant par exemple une rubrique “Arrivées et départs” », explique Aurélie. « Cela permet d’identifier rapidement les nouvelles et nouveaux, c’est plus chaleureux ! » Mais que lui manque-t-il, à cette *Gazette* ? « Je rêve d’un article sur la drague à l’ADM », répond Anne du tac au tac. « En dix ans, on compte déjà quatre couples officiels et toujours en vie nés à l’ADM ! Alors imaginez si on ajoute les histoires secrètes… » « Il faudrait une rubrique “Petites annonces”, je voudrais vendre le jus de mon lombricomposteur », indique Martin. « Un courrier des lecteurs et lectrices ! J’ai une réclamation sur une citation qui m’est attribuée », indique un autre Martin. « Moi je ne sais pas, je ne la lis pas », indique une source qui fait bien de rester anonyme.
 
-Quel avenir pour *La Gazette* ? « C’est quand même un sacré boulot », explique Mathilde. « Il faut contacter chaque mois les personnes qui écrivent, les relancer. En plus de nos réunions mensuelles et de tout le travail que l’équipe Com a par ailleurs. » « On essaie d’améliorer notre façon de travailler pour soulager chaque membre de l’équipe », explique Simon. « *La Gazette* est un vrai travail éditorial. Il faut chaque mois réfléchir aux contenus, mobiliser les contributeurs et contributrices, rassembler les visuels, revoir le calibrage des contenus, effectuer les relances éventuelles, mettre en page, relire et corriger, sans compter la logistique de l’impression. Heureusement, notre équipe communique super bien entre elle, en plus d’être super soudée et motivée ! »
-
-(photo de la rédac, à prendre lors de la prochaine réunion ! 11\_gazette\_redac)
+Quel avenir pour *La Gazette* ? « C’est quand même un sacré boulot », explique Mathilde. « Il faut contacter chaque mois les personnes qui écrivent, les relancer. En plus de nos réunions mensuelles et de tout le travail que l’équipe Com a par ailleurs. » « On essaie d’améliorer notre façon de travailler pour soulager chaque membre de l’équipe », explique Simon. « *La Gazette* est un vrai travail éditorial. Il faut chaque mois réfléchir aux contenus, mobiliser les contributeurs et contributrices, rassembler les visuels, revoir le calibrage des contenus, effectuer les relances éventuelles, mettre en page, relire et corriger, sans compter la logistique de l’impression. Heureusement, notre équipe communique super bien entre elle, en plus d’être super soudée et motivée ! »![](</medias/Article Gazette/11_gazette_redac_bd.jpg>)
 
 > « C’est trop cool », dit Stéphane.
 
