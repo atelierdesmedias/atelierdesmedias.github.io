@@ -20,13 +20,11 @@ En plus de dix ans, les collaborations se sont multipliées tout en gagnant en q
 
 La diversité des métiers représentés à l’Atelier favorise la création d’équipes complémentaires efficaces. En 2023, la graphiste Aurélie Khalidi (Orange Vif) et la rédactrice Claire Morel réalisent par exemple le rapport d’activité 2022 de la fondation La France s’engage : « Concevoir ce document ensemble nous a permis de choisir comment restituer des informations assez techniques de façon optimale : parfois en texte, parfois en datas ou graphiques pour une lecture conviviale et une mise en page ludique ». C’est une autre coworkeuse, Laura Templeman, qui traduira ce rapport en anglais. Partager un même espace de travail prend dans ce cas tout son sens : la proximité facilite les échanges, permet de dénouer rapidement les problèmes et de gagner du temps, pour soi et pour les clients. Une réactivité appréciée.
 
- 
+![](</medias/Article Collabs/ADM_GVT_affiche.jpg>)
 
-Rapport d’activité 2022 de la Fondation “La France s’engage”
+###### Rapport d’activité 2022 de la Fondation “La France s’engage” Collaboration Aurelie Khalidi (Orange Vif) pour le graphisme et Claire Morel pour la rédaction. 
 
-Collaboration Aurelie Khalidi (Orange Vif) pour le graphisme et Claire Morel pour la rédaction. 
-
-« Le fait de travailler au même endroit et de participer ensemble aux réunions avec GL Events (le commanditaire) et le Ministère (le client), nous a permis de gagner en efficacité et ainsi respecter les délais courts et les contraintes techniques. Pouvoir échanger en amont nous a également permis de gagner en créativité et de réaliser une proposition pertinente et adaptée », indiquent Marion Hummer, designer d’espaces événementiels et Aurélie Khalidi (Orange Vif), graphiste, qui ont conçu ensemble le stand du ministère de l’Agriculture et de la Souveraineté Alimentaire pour le salon de l’Agriculture à Paris, en 2025.
+###### « Le fait de travailler au même endroit et de participer ensemble aux réunions avec GL Events (le commanditaire) et le Ministère (le client), nous a permis de gagner en efficacité et ainsi respecter les délais courts et les contraintes techniques. Pouvoir échanger en amont nous a également permis de gagner en créativité et de réaliser une proposition pertinente et adaptée », indiquent Marion Hummer, designer d’espaces événementiels et Aurélie Khalidi (Orange Vif), graphiste, qui ont conçu ensemble le stand du ministère de l’Agriculture et de la Souveraineté Alimentaire pour le salon de l’Agriculture à Paris, en 2025.
 
 Stand du Ministère de l’Agriculture et de la Souveraineté Alimentaire
 
@@ -74,7 +72,7 @@ De manière générale, quand quelqu’un à l’Atelier a besoin d’une compé
 
 Formation à l’UX writing dispensée pour le compte de Sparks Formation par Loreleï Fritsch, sur recommandation de Benjamin Richy.
 
-Une motivation pour créer
+## Une motivation pour créer
 
 Parfois, la présence à l’Atelier de toutes les expertises sur place donne aussi l’élan nécessaire pour concrétiser un projet individuel. Ainsi en est-il d’une vidéo en cours de réalisation pour Emmanuelle Kiener (Manuka) pour présenter son métier, la facilitation graphique : « L'année dernière, c'est Claire \[Morel] qui a travaillé sur un texte de voix-off, et Camille \[Geoffray] qui a réfléchi aux scènes, m'a filmée en presta et dans un parc en train de dessiner. \[Un] autre collègue (pas de l'ADM) doit s'occuper de rajouter quelques-uns de mes dessins sur la vidéo et Camille s’occupera ensuite du montage ! »
 
