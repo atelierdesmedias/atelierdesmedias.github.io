@@ -12,14 +12,14 @@ layout: post
 
 L’Atelier des médias n’est pas un « coworking » pour rien. Créé en 2011 par et pour des travailleuses et travailleurs indépendants dans les métiers du mot, de l’image et du web, l’ADM accueille aujourd’hui une soixantaine de coworkeuses et coworkeurs fixes ou nomades. Le développement des collaborations est un moteur dès le départ : « L’objectif de cet espace est de \[…] développ\[er] les réseaux, la coopération et le business entre freelances », peut-on lire dans les statuts de l’association.
 
-Un objectif atteint au-delà de toute espérance. Magali, rédactrice, considère pour sa part que les collabs ADM ont changé sa vie : « \[Elles] m’ont permis d’accéder à des missions que je n’aurais jamais eues en solo. Et du coup ça m’a donné la possibilité, en solo cette fois, de choisir mes missions, parce que j’étais financièrement sécurisée par celles portées collectivement. »
+Un objectif atteint au-delà de toute espérance. « Ce genre de synergies / collaborations font partie de mes plus beaux souvenirs de mes deux années à Lyon ! », indique Rhona Kappler, traductrice. Magali, rédactrice, considère pour sa part que les collabs ADM ont changé sa vie : « \[Elles] m’ont permis d’accéder à des missions que je n’aurais jamais eues en solo. Et du coup ça m’a donné la possibilité, en solo cette fois, de choisir mes missions, parce que j’étais financièrement sécurisée par celles portées collectivement. »
 
-> « Ce genre de synergies / collaborations font partie de mes plus beaux souvenirs de mes deux années à Lyon ! », indique Rhona Kappler, traductrice.
+> « Ce genre de synergies et collaborations font partie de mes plus beaux souvenirs de mes deux années à Lyon ! » Rhona Kappler, traductrice.
 
 En plus de dix ans, les collaborations se sont multipliées tout en gagnant en qualité. Car l’expérience joue en faveur des coworkeurs et coworkeuses, qui améliorent d’année en année les process de réponses en équipe aux appels d’offres, développent leurs références communes, se font connaître et renforcent leur image de prestataires solides. « À chaque fois, des missions de dingue, pour lesquelles il aurait été impensable de gagner seule », explique Magali.
 
-![](</medias/Article Collabs/ADM_PPI-Ville-de-Lyon-Graphiste-freelance6@2x.jpg>)Création de cartographies illustrées par arrondissement pour la Ville de Lyon.\
-Collaboration Lélia Withnell, illustratrice et graphiste, et Stéphane Vantard, graphiste.
+![](</medias/Article Collabs/ADM_PPI-Ville-de-Lyon-Graphiste-freelance6@2x.jpg>)**Création de cartographies illustrées par arrondissement pour la Ville de Lyon.**\
+**Collaboration Lélia Withnell, illustratrice et graphiste, et Stéphane Vantard, graphiste.**
 
 ## Des projets d’équipe favorisés par des métiers variés et complémentaires 
 
