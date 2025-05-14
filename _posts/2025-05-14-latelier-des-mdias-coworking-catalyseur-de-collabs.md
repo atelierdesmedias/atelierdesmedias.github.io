@@ -6,7 +6,7 @@ author: Anne
 layout: post
 ---
 
-###### *À l’Atelier des médias, on travaille côte à côte, mais aussi ensemble. Le coworking associatif lyonnais provoque les rencontres, les synergies professionnelles et les collaborations réussies. Tour d’horizon de ce cercle vertueux.*
+***À l’Atelier des médias, on travaille côte à côte, mais aussi ensemble. Le coworking associatif lyonnais provoque les rencontres, les synergies professionnelles et les collaborations réussies. Tour d’horizon de ce cercle vertueux.***
 
 ## Un objectif formulé dès la création du coworking
 
