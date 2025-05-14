@@ -1,6 +1,6 @@
 ---
 title: 'L’Atelier des médias, coworking catalyseur de collabs'
-date: 2025-05-14T22:00:00.000Z
+date: 2025-05-13T22:00:00.000Z
 image: /medias/Article Collabs/ADM_eurexpo_rhona_chloe.jpg
 author: Anne
 layout: post
