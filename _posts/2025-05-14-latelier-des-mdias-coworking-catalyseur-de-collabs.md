@@ -6,7 +6,7 @@ author: Anne
 layout: post
 ---
 
-#### À l’Atelier des médias, on travaille côte à côte, mais aussi ensemble. Le coworking associatif lyonnais provoque les rencontres, les synergies professionnelles et les collaborations réussies. Tour d’horizon de ce cercle vertueux.
+##### À l’Atelier des médias, on travaille côte à côte, mais aussi ensemble. Le coworking associatif lyonnais provoque les rencontres, les synergies professionnelles et les collaborations réussies. Tour d’horizon de ce cercle vertueux.
 
 ## Un objectif formulé dès la création du coworking
 
@@ -57,7 +57,7 @@ Pour les coworkeurs et coworkeuses qui travaillent ensemble, le bilan positif es
 
 ## Un réseau de recommandations dense et actif
 
-Et puis, bien sûr, ces échanges et retours d’expériences nourrissent le fabuleux jeu des recommandations. L’Atelier des médias, c’est un réseau particulièrement dense, vivant et actif, dont tous les membres ou presque ont profité un jour ou l’autre ! « Côté traductrices, le réseau fait son office ! », écrit Chloé Delhom, « Avec Laura \[Templeman] et Rhona \[Kappler], on s’est mutuellement recommandées sur des clients, puisque nous sommes sur des combinaisons opposées ». 
+Et puis, bien sûr, ces échanges et retours d’expériences nourrissent le fabuleux jeu des recommandations. L’Atelier des médias, c’est un réseau particulièrement dense, vivant et actif, dont tous les membres ou presque ont profité un jour ou l’autre ! « Côté traductrices, le réseau fait son office ! », écrit Chloé Delhom, « Avec Laura \[Templeman] et Rhona \[Kappler], on s’est mutuellement recommandées sur des clients, puisque nous sommes sur des combinaisons opposées ».
 
 > « L’Atelier rassemble tout ce dont les clients peuvent rêver. Des personnes très talentueuses, rigoureuses, chacun·e avec sa sensibilité artistique, ultra pros. » Anne Balaguier, éditrice freelance
 
