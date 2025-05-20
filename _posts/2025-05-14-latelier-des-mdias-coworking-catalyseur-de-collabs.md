@@ -46,7 +46,7 @@ Partager une mission permet de se répartir les tâches, être agile, se relayer
 
 ###### ![](</medias/Article Collabs/ADM_musee_malartre_Affiche 4x3 metro.jpeg>)Musée de l’Automobile Henri Malartre Collaboration entre Aurélie Khalidi (Orange Vif), Lélia Whitnell et Stéphane Vantard.
 
-###### ![](</medias/Article Collabs/ADM_arhm_marlene_charlotte.png>)Création de la nouvelle identité visuelle de la Fondation ARHM, qui travaille pour la santé mentale et le handicap à Lyon Direction artistique Charlotte Cornudet, rédaction des supports Marlène Giroudon.
+###### ![](</medias/Article Collabs/ADM_arhm_marlene_charlotte.png>)Nouvelle identité visuelle de la Fondation ARHM, qui travaille pour la santé mentale et le handicap à Lyon Direction artistique Charlotte Cornudet, rédaction des supports Marlène Giroudon.
 
 Au fil des ans, certaines équipes ont même pris l’habitude de fonctionner ensemble, leur organisation ayant fait ses preuves. Le journaliste Pierre Gouyou Beauchamps et Magali, rédactrice, commencent ainsi cette année une seconde mission de quatre ans pour l’éducation aux médias avec le collectif WeReport.
 
