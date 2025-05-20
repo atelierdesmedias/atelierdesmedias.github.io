@@ -18,8 +18,8 @@ Un objectif atteint au-delà de toute espérance. « Ce genre de synergies / col
 
 En plus de dix ans, les collaborations se sont multipliées tout en gagnant en qualité. Car l’expérience joue en faveur des coworkeurs et coworkeuses, qui améliorent d’année en année les process de réponses en équipe aux appels d’offres, développent leurs références communes, se font connaître et renforcent leur image de prestataires solides. « À chaque fois, des missions de dingue, pour lesquelles il aurait été impensable de gagner seule », explique Magali.
 
-![](</medias/Article Collabs/ADM_PPI-Ville-de-Lyon-Graphiste-freelance6@2x.jpg>)**Création de cartographies illustrées par arrondissement pour la Ville de Lyon.**\
-**Collaboration Lélia Withnell, illustratrice et graphiste, et Stéphane Vantard, graphiste.**
+![](</medias/Article Collabs/ADM_PPI-Ville-de-Lyon-Graphiste-freelance6@2x.jpg>)*Création de cartographies illustrées par arrondissement pour la Ville de Lyon.*\
+*Collaboration Lélia Withnell, illustratrice et graphiste, et Stéphane Vantard, graphiste.*
 
 ## Des projets d’équipe favorisés par des métiers variés et complémentaires 
 
