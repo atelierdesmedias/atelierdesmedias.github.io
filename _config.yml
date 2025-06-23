@@ -11,9 +11,6 @@ liquid:
   error_mode: strict
   strict_filters: true
 
-twitter:
-  username: coworkinglyon
-
 facebook:
   page: Coworkinglyon
   app_id: 106737945179435
