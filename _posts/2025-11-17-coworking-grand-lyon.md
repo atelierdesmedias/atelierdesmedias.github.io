@@ -22,9 +22,9 @@ En plus de 10 ans les chantiers se multiplient mais surtout l’image du coworki
 
 À sa création en 2013, le bureau partagé est un concept naissant. Le réseau permet au coworking lyonnais de se définir, de fonder des bonnes pratiques. Du côté Métropole ça permet d’avoir une vue sur ce nouveau phénomène, de bien mapper son territoire, d’interroger les pratiques, de comprendre les besoins… Également de voir les synergies possibles avec la DPDP (Direction de la Prospective et du Dialogue Public). Hé oui ! À l’époque le coworking, c’est rattaché au Bureau « Prospective » ! Vintage, donc !
 
-[Reportage France 3 sur l’Atelier des Médias, le 5 janvier 2012](https://www.youtube.com/watch?v=2_cJgBythG0) 
+[Reportage France 3 sur l’Atelier des Médias, le 5 janvier 2012](https://www.youtube.com/watch?v=2_cJgBythG0)
 
-Les coworkings s’organisent donc en réseau. Le premier chantier sera de fonder une charte qui explicite, au-delà du simple partage de bureaux, ce qu’est un coworking. 
+Les coworkings s’organisent donc en réseau. Le premier chantier sera de fonder une charte qui explicite, au-delà du simple partage de bureaux, ce qu’est un coworking.
 
 On est dans la lignée de ce qu’il se fait à l’époque : la même année sort le Manifeste des Tiers-lieux qui est un ouvrage collectif dont « l’intention originelle est d'améliorer la compréhension de ce qui se fait par les Tiers-Lieux de manière à diffuser au plus grand nombre ses valeurs. »
 
@@ -32,7 +32,15 @@ Quelques exemples d’évènements notoires : en 2014-2015 est organisé un cowo
 
 En 2017, le temps n’est plus à la définition mais à un premier bilan. Le réseau Coworking Grand Lyon et la Métropole de Lyon organise les Assises du coworking. Un évènement national pour échanger en tables rondes sur l’influence des mutations du travail sur les espaces de coworking, la pérennité des modèles économiques, les opportunités et menaces de ces espaces.
 
-La richesse de ces échanges donneront une étude publiée ([ici](https://millenaire3.grandlyon.com/ressources/2017/les-6-grands-defis-du-coworking)) sur Millénaire 3, le magazine en ligne de la direction de la Prospective. 
+La richesse de ces échanges donneront une étude publiée ([ici](https://millenaire3.grandlyon.com/ressources/2017/les-6-grands-defis-du-coworking)) sur Millénaire 3, le magazine en ligne de la direction de la Prospective.
+
+En 2020, une autre étude de Millénaire 3 vient questionner les coworkings du réseau. Les questions sont sur les modèles économiques et les modes de gestion. [Ici](https://millenaire3.grandlyon.com/ressources/2020/dans-les-coulisses-du-coworking-independant)
+
+En 2024, le Covid étant passé par là, le monde du travail a encore bougé. Le télétravail concerne 22% des salariés du secteur privé. Ils étaient 4% en 2019. (Selon une étude Insee disponible ici.)
+
+L’occasion pour la Métropole de relancer une étude lyonnaise avec comme questionnement : « Est-ce que les nouveaux modes de travail (notamment TT) génèrent un besoin d’espaces de travaux partagés (type coworking) à proximité des bassins résidentiels ? »
+
+L’étude porte surtout sur les salariés en télétravail qui pourrait intégrer un coworking… le besoin ne semble pas être présent. 
 
 > « Ce genre de synergies et collaborations font partie de mes plus beaux souvenirs de mes deux années à Lyon ! » Rhona Kappler, traductrice.
 
