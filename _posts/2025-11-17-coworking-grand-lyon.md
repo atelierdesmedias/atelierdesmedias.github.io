@@ -8,9 +8,9 @@ author: Clara
 layout: post
 ---
 
-#### En 2013, 5 coworkings de Lyon, soutenus par la Métropole de Lyon et de Coop Alternatives, co-construisent et signent une charte qui les engage dans le Réseau Coworking Grand Lyon.
+**En 2013, 5 coworkings de Lyon, soutenus par la Métropole de Lyon et de Coop Alternatives, co-construisent et signent une charte qui les engage dans le Réseau Coworking Grand Lyon.**
 
-#### Le réseau Coworking Grand Lyon affiche une ambition simple : « rassembler la communauté de toutes celles et ceux qui s'impliquent dans le développement du coworking sur le territoire du Grand Lyon ».
+**Le réseau Coworking Grand Lyon affiche une ambition simple : « rassembler la communauté de toutes celles et ceux qui s'impliquent dans le développement du coworking sur le territoire du Grand Lyon ».**
 
 Au-delà de leur singularité, ces acteurs citoyens se caractérisent par **4 valeurs communes : bienveillance / partage / égalité / transparence**.
 
@@ -46,7 +46,7 @@ Le Réseau Coworking Grand Lyon n’est plus sur les mêmes problématiques qu�
 
 * **Les évolutions liées aux occupations temporaires de lieux**
 * **Les évolutions futures des coworkings**
-* **Le lien avec les autres réseaux, comme les réseaux de Tiers-lieux (Relief) **
+* **Le lien avec les autres réseaux, comme les réseaux de Tiers-lieux**
 
 Pour que cela se mette en place il faut être pro-actif et relancer l’effort qui avait été commencé, pour renouer avec la DPDP et la Métropole.
 
