@@ -3,26 +3,31 @@
 {% include head.html %}
 
 <body>
-    {% include header.html %}
-    <div class="post">
-        <h1>{{ page.title }}</h1>
-        <ul class="post-categories">
-            {% for category in page.categories %}
-                <li>{{ category }}</li>
-            {% endfor %}
-        </ul>
-        <p class="post-meta">
-            <span class="published">Publié le <time datetime="{{ page.date }}">{{ page.date | date: "%d/%m/%Y" }}</time></span>
-            par <span class="author">{{ page.author }}</span>
-        </p>
-        {% if page.show_image and page.image %}
-            <img src="{{ page.image }}" alt="{{ page.title }}" class="featured">
-        {% endif %}
-        <div class="normal post-content">
-            {{ content }}
-        </div>
+{% include header.html %}
+<div class="content">
+  <div class="post">
+    <h1>{{ page.title }}</h1>
+    <p class="post-meta">
+      <span class="published">Publié le <time
+        datetime="{{ page.date }}">{{ page.date | date: "%d/%m/%Y" }}</time></span>
+      par <span class="author">{{ page.author }}</span>
+    </p>
+    {% if page.categories != empty %}
+    <ul class="post-categories">
+      {% for category in page.categories %}
+      <li>{{ category }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    {% if page.show_image and page.image %}
+    <img src="{{ page.image }}" alt="{{ page.title }}" class="featured">
+    {% endif %}
+    <div class="normal post-content">
+      {{ content }}
     </div>
-    {% include footer.html %}
+  </div>
+</div>
+{% include footer.html %}
 </body>
 
 </html>

@@ -44,38 +44,38 @@
   }
 }
 
-.organize {
-  padding: 2em;
-
-  h2,
-  p {
-    max-width: 600px;
-    margin: 0 auto;
-    text-align: center;
+.normal {
+  .icons.flex {
+    margin-bottom: 0;
   }
 }
 
 .contact {
-  padding: 1em;
-  border-top: solid 1px #8d8d8d;
-  background-color: #ededed;
+  padding: 2em;
+  border-top: solid 1px #84cbd5;
+  background-color: #c2e5ea;
+  max-width: 800px;
+  border-radius: 5px;
+  margin-bottom: 2rem;
 
   form {
     display: grid;
 
     gap: 1em;
 
-    max-width: 960px;
     margin: 0 auto;
 
-    h4 {
-      font-weight: 400;
+    label {
+      font-weight: 600;
       text-transform: uppercase;
+      font-size: .9rem;
     }
 
     small {
       display: block;
-      font-size: .7rem;
+      text-transform: none;
+      font-size: .8em;
+      font-weight: 400;
     }
 
     textarea {
@@ -85,23 +85,38 @@
 
     textarea,
     input {
-      margin: .5em 0;
       padding: 1em;
       border: none;
+      border-radius: 2px;
+    }
+
+    input[type="checkbox"] + label {
+      text-transform: none;
+      line-height: 1;
+      font-size: .8rem;
+    }
+
+    input:focus, input:focus-visible,
+    textarea:focus, textarea:focus-visible {
+      outline: none;
+      box-shadow: inset 0 0 1px 1px #c2e5ea;
     }
 
     button {
       justify-self: right;
-
-      padding: 1em;
-
-      border: solid 1px #979797;
-
+      padding: 2em;
+      border: none;
       background-color: #ef8a4a;
-
-      color: white;
-      font-size: 1.4rem;
+      color: #fff;
+      font-weight: 600;
+      font-size: 1rem;
       text-transform: uppercase;
+      border-radius: 1px;
+      transition: .3s;
+    }
+
+    button:hover {
+      background: #84cbd5;
     }
 
     @media screen and (min-width: 600px) {

@@ -19,6 +19,7 @@ body {
 body {
   display: flex;
   flex-direction: column;
+  line-height: 1.4;
 }
 
 .content {
@@ -30,12 +31,21 @@ body {
   align-items: center;
 
   width: 100%;
+
+  margin-top: 80px;
+  padding-top: 40px;
 }
 
 .normal {
-  max-width: 65ch;
+  max-width: 800px;
   margin: 2rem auto;
-  padding: 0 1rem;
+}
+
+.map {
+  max-width: 800px;
+  margin: 0 auto 2rem;
+  height: 450px;
+  border-radius: 5px;
 }
 
 section {

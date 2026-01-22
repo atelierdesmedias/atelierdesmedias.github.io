@@ -19,7 +19,20 @@
     transform: translate(-50%, -50%);
   }
 
+  header {
+    position: absolute;
+
+    nav {
+      color: white;
+    }
+  }
+
   @media screen and (min-width: 800px) {
     height: calc(100vh - 80px);
   }
 }
+
+.content {
+  padding-top: 0;
+}
+
