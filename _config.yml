@@ -24,9 +24,6 @@ instagram:
 development:
   limit_posts: 10
 
-incremental: true
-markdown: kramdown
-
 exclude:
   - README.md
   - Makefile
@@ -40,9 +37,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate-v2
-
-favicon:
-  source: /assets/favicon.svg
 
 collections:
   formulas:
