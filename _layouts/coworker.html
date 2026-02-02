@@ -13,6 +13,9 @@ layout: default
     <h3 class="coworker-page_infos_name">{{ page.name }}</h3>
     {% if page.metier %} <div class="coworker-page_infos_metier"> {{ page.metier }}</div> {%endif %}
     <div class="coworker-page_infos_social">
+      {% if page.web %}
+        <a class="coworker-page_infos_social_link fa fa-laptop" href="{{ page.web }}"></a>
+      {% endif %}
       {% if page.facebook %}
         <a class="coworker-page_infos_social_link fa fa-facebook" href="{{ page.facebook }}"></a>
       {% endif %}
@@ -30,6 +33,9 @@ layout: default
       {% endif %}
       {% if page.emailpro %}
         <a class="coworker-page_infos_social_link fa fa-envelope" href="mailto:{{ page.emailpro }}"></a>
+      {% endif %}
+      {% if page.siteweb %}
+        <a class="coworker-page_infos_social_link fa fa-envelope" href="mailto:{{ page.siteweb }}"></a>
       {% endif %}
     </div>
   </div>

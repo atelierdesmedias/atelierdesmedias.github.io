@@ -12,7 +12,7 @@ La réponse à votre demande d’inscription sera ensuite étudiée selon le nom
 
 Et si vous hésitez encore, voici [5 bonnes raisons de rejoindre notre merveilleux coworking](https://www.atelier-medias.org/blog/5-bonnes-raisons-de-rejoindre-notre-coworking-a-lyon "Pourquoi l’Atelier des médias est le meilleur coworking du monde") :-)
 
-<a class="button" href="/contact">Venir au co-lunch</a>
+<a class="button-join" href="/contact">Venir au co-lunch</a>
 
 ## Les tarifs
 

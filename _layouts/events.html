@@ -2,28 +2,29 @@
 layout: default
 ---
 
-<h2>Les Événements</h2>
 
-<section class="organize">
+
+<section class="normal">
+  <h1 class="h2">Les Événements</h1>
   {{ content }}
+  {% include icons.html icons=site.data.event_features display="flex" %}
 </section>
 
-{% include icons.html icons=site.data.event_features display="flex" %}
 
 <section class="contact">
   <form action="https://formspree.io/f/mrgjznyn" method="POST">
     <label id="decription-label" for="description-textarea">
-      <h4>Décrivez votre événement</h4>
+      Décrivez votre événement
       <small>(en 500 signes), ce paragraphe sera utilisé pour promouvoir votre événement</small>
     </label>
     <textarea name="Description" id="description-textarea"></textarea>
     <label id="date-label" for="date-textarea">
-      <h4>Date souhaitée</h4>
+      Date souhaitée
       <small>(sous réserve de validation par l'Atelier des Médias)</small>
     </label>
     <textarea name="Date souhaitée" id="date-textarea"></textarea>
     <label id="contact-label" for="name-input">
-      <h4>Contact</h4>
+      Contact
     </label>
     <input id="name-input" placeholder="Prénom Nom" name="Prénom Nom">
     <input id="email-input" type="Email" placeholder="Email" name="_replyto">

@@ -1,6 +1,10 @@
 .post {
-  max-width: 900px;
+  max-width: 800px;
   margin: 2rem auto;
+
+  h1 {
+    line-height: 1.2;
+  }
 
   .featured {
     width: 100%;
@@ -9,9 +13,18 @@
 
     object-fit: cover;
   }
+  .post-categories {
+    margin-top: 1rem;
+  }
+
+  .post-meta {
+    font-size: .8rem;
+    padding: 0;
+    margin-top: .5rem;
+  }
 
   .post-content {
-    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
 
     img {
       display: block;
@@ -27,10 +40,18 @@
       }
 
       figcaption {
-        margin-top: .5rem;
+        margin-top: 1rem;
         margin-bottom: 1rem;
         text-align: center;
+        font-size: .8rem;
+        font-style: italic;
       }
+    }
+
+    figure.aligncenter {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
 
     .twitter-tweet {
@@ -46,37 +67,36 @@
     }
   }
 
+
+  blockquote + blockquote {
+    padding-top: 0;
+  }
+
   blockquote {
     position: relative;
-    padding: 40px 70px;
+    font-size: 1.5rem;
+    margin: calc(2em - 1rem) 2em calc(2em - 1rem) 0;
 
     p {
       margin: 0;
       font-style: italic;
     }
+
+    p::before {
+
+      color: #84cbd5;
+      font-size: 1em;
+      content: open-quote;
+      margin-right: .5em;
+    }
+
+    p::after {
+
+      color: #84cbd5;
+      font-size: 1em;
+      content: close-quote;
+      margin-left: .5em;
+    }
   }
 
-  blockquote::before {
-    position: absolute;
-    top: 25px;
-    left: 25px;
-
-    color: #999;
-    font-family: Fontawesome, sans-serif;
-    font-size: 40px;
-
-    content: "\f10d";
-  }
-
-  blockquote::after {
-    position: absolute;
-    right: 25px;
-    bottom: 25px;
-
-    color: #999;
-    font-family: Fontawesome, sans-serif;
-    font-size: 40px;
-
-    content: "\f10e";
-  }
 }
