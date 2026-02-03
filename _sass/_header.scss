@@ -3,12 +3,16 @@
 header {
   position: fixed;
   top: 0;
-  left: 0;
   right: 0;
   bottom: 0;
-  z-index: 1;
+  left: 0;
+
   height: 80px;
+
   background-color: #fff;
+
+  z-index: 1;
+
   .logo {
     img {
       width: 80px;
@@ -20,12 +24,12 @@ header {
     display: none;
 
     position: relative;
-    max-width: 100%;
-    height: 100%;
 
     flex-direction: column;
     align-items: center;
 
+    max-width: 100%;
+    height: 100%;
 
     font-size: 12px;
 
@@ -35,10 +39,12 @@ header {
 
     a {
       margin: .75em;
-      color: #333;
-      text-transform: uppercase;
+
       transition: .2s;
+
+      color: #333;
       letter-spacing: -.25px;
+      text-transform: uppercase;
     }
 
     .nav-active {
@@ -47,8 +53,8 @@ header {
 
     .social-icons {
       a {
-        color: #84cbd5;
         margin: .4em;
+        color: #84cbd5;
         font-size: 1rem;
       }
     }
@@ -145,6 +151,7 @@ header {
       justify-content: space-between;
 
       margin: 0 8rem;
+
       z-index: 1;
     }
 

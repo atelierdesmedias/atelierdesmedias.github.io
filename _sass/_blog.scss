@@ -4,7 +4,7 @@ h2 {
 
 .blogroll {
   max-width: 900px;
-  font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
   list-style: none;
 
   li {
@@ -45,25 +45,28 @@ h2 {
       }
 
       .post-content {
-        flex: 1 1 0%;
-        padding: 1.5rem;
         display: flex;
+
+        flex: 1 1 0%;
         flex-direction: column;
         justify-content: flex-start;
 
+        padding: 1.5rem;
+
         h2 {
-          font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+          margin-bottom: .5rem;
+
+          color: #4d4d4d;
+          font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
           font-size: 1.25rem;
           font-weight: bold;
-          color: #4d4d4d;
-          margin-bottom: .5rem;
           line-height: 1.3;
         }
 
         .post-meta {
-          font-size: .875rem;
           padding: 0;
           color: #4d4d4d;
+          font-size: .875rem;
 
           .published {
             color: #4d4d4d;
@@ -72,7 +75,6 @@ h2 {
           .author {
             color: #88ba30;
           }
-
         }
 
         .category-link {
@@ -81,6 +83,20 @@ h2 {
         }
       }
     }
+  }
+}
+
+.selected {
+  background: #84cbd5;
+
+  a {
+    color: #fff;
+  }
+}
+
+.next {
+  a {
+    line-height: 1;
   }
 }
 
@@ -93,61 +109,54 @@ h2 {
   text-align: center;
 
   li {
+    display: flex;
+
+    align-items: center;
+    justify-content: center;
+
     width: 42px;
     height: 42px;
     margin: 5px;
 
     border: 1px solid #84cbd5;
+    border-radius: .2rem;
 
     font-weight: bold;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: .2rem;
 
     a {
       display: block;
-      height: 100%;
+
       width: 100%;
+      height: 100%;
       padding: 10px;
+
       transition: .2s;
     }
 
     a:hover {
-      background-color: rgba(132, 203, 213, .15);
-    }
-
-  }
-
-  .selected {
-    background: #84cbd5;
-
-    a {
-      color: #fff;
-    }
-  }
-
-  .next {
-    a {
-      line-height: 1;
+      background-color: rgb(132 203 213 / 15%);
     }
   }
 }
 
 .post-categories {
   display: flex;
+  margin: 2rem -.35em 0;
   font-size: .8rem;
-  margin: 2rem -0.35em 0;
 
   li {
     display: inline-block;
+
     margin: 0 .35em;
     padding: .4em .6em .45em;
+
+    border: none;
+    border-radius: .2em;
+
     background: #88ba30;
+
     color: #fff;
     line-height: 1;
     list-style: none;
-    border-radius: .2em;
-    border: none;
   }
 }

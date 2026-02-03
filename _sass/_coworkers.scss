@@ -1,7 +1,9 @@
 .coworker-picture {
   display: flex;
+
   width: 100%;
   aspect-ratio: 1;
+
   transition: .3s;
 
   img {
@@ -13,19 +15,23 @@
 
 .coworker-tags {
   display: flex;
+  margin: 0 -.35em;
   font-size: .8rem;
-  margin: 0 -0.35em;
 
   .coworker-tag {
     display: inline-block;
+
     margin: 0 .35em;
     padding: .4em .6em .45em;
+
+    border: none;
+    border-radius: .2em;
+
     background: #88ba30;
+
     color: #fff;
     line-height: 1;
     list-style: none;
-    border-radius: .2em;
-    border: none;
   }
 
   .coworker-tag::after {
@@ -66,16 +72,17 @@
         top: 50%;
         left: 50%;
 
+        width: 80%;
+
         transform: translate(-50%, -50%);
 
         text-align: center;
 
-        width: 80%;
-
         &_name {
-          font-weight: 600;
           margin-bottom: 5px;
+          font-weight: 600;
         }
+
         &_metier {
           font-weight: 400;
         }
@@ -115,8 +122,9 @@
 
     background-color: #84cbd5;
 
-    text-align: center;
     font-size: .9rem;
+
+    text-align: center;
 
     &_name,
     &_metier,
