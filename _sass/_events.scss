@@ -51,31 +51,32 @@
 }
 
 .contact {
-  padding: 2em;
-  border-top: solid 1px #84cbd5;
-  background-color: #c2e5ea;
   max-width: 800px;
-  border-radius: 5px;
   margin-bottom: 2rem;
+  padding: 2em;
+
+  border-top: solid 1px #84cbd5;
+  border-radius: 5px;
+
+  background-color: #c2e5ea;
 
   form {
     display: grid;
-
     gap: 1em;
-
     margin: 0 auto;
 
     label {
+      font-size: .9rem;
       font-weight: 600;
       text-transform: uppercase;
-      font-size: .9rem;
     }
 
     small {
       display: block;
-      text-transform: none;
+
       font-size: .8em;
       font-weight: 400;
+      text-transform: none;
     }
 
     textarea {
@@ -90,29 +91,36 @@
       border-radius: 2px;
     }
 
-    input[type="checkbox"] + label {
-      text-transform: none;
-      line-height: 1;
+    .checkbox + label {
       font-size: .8rem;
+      line-height: 1;
+      text-transform: none;
     }
 
-    input:focus, input:focus-visible,
-    textarea:focus, textarea:focus-visible {
+    input:focus,
+    input:focus-visible,
+    textarea:focus,
+    textarea:focus-visible {
       outline: none;
       box-shadow: inset 0 0 1px 1px #c2e5ea;
     }
 
     button {
       justify-self: right;
+
       padding: 2em;
-      border: none;
-      background-color: #ef8a4a;
-      color: #fff;
-      font-weight: 600;
-      font-size: 1rem;
-      text-transform: uppercase;
-      border-radius: 1px;
+
       transition: .3s;
+
+      border: none;
+      border-radius: 1px;
+
+      background-color: #ef8a4a;
+
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 600;
+      text-transform: uppercase;
     }
 
     button:hover {

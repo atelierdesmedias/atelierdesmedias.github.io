@@ -13,18 +13,19 @@
 
     object-fit: cover;
   }
+
   .post-categories {
     margin-top: 1rem;
   }
 
   .post-meta {
-    font-size: .8rem;
-    padding: 0;
     margin-top: .5rem;
+    padding: 0;
+    font-size: .8rem;
   }
 
   .post-content {
-    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: Inter, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
     img {
       display: block;
@@ -42,13 +43,14 @@
       figcaption {
         margin-top: 1rem;
         margin-bottom: 1rem;
-        text-align: center;
+
         font-size: .8rem;
         font-style: italic;
+        text-align: center;
       }
     }
 
-    figure.aligncenter {
+    .aligncenter {
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -67,15 +69,10 @@
     }
   }
 
-
-  blockquote + blockquote {
-    padding-top: 0;
-  }
-
   blockquote {
     position: relative;
-    font-size: 1.5rem;
     margin: calc(2em - 1rem) 2em calc(2em - 1rem) 0;
+    font-size: 1.5rem;
 
     p {
       margin: 0;
@@ -83,20 +80,25 @@
     }
 
     p::before {
+      margin-right: .5em;
 
       color: #84cbd5;
       font-size: 1em;
+
       content: open-quote;
-      margin-right: .5em;
     }
 
     p::after {
+      margin-left: .5em;
 
       color: #84cbd5;
       font-size: 1em;
+
       content: close-quote;
-      margin-left: .5em;
     }
   }
 
+  blockquote + blockquote {
+    padding-top: 0;
+  }
 }

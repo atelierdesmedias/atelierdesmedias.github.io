@@ -29,8 +29,8 @@
 
 .icons.grid {
   display: grid;
-  justify-items: center;
   margin: 2rem 0 4rem;
+  justify-items: center;
 
   @media screen and (min-width: 400px) {
     grid-template-columns: repeat(2, 1fr);
@@ -50,6 +50,7 @@
     //flex-flow: row wrap;
     //max-width: 500px;
   }
+
   figure {
     margin: 1rem;
   }
