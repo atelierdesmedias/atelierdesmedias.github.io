@@ -1,3 +1,7 @@
+h2 {
+  text-align: left;
+}
+
 .event {
   display: flex;
   flex-direction: column;
@@ -48,6 +52,12 @@
   .icons.flex {
     margin-bottom: 0;
   }
+  @media screen and (max-width: 700px) {
+    .icons.flex {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
 }
 
 .contact {
@@ -56,7 +66,7 @@
   background-color: #c2e5ea;
   max-width: 800px;
   border-radius: 5px;
-  margin-bottom: 2rem;
+  margin: 0 auto 2rem;
 
   form {
     display: grid;

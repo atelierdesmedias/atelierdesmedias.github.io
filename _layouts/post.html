@@ -5,7 +5,7 @@
 <body>
 {% include header.html %}
 <div class="content">
-  <div class="post">
+  <div class="post normal">
     <h1>{{ page.title }}</h1>
     <p class="post-meta">
       <span class="published">Publié le <time
@@ -22,7 +22,7 @@
     {% if page.show_image and page.image %}
     <img src="{{ page.image }}" alt="{{ page.title }}" class="featured">
     {% endif %}
-    <div class="normal post-content">
+    <div class="post-content">
       {{ content }}
     </div>
   </div>

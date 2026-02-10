@@ -2,10 +2,13 @@
 title: Le Blog
 layout: default
 pagination:
-  enabled: true
+enabled: true
 ---
 
-<h2>Le blog</h2>
-<div>Les blogs sont filtrés sur <strong>{{page.autopage.display_name}} </strong><a href="/blog">Afficher tous les blogs</a></div>
+<section class="normal">
+  <h2>Le blog</h2>
+  <div class="category">Les blogs sont filtrés sur <strong>{{page.autopage.display_name}} </strong><a href="/blog" class="category-link">Afficher tous les
+    blogs</a></div>
 
-{% include blogs.html %}
+  {% include blogs.html %}
+</section>
