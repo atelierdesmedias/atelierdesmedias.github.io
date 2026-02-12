@@ -31,7 +31,7 @@
     }
   }
 
-  @media screen and (min-width: 600px) {
+  @media screen and (width >= 600px) {
     flex-direction: row;
 
     .picture {
@@ -127,7 +127,7 @@
       background: #84cbd5;
     }
 
-    @media screen and (min-width: 600px) {
+    @media screen and (width >= 600px) {
       grid-template-areas:
         "description-label contact-label"
         "description-textarea name-input"
