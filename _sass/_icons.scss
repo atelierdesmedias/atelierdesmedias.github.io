@@ -32,11 +32,11 @@
   margin: 2rem 0 4rem;
   justify-items: center;
 
-  @media screen and (min-width: 400px) {
+  @media screen and (width >= 400px) {
     grid-template-columns: repeat(2, 1fr);
   }
 
-  @media screen and (min-width: 800px) {
+  @media screen and (width >= 800px) {
     grid-template-columns: repeat(4, 1fr);
   }
 }
@@ -46,7 +46,7 @@
   justify-content: space-between;
   margin: 2rem -1rem;
 
-  @media screen and (min-width: 500px) {
+  @media screen and (width >= 500px) {
     //flex-flow: row wrap;
     //max-width: 500px;
   }

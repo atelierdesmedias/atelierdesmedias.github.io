@@ -2,16 +2,14 @@
 
 header {
   position: fixed;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
 
   height: 80px;
 
   background-color: #fff;
 
   z-index: 1;
+
+  inset: 0;
 
   .logo {
     img {
@@ -138,7 +136,7 @@ header {
     transform: rotate(-43deg);
   }
 
-  @media screen and (min-width: 800px) {
+  @media screen and (width >= 800px) {
     flex: 0 0 80px;
     width: 100%;
     height: 80px;

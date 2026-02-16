@@ -83,7 +83,7 @@
     background-color: #84cbd5;
   }
 
-  @media screen and (min-width: 400px) {
+  @media screen and (width >= 400px) {
     display: flex;
 
     flex-direction: column;
@@ -98,7 +98,7 @@
       }
     }
 
-    @media screen and (min-width: 800px) {
+    @media screen and (width >= 800px) {
       flex-direction: row;
     }
   }
