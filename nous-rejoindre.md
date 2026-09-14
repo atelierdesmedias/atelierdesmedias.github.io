@@ -3,7 +3,7 @@ title: Nous Rejoindre
 layout: simple
 permalink: "/nous-rejoindre"
 ---
-
+[![Trouve ton coworking !](/medias/TrouveTonCoworking.png)](https://docs.google.com/forms/d/e/1FAIpQLSe8Aic4TBRryEplLAuoZjVU-P3NIgTP8mJrXwquCIsKnzlf3g/viewform?usp=publish-editor)
 ## Semaine Trouve ton coworking !
 
 - **Lundi 28 septembre à 14h** — Viens visiter le coworking, découvrir l'ambiance de travail et poser tes questions ! Départ de la visite à 14h précises.
