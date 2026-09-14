@@ -4,7 +4,7 @@ layout: simple
 permalink: "/nous-rejoindre"
 ---
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSe8Aic4TBRryEplLAuoZjVU-P3NIgTP8mJrXwquCIsKnzlf3g/viewform?usp=publish-editor">
-  <img src="/medias/TrouveTonCoworking.png" alt="Trouve ton coworking !" style="max-width: 500px; width: 100%; height: auto;">
+  <img src="/medias/TrouveTonCoworking.png" alt="Trouve ton coworking, du 28 septembre au 2 octobre - L'Atelier des médias" style="width: 100%; height: auto; max-width: 900px; display: block; margin: 0 auto;">
 </a>
 
 ## Semaine Trouve ton coworking !
