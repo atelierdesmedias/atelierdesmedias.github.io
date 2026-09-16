@@ -83,10 +83,12 @@
     background-color: #84cbd5;
   }
 
-  @media screen and (min-width: 400px) {
-    display: flex;
-
+  @media screen and (width <= 700px) {
     flex-direction: column;
+  }
+
+  @media screen and (width >= 400px) {
+    display: flex;
     justify-content: center;
     gap: 1rem;
 
@@ -98,8 +100,22 @@
       }
     }
 
-    @media screen and (min-width: 800px) {
+    @media screen and (width >= 800px) {
       flex-direction: row;
+    }
+  }
+
+  @media screen and (width < 800px) {
+    flex-direction: column;
+
+    .formula {
+      width: 100%;
+    }
+  }
+
+  @media screen and (width <= 700px) {
+    .formula {
+      width: auto;
     }
   }
 }
