@@ -9,7 +9,6 @@ plugins:
   - stylelint-scss
   - stylelint-order
 rules:
-  number-leading-zero: never
   declaration-empty-line-before: null
   # Follow best practices
   font-family-name-quotes: always-where-recommended
@@ -18,9 +17,6 @@ rules:
   # https://www.w3.org/TR/selectors/#attribute-selectors
   # http://stackoverflow.com/q/3851091
   selector-attribute-quotes: always
-  # Double-quotes are our convention throughout our codebase within (S)CSS. They also reflect how
-  # attribute strings are normally quoted within the DOM.
-  string-quotes: double
   # https://github.com/sasstools/sass-lint/blob/develop/lib/config/property-sort-orders/smacss.yml
   order/properties-order:
     - - groupName: position
@@ -217,8 +213,6 @@ rules:
 
   # Prevents unneeded nesting selectors
   scss/selector-no-redundant-nesting-selector: true
-  # Since leading underscores are not needed, they can be omitted
-  scss/at-import-no-partial-leading-underscore: true
   # Since mixins are explicit (`@include`) and parens are unnecessary for argumentless mixins, they
   # can be omitted.
   scss/at-mixin-argumentless-call-parentheses : never
