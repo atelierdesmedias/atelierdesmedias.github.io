@@ -17,10 +17,7 @@ jobs:
       - uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-      - uses: wearerequired/lint-action@v2
-        with:
-          github_token: ${{ secrets.github_token }}
-          rubocop: true
-          rubocop_command_prefix: bundle exec
-          stylelint: true
-          stylelint_extensions: "scss"
+      - name: Run RuboCop
+        run: bundle exec rubocop
+      - name: Run Stylelint
+        run: npm exec -- stylelint '**/*.scss' --formatter compact
