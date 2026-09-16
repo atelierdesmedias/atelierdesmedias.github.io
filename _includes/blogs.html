@@ -10,7 +10,7 @@
           {% endif %}
         </div>
         <div class="post-content">
-          <h2>{{ post.title }}</h2>
+          <h3>{{ post.title }}</h3>
           <p class="post-meta">
             <span class="published">Publié le <time datetime="{{ post.date }}">{{ post.date | date: "%d/%m/%Y"
                 }}</time></span>
@@ -41,7 +41,7 @@
 
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="fa fa-arrow-left"></a>
   </li>
   {% endif %}
 
@@ -71,7 +71,7 @@
 
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&rarr;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="fa fa-arrow-right"></a>
   </li>
   {% endif %}
 

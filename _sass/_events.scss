@@ -1,3 +1,7 @@
+h2 {
+  text-align: left;
+}
+
 .event {
   display: flex;
   flex-direction: column;
@@ -31,7 +35,7 @@
     }
   }
 
-  @media screen and (min-width: 600px) {
+  @media screen and (width >= 600px) {
     flex-direction: row;
 
     .picture {
@@ -48,11 +52,18 @@
   .icons.flex {
     margin-bottom: 0;
   }
+
+  @media screen and (width <= 700px) {
+    .icons.flex {
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
 }
 
 .contact {
   max-width: 800px;
-  margin-bottom: 2rem;
+  margin: 0 auto 2rem;
   padding: 2em;
 
   border-top: solid 1px #84cbd5;
@@ -127,7 +138,7 @@
       background: #84cbd5;
     }
 
-    @media screen and (min-width: 600px) {
+    @media screen and (width >= 600px) {
       grid-template-areas:
         "description-label contact-label"
         "description-textarea name-input"

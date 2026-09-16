@@ -205,6 +205,7 @@ rules:
     - ignore: "blockless-at-rules"
   # Qualifying types are not needed when using a naming system like BEM
   selector-no-qualifying-type: true
+  selector-class-pattern: null
   # Styles for components should never need the universal selector.
   selector-max-universal: 1
 

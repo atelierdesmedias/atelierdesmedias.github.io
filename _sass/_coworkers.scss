@@ -55,13 +55,15 @@
 }
 
 .coworkers {
-  &_list {
+  .coworkers_list {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
 
     .coworker-card {
       display: block;
       position: relative;
+
+      min-width: 0;
 
       background-color: black;
 
@@ -97,12 +99,12 @@
       }
     }
 
-    @media screen and (min-width: 600px) {
-      grid-template-columns: repeat(4, 1fr);
+    @media screen and (width >=600px) {
+      grid-template-columns: repeat(4, minmax(0, 1fr));
     }
 
-    @media screen and (min-width: 900px) {
-      grid-template-columns: repeat(6, 1fr);
+    @media screen and (width >=900px) {
+      grid-template-columns: repeat(6, minmax(0, 1fr));
     }
   }
 }
@@ -111,7 +113,7 @@
   display: grid;
   max-width: 960px;
 
-  &_infos {
+  .coworker-page_infos {
     display: flex;
 
     flex-direction: column;
@@ -148,7 +150,7 @@
     padding: 1em;
   }
 
-  @media screen and (min-width: 600px) {
+  @media screen and (width >=600px) {
     gap: 1em;
     padding: 1em;
     grid-template-areas:
@@ -158,7 +160,7 @@
       "empty questions";
 
     .coworker-picture,
-    &_infos,
+    .coworker-page_infos,
     .coworker-tags {
       justify-self: end;
       max-width: 300px;
@@ -169,7 +171,7 @@
       grid-area: picture;
     }
 
-    &_infos {
+    .coworker-page_infos {
       text-align: right;
       grid-area: infos;
 
