@@ -40,9 +40,10 @@ button,
 }
 
 .button-join {
-  display: inline-block;
+  display: block;
 
-  margin: 1rem 0;
+  width: fit-content;
+  margin: 1rem auto;
   padding: 2rem;
 
   transition: .3s;
