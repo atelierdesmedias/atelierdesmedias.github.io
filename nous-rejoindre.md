@@ -12,7 +12,7 @@ permalink: "/nous-rejoindre"
 - **Lundi 28 septembre à 14h** — Viens visiter le coworking, découvrir l'ambiance de travail et poser tes questions ! Départ de la visite à 14h précises.
 - **Mercredi 30 septembre de 12h à 14h** — Déjeuner portes ouvertes. Viens rencontrer les coworkers avec ton pique-nique !
 
-[Inscris-toi !](https://docs.google.com/forms/d/e/1FAIpQLSe8Aic4TBRryEplLAuoZjVU-P3NIgTP8mJrXwquCIsKnzlf3g/viewform?usp=publish-editor)
+<a class="button-join" href="https://docs.google.com/forms/d/e/1FAIpQLSe8Aic4TBRryEplLAuoZjVU-P3NIgTP8mJrXwquCIsKnzlf3g/viewform?usp=publish-editor">Inscris-toi !</a>
 
 *Les données seront supprimées après l'événement.*
 
