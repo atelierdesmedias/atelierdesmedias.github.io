@@ -1,0 +1,93 @@
+name: Validate
+
+on:
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  run-linters:
+    name: Run linters
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+          cache: "npm"
+      - run: npm ci
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+      - name: Run RuboCop
+        run: bundle exec rubocop
+      - name: Run Stylelint
+        run: npm exec -- stylelint '**/*.scss' --formatter compact
+
+  validate-deployment:
+    name: Validate deployment build
+    runs-on: ubuntu-latest
+    env:
+      TRUSTED_PULL_REQUEST: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+          cache: "npm"
+
+      - run: npm ci
+
+      - name: Install ImageMagick
+        run: sudo apt-get update && sudo apt-get install imagemagick
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+
+      - name: Regenerate Tina schema lock
+        run: npx tinacms dev --no-server --noWatch --noTelemetry
+
+      - name: Ensure Tina schema lock is committed
+        shell: bash
+        run: |
+          if ! git diff --quiet -- tina/tina-lock.json; then
+            echo "::error file=tina/tina-lock.json,line=1,title=Tina schema lock is out of date::Regenerate tina/tina-lock.json with 'npx tinacms dev --no-server --noWatch --noTelemetry' and commit the result."
+            git diff --stat -- tina/tina-lock.json
+            exit 1
+          fi
+
+      - name: Build TinaCMS with TinaCloud
+        if: env.TRUSTED_PULL_REQUEST == 'true'
+        env:
+          BRANCH_NAME: ${{ github.head_ref }}
+          TINA_CLIENT_ID: ${{ secrets.TINA_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+        run: npx tinacms build
+
+      - name: Build TinaCMS without external credentials
+        if: env.TRUSTED_PULL_REQUEST != 'true'
+        env:
+          BRANCH_NAME: ${{ github.head_ref }}
+          TINA_CLIENT_ID: pull-request-validation
+          TINA_TOKEN: pull-request-validation
+        run: npx tinacms build --skip-cloud-checks --skip-indexing --skip-search-index
+
+      - name: Generate the coworkers pages
+        if: env.TRUSTED_PULL_REQUEST == 'true'
+        env:
+          COWORKERS_URL: ${{ secrets.COWORKERS_URL }}
+          COWORKERS_CODE: ${{ secrets.COWORKERS_CODE }}
+          COWORKERS_USER: ${{ secrets.COWORKERS_USER }}
+          COWORKERS_PASSWORD: ${{ secrets.COWORKERS_PASSWORD }}
+        run: bundle exec ruby sync.rb
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
