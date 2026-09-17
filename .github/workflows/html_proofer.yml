@@ -1,12 +1,17 @@
 name: HTML Proofer
 
-on: push
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
 
 jobs:
   test:
+    name: HTML Proofer
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - name: Install Image Magick
         run: sudo apt-get update && sudo apt-get install imagemagick
       - uses: ruby/setup-ruby@v1
