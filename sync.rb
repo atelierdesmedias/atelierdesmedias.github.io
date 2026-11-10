@@ -24,6 +24,15 @@ def store_coworker(slug, coworker, json)
   end
 end
 
+# A complete JPEG starts with the SOI marker (FF D8) and ends with the EOI marker (FF D9). ImageMagick only reports a
+# truncated one with a generic warning that doesn't say which coworker it belongs to.
+def warn_if_truncated_jpeg(body, path)
+  bytes = body.b
+  return unless bytes.start_with?("\xFF\xD8".b) && !bytes.end_with?("\xFF\xD9".b)
+
+  warn "Truncated JPEG profile picture for #{path} (#{bytes.bytesize} bytes)"
+end
+
 def fetch_image(image_url, user, password, path)
   uri = URI(image_url)
   request = Net::HTTP::Get.new(uri)
@@ -31,6 +40,7 @@ def fetch_image(image_url, user, password, path)
   response = Net::HTTP.start(uri.hostname, uri.port, use_ssl: uri.scheme == 'https') { |http| http.request(request) }
   return unless response.is_a?(Net::HTTPSuccess)
 
+  warn_if_truncated_jpeg(response.body, path)
   image = MiniMagick::Image.read(response.body)
   image.resize("300x300\>")
   image.write(path)
