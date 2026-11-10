@@ -1,4 +1,7 @@
 html {
+  // Keep the natural width of the Font Awesome icons (fixed width by default since Font Awesome 7)
+  --fa-width: auto;
+
   color: #4d4d4d;
 
   font-family: Inter, sans-serif;
