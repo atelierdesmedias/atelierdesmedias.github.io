@@ -10,7 +10,7 @@ gem 'stringex', '~> 2.8.5'
 
 group :jekyll_plugins do
   gem 'html-proofer', '~> 5.2.3'
-  gem 'jekyll-feed', '~>0.17.0'
+  gem 'jekyll-feed', '~>0.18.0'
   gem 'jekyll-paginate-v2'
   gem 'jekyll-seo-tag', '~> 2.8.0'
   gem 'jekyll-sitemap', '~> 1.4.0'
