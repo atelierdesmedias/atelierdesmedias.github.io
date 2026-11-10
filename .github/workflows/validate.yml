@@ -13,8 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v7
         with:
           node-version-file: ".nvmrc"
           cache: "npm"
@@ -34,9 +34,9 @@ jobs:
       TRUSTED_PULL_REQUEST: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v7
         with:
           node-version-file: ".nvmrc"
           cache: "npm"
@@ -44,7 +44,7 @@ jobs:
       - run: npm ci
 
       - name: Install ImageMagick
-        run: sudo apt-get update && sudo apt-get install imagemagick
+        run: sudo apt-get update && sudo apt-get install -y imagemagick
 
       - uses: ruby/setup-ruby@v1
         with:
